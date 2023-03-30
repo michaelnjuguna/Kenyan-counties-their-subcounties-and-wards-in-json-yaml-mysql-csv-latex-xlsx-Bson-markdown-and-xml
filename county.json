@@ -3122,7 +3122,49 @@
             "wards": [
               "Kamara", "Kamara", "Kiptororo", "Kuresoi", "Lembus", "Nessuit", "Nyakio", "Tinet", "Tuiyobei"
             ]
+          },{
+            "name": "Bahati",
+            "coordinates": {
+              "latitude": -0.187917,
+              "longitude": 36.13764
+            },
+            "wards":[
+                "Bahati","Flamingo","Kiamaina","Lanet/Umoja","Mbaruk/Eburu","Menengai","Moi Ndabi","Njoro","Sobea"
+            ]
+          },
+          {
+            "name": "Rongai",
+            "coordinates": {
+              "latitude": "-0.2715",
+              "longitude": "36.1665"
+            },
+            "wards": [
+              "Menengai East",
+              "Menengai West",
+              "Visoi",
+              "Kabarak University",
+              "Keringet",
+              "Solai"
+            ]
+          },
+          {
+            "name": "Subukia",
+            "coordinates": {
+              "latitude": "-0.4643",
+              "longitude": "36.0407"
+            },
+            "wards": [
+              "Subukia East",
+              "Subukia West",
+              "Waseges",
+              "Kabazi",
+              "Flamingo",
+              "Turi"
+            ]
           }
+          
+          
+
       ]
     },
     {
