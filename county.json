@@ -6,10 +6,6 @@
       "sub_counties": [
         {
           "name": "Changamwe",
-          "coordinates": {
-            "latitude": "-4.0414° S",
-            "longitude": "39.5948° E"
-          },
           "wards": [
             "Airport",
             "Chaani",
@@ -24,10 +20,6 @@
         },
         {
           "name": "Jomvu",
-          "coordinates": {
-            "latitude": "-3.9093° S",
-            "longitude": "39.6645° E"
-          },
           "wards": [
             "Bamburi",
             "Kiembeni",
@@ -40,10 +32,6 @@
         },
         {
           "name": "Kisauni",
-          "coordinates": {
-            "latitude": "-3.8904° S",
-            "longitude": "39.6237° E"
-          },
           "wards": [
             "Bangladesh",
             "Frere Town",
@@ -55,10 +43,6 @@
         },
         {
           "name": "Likoni",
-          "coordinates": {
-            "latitude": "-4.0625° S",
-            "longitude": "39.6631° E"
-          },
           "wards": [
             "Bofu",
             "Likoni",
@@ -71,10 +55,6 @@
         },
         {
           "name": "Mvita",
-          "coordinates": {
-            "latitude": "-4.0402° S",
-            "longitude": "39.6682° E"
-          },
           "wards": [
             "Ganjoni/Shimanzi",
             "Kadzandani",
@@ -87,10 +67,6 @@
         },
         {
           "name": "Nyali",
-          "coordinates": {
-            "latitude": "-4.0544° S",
-            "longitude": "39.7108° E"
-          },
           "wards": [
             "Frere Town",
             "Kongowea",
@@ -107,10 +83,6 @@
       "sub_counties": [
         {
           "name": "Kinango",
-          "coordinates": {
-            "latitude": "-4.0679° S",
-            "longitude": "39.2561° E"
-          },
           "wards": [
             "Chengoni/Samburu",
             "Dzombo",
@@ -125,10 +97,6 @@
         },
         {
           "name": "Lunga Lunga",
-          "coordinates": {
-            "latitude": "-4.5557° S",
-            "longitude": "39.3159° E"
-          },
           "wards": [
             "Mwereni",
             "Pongwe/Kikoneni",
@@ -140,10 +108,6 @@
         },
         {
           "name": "Msambweni",
-          "coordinates": {
-            "latitude": "-4.4641° S",
-            "longitude": "39.4858° E"
-          },
           "wards": [
             "Gombato Bongwe",
             "Kikoneni",
@@ -155,10 +119,6 @@
         },
         {
           "name": "Matuga",
-          "coordinates": {
-            "latitude": "-4.4161° S",
-            "longitude": "39.1992° E"
-          },
           "wards": [
             "Bongwe/Gombato",
             "Kasemeni",
@@ -179,10 +139,6 @@
       "subcounties": [
         {
           "Kilifi North": {
-            "coordinates": {
-              "latitude": -3.6423,
-              "longitude": 39.8554
-            },
             "wards": [
               "Kakuyuni",
               "Kibarani",
@@ -198,10 +154,6 @@
             ]
           },
           "Kilifi South": {
-            "coordinates": {
-              "latitude": -3.5035,
-              "longitude": 39.7316
-            },
             "wards": [
               "Kayafungo",
               "Ganze",
@@ -224,10 +176,6 @@
             ]
           },
           "Kaloleni": {
-            "coordinates": {
-              "latitude": -3.7548,
-              "longitude": 39.6049
-            },
             "wards": [
               "Kakuyuni",
               "Kayafungo",
@@ -243,10 +191,6 @@
             ]
           },
           "Ganze": {
-            "coordinates": {
-              "latitude": -3.3289,
-              "longitude": 39.6205
-            },
             "wards": [
               "Bamba",
               "Baricho",
@@ -261,10 +205,6 @@
             ]
           },
           "Magarini": {
-            "coordinates": {
-              "latitude": -3.4827,
-              "longitude": 39.2108
-            },
             "wards": [
               "Adu",
               "Chembeeni",
@@ -281,10 +221,6 @@
           },
 
           "Rabai": {
-            "coordinates": {
-              "latitude": -3.9212,
-              "longitude": 39.4428
-            },
             "wards": [
               "Mwarakaya",
               "Mwawesa",
@@ -305,10 +241,6 @@
             ]
           },
           "Malindi": {
-            "coordinates": {
-              "latitude": -3.2175,
-              "longitude": 40.1192
-            },
             "wards": [
               "Ganda",
               "Gede",
@@ -332,10 +264,7 @@
       "sub_counties": [
         {
           "name": "Garsen",
-          "coordinates": {
-            "latitude": "-2.0531° S",
-            "longitude": "40.1178° E"
-          },
+
           "wards": [
             "Bura",
             "Chewele/Witu",
@@ -349,10 +278,7 @@
         },
         {
           "name": "Galole",
-          "coordinates": {
-            "latitude": "-1.5709° S",
-            "longitude": "40.0853° E"
-          },
+
           "wards": [
             "Bangale",
             "Dide Waride",
@@ -365,10 +291,7 @@
         },
         {
           "name": "Bura",
-          "coordinates": {
-            "latitude": "-0.8959° S",
-            "longitude": "39.0718° E"
-          },
+
           "wards": [
             "Bura",
             "Hirimani",
@@ -387,18 +310,12 @@
       "sub_counties": [
         {
           "name": "Lamu East",
-          "coordinates": {
-            "latitude": "-2.2750° S",
-            "longitude": "40.8866° E"
-          },
+
           "wards": ["Mkomani", "Shella", "Faza", "Kiunga", "Basuba"]
         },
         {
           "name": "Lamu West",
-          "coordinates": {
-            "latitude": "-2.3447° S",
-            "longitude": "40.6524° E"
-          },
+
           "wards": ["Witu", "Bahari", "Milimani", "Hongwe", "Mkunumbi"]
         }
       ]
@@ -409,10 +326,7 @@
       "sub_counties": [
         {
           "name": "Taveta",
-          "coordinates": {
-            "latitude": "-3.3984° S",
-            "longitude": "37.6828° E"
-          },
+
           "wards": [
             "Bomani",
             "Chala",
@@ -426,10 +340,7 @@
         },
         {
           "name": "Wundanyi",
-          "coordinates": {
-            "latitude": "-3.4166° S",
-            "longitude": "38.3553° E"
-          },
+
           "wards": [
             "Bura",
             "Chawia",
@@ -441,10 +352,7 @@
         },
         {
           "name": "Mwatate",
-          "coordinates": {
-            "latitude": "-3.5225° S",
-            "longitude": "38.3469° E"
-          },
+
           "wards": [
             "Bughuta",
             "Bura",
@@ -457,10 +365,7 @@
         },
         {
           "name": "Voi",
-          "coordinates": {
-            "latitude": "-3.3918° S",
-            "longitude": "38.5549° E"
-          },
+
           "wards": [
             "Kaloleni",
             "Kishushe",
@@ -478,10 +383,7 @@
       "sub_counties": [
         {
           "name": "Balambala",
-          "coordinates": {
-            "latitude": "1.1167° N",
-            "longitude": "39.0667° E"
-          },
+
           "wards": [
             "Balambala",
             "Danyere",
@@ -493,10 +395,7 @@
         },
         {
           "name": "Dadaab",
-          "coordinates": {
-            "latitude": "0.05° N",
-            "longitude": "40.30° E"
-          },
+
           "wards": [
             "Dertu",
             "Dadaab",
@@ -508,18 +407,12 @@
         },
         {
           "name": "Fafi",
-          "coordinates": {
-            "latitude": "0.1167° N",
-            "longitude": "40.3167° E"
-          },
+
           "wards": ["Bura", "Fafi", "Hulugho", "Ijara", "Masalani", "Sala"]
         },
         {
           "name": "Garissa",
-          "coordinates": {
-            "latitude": "-0.4514° S",
-            "longitude": "39.6472° E"
-          },
+
           "wards": [
             "Galbet",
             "Garissa Township",
@@ -531,18 +424,12 @@
         },
         {
           "name": "Hulugho",
-          "coordinates": {
-            "latitude": "0.2167° N",
-            "longitude": "40.1667° E"
-          },
+
           "wards": ["Hulugho", "Korondile", "Kulan", "Malkagufu", "Sankuri"]
         },
         {
           "name": "Ijara",
-          "coordinates": {
-            "latitude": "-1.1750° S",
-            "longitude": "40.0889° E"
-          },
+
           "wards": [
             "Garissa",
             "Ijara",
@@ -554,10 +441,7 @@
         },
         {
           "name": "Lagdera",
-          "coordinates": {
-            "latitude": "0.3167° N",
-            "longitude": "39.8167° E"
-          },
+
           "wards": [
             "Benane",
             "Eldere",
@@ -575,10 +459,7 @@
       "sub_counties": [
         {
           "name": "Wajir East",
-          "coordinates": {
-            "latitude": "1.7500° N",
-            "longitude": "40.0667° E"
-          },
+
           "wards": [
             "Ajawaan",
             "Arbajahan",
@@ -590,10 +471,7 @@
         },
         {
           "name": "Wajir North",
-          "coordinates": {
-            "latitude": "2.0167° N",
-            "longitude": "40.9500° E"
-          },
+
           "wards": [
             "Ali Mude",
             "Batalu",
@@ -605,10 +483,7 @@
         },
         {
           "name": "Wajir South",
-          "coordinates": {
-            "latitude": "1.7500° N",
-            "longitude": "40.7500° E"
-          },
+
           "wards": [
             "Korondille",
             "Lagboghol South",
@@ -620,10 +495,7 @@
         },
         {
           "name": "Wajir West",
-          "coordinates": {
-            "latitude": "1.6333° N",
-            "longitude": "40.3000° E"
-          },
+
           "wards": [
             "Batalle",
             "Boystown",
@@ -641,10 +513,7 @@
       "sub_counties": [
         {
           "name": "Banisa",
-          "coordinates": {
-            "latitude": "3.9412° N",
-            "longitude": "41.8683° E"
-          },
+
           "wards": [
             "Amaru",
             "Biliqo-Bulesa",
@@ -656,10 +525,7 @@
         },
         {
           "name": "Lafey",
-          "coordinates": {
-            "latitude": "2.8131° N",
-            "longitude": "40.9213° E"
-          },
+
           "wards": [
             "Alango Gof",
             "Alango Wachu",
@@ -671,10 +537,7 @@
         },
         {
           "name": "Mandera East",
-          "coordinates": {
-            "latitude": "3.9264° N",
-            "longitude": "42.2194° E"
-          },
+
           "wards": [
             "Ashabito",
             "Banane",
@@ -686,10 +549,7 @@
         },
         {
           "name": "Mandera North",
-          "coordinates": {
-            "latitude": "3.9358° N",
-            "longitude": "41.8450° E"
-          },
+
           "wards": [
             "Bula Hawa",
             "Fino",
@@ -701,10 +561,7 @@
         },
         {
           "name": "Mandera South",
-          "coordinates": {
-            "latitude": "2.8615° N",
-            "longitude": "40.8575° E"
-          },
+
           "wards": [
             "Ashabito",
             "Goreale",
@@ -722,10 +579,7 @@
       "sub_counties": [
         {
           "name": "Laisamis",
-          "coordinates": {
-            "latitude": "2.5800° N",
-            "longitude": "37.5200° E"
-          },
+
           "wards": [
             "Golbo",
             "Korr/Ngurunit",
@@ -738,10 +592,7 @@
         },
         {
           "name": "Marsabit Central",
-          "coordinates": {
-            "latitude": "2.3333° N",
-            "longitude": "37.9833° E"
-          },
+
           "wards": [
             "Karare",
             "Kukuto",
@@ -753,10 +604,7 @@
         },
         {
           "name": "North Horr",
-          "coordinates": {
-            "latitude": "3.0731° N",
-            "longitude": "37.9639° E"
-          },
+
           "wards": [
             "Dabel",
             "Dukana",
@@ -768,10 +616,7 @@
         },
         {
           "name": "Saku",
-          "coordinates": {
-            "latitude": "2.8956° N",
-            "longitude": "38.3242° E"
-          },
+
           "wards": [
             "Badasa",
             "Bubisa",
@@ -790,18 +635,12 @@
       "sub_counties": [
         {
           "name": "Garbatulla",
-          "coordinates": {
-            "latitude": "0.1191° N",
-            "longitude": "38.1499° E"
-          },
+
           "wards": ["Burat", "Garbatulla", "Kinna", "Kiwanja", "Sericho"]
         },
         {
           "name": "Isiolo North",
-          "coordinates": {
-            "latitude": "0.4319° N",
-            "longitude": "38.5597° E"
-          },
+
           "wards": [
             "Bulla Pesa",
             "Chari",
@@ -814,10 +653,7 @@
         },
         {
           "name": "Isiolo South",
-          "coordinates": {
-            "latitude": "0.4741° N",
-            "longitude": "37.9878° E"
-          },
+
           "wards": ["Attan", "Garfasa", "Gatolo", "Kipsing", "Merti", "Ndoto"]
         }
       ]
@@ -828,10 +664,7 @@
       "sub_counties": [
         {
           "name": "Buuri",
-          "coordinates": {
-            "latitude": "0.1000° N",
-            "longitude": "37.5833° E"
-          },
+
           "wards": [
             "Akirang’ondu",
             "Abothuguchi West",
@@ -845,10 +678,7 @@
         },
         {
           "name": "Central Imenti",
-          "coordinates": {
-            "latitude": "0.0914° N",
-            "longitude": "37.6239° E"
-          },
+
           "wards": [
             "Athwana",
             "Abothuguchi East",
@@ -865,10 +695,7 @@
         },
         {
           "name": "Igembe Central",
-          "coordinates": {
-            "latitude": "0.1200° N",
-            "longitude": "37.7400° E"
-          },
+
           "wards": [
             "Antuambui",
             "Igembe East",
@@ -881,10 +708,7 @@
         },
         {
           "name": "Igembe South",
-          "coordinates": {
-            "latitude": "0.0915° N",
-            "longitude": "37.9186° E"
-          },
+
           "wards": [
             "Amwathi",
             "Kiguchwa",
@@ -896,10 +720,7 @@
         },
         {
           "name": "Igembe North",
-          "coordinates": {
-            "latitude": "0.2198° N",
-            "longitude": "37.9122° E"
-          },
+
           "wards": [
             "Abogeta East",
             "Athwana Gakwegori",
@@ -914,10 +735,7 @@
         },
         {
           "name": "Tigania West",
-          "coordinates": {
-            "latitude": "0.1298° N",
-            "longitude": "37.6675° E"
-          },
+
           "wards": [
             "Kianjai",
             "Kiguchwa/Mitua",
@@ -932,10 +750,7 @@
         },
         {
           "name": "Tigania East",
-          "coordinates": {
-            "latitude": "0.1677° N",
-            "longitude": "37.7291° E"
-          },
+
           "wards": [
             "Akithii",
             "Athanakaribu",
@@ -956,10 +771,7 @@
         },
         {
           "name": "Imenti North",
-          "coordinates": {
-            "latitude": "0.2249° N",
-            "longitude": "37.8327° E"
-          },
+
           "wards": [
             "Antuambui",
             "Igembe East",
@@ -981,10 +793,7 @@
         },
         {
           "name": "Imenti South",
-          "coordinates": {
-            "latitude": "0.1407° N",
-            "longitude": "37.6068° E"
-          },
+
           "wards": [
             "Antubetwe Kiongo",
             "Antuambui",
@@ -1012,10 +821,7 @@
       "sub_counties": [
         {
           "name": "Tharaka North",
-          "coordinates": {
-            "latitude": "0.1253° S",
-            "longitude": "37.8408° E"
-          },
+
           "wards": [
             "Chiakariga",
             "Magumoni",
@@ -1030,10 +836,7 @@
         },
         {
           "name": "Tharaka South",
-          "coordinates": {
-            "latitude": "0.1616° S",
-            "longitude": "37.8491° E"
-          },
+
           "wards": [
             "Chiakariga",
             "Gatunga",
@@ -1047,10 +850,7 @@
         },
         {
           "name": "Chuka",
-          "coordinates": {
-            "latitude": "0.3239° S",
-            "longitude": "37.6477° E"
-          },
+
           "wards": [
             "Chogoria",
             "Karingani",
@@ -1064,18 +864,12 @@
         },
         {
           "name": "Igambango’mbe",
-          "coordinates": {
-            "latitude": "0.1750° S",
-            "longitude": "37.6467° E"
-          },
+
           "wards": ["Karingani", "Magumoni", "Mbeu", "Mwimbi", "Ndagani"]
         },
         {
           "name": "Maara",
-          "coordinates": {
-            "latitude": "0.2723° S",
-            "longitude": "37.8584° E"
-          },
+
           "wards": [
             "Kanyakine",
             "Kiguchwa",
@@ -1090,10 +884,7 @@
         },
         {
           "name": "Muthambi",
-          "coordinates": {
-            "latitude": "0.1022° S",
-            "longitude": "37.8344° E"
-          },
+
           "wards": [
             "Kamaguna",
             "Karingani",
@@ -1112,10 +903,7 @@
       "sub_counties": [
         {
           "name": "Manyatta",
-          "coordinates": {
-            "latitude": "0.5356° S",
-            "longitude": "37.4467° E"
-          },
+
           "wards": [
             "Kithimu",
             "Ruguru/Ngandori",
@@ -1129,10 +917,7 @@
         },
         {
           "name": "Runyenjes",
-          "coordinates": {
-            "latitude": "0.4981° S",
-            "longitude": "37.5145° E"
-          },
+
           "wards": [
             "Kyeni North",
             "Kyeni South",
@@ -1146,10 +931,7 @@
         },
         {
           "name": "Mbeere North",
-          "coordinates": {
-            "latitude": "0.6056° S",
-            "longitude": "37.8153° E"
-          },
+
           "wards": [
             "Muminji",
             "Nthawa",
@@ -1163,10 +945,7 @@
         },
         {
           "name": "Mbeere South",
-          "coordinates": {
-            "latitude": "0.6993° S",
-            "longitude": "37.8317° E"
-          },
+
           "wards": [
             "Mwea Constituency",
             "Wachoro/Ambo",
@@ -1184,10 +963,7 @@
       "sub_counties": [
         {
           "name": "Kitui West",
-          "coordinates": {
-            "latitude": "1.6700° S",
-            "longitude": "38.0100° E"
-          },
+
           "wards": [
             "Kauwi",
             "Katulani",
@@ -1200,10 +976,7 @@
         },
         {
           "name": "Kitui Central",
-          "coordinates": {
-            "latitude": "1.5210° S",
-            "longitude": "38.0060° E"
-          },
+
           "wards": [
             "Kyangwithya East",
             "Kyangwithya West",
@@ -1216,10 +989,7 @@
         },
         {
           "name": "Kitui Rural",
-          "coordinates": {
-            "latitude": "1.6314° S",
-            "longitude": "38.1541° E"
-          },
+
           "wards": [
             "Kisasi",
             "Kwavonza/Yatta",
@@ -1232,10 +1002,7 @@
         },
         {
           "name": "Kitui South",
-          "coordinates": {
-            "latitude": "1.6096° S",
-            "longitude": "37.9666° E"
-          },
+
           "wards": [
             "Ikanga/Kyatune",
             "Kanyangi",
@@ -1251,10 +1018,7 @@
         },
         {
           "name": "Kitui East",
-          "coordinates": {
-            "latitude": "1.5038° S",
-            "longitude": "38.4316° E"
-          },
+
           "wards": [
             "Endau/Malalani",
             "Katse",
@@ -1268,10 +1032,7 @@
         },
         {
           "name": "Mwingi North",
-          "coordinates": {
-            "latitude": "0.8745° S",
-            "longitude": "38.0787° E"
-          },
+
           "wards": [
             "Kivou/Musyani",
             "Kyuso/Kyangunga",
@@ -1285,10 +1046,7 @@
         },
         {
           "name": "Mwingi West",
-          "coordinates": {
-            "latitude": "0.9756° S",
-            "longitude": "37.6696° E"
-          },
+
           "wards": [
             "Central",
             "Kalamba",
@@ -1303,10 +1061,7 @@
         },
         {
           "name": "Mwingi Central",
-          "coordinates": {
-            "latitude": "0.6081° S",
-            "longitude": "38.0653° E"
-          },
+
           "wards": ["Central", "Migwani", "Nguutani", "Nguni", "Tharaka"]
         }
       ]
@@ -1317,10 +1072,7 @@
       "subcounties": [
         {
           "name": "Masinga",
-          "coordinates": {
-            "latitude": "0.7525° S",
-            "longitude": "37.5719° E"
-          },
+
           "wards": [
             "Ikombe",
             "Masinga Central",
@@ -1334,10 +1086,7 @@
         },
         {
           "name": "Yatta",
-          "coordinates": {
-            "latitude": "1.3654° S",
-            "longitude": "37.7413° E"
-          },
+
           "wards": [
             "Ndalani",
             "Kithyoko",
@@ -1353,10 +1102,7 @@
         },
         {
           "name": "Matungulu",
-          "coordinates": {
-            "latitude": "1.4296° S",
-            "longitude": "37.1353° E"
-          },
+
           "wards": [
             "Tala",
             "Matungulu Central",
@@ -1371,10 +1117,7 @@
         },
         {
           "name": "Kangundo",
-          "coordinates": {
-            "latitude": "1.3138° S",
-            "longitude": "37.3535° E"
-          },
+
           "wards": [
             "Kangundo Central",
             "Kangundo East",
@@ -1391,10 +1134,7 @@
         },
         {
           "name": "Mwala",
-          "coordinates": {
-            "latitude": "1.4507° S",
-            "longitude": "37.4183° E"
-          },
+
           "wards": [
             "Wamunyu",
             "Ndalani",
@@ -1407,10 +1147,7 @@
         },
         {
           "name": "Kathiani",
-          "coordinates": {
-            "latitude": "1.3152° S",
-            "longitude": "37.1167° E"
-          },
+
           "wards": [
             "Mitaboni",
             "Muthwani",
@@ -1428,10 +1165,7 @@
         },
         {
           "name": "Machakos Town",
-          "coordinates": {
-            "latitude": "1.5077° S",
-            "longitude": "37.2649° E"
-          },
+
           "wards": [
             "Mumbuni North",
             "Mumbuni South",
@@ -1445,10 +1179,7 @@
         },
         {
           "name": "Mavoko",
-          "coordinates": {
-            "latitude": "1.4667° S",
-            "longitude": "36.9833° E"
-          },
+
           "wards": [
             "Athi River",
             "Kinanie",
@@ -1469,10 +1200,7 @@
       "subcounties": [
         {
           "name": "Makueni",
-          "coordinates": {
-            "latitude": "1.8027° S",
-            "longitude": "37.6243° E"
-          },
+
           "wards": [
             "Kambu",
             "Kathonzweni",
@@ -1492,10 +1220,7 @@
         },
         {
           "name": "Kilungu",
-          "coordinates": {
-            "latitude": "2.2825° S",
-            "longitude": "37.8108° E"
-          },
+
           "wards": [
             "Ivingoni/Nzambani",
             "Kee",
@@ -1510,10 +1235,7 @@
         },
         {
           "name": "Kilome",
-          "coordinates": {
-            "latitude": "2.1864° S",
-            "longitude": "37.8135° E"
-          },
+
           "wards": [
             "Kasikeu/Kaiti",
             "Kilome/Kyatune",
@@ -1528,10 +1250,7 @@
         },
         {
           "name": "Kibwezi East",
-          "coordinates": {
-            "latitude": "2.2459° S",
-            "longitude": "37.9762° E"
-          },
+
           "wards": [
             "Emali/Mulala",
             "Kikumbulyuni",
@@ -1546,10 +1265,7 @@
         },
         {
           "name": "Kibwezi West",
-          "coordinates": {
-            "latitude": "2.3301° S",
-            "longitude": "37.7989° E"
-          },
+
           "wards": [
             "Ikutha",
             "Kathonzweni",
@@ -1564,10 +1280,7 @@
         },
         {
           "name": "Nzaui",
-          "coordinates": {
-            "latitude": "1.9747° S",
-            "longitude": "37.6633° E"
-          },
+
           "wards": [
             "Kalawa",
             "Kilungu",
@@ -1587,10 +1300,7 @@
       "subcounties": [
         {
           "name": "Kinangop",
-          "coordinates": {
-            "latitude": "0.7263° S",
-            "longitude": "36.5513° E"
-          },
+
           "wards": [
             "Engineer",
             "Gathara",
@@ -1604,10 +1314,7 @@
         },
         {
           "name": "Kipipiri",
-          "coordinates": {
-            "latitude": "0.8405° S",
-            "longitude": "36.4165° E"
-          },
+
           "wards": [
             "Geta",
             "Githioro",
@@ -1620,10 +1327,7 @@
         },
         {
           "name": "Ol Joro Orok",
-          "coordinates": {
-            "latitude": "0.4439° N",
-            "longitude": "36.3324° E"
-          },
+
           "wards": [
             "Charagita",
             "Gathara",
@@ -1638,10 +1342,7 @@
         },
         {
           "name": "Ndaragwa",
-          "coordinates": {
-            "latitude": "0.2903° S",
-            "longitude": "36.5634° E"
-          },
+
           "wards": [
             "Central",
             "Gathanji",
@@ -1656,10 +1357,7 @@
         },
         {
           "name": "Ol Kalou",
-          "coordinates": {
-            "latitude": "0.2636° S",
-            "longitude": "36.3779° E"
-          },
+
           "wards": [
             "Chabana",
             "Gathinja",
@@ -1679,110 +1377,79 @@
       "name": "Nyeri",
       "subcounties": [
         {
-          "Kieni East": {
-            "coordinates": {
-              "latitude": -0.2886,
-              "longitude": 37.045
-            },
-            "wards": ["Ruguru", "Gakindu", "Kieni East", "Mweiga"]
-          },
-          "Kieni West": {
-            "coordinates": {
-              "latitude": -0.3609,
-              "longitude": 37.0056
-            },
-            "wards": [
-              "Thegu River",
-              "Kiamathaga",
-              "Gatarakwa",
-              "Ndunyu",
-              "Ruring'u"
-            ]
-          },
-          "Mathira": {
-            "coordinates": {
-              "latitude": -0.3493,
-              "longitude": 37.0713
-            },
-            "wards": [
-              "Ruguru/Ngaru",
-              "Karira",
-              "Rugumo",
-              "Githima",
-              "Kirimukuyu",
-              "Konyu",
-              "Magutu",
-              "Iriani",
-              "Nairutia",
-              "Chinga",
-              "Gatarakwa"
-            ]
-          },
-          "Nyeri Central": {
-            "coordinates": {
-              "latitude": -0.4065,
-              "longitude": 36.9415
-            },
-            "wards": [
-              "Mukurwe-ini Central",
-              "Rware",
-              "Ruguru",
-              "Kiganjo/Mathari"
-            ]
-          },
-          "Nyeri South": {
-            "coordinates": {
-              "latitude": -0.4271,
-              "longitude": 36.9343
-            },
-            "wards": [
-              "Iria-ini",
-              "Gachika",
-              "Konyu",
-              "Mahiga",
-              "Githiru-ini",
-              "Karundu"
-            ]
-          },
-          "Othaya": {
-            "coordinates": {
-              "latitude": -0.5671,
-              "longitude": 36.9588
-            },
-            "wards": [
-              "Gakawa",
-              "Ichamara",
-              "Ruchu",
-              "Gatugi",
-              "Kabaru",
-              "Kanyange",
-              "Mahiga",
-              "Riakiania",
-              "Kigumo",
-              "Kihuyo",
-              "Githiru-ini"
-            ]
-          },
-          "Tetu": {
-            "coordinates": {
-              "latitude": -0.2667,
-              "longitude": 36.9789
-            },
-            "wards": ["Gakawa", "Kieni", "Mweiga", "Narumoru", "Ngangarithi"]
-          },
-          "Mukurweini": {
-            "coordinates": {
-              "latitude": -0.4843,
-              "longitude": 36.8901
-            },
-            "wards": [
-              "Mukurwe-ini West",
-              "Mukurwe-ini North",
-              "Mukurwe-ini Central",
-              "Githiru",
-              "Endarasha"
-            ]
-          }
+          "name": "Kieni East",
+          "wards": ["Ruguru", "Gakindu", "Kieni East", "Mweiga"]
+        },
+        {
+          "name": "Kieni West",
+          "wards": [
+            "Thegu River",
+            "Kiamathaga",
+            "Gatarakwa",
+            "Ndunyu",
+            "Ruring'u"
+          ]
+        },
+        {
+          "name": "Mathira",
+          "wards": [
+            "Ruguru/Ngaru",
+            "Karira",
+            "Rugumo",
+            "Githima",
+            "Kirimukuyu",
+            "Konyu",
+            "Magutu",
+            "Iriani",
+            "Nairutia",
+            "Chinga",
+            "Gatarakwa"
+          ]
+        },
+        {
+          "name": "Nyeri Central",
+          "wards": ["Mukurwe-ini Central", "Rware", "Ruguru", "Kiganjo/Mathari"]
+        },
+        {
+          "name": "Nyeri South",
+          "wards": [
+            "Iria-ini",
+            "Gachika",
+            "Konyu",
+            "Mahiga",
+            "Githiru-ini",
+            "Karundu"
+          ]
+        },
+        {
+          "name": "Othaya",
+          "wards": [
+            "Gakawa",
+            "Ichamara",
+            "Ruchu",
+            "Gatugi",
+            "Kabaru",
+            "Kanyange",
+            "Mahiga",
+            "Riakiania",
+            "Kigumo",
+            "Kihuyo",
+            "Githiru-ini"
+          ]
+        },
+        {
+          "name": "Tetu",
+          "wards": ["Gakawa", "Kieni", "Mweiga", "Narumoru", "Ngangarithi"]
+        },
+        {
+          "name": "Mukurweini",
+          "wards": [
+            "Mukurwe-ini West",
+            "Mukurwe-ini North",
+            "Mukurwe-ini Central",
+            "Githiru",
+            "Endarasha"
+          ]
         }
       ]
     },
@@ -1791,88 +1458,71 @@
       "name": "Kirinyaga",
       "subcounties": [
         {
-          "Kirinyaga East": {
-            "coordinates": {
-              "latitude": -0.5552,
-              "longitude": 37.3436
-            },
-            "wards": [
-              "Kithure",
-              "Kianjiru",
-              "Kabare",
-              "Gathambi",
-              "Ngariama",
-              "Kariti",
-              "Ngurubani",
-              "Kiamutugu"
-            ]
-          },
-          "Kirinyaga West": {
-            "coordinates": {
-              "latitude": -0.4419,
-              "longitude": 37.3067
-            },
-            "wards": [
-              "Kagumo",
-              "Kiamwathi",
-              "Kiaragana",
-              "Mahianyu",
-              "Kianyaga",
-              "Kabiyet",
-              "Kanyekini"
-            ]
-          },
-          "Mwea East": {
-            "coordinates": {
-              "latitude": -0.7187,
-              "longitude": 37.3152
-            },
-            "wards": [
-              "Makutano/ Kagaari South",
-              "Wamumu",
-              "Kangai",
-              "Kangai",
-              "Kangari East",
-              "Teberer",
-              "Mwea West",
-              "Mwea East",
-              "Mbeti North"
-            ]
-          },
-          "Mwea West": {
-            "coordinates": {
-              "latitude": -0.6964,
-              "longitude": 37.3204
-            },
-            "wards": [
-              "Kabare",
-              "Kanyekini",
-              "Kangai",
-              "Kagio",
-              "Nginda",
-              "Mutithi",
-              "Mutira",
-              "Nyangati",
-              "Mbeti South"
-            ]
-          },
-          "Kirinyaga Central": {
-            "coordinates": {
-              "latitude": -0.559,
-              "longitude": 37.2387
-            },
-            "wards": [
-              "Kerugoya",
-              "Mutira",
-              "Kiamutugu",
-              "Kutus",
-              "Inoi",
-              "Kianyaga",
-              "Kiangai",
-              "Baragwi",
-              "Ngariama"
-            ]
-          }
+          "name": "Kirinyaga East",
+          "wards": [
+            "Kithure",
+            "Kianjiru",
+            "Kabare",
+            "Gathambi",
+            "Ngariama",
+            "Kariti",
+            "Ngurubani",
+            "Kiamutugu"
+          ]
+        },
+        {
+          "name": "Kirinyaga West",
+          "wards": [
+            "Kagumo",
+            "Kiamwathi",
+            "Kiaragana",
+            "Mahianyu",
+            "Kianyaga",
+            "Kabiyet",
+            "Kanyekini"
+          ]
+        },
+        {
+          "name": "Mwea East",
+          "wards": [
+            "Makutano/ Kagaari South",
+            "Wamumu",
+            "Kangai",
+            "Kangai",
+            "Kangari East",
+            "Teberer",
+            "Mwea West",
+            "Mwea East",
+            "Mbeti North"
+          ]
+        },
+        {
+          "name": "Mwea West",
+          "wards": [
+            "Kabare",
+            "Kanyekini",
+            "Kangai",
+            "Kagio",
+            "Nginda",
+            "Mutithi",
+            "Mutira",
+            "Nyangati",
+            "Mbeti South"
+          ]
+        },
+        {
+          "name": "Kirinyaga Central",
+          "wards": [
+            "Kerugoya",
+            "Mutira",
+            "Kiamutugu",
+            "Kutus",
+            "Inoi",
+            "Kianyaga",
+            "Kiangai",
+            "Baragwi",
+            "Ngariama"
+          ]
         }
       ]
     },
@@ -1881,145 +1531,118 @@
       "name": "Murang'a",
       "subcounties": [
         {
-          "Gatanga": {
-            "coordinates": {
-              "latitude": -0.8684,
-              "longitude": 37.1634
-            },
-            "wards": [
-              "Kihumbuini",
-              "Gatanga",
-              "Kakuzi/Mitubiri",
-              "Kamahuha",
-              "Kariara",
-              "Kigumo",
-              "Mugumoini",
-              "Ngenda",
-              "Nginda"
-            ]
-          },
-          "Kahuro": {
-            "coordinates": {
-              "latitude": -0.7254,
-              "longitude": 36.9594
-            },
-            "wards": [
-              "Ichagaki",
-              "Kahuro",
-              "Kambiti",
-              "Kangari",
-              "Karai",
-              "Kigaa",
-              "Ndunyu",
-              "Wempa"
-            ]
-          },
-          "Kandara": {
-            "coordinates": {
-              "latitude": -0.9069,
-              "longitude": 36.8682
-            },
-            "wards": [
-              "Gitugi",
-              "Ithiru",
-              "Kagunduini",
-              "Kagwe",
-              "Kandara",
-              "Karuri",
-              "Muruka",
-              "Ng'araria",
-              "Rwathia",
-              "Towett"
-            ]
-          },
-          "Kigumo": {
-            "coordinates": {
-              "latitude": -0.8406,
-              "longitude": 36.8034
-            },
-            "wards": [
-              "Kamacharia",
-              "Kamahuha",
-              "Kambirwa",
-              "Kangari",
-              "Kigumo",
-              "Kinyona",
-              "Makuyu",
-              "Ndakaini",
-              "Nginda"
-            ]
-          },
-          "Mathioya": {
-            "coordinates": {
-              "latitude": -0.7254,
-              "longitude": 37.1618
-            },
-            "wards": [
-              "Githabai",
-              "Githioro",
-              "Iyego",
-              "Kakuzi",
-              "Kamacharia",
-              "Kambiti",
-              "Karima",
-              "Muriranjas",
-              "Ruchu",
-              "Township"
-            ]
-          },
-
-          "Kiharu": {
-            "coordinates": {
-              "latitude": -0.7786,
-              "longitude": 36.9945
-            },
-            "wards": [
-              "Gaichanjiru",
-              "Gatanga",
-              "Ichagaki",
-              "Ihana",
-              "Kamahuha",
-              "Kangari",
-              "Murarandia",
-              "Muthithi"
-            ]
-          },
-          "Kangema": {
-            "coordinates": {
-              "latitude": -0.6691,
-              "longitude": 36.9681
-            },
-            "wards": [
-              "Gatanga",
-              "Kabati",
-              "Kahuro",
-              "Kamacharia",
-              "Kambirwa",
-              "Kangema",
-              "Kigumo",
-              "Muguru",
-              "Rwathia",
-              "Wangu"
-            ]
-          },
-          "Murang'a South": {
-            "coordinates": {
-              "latitude": -0.8336,
-              "longitude": 37.0875
-            },
-            "wards": [
-              "Gaturi",
-              "Ichagaki",
-              "Kahatia",
-              "Kandara",
-              "Kigumo",
-              "Kimorori/Wempa",
-              "Makuyu",
-              "Maragua",
-              "Mbiri",
-              "Ruchu"
-            ]
-          }
+          "name": "Gatanga",
+          "wards": [
+            "Kihumbuini",
+            "Gatanga",
+            "Kakuzi/Mitubiri",
+            "Kamahuha",
+            "Kariara",
+            "Kigumo",
+            "Mugumoini",
+            "Ngenda",
+            "Nginda"
+          ]
+        },
+        {
+          "name": "Kahuro",
+          "wards": [
+            "Ichagaki",
+            "Kahuro",
+            "Kambiti",
+            "Kangari",
+            "Karai",
+            "Kigaa",
+            "Ndunyu",
+            "Wempa"
+          ]
+        },
+        {
+          "name": "Kandara",
+          "wards": [
+            "Gitugi",
+            "Ithiru",
+            "Kagunduini",
+            "Kagwe",
+            "Kandara",
+            "Karuri",
+            "Muruka",
+            "Ng'araria",
+            "Rwathia",
+            "Towett"
+          ]
+        },
+        {
+          "name": "Kigumo",
+          "wards": [
+            "Kamacharia",
+            "Kamahuha",
+            "Kambirwa",
+            "Kangari",
+            "Kigumo",
+            "Kinyona",
+            "Makuyu",
+            "Ndakaini",
+            "Nginda"
+          ]
+        },
+        {
+          "name": "Mathioya",
+          "wards": [
+            "Githabai",
+            "Githioro",
+            "Iyego",
+            "Kakuzi",
+            "Kamacharia",
+            "Kambiti",
+            "Karima",
+            "Muriranjas",
+            "Ruchu",
+            "Township"
+          ]
+        },
+        {
+          "name": "Kiharu",
+          "wards": [
+            "Gaichanjiru",
+            "Gatanga",
+            "Ichagaki",
+            "Ihana",
+            "Kamahuha",
+            "Kangari",
+            "Murarandia",
+            "Muthithi"
+          ]
+        },
+        {
+          "name": "Kangema",
+          "wards": [
+            "Gatanga",
+            "Kabati",
+            "Kahuro",
+            "Kamacharia",
+            "Kambirwa",
+            "Kangema",
+            "Kigumo",
+            "Muguru",
+            "Rwathia",
+            "Wangu"
+          ]
+        },
+        {
+          "name": "Murang'a South",
+          "wards": [
+            "Gaturi",
+            "Ichagaki",
+            "Kahatia",
+            "Kandara",
+            "Kigumo",
+            "Kimorori/Wempa",
+            "Makuyu",
+            "Maragua",
+            "Mbiri",
+            "Ruchu"
+          ]
         }
       ]
     },
@@ -2028,210 +1651,172 @@
       "name": "Kiambu",
       "subcounties": [
         {
-          "Gatundu North": {
-            "coordinates": {
-              "latitude": -1.1511,
-              "longitude": 36.9147
-            },
-            "wards": [
-              "Githobokoni",
-              "Gitare",
-              "Igegania",
-              "Kiamwangi",
-              "Mang'u",
-              "Mugumo-ini",
-              "Ngenda",
-              "Riabai",
-              "Ruiru-ini"
-            ]
-          },
-          "Gatundu South": {
-            "coordinates": {
-              "latitude": -1.1935,
-              "longitude": 36.8786
-            },
-            "wards": [
-              "Gituamba",
-              "Gituuru",
-              "Kiganjo",
-              "Kigumo",
-              "Lari",
-              "Mugumoini",
-              "Ngewa",
-              "Ngecha/Tigoni",
-              "Nyathuna",
-              "Rwambiti"
-            ]
-          },
-          "Githunguri": {
-            "coordinates": {
-              "latitude": -1.0642,
-              "longitude": 36.8852
-            },
-            "wards": [
-              "Githiga",
-              "Githunguri",
-              "Ikinu",
-              "Kagaa",
-              "Ngewa",
-              "Ngewa Kinuku",
-              "Ngoliba",
-              "Riabai",
-              "Thika",
-              "Witeithie"
-            ]
-          },
-          "Juja": {
-            "coordinates": {
-              "latitude": -1.0944,
-              "longitude": 37.0105
-            },
-            "wards": [
-              "Athi",
-              "Gachagi",
-              "Juja",
-              "Kalimoni",
-              "Kamiti",
-              "Mugutha",
-              "Murera",
-              "Witeithie"
-            ]
-          },
-          "Kabete": {
-            "coordinates": {
-              "latitude": -1.2174,
-              "longitude": 36.7061
-            },
-            "wards": [
-              "Gitaru",
-              "Kabete",
-              "Kanyariri",
-              "Karai",
-              "Muguga",
-              "Nyathuna",
-              "Uthiru/Ruthimitu",
-              "Wangige/Kanyariri"
-            ]
-          },
-          "Kiambaa": {
-            "coordinates": {
-              "latitude": -1.1462,
-              "longitude": 36.8339
-            },
-            "wards": [
-              "Cianda",
-              "Gachagi",
-              "Gatong'ora",
-              "Kihara",
-              "Ndenderu",
-              "Muchatha",
-              "Riabai",
-              "Ting'ang'a",
-              "Township"
-            ]
-          },
-          "Kiambu": {
-            "coordinates": {
-              "latitude": -1.1715,
-              "longitude": 36.8339
-            },
-            "wards": [
-              "Banana",
-              "Cianda",
-              "Gachagi",
-              "Gatong'ora",
-              "Kihara",
-              "Kiambu",
-              "Ndenderu",
-              "Riabai",
-              "Ting'ang'a",
-              "Township"
-            ]
-          },
-          "Limuru": {
-            "coordinates": {
-              "latitude": -1.1153,
-              "longitude": 36.6629
-            },
-            "wards": [
-              "Bibirioni",
-              "Limuru Central",
-              "Limuru East",
-              "Limuru West",
-              "Ndeiya",
-              "Ngecha",
-              "Nyadundo",
-              "Redhill",
-              "Ting'ang'a"
-            ]
-          },
-          "Kikuyu": {
-            "coordinates": {
-              "latitude": -1.2583,
-              "longitude": 36.7003
-            },
-            "wards": [
-              "Gikambura",
-              "Karai",
-              "Kikuyu",
-              "Kinoo",
-              "Nachuru",
-              "Nachu",
-              "Sigona",
-              "Wambugu"
-            ]
-          },
-          "Lari": {
-            "coordinates": {
-              "latitude": -1.1189,
-              "longitude": 36.8532
-            },
-            "wards": [
-              "Kijabe",
-              "Kinale",
-              "Lari/Kirenga",
-              "Mbururu",
-              "Nduma",
-              "Nyanduma",
-              "Rakwaro",
-              "Rugi"
-            ]
-          },
-          "Ruiru": {
-            "coordinates": {
-              "latitude": -1.1474,
-              "longitude": 36.9744
-            },
-            "wards": [
-              "Gitothua",
-              "Githunguri",
-              "Juja",
-              "Kahawa Sukari",
-              "Kimbo",
-              "Kiuu",
-              "Mwiki",
-              "Murera",
-              "Ruiru Central",
-              "Thika East"
-            ]
-          },
-          "Thika Town": {
-            "coordinates": {
-              "latitude": -1.0399,
-              "longitude": 37.0768
-            },
-            "wards": [
-              "Chania",
-              "Gatuanyaga",
-              "Githima",
-              "Hospital",
-              "Kamenu",
-              "Kamwangi",
-              "Ngoliba",
-              "Witeithie",
-              "Township"
-            ]
-          }
+          "name": "Gatundu North",
+          "wards": [
+            "Githobokoni",
+            "Gitare",
+            "Igegania",
+            "Kiamwangi",
+            "Mang'u",
+            "Mugumo-ini",
+            "Ngenda",
+            "Riabai",
+            "Ruiru-ini"
+          ]
+        },
+        {
+          "name": "Gatundu South",
+          "wards": [
+            "Gituamba",
+            "Gituuru",
+            "Kiganjo",
+            "Kigumo",
+            "Lari",
+            "Mugumoini",
+            "Ngewa",
+            "Ngecha/Tigoni",
+            "Nyathuna",
+            "Rwambiti"
+          ]
+        },
+        {
+          "name": "Githunguri",
+          "wards": [
+            "Githiga",
+            "Githunguri",
+            "Ikinu",
+            "Kagaa",
+            "Ngewa",
+            "Ngewa Kinuku",
+            "Ngoliba",
+            "Riabai",
+            "Thika",
+            "Witeithie"
+          ]
+        },
+        {
+          "name": "Juja",
+          "wards": [
+            "Athi",
+            "Gachagi",
+            "Juja",
+            "Kalimoni",
+            "Kamiti",
+            "Mugutha",
+            "Murera",
+            "Witeithie"
+          ]
+        },
+        {
+          "name": "Kabete",
+          "wards": [
+            "Gitaru",
+            "Kabete",
+            "Kanyariri",
+            "Karai",
+            "Muguga",
+            "Nyathuna",
+            "Uthiru/Ruthimitu",
+            "Wangige/Kanyariri"
+          ]
+        },
+        {
+          "name": "Kiambaa",
+          "wards": [
+            "Cianda",
+            "Gachagi",
+            "Gatong'ora",
+            "Kihara",
+            "Ndenderu",
+            "Muchatha",
+            "Riabai",
+            "Ting'ang'a",
+            "Township"
+          ]
+        },
+        {
+          "name": "Kiambu",
+          "wards": [
+            "Banana",
+            "Cianda",
+            "Gachagi",
+            "Gatong'ora",
+            "Kihara",
+            "Kiambu",
+            "Ndenderu",
+            "Riabai",
+            "Ting'ang'a",
+            "Township"
+          ]
+        },
+        {
+          "name": "Limuru",
+          "wards": [
+            "Bibirioni",
+            "Limuru Central",
+            "Limuru East",
+            "Limuru West",
+            "Ndeiya",
+            "Ngecha",
+            "Nyadundo",
+            "Redhill",
+            "Ting'ang'a"
+          ]
+        },
+        {
+          "name": "Kikuyu",
+          "wards": [
+            "Gikambura",
+            "Karai",
+            "Kikuyu",
+            "Kinoo",
+            "Nachuru",
+            "Nachu",
+            "Sigona",
+            "Wambugu"
+          ]
+        },
+        {
+          "name": "Lari",
+          "wards": [
+            "Kijabe",
+            "Kinale",
+            "Lari/Kirenga",
+            "Mbururu",
+            "Nduma",
+            "Nyanduma",
+            "Rakwaro",
+            "Rugi"
+          ]
+        },
+        {
+          "name": "Ruiru",
+          "wards": [
+            "Gitothua",
+            "Githunguri",
+            "Juja",
+            "Kahawa Sukari",
+            "Kimbo",
+            "Kiuu",
+            "Mwiki",
+            "Murera",
+            "Ruiru Central",
+            "Thika East"
+          ]
+        },
+        {
+          "name": "Thika Town",
+          "wards": [
+            "Chania",
+            "Gatuanyaga",
+            "Githima",
+            "Hospital",
+            "Kamenu",
+            "Kamwangi",
+            "Ngoliba",
+            "Witeithie",
+            "Township"
+          ]
         }
       ]
     },
@@ -2240,122 +1825,102 @@
       "name": "Turkana",
       "subcounties": [
         {
-          "Turkana Central": {
-            "coordinates": {
-              "latitude": 3.0303,
-              "longitude": 35.5956
-            },
-            "wards": [
-              "Kapedo/Napeitom",
-              "Kibish",
-              "Lobei/Keyan",
-              "Lokori/Kochodin",
-              "Lokitaung",
-              "Nakalale",
-              "Songot"
-            ]
-          },
-          "Turkana East": {
-            "coordinates": {
-              "latitude": 3.3143,
-              "longitude": 35.6788
-            },
-            "wards": [
-              "Alakas",
-              "Kalokol",
-              "Kanamkemer",
-              "Kapedo/Napeitom",
-              "Katilia",
-              "Kibish",
-              "Kolowa",
-              "Kotaruk/Lobei",
-              "Lokichar",
-              "Lokori/Kochodin",
-              "Lokitaung",
-              "Lorugum",
-              "Nakalale"
-            ]
-          },
-          "Turkana North": {
-            "coordinates": {
-              "latitude": 4.0167,
-              "longitude": 35.4167
-            },
-            "wards": [
-              "Kaeris",
-              "Kang'atotha",
-              "Kaputir",
-              "Kibish",
-              "Kibish Town",
-              "Korobebe",
-              "Kotaruk/Lobei",
-              "Lokichoggio",
-              "Lopur",
-              "Nadapal",
-              "Nakalale",
-              "Songot"
-            ]
-          },
-          "Turkana South": {
-            "coordinates": {
-              "latitude": 2.6833,
-              "longitude": 35.3833
-            },
-            "wards": [
-              "Kang'atotha",
-              "Kaputir",
-              "Katilia",
-              "Kibish",
-              "Korobebe",
-              "Lokichar",
-              "Lopur",
-              "Lower Kataboi",
-              "Nakalale"
-            ]
-          },
-          "Turkana West": {
-            "coordinates": {
-              "latitude": 3.3742,
-              "longitude": 34.2506
-            },
-            "wards": [
-              "Kainuk",
-              "Kakuma",
-              "Kalobeyei",
-              "Kanamkemer",
-              "Katilu",
-              "Kerio Delta",
-              "Kibish",
-              "Kotaruk/Lobei",
-              "Lokichoggio",
-              "Lopur",
-              "Nakalale",
-              "Nanam",
-              "Tarach"
-            ]
-          },
-          "Loima": {
-            "coordinates": {
-              "latitude": 2.9086,
-              "longitude": 34.8522
-            },
-            "wards": [
-              "Kalapata",
-              "Kanamkemer",
-              "Kaputir",
-              "Kibish",
-              "Korobebe",
-              "Kotaruk/Lobei",
-              "Kotomarok",
-              "Lokichoggio",
-              "Lopur",
-              "Loyapat",
-              "Nakalale",
-              "Namoruputh",
-              "Songot",
-              "Tangulbei"
-            ]
-          }
+          "name": "Turkana Central",
+          "wards": [
+            "Kapedo/Napeitom",
+            "Kibish",
+            "Lobei/Keyan",
+            "Lokori/Kochodin",
+            "Lokitaung",
+            "Nakalale",
+            "Songot"
+          ]
+        },
+        {
+          "name": "Turkana East",
+          "wards": [
+            "Alakas",
+            "Kalokol",
+            "Kanamkemer",
+            "Kapedo/Napeitom",
+            "Katilia",
+            "Kibish",
+            "Kolowa",
+            "Kotaruk/Lobei",
+            "Lokichar",
+            "Lokori/Kochodin",
+            "Lokitaung",
+            "Lorugum",
+            "Nakalale"
+          ]
+        },
+        {
+          "name": "Turkana North",
+          "wards": [
+            "Kaeris",
+            "Kang'atotha",
+            "Kaputir",
+            "Kibish",
+            "Kibish Town",
+            "Korobebe",
+            "Kotaruk/Lobei",
+            "Lokichoggio",
+            "Lopur",
+            "Nadapal",
+            "Nakalale",
+            "Songot"
+          ]
+        },
+        {
+          "name": "Turkana South",
+          "wards": [
+            "Kang'atotha",
+            "Kaputir",
+            "Katilia",
+            "Kibish",
+            "Korobebe",
+            "Lokichar",
+            "Lopur",
+            "Lower Kataboi",
+            "Nakalale"
+          ]
+        },
+        {
+          "name": "Turkana West",
+          "wards": [
+            "Kainuk",
+            "Kakuma",
+            "Kalobeyei",
+            "Kanamkemer",
+            "Katilu",
+            "Kerio Delta",
+            "Kibish",
+            "Kotaruk/Lobei",
+            "Lokichoggio",
+            "Lopur",
+            "Nakalale",
+            "Nanam",
+            "Tarach"
+          ]
+        },
+        {
+          "name": "Loima",
+          "wards": [
+            "Kalapata",
+            "Kanamkemer",
+            "Kaputir",
+            "Kibish",
+            "Korobebe",
+            "Kotaruk/Lobei",
+            "Kotomarok",
+            "Lokichoggio",
+            "Lopur",
+            "Loyapat",
+            "Nakalale",
+            "Namoruputh",
+            "Songot",
+            "Tangulbei"
+          ]
         }
       ]
     },
@@ -2364,58 +1929,47 @@
       "name": "West pokot",
       "subcounties": [
         {
-          "Kapenguria": {
-            "coordinates": {
-              "latitude": 1.2377,
-              "longitude": 35.1119
-            },
-            "wards": [
-              "Batei",
-              "Cheelo",
-              "Kaibos",
-              "Kapenguria",
-              "Lomut",
-              "Mnagei",
-              "Murkwijit",
-              "Nyaru",
-              "Siyoi",
-              "Suam"
-            ]
-          },
-          "Sigor": {
-            "coordinates": {
-              "latitude": 1.0326,
-              "longitude": 35.2735
-            },
-            "wards": [
-              "Chesegon",
-              "Kapchok",
-              "Kasei",
-              "Kisegi",
-              "Kokwo",
-              "Lelan",
-              "Sook",
-              "Soy North",
-              "Soy South"
-            ]
-          },
-          "Kacheliba": {
-            "coordinates": {
-              "latitude": 2.7711,
-              "longitude": 35.4281
-            },
-            "wards": [
-              "Chepareria",
-              "Kaplamai",
-              "Kasei",
-              "Konyao",
-              "Kotaruk",
-              "Masool",
-              "Napeitom",
-              "Ombolion",
-              "Sook"
-            ]
-          }
+          "name": "Kapenguria",
+          "wards": [
+            "Batei",
+            "Cheelo",
+            "Kaibos",
+            "Kapenguria",
+            "Lomut",
+            "Mnagei",
+            "Murkwijit",
+            "Nyaru",
+            "Siyoi",
+            "Suam"
+          ]
+        },
+        {
+          "name": "Sigor",
+          "wards": [
+            "Chesegon",
+            "Kapchok",
+            "Kasei",
+            "Kisegi",
+            "Kokwo",
+            "Lelan",
+            "Sook",
+            "Soy North",
+            "Soy South"
+          ]
+        },
+        {
+          "name": "Kacheliba",
+          "wards": [
+            "Chepareria",
+            "Kaplamai",
+            "Kasei",
+            "Konyao",
+            "Kotaruk",
+            "Masool",
+            "Napeitom",
+            "Ombolion",
+            "Sook"
+          ]
         }
       ]
     },
@@ -2424,56 +1978,45 @@
       "name": "Samburu",
       "subcounties": [
         {
-          "Samburu East": {
-            "coordinates": {
-              "latitude": 0.7331,
-              "longitude": 37.6429
-            },
-            "wards": [
-              "Baawa",
-              "Kaesha",
-              "Kaputir",
-              "Kisima",
-              "Lpartuk",
-              "Nachola",
-              "Nkiloriti",
-              "Serolipi"
-            ]
-          },
-          "Samburu North": {
-            "coordinates": {
-              "latitude": 1.8704,
-              "longitude": 36.9694
-            },
-            "wards": [
-              "Baragoi",
-              "Karare",
-              "Kileswa",
-              "Kom",
-              "Lengusaka",
-              "Lodokejek",
-              "Loiyangalani",
-              "Nadome",
-              "Nyiro",
-              "Suguta Marmar"
-            ]
-          },
-          "Samburu West": {
-            "coordinates": {
-              "latitude": 0.4969,
-              "longitude": 36.9062
-            },
-            "wards": [
-              "Angata Nanyokie",
-              "Bendera",
-              "Kapomboi",
-              "Loosuk",
-              "Maralal",
-              "Ndoto",
-              "Poro",
-              "Seiya"
-            ]
-          }
+          "name": "Samburu East",
+          "wards": [
+            "Baawa",
+            "Kaesha",
+            "Kaputir",
+            "Kisima",
+            "Lpartuk",
+            "Nachola",
+            "Nkiloriti",
+            "Serolipi"
+          ]
+        },
+        {
+          "name": "Samburu North",
+          "wards": [
+            "Baragoi",
+            "Karare",
+            "Kileswa",
+            "Kom",
+            "Lengusaka",
+            "Lodokejek",
+            "Loiyangalani",
+            "Nadome",
+            "Nyiro",
+            "Suguta Marmar"
+          ]
+        },
+        {
+          "name": "Samburu West",
+          "wards": [
+            "Angata Nanyokie",
+            "Bendera",
+            "Kapomboi",
+            "Loosuk",
+            "Maralal",
+            "Ndoto",
+            "Poro",
+            "Seiya"
+          ]
         }
       ]
     },
@@ -2482,88 +2025,71 @@
       "name": "Trans-Nzoia",
       "subcounties": [
         {
-          "Cherang'any": {
-            "coordinates": {
-              "latitude": 0.7614,
-              "longitude": 35.7489
-            },
-            "wards": [
-              "Endebess",
-              "Matumbei",
-              "Motosiet",
-              "Motosiet/ Kachibora",
-              "Sitatunga",
-              "Waitaluk",
-              "Chepsiro/Kiptoror",
-              "Chepkorio",
-              "Chepnyal"
-            ]
-          },
-          "Kwanza": {
-            "coordinates": {
-              "latitude": 1.0044,
-              "longitude": 34.9608
-            },
-            "wards": [
-              "Kapomboi",
-              "Kwanza",
-              "Kwanza/Kenyenya",
-              "Nabiswa",
-              "Nasyo",
-              "Nyakinyua",
-              "Sinyerere",
-              "Tuwani"
-            ]
-          },
-          "Endebess": {
-            "coordinates": {
-              "latitude": 0.8933,
-              "longitude": 35.4436
-            },
-            "wards": [
-              "Endebess",
-              "Endebess/Namanjalala",
-              "Matumbei",
-              "Motosiet",
-              "Sitatunga",
-              "Waitaluk",
-              "Chepkorio",
-              "Chepnyal"
-            ]
-          },
-          "Saboti": {
-            "coordinates": {
-              "latitude": 0.8253,
-              "longitude": 34.9039
-            },
-            "wards": [
-              "Machewa",
-              "Matisi",
-              "Matisi/Makutano",
-              "Matisi/Malaha",
-              "Matisi/Marua",
-              "Matisi/Nabkoi",
-              "Matisi/Naisambu",
-              "Saboti",
-              "Sinyerere"
-            ]
-          },
-          "Kiminini": {
-            "coordinates": {
-              "latitude": 0.7702,
-              "longitude": 34.9232
-            },
-            "wards": [
-              "Bukembe East",
-              "Bukembe West",
-              "Kiminini",
-              "Hospital",
-              "Kamukuywa",
-              "Waitaluk",
-              "Sirende",
-              "Township"
-            ]
-          }
+          "name": "Cherang'any",
+          "wards": [
+            "Endebess",
+            "Matumbei",
+            "Motosiet",
+            "Motosiet/ Kachibora",
+            "Sitatunga",
+            "Waitaluk",
+            "Chepsiro/Kiptoror",
+            "Chepkorio",
+            "Chepnyal"
+          ]
+        },
+        {
+          "name": "Kwanza",
+          "wards": [
+            "Kapomboi",
+            "Kwanza",
+            "Kwanza/Kenyenya",
+            "Nabiswa",
+            "Nasyo",
+            "Nyakinyua",
+            "Sinyerere",
+            "Tuwani"
+          ]
+        },
+        {
+          "name": "Endebess",
+          "wards": [
+            "Endebess",
+            "Endebess/Namanjalala",
+            "Matumbei",
+            "Motosiet",
+            "Sitatunga",
+            "Waitaluk",
+            "Chepkorio",
+            "Chepnyal"
+          ]
+        },
+        {
+          "name": "Saboti",
+          "wards": [
+            "Machewa",
+            "Matisi",
+            "Matisi/Makutano",
+            "Matisi/Malaha",
+            "Matisi/Marua",
+            "Matisi/Nabkoi",
+            "Matisi/Naisambu",
+            "Saboti",
+            "Sinyerere"
+          ]
+        },
+        {
+          "name": "Kiminini",
+          "wards": [
+            "Bukembe East",
+            "Bukembe West",
+            "Kiminini",
+            "Hospital",
+            "Kamukuywa",
+            "Waitaluk",
+            "Sirende",
+            "Township"
+          ]
         }
       ]
     },
@@ -2572,101 +2098,81 @@
       "name": "Uasin Gishu",
       "subcounties": [
         {
-          "Ainabkoi": {
-            "coordinates": {
-              "latitude": 0.4352,
-              "longitude": 35.2852
-            },
-            "wards": [
-              "Kapsoya",
-              "Kaptagat",
-              "Kipkenyo",
-              "Ainabkoi/Olare",
-              "Kimumu",
-              "Racecourse",
-              "Huruma"
-            ]
-          },
-          "Kapseret": {
-            "coordinates": {
-              "latitude": 0.4671,
-              "longitude": 35.2979
-            },
-            "wards": [
-              "Langas",
-              "Simat/Kapseret",
-              "Kipkenyo",
-              "Megun",
-              "Ngeria",
-              "Kaptagat",
-              "Kipkenyo North",
-              "Kipkenyo South",
-              "Soy South"
-            ]
-          },
-          "Kesses": {
-            "coordinates": {
-              "latitude": 0.3669,
-              "longitude": 35.5501
-            },
-            "wards": [
-              "Tulwet/Chuiyat",
-              "Kesses",
-              "Tarakwa",
-              "Racecourse",
-              "Cheptiret/Kipchamo",
-              "Tulwet/ Kapkoi",
-              "Sergoit",
-              "Mosocho"
-            ]
-          },
-          "Moiben": {
-            "coordinates": {
-              "latitude": 0.5185,
-              "longitude": 35.5282
-            },
-            "wards": [
-              "Kimumu",
-              "Kapchemutwa",
-              "Sergoit",
-              "Moiben",
-              "Kapkures",
-              "Tembelio",
-              "Karuna/Meibeki"
-            ]
-          },
-          "Soy": {
-            "coordinates": {
-              "latitude": 0.4481,
-              "longitude": 35.4006
-            },
-            "wards": [
-              "Ziwa",
-              "Kuinet/Kapsuswa",
-              "Soy",
-              "Kapkures",
-              "Kipsomba",
-              "Segero/Barsombe",
-              "Segero/Barsombe South",
-              "Kipsinendet",
-              "Kapkonga"
-            ]
-          },
-          "Turbo": {
-            "coordinates": {
-              "latitude": 0.0912,
-              "longitude": 35.2549
-            },
-            "wards": [
-              "Kiplombe",
-              "Tapsagoi",
-              "Kamagut",
-              "Kiplombe",
-              "Kapsaos",
-              "Kiplombe",
-              "Kamagut"
-            ]
-          }
+          "name": "Ainabkoi",
+          "wards": [
+            "Kapsoya",
+            "Kaptagat",
+            "Kipkenyo",
+            "Ainabkoi/Olare",
+            "Kimumu",
+            "Racecourse",
+            "Huruma"
+          ]
+        },
+        {
+          "name": "Kapseret",
+          "wards": [
+            "Langas",
+            "Simat/Kapseret",
+            "Kipkenyo",
+            "Megun",
+            "Ngeria",
+            "Kaptagat",
+            "Kipkenyo North",
+            "Kipkenyo South",
+            "Soy South"
+          ]
+        },
+        {
+          "name": "Kesses",
+          "wards": [
+            "Tulwet/Chuiyat",
+            "Kesses",
+            "Tarakwa",
+            "Racecourse",
+            "Cheptiret/Kipchamo",
+            "Tulwet/ Kapkoi",
+            "Sergoit",
+            "Mosocho"
+          ]
+        },
+        {
+          "name": "Moiben",
+          "wards": [
+            "Kimumu",
+            "Kapchemutwa",
+            "Sergoit",
+            "Moiben",
+            "Kapkures",
+            "Tembelio",
+            "Karuna/Meibeki"
+          ]
+        },
+        {
+          "name": "Soy",
+          "wards": [
+            "Ziwa",
+            "Kuinet/Kapsuswa",
+            "Soy",
+            "Kapkures",
+            "Kipsomba",
+            "Segero/Barsombe",
+            "Segero/Barsombe South",
+            "Kipsinendet",
+            "Kapkonga"
+          ]
+        },
+        {
+          "name": "Turbo",
+          "wards": [
+            "Kiplombe",
+            "Tapsagoi",
+            "Kamagut",
+            "Kiplombe",
+            "Kapsaos",
+            "Kiplombe",
+            "Kamagut"
+          ]
         }
       ]
     },
@@ -2675,48 +2181,34 @@
       "name": "Elgeyo-Marakwet",
       "subcounties": [
         {
-          "Keiyo North": {
-            "coordinates": {
-              "latitude": 0.5182,
-              "longitude": 35.7244
-            },
-            "wards": [
-              "Chepkorio",
-              "Soy North",
-              "Soy South",
-              "Tulwet",
-              "Kaptarakwa"
-            ]
-          },
-          "Keiyo South": {
-            "coordinates": {
-              "latitude": 0.4953,
-              "longitude": 35.4451
-            },
-            "wards": ["Embobut / Embulot", "Kamariny", "Kapchemutwa", "Tambach"]
-          },
-          "Marakwet East": {
-            "coordinates": {
-              "latitude": 0.8759,
-              "longitude": 35.7274
-            },
-            "wards": ["Soy North", "Soy South", "Kapyego", "Sambirir"]
-          },
-          "Marakwet West": {
-            "coordinates": {
-              "latitude": 0.8531,
-              "longitude": 35.5721
-            },
-            "wards": [
-              "Cherang'any / Kipchumwa",
-              "Endo",
-              "Embolot",
-              "Kapkoi",
-              "Kapyego",
-              "Kipipiri",
-              "Sambirir"
-            ]
-          }
+          "name": "Keiyo North",
+          "wards": [
+            "Chepkorio",
+            "Soy North",
+            "Soy South",
+            "Tulwet",
+            "Kaptarakwa"
+          ]
+        },
+        {
+          "name": "Keiyo South",
+          "wards": ["Embobut / Embulot", "Kamariny", "Kapchemutwa", "Tambach"]
+        },
+        {
+          "name": "Marakwet East",
+          "wards": ["Soy North", "Soy South", "Kapyego", "Sambirir"]
+        },
+        {
+          "name": "Marakwet West",
+          "wards": [
+            "Cherang'any / Kipchumwa",
+            "Endo",
+            "Embolot",
+            "Kapkoi",
+            "Kapyego",
+            "Kipipiri",
+            "Sambirir"
+          ]
         }
       ]
     },
@@ -2725,11 +2217,7 @@
       "name": "Nandi",
       "subcounties": [
         {
-          "Aldai": {
-            "coordinates": {
-              "latitude": 0.2272,
-              "longitude": 35.7347
-            },
+        "name":  "Aldai",
             "wards": [
               "Kaptumo-Kaboi",
               "Kabwareng",
@@ -2742,11 +2230,8 @@
               "Kiliboti"
             ]
           },
-          "Chesumei": {
-            "coordinates": {
-              "latitude": 0.1355,
-              "longitude": 35.6129
-            },
+          {
+         "name": "Chesumei",
             "wards": [
               "Kipkaren",
               "Kapsimotwo",
@@ -2757,11 +2242,8 @@
               "Kiptororo"
             ]
           },
-          "Emgwen": {
-            "coordinates": {
-              "latitude": 0.1493,
-              "longitude": 35.3071
-            },
+          {
+        "name":  "Emgwen",
             "wards": [
               "Kapkangani",
               "Koyo-Ndurio",
@@ -2774,11 +2256,8 @@
               "Kamobo-Chepkorio"
             ]
           },
-          "Mosop": {
-            "coordinates": {
-              "latitude": 0.1503,
-              "longitude": 35.1416
-            },
+          {
+         "name": "Mosop",
             "wards": [
               "Kipkaren",
               "Kipsigak",
@@ -2791,11 +2270,8 @@
               "Kipsaos"
             ]
           },
-          "Nandi Hills": {
-            "coordinates": {
-              "latitude": 0.1715,
-              "longitude": 35.2716
-            },
+          {
+        "name":  "Nandi Hills",
             "wards": [
               "Kapsabet",
               "Kilibwoni",
@@ -2808,13 +2284,8 @@
               "Kapkesembe"
             ]
           },
-          "Tinderet": {
-            "coordinates": [
-              {
-                "latitude": -0.1921,
-                "longitude": 35.1357
-              }
-            ],
+          {
+         "name": "Tinderet",
             "wards": [
               "Chemase",
               "Kapsegut",
@@ -2824,7 +2295,6 @@
               "Tindiret"
             ]
           }
-        }
       ]
     },
     {
@@ -2833,12 +2303,7 @@
       "subcounties": [
         {
           "name": "Baringo Central",
-          "coordinates": [
-            {
-              "latitude": 0.5327,
-              "longitude": 35.8794
-            }
-          ],
+
           "wards": [
             "Ewalel/Chapchap",
             "Kabarnet",
@@ -2853,12 +2318,7 @@
         },
         {
           "name": "Baringo North",
-          "coordinates": [
-            {
-              "latitude": 0.4156,
-              "longitude": 36.1255
-            }
-          ],
+
           "wards": [
             "Barwessa",
             "Emining",
@@ -2873,12 +2333,7 @@
         },
         {
           "name": "Baringo South",
-          "coordinates": [
-            {
-              "latitude": 0.3016,
-              "longitude": 35.8407
-            }
-          ],
+
           "wards": [
             "Ilchamus",
             "Kapropok",
@@ -2893,12 +2348,7 @@
         },
         {
           "name": "Eldama Ravine",
-          "coordinates": [
-            {
-              "latitude": 0.0517,
-              "longitude": 35.7324
-            }
-          ],
+
           "wards": [
             "Embobut / Embulot",
             "Ilchan/Lenges",
@@ -2912,12 +2362,7 @@
         },
         {
           "name": "Mogotio",
-          "coordinates": [
-            {
-              "latitude": 0.2585,
-              "longitude": 35.9055
-            }
-          ],
+
           "wards": [
             "Emsos",
             "Kiserian",
@@ -2932,12 +2377,7 @@
         },
         {
           "name": "Tiaty",
-          "coordinates": [
-            {
-              "latitude": 1.0074,
-              "longitude": 36.2006
-            }
-          ],
+
           "wards": [
             "Churo/Amaya",
             "Katikit/Lomut",
@@ -2957,11 +2397,7 @@
       "name": "Laikipia",
       "subcounties": [
         {
-          "Laikipia North": {
-            "coordinates": {
-              "latitude": 0.262159,
-              "longitude": 36.777791
-            },
+         "name": "Laikipia North",
             "wards": [
               "Ng'arua",
               "Umande",
@@ -2972,11 +2408,8 @@
               "Ol-Moran"
             ]
           },
-          "Laikipia East": {
-            "coordinates": {
-              "latitude": 0.435331,
-              "longitude": 37.490475
-            },
+          {
+         "name": "Laikipia East",
             "wards": [
               "Karaba",
               "Sosian",
@@ -2989,11 +2422,8 @@
               "Mukogodo"
             ]
           },
-          "Laikipia West": {
-            "coordinates": {
-              "latitude": 0.174332,
-              "longitude": 36.629047
-            },
+          {
+         "name": "Laikipia West",
             "wards": [
               "Ngobit",
               "Thingithu",
@@ -3004,11 +2434,8 @@
               "Mugogodo West"
             ]
           },
-          "Laikipia Central": {
-            "coordinates": {
-              "latitude": 0.316667,
-              "longitude": 36.933333
-            },
+          {
+         "name": "Laikipia Central",
             "wards": [
               "Kimanjo",
               "Mugumo/ Rugongo",
@@ -3019,11 +2446,8 @@
               "Kinamba"
             ]
           },
-          "Nyahururu": {
-            "coordinates": {
-              "latitude": "0.031667",
-              "longitude": "36.371389"
-            },
+          {
+        "name":  "Nyahururu",
             "wards": [
               "Githioro",
               "Kirimukuyu",
@@ -3036,7 +2460,7 @@
               "Solai"
             ]
           }
-        }
+        
       ]
     },
     {
@@ -3044,148 +2468,532 @@
       "name": "Nakuru",
       "subcounties": [
         {
-            "name": "Nakuru Town East",
-            "coordinates": {
-              "latitude": "-0.2813",
-              "longitude": "36.0676"
-            },
-            "wards": [
-              "Kapkures", "Rhonda", "Kivumbini", "Flamingo", "Kwa Rhonda", "London", "Biashara", "Kwa Muhia"
-            ]
-          },
-          {
-            "name": "Nakuru Town West",
-            "coordinates": {
-              "latitude": "-0.2894",
-              "longitude": "36.0724"
-            },
-            "wards": [
-              "Barut", "Kabatini", "Kaptembwo", "Kapkures", "Lake View", "Manga", "Menengai", "Nakuru West", "Shabaab"
-            ]
-          },
-          {
-            "name": "Njoro",
-            "coordinates": {
-              "latitude": "-0.2787",
-              "longitude": "35.9661"
-            },
-            "wards": [
-              "Elburgon", "Kabazi", "Lare", "Mauche", "Mau Narok", "Nessuit", "Njoro", "Ravine"
-            ]
-          },
-          {
-            "name": "Molo",
-            "coordinates": {
-              "latitude": "-0.2316",
-              "longitude": "35.7277"
-            },
-            "wards": [
-              "Elburgon", "Kihingo", "Molo", "Mariashoni", "Turi", "Sacho", "Tinet", "Endarasha"
-            ]
-          },
-          {
-            "name": "Gilgil",
-            "coordinates": {
-              "latitude": "-0.5397",
-              "longitude": "36.3086"
-            },
-            "wards": [
-              "Elementaita", "Gilgil", "Kamara", "Kongasis", "Malewa West", "Malewa East", "Mbaruk/Eburu", "Murindat"
-            ]
-          },
-          {
-            "name": "Naivasha",
-            "coordinates": {
-              "latitude": "-0.7063",
-              "longitude": "36.4351"
-            },
-            "wards": [
-              "Biashara", "Hell's Gate", "Lake View", "Maiella", "Mai Mahiu", "Mairowa", "Olkaria", "Viwandani"
-            ]
-          },
-          {
-            "name": "Kuresoi North",
-            "coordinates": {
-              "latitude": "-0.1741",
-              "longitude": "35.7468"
-            },
-            "wards": [
-              "Kamara", "Kamara", "Keringet", "Kiptororo", "Mariashoni/Ndanai", "Mau Summit", "Sirikwa", "Tulon", "Tunyai"
-            ]
-          },
-          {
-            "name": "Kuresoi South",
-            "coordinates": {
-              "latitude": "-0.3241",
-              "longitude": "35.8211"
-            },
-            "wards": [
-              "Kamara", "Kamara", "Kiptororo", "Kuresoi", "Lembus", "Nessuit", "Nyakio", "Tinet", "Tuiyobei"
-            ]
-          },{
-            "name": "Bahati",
-            "coordinates": {
-              "latitude": -0.187917,
-              "longitude": 36.13764
-            },
-            "wards":[
-                "Bahati","Flamingo","Kiamaina","Lanet/Umoja","Mbaruk/Eburu","Menengai","Moi Ndabi","Njoro","Sobea"
-            ]
-          },
-          {
-            "name": "Rongai",
-            "coordinates": {
-              "latitude": "-0.2715",
-              "longitude": "36.1665"
-            },
-            "wards": [
-              "Menengai East",
-              "Menengai West",
-              "Visoi",
-              "Kabarak University",
-              "Keringet",
-              "Solai"
-            ]
-          },
-          {
-            "name": "Subukia",
-            "coordinates": {
-              "latitude": "-0.4643",
-              "longitude": "36.0407"
-            },
-            "wards": [
-              "Subukia East",
-              "Subukia West",
-              "Waseges",
-              "Kabazi",
-              "Flamingo",
-              "Turi"
-            ]
-          }
-          
-          
-
+          "name": "Nakuru Town East",
+          "wards": [
+            "Kapkures",
+            "Rhonda",
+            "Kivumbini",
+            "Flamingo",
+            "Kwa Rhonda",
+            "London",
+            "Biashara",
+            "Kwa Muhia"
+          ]
+        },
+        {
+          "name": "Nakuru Town West",
+          "wards": [
+            "Barut",
+            "Kabatini",
+            "Kaptembwo",
+            "Kapkures",
+            "Lake View",
+            "Manga",
+            "Menengai",
+            "Nakuru West",
+            "Shabaab"
+          ]
+        },
+        {
+          "name": "Njoro",
+          "wards": [
+            "Elburgon",
+            "Kabazi",
+            "Lare",
+            "Mauche",
+            "Mau Narok",
+            "Nessuit",
+            "Njoro",
+            "Ravine"
+          ]
+        },
+        {
+          "name": "Molo",
+          "wards": [
+            "Elburgon",
+            "Kihingo",
+            "Molo",
+            "Mariashoni",
+            "Turi",
+            "Sacho",
+            "Tinet",
+            "Endarasha"
+          ]
+        },
+        {
+          "name": "Gilgil",
+          "wards": [
+            "Elementaita",
+            "Gilgil",
+            "Kamara",
+            "Kongasis",
+            "Malewa West",
+            "Malewa East",
+            "Mbaruk/Eburu",
+            "Murindat"
+          ]
+        },
+        {
+          "name": "Naivasha",
+          "wards": [
+            "Biashara",
+            "Hell's Gate",
+            "Lake View",
+            "Maiella",
+            "Mai Mahiu",
+            "Mairowa",
+            "Olkaria",
+            "Viwandani"
+          ]
+        },
+        {
+          "name": "Kuresoi North",
+          "wards": [
+            "Kamara",
+            "Kamara",
+            "Keringet",
+            "Kiptororo",
+            "Mariashoni/Ndanai",
+            "Mau Summit",
+            "Sirikwa",
+            "Tulon",
+            "Tunyai"
+          ]
+        },
+        {
+          "name": "Kuresoi South",
+          "wards": [
+            "Kamara",
+            "Kamara",
+            "Kiptororo",
+            "Kuresoi",
+            "Lembus",
+            "Nessuit",
+            "Nyakio",
+            "Tinet",
+            "Tuiyobei"
+          ]
+        },
+        {
+          "name": "Bahati",
+          "wards": [
+            "Bahati",
+            "Flamingo",
+            "Kiamaina",
+            "Lanet/Umoja",
+            "Mbaruk/Eburu",
+            "Menengai",
+            "Moi Ndabi",
+            "Njoro",
+            "Sobea"
+          ]
+        },
+        {
+          "name": "Rongai",
+          "wards": [
+            "Menengai East",
+            "Menengai West",
+            "Visoi",
+            "Kabarak University",
+            "Keringet",
+            "Solai"
+          ]
+        },
+        {
+          "name": "Subukia",
+          "wards": [
+            "Subukia East",
+            "Subukia West",
+            "Waseges",
+            "Kabazi",
+            "Flamingo",
+            "Turi"
+          ]
+        }
       ]
     },
     {
       "id": 33,
       "name": "Narok",
-      "subcounties": []
+      "subcounties": [
+        {
+          "name": "Narok North",
+          "wards": [
+            "Ololulung'a",
+            "Melili",
+            "Olmaroroi",
+            "Nkareta",
+            "Ilmotiook",
+            "Ildamat",
+            "Mosiro",
+            "Sogoo",
+            "Naikarra",
+            "Majimoto"
+          ]
+        },
+        {
+          "name": "Narok South",
+          "wards": [
+            "Naroosura",
+            "Olpusimoru",
+            "Oloololo",
+            "Melelo",
+            "Ololulunga",
+            "Mara",
+            "Siana"
+          ]
+        },
+        {
+          "name": "Narok East",
+          "wards": [
+            "Ildamat",
+            "Ilkerin",
+            "Kaputiei North",
+            "Kaputiei South",
+            "Keekonyokie",
+            "Mosiro",
+            "Naroosura",
+            "Olpusimoru"
+          ]
+        },
+        {
+          "name": "Narok West",
+          "wards": [
+            "Enoosokon",
+            "Mara",
+            "Olchorro",
+            "Olposimoru",
+            "Sogoo",
+            "Sorobi",
+            "Suswa"
+          ]
+        },
+        {
+          "name": "Transmara West",
+          "wards": [
+            "Tagorian",
+            "Nkoben",
+            "Oriang",
+            "Esoit",
+            "Olenkurungu",
+            "Ilkerin",
+            "Ololulunga",
+            "Tegerer",
+            "Kapsasian"
+          ]
+        },
+        {
+          "name": "Transmara East",
+          "wards": [
+            "Kilgoris Central",
+            "Kilgoris North",
+            "Kimintet",
+            "Kapsasian",
+            "Kilgoris South",
+            "Angata Barikoi",
+            "Shankoe",
+            "Entarara"
+          ]
+        }
+      ]
     },
     {
       "id": 34,
       "name": "Kajiado",
-      "subcounties": []
+      "subcounties": [
+        {
+          "name": "Kajiado Central",
+          "wards": [
+            "Dalalekutuk",
+            "Imbirrikani",
+            "Ilbisil",
+            "Kajiado Central",
+            "Kajiado North",
+            "Kiserian",
+            "Magadi",
+            "Matapato North",
+            "Matapato South",
+            "Mosiro"
+          ]
+        },
+        {
+          "name": "Kajiado East",
+          "wards": [
+            "Kaputiei North",
+            "Kaputiei South",
+            "Kitengela",
+            "Oloosirkon/Sholinke",
+            "Ongata Rongai",
+            "Purko",
+            "Saikeri/Maasai Lodge"
+          ]
+        },
+        {
+          "name": "Kajiado North",
+          "wards": [
+            "Entonet/Lenkisi",
+            "Ewuaso Oonkidong'i",
+            "Iloodokilani",
+            "Iloodokilani East",
+            "Keekonyokie",
+            "Matapato West",
+            "Olkeri",
+            "Pardamat"
+          ]
+        },
+        {
+          "name": "Kajiado West",
+          "wards": [
+            "Ildamat",
+            "Inkae",
+            "Magadi/Kiserian",
+            "Mosiro/ Oloosirkon",
+            "Ngong",
+            "Ngong Ping",
+            "Purko/ Ngong",
+            "Rongai/ Nkoroi"
+          ]
+        },
+        {
+          "name": "Loitokitok",
+          "wards": [
+            "Dalmas Olkeri",
+            "Isinya",
+            "Kajiado South/ Olchorro",
+            "Kaputiei Central",
+            "Mbirikani/ Eselenkei",
+            "Nkaimurunya",
+            "Oloolaiser",
+            "Oloosuyian/ Nkorombo"
+          ]
+        },
+        {
+          "name": "Mashuuru",
+          "wards": [
+            "Elangata Wuas Ward",
+            "Embulbul Ward",
+            "Entonet/Lenkisi Ward",
+            "Iloodokilani Ward",
+            "Mashuuru Ward",
+            "Mbirikani Ward",
+            "Mbirikani/Amboseli Ward",
+            "Oloitokitok Ward",
+            "Rombo Ward"
+          ]
+        },
+        {
+          "name": "Isinya",
+          "wards": [
+            "Ilbissil Ward",
+            "Imaroro Ward",
+            "Kajiado Central Ward",
+            "Kajiado East Ward",
+            "Kajiado North Ward",
+            "Kajiado West Ward",
+            "Keekonyokie Ward",
+            "Kiserian Ward",
+            "Matapato South Ward",
+            "Mosiro Ward",
+            "Oloosirkon/Sholinke Ward",
+            "Purko Ward"
+          ]
+        }
+      ]
     },
     {
       "id": 35,
       "name": "Kericho",
-      "subcounties": []
+      "subcounties": [
+        {
+          "name": "Ainamoi",
+          "wards": [
+            "Ainamoi",
+            "Kapsoit",
+            "Kipchebor",
+            "Kipchimchim",
+            "Kipsaos",
+            "Koiwa",
+            "Soin"
+          ]
+        },
+        {
+          "name": "Belgut",
+          "wards": [
+            "Kabianga",
+            "Kapkatet",
+            "Kapsuser",
+            "Kedowa/Kimugul",
+            "Tendeno/Sorget",
+            "Chepseon",
+            "Kiplelje",
+            "Kipreres",
+            "Koiwa/Kipchimchim",
+            "Siongiroi",
+            "Chepkorio",
+            "Kapsoit"
+          ]
+        },
+        {
+          "name": "Bureti",
+          "wards": [
+            "Kapkatet",
+            "Chemaner",
+            "Cheplanget",
+            "Kisiara",
+            "Kedowa",
+            "Kamasian",
+            "Kipreres",
+            "Litein",
+            "Tebesonik",
+            "Ainamoi"
+          ]
+        },
+        {
+          "name": "Kipkelion East",
+          "wards": [
+            "Kedowa/Kimugul",
+            "Kapsoit",
+            "Kipchebor",
+            "Kipchimchim",
+            "Kiptenden",
+            "Koiwa/Kipchimchim",
+            "Kapsaos",
+            "Siongiroi",
+            "Tebesonik",
+            "Kipkelion",
+            "Tendeno/Sorget"
+          ]
+        },
+        {
+          "name": "Kipkelion West",
+          "wards": [
+            "Chepchabas",
+            "Kapsagom",
+            "Kunyak",
+            "Letuva",
+            "Londiani",
+            "Sosiot",
+            "Tuiyobei",
+            "Tunoi",
+            "Chilchila",
+            "Kedowa/Kimugul",
+            "Sorget/Kipchimchim"
+          ]
+        },
+        {
+          "name": "Soin Sigowet",
+          "wards": [
+            "Sigowet",
+            "Cheptenye",
+            "Kapkatet",
+            "Kapletundo",
+            "Soliat",
+            "Koiwa/Kipchimchim",
+            "Kedowa",
+            "Chepseon",
+            "Roret/Kamureito",
+            "Chemagel",
+            "Chemaner"
+          ]
+        }
+      ]
     },
     {
       "id": 36,
       "name": "Bomet",
-      "subcounties": []
+      "subcounties": [
+        {
+          "name": "Sotik",
+          "wards": [
+            "Chepchabas",
+            "Cheplanget",
+            "Cheptalal",
+            "Cheptenye",
+            "Chesoen",
+            "Chetiret",
+            "Kapletundo",
+            "Kapkugerwet",
+            "Kembu",
+            "Kipreres",
+            "Lesirwa",
+            "Longisa",
+            "Maraba",
+            "Memengwet",
+            "Mulot",
+            "Ndanai",
+            "Rongena"
+          ]
+        },
+        {
+          "name": "Bomet Central",
+          "wards": [
+            "Boito",
+            "Chebunyo",
+            "Cheptalal",
+            "Kamureito",
+            "Kembu",
+            "Kong’asis",
+            "Longisa",
+            "Merigi",
+            "Mulot",
+            "Ndarawetta",
+            "Singorwet"
+          ]
+        },
+        {
+          "name": "Bomet East",
+          "wards": [
+            "Cheboin",
+            "Chebwagan",
+            "Chemagel",
+            "Chemakwet",
+            "Chepchoge",
+            "Chesoen",
+            "Cheptalal",
+            "Kapkures",
+            "Kembu",
+            "Longisa",
+            "Mogogosiek",
+            "Ndanai/abosi",
+            "Singorwet"
+          ]
+        },
+        {
+          "name": "Chepalungu",
+          "wards": [
+            "Chebunyo",
+            "Cheptalal",
+            "Cheptenye",
+            "Kaplelartet",
+            "Kapngetuny",
+            "Kimulot",
+            "Kipreres",
+            "Kuresoi",
+            "Lembus",
+            "Mukinyai",
+            "Ndanai",
+            "Siongiroi",
+            "Sigor"
+          ]
+        },
+        {
+          "name": "Konoin",
+          "wards": [
+            "Chesoen/Kiptororo",
+            "Embomos",
+            "Kaptebeswag",
+            "Kimulot",
+            "Kipreres",
+            "Kitoben",
+            "Lelaitich",
+            "Mogogosiek",
+            "Mogotio",
+            "Mukutan",
+            "Sigor",
+            "Silibwet"
+          ]
+        }
+      ]
     },
     {
       "id": 37,
