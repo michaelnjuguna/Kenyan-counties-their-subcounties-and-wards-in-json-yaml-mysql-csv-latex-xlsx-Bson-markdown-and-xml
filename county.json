@@ -2499,91 +2499,54 @@
       {
         "subcounty_name": "Emuhaya",
         "wards": [
+          "North East Bunyore",
           "Central Bunyore",
-          "East Wanga",
-          "Luanda",
-          "South Maragoli",
           "West Bunyore"
         ]
       },
       {
         "subcounty_name": "Hamisi",
-        "wards": ["Gisambai", "Shiru", "Tambua", "Tiriki East", "Tiriki West"]
+        "wards": [
+          "Shiru",
+          "Gisambai",
+          "Shamakhokho",
+          "Banja",
+          "Muhudi",
+          "Tambaa",
+          "Jepkoyai"
+        ]
       },
       {
         "subcounty_name": "Sabatia",
-        "wards": ["Chavakali", "Chemuche", "North Maragoli", "Wodanga"]
+        "wards": [
+          "Lyaduywa/Izava",
+          "West Sabatia",
+          "Chavakali",
+          "North Maragoli",
+          "Wodanga",
+          "Busali"
+        ]
       },
       {
         "subcounty_name": "Vihiga",
         "wards": [
+          "Lugaga-Wamuluma",
+          "South Maragoli",
           "Central Maragoli",
-          "Gisambai",
-          "Luanda South",
-          "Mungoma",
-          "North East Bunyore",
-          "Shamakhokho",
-          "South East Bunyore"
+          "Mungoma"
         ]
       },
       {
         "subcounty_name": "Luanda",
         "wards": [
           "Luanda Township",
-          "Luanda South",
           "Wemilabi",
-          "Wesuya",
-          "Majengo",
-          "Central Maragoli",
-          "North Maragoli",
-          "South Maragoli",
-          "Mungoma"
-        ]
-      },
-      {
-        "subcounty_name": "South Maragoli",
-        "wards": [
-          "Mungoma",
-          "Ndivisi",
-          "Lugaga-Wamuluma",
-          "Chekulo",
-          "Mugai",
-          "Wemilabi"
-        ]
-      },
-      {
-        "subcounty_name": "North Maragoli",
-        "wards": [
-          "Busali",
-          "Lugaga-Nandini",
-          "Mungoma North",
-          "Munyama",
-          "Malaba North",
-          "Malaba South"
-        ]
-      },
-      {
-        "subcounty_name": "Central Maragoli",
-        "wards": [
-          "Sena",
-          "Tambua",
-          "Gisambai",
-          "Banja",
-          "Wodanga",
-          "Central Maragoli"
-        ]
-      },
-      {
-        "subcounty_name": "West Maragoli",
-        "wards": [
-          "Mumboha",
-          "Soutie",
-          "Mungoma South",
-          "Muhudu",
-          "Tsundu",
-          "Esiira"
-        ]
+          "Mwibona",
+          "Luanda South",
+          "Emabungo"
+          ]
       }
+    
     ]
   },
   {
