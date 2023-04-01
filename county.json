@@ -6,71 +6,62 @@
         {
           "subcounty_name": "Changamwe",
           "wards": [
-            "Airport",
-            "Chaani",
-            "Changamwe",
-            "Jomvu Kuu",
-            "Magongo",
-            "Mikindani",
-            "Miritini",
             "Port Reitz",
-            "Ziwa la Ng'ombe"
+            "Kipevu",
+            "Airport",
+            "Miritini",
+            "Chaani"
           ]
         },
         {
           "subcounty_name": "Jomvu",
           "wards": [
-            "Bamburi",
-            "Kiembeni",
-            "Kisimani",
-            "Majaoni",
-            "Miritini",
-            "Nyerere",
-            "Ziwa la Ng'ombe"
+            "Jomvu Kuu",
+            "Magongo",
+            "Mikindani",
+
           ]
         },
         {
           "subcounty_name": "Kisauni",
           "wards": [
-            "Bangladesh",
-            "Frere Town",
+            "Mjambere",
             "Junda",
-            "Kisauni",
+            "Bamburi",
+            "Mwakirunge",
+            "Mtopanga",
             "Magogoni",
-            "Mjambere"
+            "Shanzu",
           ]
         },
         {
           "subcounty_name": "Likoni",
           "wards": [
+            "Mtongwe",
+            "Shika adabu",
             "Bofu",
             "Likoni",
-            "Mabokoni",
-            "Majengo",
-            "Makadara",
-            "Mikindani",
-            "Shikaadabu"
+            "Timbwani"
           ]
         },
         {
           "subcounty_name": "Mvita",
           "wards": [
-            "Ganjoni/Shimanzi",
-            "Kadzandani",
-            "Kizingo",
-            "Majengo",
             "Mji wa Kale/Makadara",
-            "Mombasa Central",
-            "Tudor"
+            "Tudor",
+            "Tononoka",
+            "Ganjoni/Shimanzi",
+            "Majengo"
+          
           ]
         },
         {
           "subcounty_name": "Nyali",
           "wards": [
             "Frere Town",
-            "Kongowea",
+            "Ziwa la Ng'ombe",
             "Mkomani",
-            "Nyali",
+            "Kongowea",
             "Ziwani/Kadzandani"
           ]
         }
