@@ -1208,71 +1208,42 @@
     "county_code": 20,
     "county_name": "Kirinyaga",
     "subcounties": [
-      {
-        "subcounty_name": "Kirinyaga East",
-        "wards": [
-          "Kithure",
-          "Kianjiru",
-          "Kabare",
-          "Gathambi",
-          "Ngariama",
-          "Kariti",
-          "Ngurubani",
-          "Kiamutugu"
-        ]
-      },
-      {
-        "subcounty_name": "Kirinyaga West",
-        "wards": [
-          "Kagumo",
-          "Kiamwathi",
-          "Kiaragana",
-          "Mahianyu",
-          "Kianyaga",
-          "Kabiyet",
-          "Kanyekini"
-        ]
-      },
-      {
-        "subcounty_name": "Mwea East",
-        "wards": [
-          "Makutano/ Kagaari South",
-          "Wamumu",
-          "Kangai",
-          "Kangai",
-          "Kangari East",
-          "Teberer",
-          "Mwea West",
-          "Mwea East",
-          "Mbeti North"
-        ]
-      },
-      {
-        "subcounty_name": "Mwea West",
-        "wards": [
-          "Kabare",
-          "Kanyekini",
-          "Kangai",
-          "Kagio",
-          "Nginda",
-          "Mutithi",
-          "Mutira",
-          "Nyangati",
-          "Mbeti South"
-        ]
-      },
+    
       {
         "subcounty_name": "Kirinyaga Central",
         "wards": [
-          "Kerugoya",
           "Mutira",
-          "Kiamutugu",
-          "Kutus",
-          "Inoi",
-          "Kianyaga",
-          "Kiangai",
-          "Baragwi",
-          "Ngariama"
+          "Kanyekini",
+          "Kerugoya",
+          "Inoi"
+          ]
+      },
+      {
+        "subcounty_name": "Mwea",
+        "wards": [
+          "Mutithi",
+          "Kangai",
+          "Wamumu",
+          "Nyangati",
+          "Murindiko",
+          "Gathigiriri",
+          "Teberer",
+          "Thiba"
+          ]
+      },{
+        "subcounty_name":"Gichugu",
+        "wards": [
+          "Kabare Baragwi",
+          "Njukiini",
+          "Ngariama",
+          "Karumandi"
+          ]
+      },{
+        "subcounty_name":"Ndia",
+        "wards": [
+          "Mukure",
+          "Kiine",
+          "Kariti"
         ]
       }
     ]
