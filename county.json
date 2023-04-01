@@ -717,52 +717,42 @@
         "subcounty_name": "Manyatta",
 
         "wards": [
-          "Kithimu",
           "Ruguru/Ngandori",
-          "Gaturi/South",
-          "Makengi",
-          "Kagaari South",
-          "Kagaari North",
-          "Nyangwa",
-          "Kiambere"
+          "Kithimu",
+          "Nginda",
+          "Mbeti North",
+          "Kirimari",
+          "Gaturi South"
         ]
       },
       {
         "subcounty_name": "Runyenjes",
 
         "wards": [
+          "Gaturi North",
+          "Kagaari South",
+          "Kagaari North",
+          "Central Ward",
           "Kyeni North",
-          "Kyeni South",
-          "Karurumo/Kanyangi",
-          "Kirimari",
-          "Kabuguri",
-          "Kigari",
-          "Nginda",
-          "Mwea/Mitunguu"
+          "Kyeni South"
         ]
       },
       {
         "subcounty_name": "Mbeere North",
 
         "wards": [
-          "Muminji",
           "Nthawa",
-          "Mbeti South",
-          "Muminji South",
-          "Gategi",
-          "Mbeere",
-          "Muminji North",
-          "Mbeti North"
+          "Muminji",
+          "Evurore"
         ]
       },
       {
         "subcounty_name": "Mbeere South",
 
         "wards": [
-          "Mwea Constituency",
-          "Wachoro/Ambo",
-          "Kagaari Central",
-          "Gitaru",
+          "Mwea",
+          "Amakim",
+          "Mbeti South",
           "Mavuria",
           "Kiambere"
         ]
