@@ -1699,67 +1699,23 @@
       {
         "subcounty_name": "Laikipia North",
         "wards": [
-          "Ng'arua",
-          "Umande",
-          "Segera",
-          "Kabati",
-          "Makurian",
-          "Kimanjo",
-          "Ol-Moran"
+          "Sosian","Segera", "Mugogodo West" , "Mugogodo East"
         ]
       },
       {
         "subcounty_name": "Laikipia East",
         "wards": [
-          "Karaba",
-          "Sosian",
-          "Segera",
-          "Segera/ Rumuruti",
-          "Lolldaiga",
-          "Lolomarik",
-          "Salama",
-          "Wiyumiririe",
-          "Mukogodo"
+          "Ngobit", "Tigithi", "Thingithu","Nanyuki"," Umande"
         ]
       },
       {
         "subcounty_name": "Laikipia West",
         "wards": [
-          "Ngobit",
-          "Thingithu",
-          "Igwamiti",
-          "Marmanet",
-          "Rumuruti Township",
-          "Umande/ Mithiga",
-          "Mugogodo West"
-        ]
-      },
-      {
-        "subcounty_name": "Laikipia Central",
-        "wards": [
-          "Kimanjo",
-          "Mugumo/ Rugongo",
-          "Matanya",
-          "Doldol",
-          "Ngobit",
-          "Makindu",
-          "Kinamba"
-        ]
-      },
-      {
-        "subcounty_name": "Nyahururu",
-        "wards": [
-          "Githioro",
-          "Kirimukuyu",
-          "Nyahururu East",
-          "Nyahururu West",
-          "Mairo Inya",
-          "Gatero",
-          "Milangine",
-          "Leshau Pondo",
-          "Solai"
+          "Ol-Moran", "Rumuruti", "Township ","Githiga", "Marmanet", "Igwamiti Salama"
         ]
       }
+  
+    
     ]
   },
   {
