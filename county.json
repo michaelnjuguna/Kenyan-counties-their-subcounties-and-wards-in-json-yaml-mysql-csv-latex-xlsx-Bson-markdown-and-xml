@@ -3974,24 +3974,42 @@
       {
         "subcounty_name": "Westlands",
         "wards": [
-          "Karura",
-          "Parklands/Highridge",
           "Kitisuru",
+          "Parklands/Highridge",
+          "Karura",
           "Kangemi",
           "Mountain View"
-        ]
+          ]
       },
       {
         "subcounty_name": "Dagoretti North",
-        "wards": ["Kawangware", "Kilimani", "Gatina", "Kileleshwa", "Kabiro"]
+        "wards": [
+          "Kilimani",
+          "Kawangware",
+          "Gatina",
+          "Kileleshwa",
+          "Kabiro"
+          ]
       },
       {
         "subcounty_name": "Dagoretti South",
-        "wards": ["Uthiru", "Waithaka", "Riruta", "Ngando", "Mutu-Ini"]
+        "wards": [
+          "Mutu-Ini",
+          "Ngando",
+          "Riruta",
+          "Uthiru/Ruthimitu",
+          "Waithaka"
+          ]
       },
       {
         "subcounty_name": "Lang'ata",
-        "wards": ["Nyayo Highrise", "Nairobi West", "South C", "Karen"]
+        "wards": [
+          "Karen",
+          "Nairobi West",
+          "Mugumu-Ini",
+          "South C",
+          "Nyayo Highrise"
+          ]
       },
       {
         "subcounty_name": "Kibra",
@@ -4009,13 +4027,13 @@
           "Kahawa West",
           "Roysambu",
           "Githurai",
-          "Kahawa west",
+          "Kahawa",
           "Zimmerman"
         ]
       },
       {
         "subcounty_name": "Kasarani",
-        "wards": ["Kamulu", "Njiru", "Clay City", "Mwiki", "Ruai"]
+        "wards": ["Kasarani", "Njiru", "Clay City", "Mwiki", "Ruai"]
       },
       {
         "subcounty_name": "Ruaraka",
@@ -4024,7 +4042,7 @@
           "Korogocho",
           "Lucky Summer",
           "Mathare North",
-          "Babadogo"
+          "Baba Dogo"
         ]
       },
       {
@@ -4052,7 +4070,7 @@
         "Wards": [
           "Kayole North",
           "Kayole Central",
-          "Chokaa",
+          "Kariobangi South",
           "Komarock",
           "Matopeni / Spring Valley"
         ]
@@ -4069,27 +4087,27 @@
       },
       {
         "Sub-county": "Embakasi West",
-        "Wards": ["Umoja 1", "Umoja 2", "Mowlem ", "Kariobangi south"]
+        "Wards": ["Umoja 1", "Umoja 2", "Mowlem ", "Kariobangi south","Maringo/ Hamza"]
       },
       {
         "Sub-county": "Makadara",
-        "Wards": ["Maringo", "Viwandani", "Harambee", "Hamza", "Makongeni"]
+        "Wards": [ "Viwandani", "Harambee",  "Makongeni","Pumwani","Eastleigh North"]
       },
       {
         "Sub-county": "Kamukunji",
         "Wards": [
-          "Eastleigh North",
           "Eastleigh South",
-          "Pumwani",
+          "Nairobi Central",
           "Airbase",
-          "California"
+          "California",
+          "Mgara"
         ]
       },
       {
         "Sub-county": "Starehe",
         "Wards": [
           "Nairobi South",
-          "Nairobi Central",
+        "Hospital",
           "Ngara",
           "Pangani",
           "Landimawe",
