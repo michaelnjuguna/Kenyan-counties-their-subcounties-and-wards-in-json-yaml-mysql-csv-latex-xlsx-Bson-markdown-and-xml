@@ -2343,152 +2343,123 @@
       {
         "subcounty_name": "Butere",
         "wards": [
-          "Marama Central",
-          "Matungu",
           "Marama West",
-          "Marama North",
+          "Marama Central",
           "Marenyo-Shianda",
-          "Musikoma"
-        ]
+          "Maram North",
+          "Marama South"
+          ]
       },
       {
         "subcounty_name": "Ikolomani",
         "wards": [
-          "Isukha North",
-          "Isukha Central",
-          "Isukha South",
-          "Lirhanda",
-          "Shamberere"
-        ]
+          "Idakho South",
+          "Idakho East",
+          "Idakho North",
+          "Idakho Central"
+          ]
       },
       {
         "subcounty_name": "Khwisero",
         "wards": [
-          "Butali/Chegulo",
-          "Kabras",
-          "Lumboka/ Koyonzo",
-          "Mukhonje",
-          "Mumias Central",
-          "Mumias East",
-          "Mumias North",
-          "Mumias South",
-          "Mumias West"
-        ]
+          "Kisa North",
+          "Kisa East",
+          "Kisa West",
+          "Kisa Central"
+          ]
       },
       {
         "subcounty_name": "Lurambi",
         "wards": [
-          "Central Maragoli",
-          "East Wanga",
-          "North East Wanga",
-          "North West Wanga",
-          "South East Wanga",
-          "South West Wanga"
-        ]
+          "Butsotso East",
+          "Butsotso South",
+          "Butsotso Central",
+          "Sheywe",
+          "Mahiakalo",
+          "Shirere"
+          ]
       },
       {
         "subcounty_name": "Likuyani",
         "wards": [
-          "Butere Town",
-          "Kongoni",
           "Likuyani",
           "Sango",
-          "Soy",
-          "Tambaa"
-        ]
+          "Kongoni",
+          "Nzoia",
+          "Sinoko"
+          ]
       },
       {
         "subcounty_name": "Malava",
         "wards": [
-          "East Kabras",
           "West Kabras",
-          "Kabras Sugar",
-          "North Kabras",
-          "South Kabras",
-          "South East Kabras"
-        ]
+          "Chemuche East",
+          "Kabras",
+          "Butali/Chegulo",
+          "Manda-Shivanga",
+          "Shirugu-Mugai",
+          "South Kabras"
+          ]
       },
       {
         "subcounty_name": "Matungu",
         "wards": [
+          "Koyonzo",
           "Kholera",
-          "Manda-Shivanga",
+          "Khalaba",
           "Mayoni",
-          "Namamali",
-          "Nang'oli",
-          "Nang'eni"
-        ]
+          "Namamali"
+          ]
       },
       {
         "subcounty_name": "Mumias East",
         "wards": [
-          "Etenje",
-          "Khalaba",
-          "Mumias Central",
-          "Mumias North",
-          "Mumias South",
-          "Mumias West",
-          "Namulungu",
-          "Shianda",
-          "Siboti"
-        ]
+          "Lusheya/Lubinu",
+          "Malaha/Isongo/Makunga",
+          "East Wanga"
+          ]
       },
       {
         "subcounty_name": "Mumias West",
         "wards": [
-          "Bukhungu",
-          "Butali/Chegulo",
-          "East Wanga",
-          "Lurambi",
-          "Lusheya/Lubinu",
-          "Lwandeti",
-          "Shirugu-Mugai",
-          "South Maragoli"
-        ]
+          "Mumias Central",
+          "Mumias North",
+          "Etenje",
+          "Musanda"
+          ]
       },
       {
         "subcounty_name": "Navakholo",
         "wards": [
-          "Butali/Chegulo Ward",
-          "Elukhambi Ward",
-          "Ingostse-Mathia Ward",
-          "Isukha North Ward",
-          "Isukha South Ward",
-          "Lurambi Ward",
-          "Lusheya/Lubinu Ward",
-          "Mbakalo Ward",
-          "Mugai/West Ward",
-          "Sango Ward",
-          "Shirugu-Mugai Ward"
-        ]
+          "Ingostse-Mathia",
+          "Shinoyi-Shikomari",
+          "Esumeyia",
+          "Bunyala West",
+          "Bunyal East",
+          "Bunyala Central"
+          ]
       },
       {
         "subcounty_name": "Lugari",
         "wards": [
-          "Chekalini Ward",
-          "Chevaywa Ward",
-          "Ikolomani Ward",
-          "Isukha Ward",
-          "Lumakanda Ward",
-          "Mautuma Ward",
-          "Mumboha/Butali Ward",
-          "Musikoma Ward"
-        ]
+          "Mautuma",
+          "Lugari",
+          "Lumakanda",
+          "Chekalini",
+          "Chevaywa",
+          "Lawandeti"
+          ]
       },
       {
         "subcounty_name": "Shinyalu",
         "wards": [
-          "Isukha Central Ward",
-          "Isukha South East Ward",
-          "Isukha North East Ward",
-          "Isukha West Ward",
-          "Marama West Ward",
-          "Marama Central Ward",
-          "Marama North Ward",
-          "Murhanda Ward",
-          "Shinoya Ward",
-          "Shinyalu/Ikolomani Ward"
-        ]
+          "Mautuma",
+          "Lugari",
+          "Lumakanda",
+          "Chekalini",
+          "Chevaywa",
+          "Lawandeti"
+          ]
       }
     ]
   },
