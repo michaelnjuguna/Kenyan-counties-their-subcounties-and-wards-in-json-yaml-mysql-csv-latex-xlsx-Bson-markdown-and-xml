@@ -1496,78 +1496,37 @@
       {
         "subcounty_name": "Ainabkoi",
         "wards": [
-          "Kapsoya",
-          "Kaptagat",
-          "Kipkenyo",
-          "Ainabkoi/Olare",
-          "Kimumu",
-          "Racecourse",
-          "Huruma"
+          "Kapsoya","Kaptagat","Ainabkoi/Olare"
         ]
       },
       {
         "subcounty_name": "Kapseret",
         "wards": [
-          "Langas",
-          "Simat/Kapseret",
-          "Kipkenyo",
-          "Megun",
-          "Ngeria",
-          "Kaptagat",
-          "Kipkenyo North",
-          "Kipkenyo South",
-          "Soy South"
+          "Simat/Kapseret","Kipkenyo","Ngeria","Megun","Langas"
         ]
       },
       {
         "subcounty_name": "Kesses",
         "wards": [
-          "Tulwet/Chuiyat",
-          "Kesses",
-          "Tarakwa",
-          "Racecourse",
-          "Cheptiret/Kipchamo",
-          "Tulwet/ Kapkoi",
-          "Sergoit",
-          "Mosocho"
+        "Racecourse","Cheptiret/Kipchamo","Tulwet/Chuiyat","Tarakwa"
         ]
       },
       {
         "subcounty_name": "Moiben",
         "wards": [
-          "Kimumu",
-          "Kapchemutwa",
-          "Sergoit",
-          "Moiben",
-          "Kapkures",
-          "Tembelio",
-          "Karuna/Meibeki"
+          "Tembelio","Sergoit","Karuna/Meibeki","Moiben","Kimumu"
         ]
       },
       {
         "subcounty_name": "Soy",
         "wards": [
-          "Ziwa",
-          "Kuinet/Kapsuswa",
-          "Soy",
-          "Kapkures",
-          "Kipsomba",
-          "Segero/Barsombe",
-          "Segero/Barsombe South",
-          "Kipsinendet",
-          "Kapkonga"
+        "  Moi’s Bridge","Kapkures","Ziwa","Segero/Barsombe","Kipsom Ba","Soy","Kuinet/Kapsuswa"
         ]
       },
       {
         "subcounty_name": "Turbo",
         "wards": [
-          "Kiplombe",
-          "Tapsagoi",
-          "Kamagut",
-          "Kiplombe",
-          "Kapsaos",
-          "Kiplombe",
-          "Kamagut"
+        "  Ngenyilel","Tapsagoi","Kamagut","Kiplombe","Kapsaos","Huruma"
         ]
       }
     ]
