@@ -886,14 +886,12 @@
         "subcounty_name": "Masinga",
 
         "wards": [
-          "Ikombe",
-          "Masinga Central",
+          "Kivaa",
+          "Masinga",
+          "Central",
           "Ekalakala",
           "Muthesya",
-          "Ndithini",
-          "Kivaa",
-          "Mbitini",
-          "Syokisinga"
+          "Ndithini"
         ]
       },
       {
@@ -901,92 +899,65 @@
 
         "wards": [
           "Ndalani",
-          "Kithyoko",
-          "Katangi",
-          "Mitaboni",
-          "Kangundo-Tala",
-          "Kangundo Central",
-          "Kangundo East",
-          "Kangundo West",
-          "Kangundo North",
-          "Kangundo South"
-        ]
+          "Matuu",
+          "Kithimani",
+          "Ikomba",
+          "Katangi"
+          ]
       },
       {
         "subcounty_name": "Matungulu",
 
         "wards": [
           "Tala",
-          "Matungulu Central",
-          "Kisukioni",
-          "Kaubi",
-          "Kathiani",
-          "Muthwani",
-          "Koma Rock",
-          "Kathiani South",
-          "Katani"
+          "Matungulu North",
+          "Matungulu East",
+          "Matungulu West",
+          "Kyeleni"
         ]
       },
       {
         "subcounty_name": "Kangundo",
-
         "wards": [
+          "Kangundo North",
           "Kangundo Central",
           "Kangundo East",
-          "Kangundo North",
-          "Kangundo South",
-          "Kangundo West",
-          "Kathiani",
-          "Kithimani",
-          "Matungulu East",
-          "Matungulu North",
-          "Matungulu West",
-          "Mukono"
+          "Kangundo West"
         ]
       },
       {
         "subcounty_name": "Mwala",
 
         "wards": [
-          "Wamunyu",
-          "Ndalani",
-          "Mbooni",
-          "Mwala Central",
           "Mbiuni",
+          "Makutano/Mwala",
           "Masii",
-          "Makutano/Mwala"
-        ]
+          "Muthetheni",
+          "Wamunyu",
+          "Kibauni"
+       ]
       },
       {
         "subcounty_name": "Kathiani",
 
         "wards": [
           "Mitaboni",
-          "Muthwani",
-          "Mata",
-          "Ikombe",
           "Kathiani Central",
-          "Lower Kaewa/Iveti",
-          "Upper Kaewa/Endei",
-          "Ivingoni/Nzambani",
-          "Athi River",
-          "Mavoko West",
-          "Kinanie",
-          "Kathiani South"
+          "Upper Kaewa/Iveti",
+          "Lower Kaewa/Kaani"
         ]
       },
       {
         "subcounty_name": "Machakos Town",
 
         "wards": [
-          "Mumbuni North",
-          "Mumbuni South",
-          "Machakos Central",
           "Kalama",
           "Mua",
-          "Kyeleni",
-          "Kola",
-          "Katoloni"
+          "Mutitini",
+          "Machakos Central",
+          "Mumbuni North",
+          "Muvuti/Kiima-Kimwe",
+          "Kola"
         ]
       },
       {
@@ -994,12 +965,9 @@
 
         "wards": [
           "Athi River",
-          "Kinanie",
-          "Muthwani",
-          "Lukenya/Esukuta",
-          "Mavoko/Kitengela",
-          "Mlolongo",
-          "Syokimau/Mulolongo"
+    "Kinanie",
+    "Muthwani",
+    "Syokimau/Mulolongo"
         ]
       }
     ]
