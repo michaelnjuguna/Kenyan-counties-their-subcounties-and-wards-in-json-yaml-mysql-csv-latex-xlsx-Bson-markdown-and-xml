@@ -1128,78 +1128,70 @@
     "county_name": "Nyeri",
     "subcounties": [
       {
-        "subcounty_name": "Kieni East",
-        "wards": ["Ruguru", "Gakindu", "Kieni East", "Mweiga"]
-      },
-      {
-        "subcounty_name": "Kieni West",
-        "wards": [
-          "Thegu River",
-          "Kiamathaga",
-          "Gatarakwa",
-          "Ndunyu",
-          "Ruring'u"
-        ]
-      },
-      {
         "subcounty_name": "Mathira",
         "wards": [
-          "Ruguru/Ngaru",
-          "Karira",
-          "Rugumo",
-          "Githima",
-          "Kirimukuyu",
-          "Konyu",
+          "Ruguru",
           "Magutu",
           "Iriani",
-          "Nairutia",
-          "Chinga",
-          "Gatarakwa"
-        ]
-      },
-      {
-        "subcounty_name": "Nyeri Central",
-        "wards": ["Mukurwe-ini Central", "Rware", "Ruguru", "Kiganjo/Mathari"]
-      },
-      {
-        "subcounty_name": "Nyeri South",
-        "wards": [
-          "Iria-ini",
-          "Gachika",
           "Konyu",
-          "Mahiga",
-          "Githiru-ini",
-          "Karundu"
+          "Kirimukuyu",
+          "Karatina Town"
         ]
       },
       {
         "subcounty_name": "Othaya",
         "wards": [
-          "Gakawa",
-          "Ichamara",
-          "Ruchu",
-          "Gatugi",
-          "Kabaru",
-          "Kanyange",
           "Mahiga",
-          "Riakiania",
-          "Kigumo",
-          "Kihuyo",
-          "Githiru-ini"
+          "Iria-Ini",
+          "Chinga",
+          "Karima"
         ]
       },
       {
         "subcounty_name": "Tetu",
-        "wards": ["Gakawa", "Kieni", "Mweiga", "Narumoru", "Ngangarithi"]
+        "wards": [
+          "Dedan Kimathi",
+          "Wamagana",
+          "Aguthi-Gaaki"
+        ]
       },
       {
         "subcounty_name": "Mukurweini",
         "wards": [
-          "Mukurwe-ini West",
-          "Mukurwe-ini North",
-          "Mukurwe-ini Central",
-          "Githiru",
-          "Endarasha"
+          "Gikondi",
+          "Rugi",
+          "Mukurwe-Ini West",
+          "Mukurwe-Ini Central"
+        ]
+      },{
+        "subcounty_name":"Tetu",
+        "wards": [
+          "Dedan Kimathi",
+          "Wamagana",
+          "Aguthi-Gaaki"
+        ]
+      },
+      {
+        "subcounty_name":"Nyeri Town",
+        "wards": [
+          "Kiganjo/Mathari",
+          "Rware",
+          "Gatitu/Muruguru",
+          "Ruring’u",
+          "Kamakwa/Mukaro"
+        ]
+      },
+      {
+        "subcounty_name":"Kieni",
+        "wards": [
+          "Mweiga",
+          "Naromoro Kiamthaga",
+          "Mwiyogo/Endara Sha",
+          "Mugunda",
+          "Gatarakwa",
+          "Thegu River",
+          "Kabaru",
+          "Gakawa"
         ]
       }
     ]
