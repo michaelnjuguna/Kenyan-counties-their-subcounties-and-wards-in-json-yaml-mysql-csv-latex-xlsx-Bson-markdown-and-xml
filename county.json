@@ -767,26 +767,17 @@
         "subcounty_name": "Kitui West",
 
         "wards": [
-          "Kauwi",
-          "Katulani",
-          "Matinyani",
-          "Miambani",
           "Mutonguni",
-          "Syongila",
-          "Kisasi"
+          "Kauwi",
+          "Matinyani",
+          "Kwa Mutonga/Kithum Ula"
         ]
       },
       {
         "subcounty_name": "Kitui Central",
 
         "wards": [
-          "Kyangwithya East",
-          "Kyangwithya West",
-          "Mulango",
-          "Nzambani",
-          "Nzengu",
-          "Township",
-          "Tharaka"
+          "Miambani", "Township Kyangwithya West", "Mulango", "Kyangwithya East"
         ]
       },
       {
@@ -794,77 +785,62 @@
 
         "wards": [
           "Kisasi",
-          "Kwavonza/Yatta",
-          "Matinyani",
-          "Migwani",
           "Mbitini",
-          "Mumoni",
-          "Tseikuru"
+          "Kwavonza/Yatta",
+          "Kanyangi"
         ]
       },
       {
         "subcounty_name": "Kitui South",
 
         "wards": [
-          "Ikanga/Kyatune",
-          "Kanyangi",
-          "Kivou",
-          "Lower Yatta",
+          "Ikana/Kyantune",
+          "Mutomo",
           "Mutha",
-          "Mutito/Kaliku",
-          "Mutomo/Katulani",
-          "Nzambani/Kwambonambi",
-          "Thua",
-          "Upper Kitui"
-        ]
+          "Ikutha",
+          "Kanziko",
+          "Athi"
+          ]
       },
       {
         "subcounty_name": "Kitui East",
 
         "wards": [
+          "Zombe/Mwitika",
+          "Nzambani",
+          "Chuluni",
+          "Voo/Kyamatu",
           "Endau/Malalani",
-          "Katse",
-          "Kwa Mutonga/Kithumula",
-          "Migwani East",
-          "Mulundi",
-          "Mutonguni East",
-          "Nzambani East",
-          "Voo/Kyamatu"
+          "Mutito/Kaliku"
         ]
       },
       {
         "subcounty_name": "Mwingi North",
 
         "wards": [
-          "Kivou/Musyani",
-          "Kyuso/Kyangunga",
-          "Mumoni/Itune",
-          "Nguutani",
-          "Nguni",
-          "Tharaka",
+          "Ngomeni",
+          "Kyuso",
+          "Mumoni",
           "Tseikuru",
-          "Voo/Kyamatu"
+          "Tharaka"
         ]
       },
       {
         "subcounty_name": "Mwingi West",
 
         "wards": [
-          "Central",
-          "Kalamba",
-          "Kivou",
           "Kyome/Thaana",
           "Nguutani",
-          "Nguni",
-          "Nguu/Masumba",
-          "Nguutani/Kaluma",
-          "Waita"
+          "Migwani",
+          "Kiomo/Kyethani"
         ]
       },
       {
         "subcounty_name": "Mwingi Central",
+        "wards":[
+        "Central","Kivou","Nguni","Mui","Waita"
+        ]
 
-        "wards": ["Central", "Migwani", "Nguutani", "Nguni", "Tharaka"]
       }
     ]
   },
