@@ -979,97 +979,68 @@
     },
     "subcounties": [
       {
+"subcounty_name":"Mbooni",
+"wards": [
+  "Tulimani",
+  "Mbooni",
+  "Kithungo/Kitundu",
+  "Kiteta/Kisau",
+  "Waia-Kako",
+  "Kalawa"
+  ]
+      },
+      {
+        "subcounty_name":"Kaiti",
+        "wards": [
+          "Ukia",
+          "Kee",
+          "Kilungu",
+          "Ilima"
+          ]
+      },
+      {
         "subcounty_name": "Makueni",
 
         "wards": [
-          "Kambu",
-          "Kathonzweni",
-          "Kikumbulyu North",
-          "Kikumbulyu South",
-          "Kilalani",
-          "Kitise/Kithuki",
+          "Wote",
+          "Muvau/Kikuumini",
           "Mavindini",
-          "Mbitini",
-          "Mbitini/Kithyoko",
-          "Muvau/Kikumini",
-          "Nguumo",
-          "Nguu/Masumba",
-          "Nthongoni",
-          "Ukia"
+          "Kitise/Kithuki",
+          "Kathonzweni",
+          "Nzau/Kilili/Kalamba",
+          "Mbitini"
         ]
       },
-      {
-        "subcounty_name": "Kilungu",
 
-        "wards": [
-          "Ivingoni/Nzambani",
-          "Kee",
-          "Kilungu",
-          "Kithembeoni",
-          "Kitundu",
-          "Mbitini",
-          "Nguu/Ngumu",
-          "Nthongoni",
-          "Tulimani"
-        ]
-      },
       {
         "subcounty_name": "Kilome",
 
         "wards": [
-          "Kasikeu/Kaiti",
-          "Kilome/Kyatune",
-          "Kithungo/Kitundu",
-          "Masongaleni",
-          "Mbooni",
-          "Muvau/Kikumini",
-          "Nguu/Kee",
-          "Nguu/Masumba",
-          "Tawa"
+          "Kasikeu",
+          "Mukaa",
+          "Kiima Kiu/Kalanzoni"
         ]
       },
       {
         "subcounty_name": "Kibwezi East",
 
         "wards": [
-          "Emali/Mulala",
-          "Kikumbulyuni",
-          "Masongale",
+          "Masongaleni",
           "Mtito Andei",
-          "Nguu/Masumba",
-          "Nguumo",
-          "Nthongoni",
           "Thange",
-          "Wote/Makueni"
+          "Ivingoni/Nzambani"
         ]
       },
       {
         "subcounty_name": "Kibwezi West",
 
         "wards": [
-          "Ikutha",
-          "Kathonzweni",
-          "Kwa Mutonga/Kithumula",
-          "Lower Mbooni",
           "Makindu",
-          "Nguu/Kee",
           "Nguumo",
-          "Nthongoni",
-          "Upper Mbooni"
-        ]
-      },
-      {
-        "subcounty_name": "Nzaui",
-
-        "wards": [
-          "Kalawa",
-          "Kilungu",
-          "Mbooni",
-          "Miu",
-          "Nzaui/Kilili/Kalamba",
-          "Nguuni",
-          "Tawa",
-          "Wote"
+          "Kikumbulyu North",
+          "Kimumbulyu South",
+          "Nguu/Masumba",
+          "Emali/Mulala"
         ]
       }
     ]
