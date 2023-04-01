@@ -1404,99 +1404,67 @@
       {
         "subcounty_name": "Gatundu North",
         "wards": [
+          "Gituamba",
           "Githobokoni",
-          "Gitare",
-          "Igegania",
-          "Kiamwangi",
-          "Mang'u",
-          "Mugumo-ini",
-          "Ngenda",
-          "Riabai",
-          "Ruiru-ini"
+          "Chania",
+          "Mang’u"
         ]
       },
       {
         "subcounty_name": "Gatundu South",
         "wards": [
-          "Gituamba",
-          "Gituuru",
+          "Kiamwangi",
           "Kiganjo",
-          "Kigumo",
-          "Lari",
-          "Mugumoini",
-          "Ngewa",
-          "Ngecha/Tigoni",
-          "Nyathuna",
-          "Rwambiti"
+          "Ndarugu",
+          "Ngenda"
         ]
       },
       {
         "subcounty_name": "Githunguri",
         "wards": [
-          "Githiga",
           "Githunguri",
+          "Githiga",
           "Ikinu",
-          "Kagaa",
           "Ngewa",
-          "Ngewa Kinuku",
-          "Ngoliba",
-          "Riabai",
-          "Thika",
-          "Witeithie"
-        ]
+          "Komothai"
+          ]
       },
       {
         "subcounty_name": "Juja",
         "wards": [
-          "Athi",
-          "Gachagi",
-          "Juja",
-          "Kalimoni",
-          "Kamiti",
-          "Mugutha",
           "Murera",
-          "Witeithie"
+          "Theta",
+          "Juja",
+          "Witeithie",
+          "Kalimoni"
         ]
       },
       {
         "subcounty_name": "Kabete",
         "wards": [
           "Gitaru",
-          "Kabete",
-          "Kanyariri",
-          "Karai",
           "Muguga",
           "Nyathuna",
-          "Uthiru/Ruthimitu",
-          "Wangige/Kanyariri"
+          "Kabete",
+          "Uthiru"
         ]
       },
       {
         "subcounty_name": "Kiambaa",
         "wards": [
           "Cianda",
-          "Gachagi",
-          "Gatong'ora",
-          "Kihara",
+          "Karuiri",
           "Ndenderu",
           "Muchatha",
-          "Riabai",
-          "Ting'ang'a",
-          "Township"
+          "Kihara"
         ]
       },
       {
         "subcounty_name": "Kiambu",
         "wards": [
-          "Banana",
-          "Cianda",
-          "Gachagi",
-          "Gatong'ora",
-          "Kihara",
-          "Kiambu",
-          "Ndenderu",
+          "Ting’gang’a",
+          "Ndumberi",
           "Riabai",
-          "Ting'ang'a",
           "Township"
         ]
       },
@@ -1505,68 +1473,51 @@
         "wards": [
           "Bibirioni",
           "Limuru Central",
-          "Limuru East",
-          "Limuru West",
           "Ndeiya",
-          "Ngecha",
-          "Nyadundo",
-          "Redhill",
-          "Ting'ang'a"
+          "Limuru East",
+          "Ngecha Tigoni"
         ]
       },
       {
         "subcounty_name": "Kikuyu",
         "wards": [
-          "Gikambura",
           "Karai",
-          "Kikuyu",
-          "Kinoo",
-          "Nachuru",
           "Nachu",
           "Sigona",
-          "Wambugu"
-        ]
+          "Kikuyu",
+          "Kinoo"
+          ]
       },
       {
         "subcounty_name": "Lari",
         "wards": [
           "Kijabe",
-          "Kinale",
-          "Lari/Kirenga",
-          "Mbururu",
-          "Nduma",
           "Nyanduma",
-          "Rakwaro",
-          "Rugi"
-        ]
+          "Kamburu",
+          "Lari/Kirenga"
+          ]
       },
       {
         "subcounty_name": "Ruiru",
         "wards": [
           "Gitothua",
-          "Githunguri",
-          "Juja",
+          "Biashara",
+          "Gatongora",
           "Kahawa Sukari",
-          "Kimbo",
+          "Kahawa Wendani",
           "Kiuu",
           "Mwiki",
-          "Murera",
-          "Ruiru Central",
-          "Thika East"
-        ]
+          "Mwihoko"
+          ]
       },
       {
         "subcounty_name": "Thika Town",
         "wards": [
-          "Chania",
-          "Gatuanyaga",
-          "Githima",
-          "Hospital",
+          "Township",
           "Kamenu",
-          "Kamwangi",
-          "Ngoliba",
-          "Witeithie",
-          "Township"
+          "Hospital",
+          "Gatuanyaga",
+          "Ngoliba"
         ]
       }
     ]
