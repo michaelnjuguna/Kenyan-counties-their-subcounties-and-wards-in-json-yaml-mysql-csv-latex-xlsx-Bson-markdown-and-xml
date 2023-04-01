@@ -2246,92 +2246,35 @@
       {
         "subcounty_name": "Sotik",
         "wards": [
-          "Chepchabas",
-          "Cheplanget",
-          "Cheptalal",
-          "Cheptenye",
-          "Chesoen",
-          "Chetiret",
-          "Kapletundo",
-          "Kapkugerwet",
-          "Kembu",
-          "Kipreres",
-          "Lesirwa",
-          "Longisa",
-          "Maraba",
-          "Memengwet",
-          "Mulot",
-          "Ndanai",
-          "Rongena"
-        ]
+          "Ndanai/Abosi",
+          "Chemagel",
+          "Kipsonoi",
+          "Apletundo",
+          "Rongena/Manare T"
+          ]
       },
       {
         "subcounty_name": "Bomet Central",
         "wards": [
-          "Boito",
-          "Chebunyo",
-          "Cheptalal",
-          "Kamureito",
-          "Kembu",
-          "Kong’asis",
-          "Longisa",
-          "Merigi",
-          "Mulot",
-          "Ndarawetta",
-          "Singorwet"
+          "Silibwet Township", "Ndaraweta"," Singorwet", "Chesoen", "Mutarakwa"
         ]
       },
       {
         "subcounty_name": "Bomet East",
         "wards": [
-          "Cheboin",
-          "Chebwagan",
-          "Chemagel",
-          "Chemakwet",
-          "Chepchoge",
-          "Chesoen",
-          "Cheptalal",
-          "Kapkures",
-          "Kembu",
-          "Longisa",
-          "Mogogosiek",
-          "Ndanai/abosi",
-          "Singorwet"
+          "Merigi", "Kembu", "Longisa", "Kipreres", "Chemaner"
         ]
       },
       {
         "subcounty_name": "Chepalungu",
         "wards": [
-          "Chebunyo",
-          "Cheptalal",
-          "Cheptenye",
-          "Kaplelartet",
-          "Kapngetuny",
-          "Kimulot",
-          "Kipreres",
-          "Kuresoi",
-          "Lembus",
-          "Mukinyai",
-          "Ndanai",
-          "Siongiroi",
-          "Sigor"
+        "  Kong’asis"," Nyangores", "Sigor"," Chebunyo", "Siongiroi"
         ]
       },
       {
         "subcounty_name": "Konoin",
         "wards": [
-          "Chesoen/Kiptororo",
-          "Embomos",
-          "Kaptebeswag",
-          "Kimulot",
-          "Kipreres",
-          "Kitoben",
-          "Lelaitich",
-          "Mogogosiek",
-          "Mogotio",
-          "Mukutan",
-          "Sigor",
-          "Silibwet"
+          "Chepchabas", "Kimulot", "Mogogosiek", "Boito"," Embomos"
         ]
       }
     ]
