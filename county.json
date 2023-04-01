@@ -2966,51 +2966,36 @@
         "wards": [
           "Bumula",
           "Khasoko",
+          "Kabula",
           "Kimaeti",
-          "Nalondo",
-          "Makunga",
-          "Misikhu",
-          "Namasanda",
-          "Ndivisi"
+          "South Bukusu",
+          "Siboti"
         ]
       },
       {
         "subcounty_name": "Kanduyi",
         "wards": [
-          "Kanduyi",
-          "Machakha",
-          "Mayoni",
+          "Bukembe West",
+          "Bukembe East",
+          "Township",
+          "Khalaba",
           "Musikoma",
-          "Mwakili",
-          "Ndalu",
-          "Sikhulu",
-          "Sitikho"
+          "East Snag’alo",
+          "Marakatu",
+          "Tuuti",
+          "West Sang’alo"
         ]
       },
       {
         "subcounty_name": "Webuye East",
-        "wards": [
-          "Maraka",
-          "Misikhu",
-          "Sitikho",
-          "Webuye East",
-          "Webuye West",
-          "Kibingei",
-          "Mihuu",
-          "Milimani"
-        ]
+        "wards": ["Mihuu", "Ndivisi", "Maraka"]
       },
       {
         "subcounty_name": "Webuye West",
         "wards": [
-          "Bokoli",
-          "Bukembe East",
-          "Bukembe West",
-          "Bwake/Lugulu",
-          "Mbakalo",
-          "Namwela",
           "Sitikho",
-          "Webuye West"
+          "Matulo",
+          "Bokoli"
         ]
       },
       {
@@ -3018,51 +3003,39 @@
         "wards": [
           "Cheptais",
           "Chesikaki",
+          "Chepyuk",
           "Kapkateny",
           "Kaptama",
-          "Kaptarakwa",
-          "Kimili",
-          "Lwandanyi",
-          "Sitatunga"
+          "Elgon"
         ]
       },
       {
         "subcounty_name": "Sirisia",
         "wards": [
-          "Malakisi/South Kulisiru",
-          "Makutano",
-          "Masaba",
-          "Mukwa",
           "Namwela",
-          "Ndengelwa",
-          "Ndivisi",
-          "Sikalame"
+          "Malakisi/South Kulisiru",
+          "Lwandanyi"
         ]
       },
       {
         "subcounty_name": "Tongaren",
         "wards": [
-          "Friends",
-          "Milima",
-          "Muranda",
+          "Mbakalo",
           "Naitiri/Kabuyefwe",
+          "Milima",
           "Ndalu/Tabani",
-          "Ndivisi",
-          "North Sang'alo",
-          "Wekoli"
+          "Tongaren",
+          "Soysambu/Mitua"
         ]
       },
       {
         "subcounty_name": "Kabuchai",
         "wards": [
           "Kabuchai/Chwele",
+          "West Nalondo",
+          "Bwake/Luuya",
           "Mukuyuni",
-          "Mukuyuni East",
-          "Mukuyuni West",
-          "Namwela",
-          "Ndivisi",
-          "Ndivisi East",
-          "Ndivisi West"
+          "South Bukusu"
         ]
       },
       {
@@ -3070,12 +3043,8 @@
         "wards": [
           "Kibingei",
           "Kimilili",
-          "Kimilili East",
-          "Kimilili West",
           "Maeni",
-          "Mbakalo",
-          "Sikhuyu",
-          "Sinoko"
+          "Kamukuywa"
         ]
       }
     ]
