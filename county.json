@@ -1537,26 +1537,20 @@
     "subcounties": [
       {
         "subcounty_name": "Keiyo North",
-        "wards": ["Chepkorio", "Soy North", "Soy South", "Tulwet", "Kaptarakwa"]
+        "wards": ["Emsoo","Kamariny","Kapchemutwa","Tambach"]
       },
       {
         "subcounty_name": "Keiyo South",
-        "wards": ["Embobut / Embulot", "Kamariny", "Kapchemutwa", "Tambach"]
+        "wards": ["Kaptarakwa","Chepkorio","Soy North","Soy South","Kabiemit","Metkei"]
       },
       {
         "subcounty_name": "Marakwet East",
-        "wards": ["Soy North", "Soy South", "Kapyego", "Sambirir"]
+        "wards": ["Kapyego","Sambirir","Endo","Embobut / Embulot"]
       },
       {
         "subcounty_name": "Marakwet West",
         "wards": [
-          "Cherang'any / Kipchumwa",
-          "Endo",
-          "Embolot",
-          "Kapkoi",
-          "Kapyego",
-          "Kipipiri",
-          "Sambirir"
+          "Kapsowar","Lelan","Sengwer","Cherang’any/Chebororwa","Moiben/Kuserwo","Arror"
         ]
       }
     ]
