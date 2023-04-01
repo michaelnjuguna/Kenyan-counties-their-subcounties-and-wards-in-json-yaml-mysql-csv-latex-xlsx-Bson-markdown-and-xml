@@ -3701,195 +3701,92 @@
       {
         "subcounty_name": "Kitutu Chache North",
         "wards": [
-          "Bogeka",
-          "Bokeira",
-          "Bonyamatuta",
-          "Chitago",
-          "Eberege",
-          "Gesusu",
-          "Ichuni",
-          "Igeta",
-          "Kegogi",
-          "Kiogoro",
-          "Magombo",
-          "Mekenene",
-          "Monyerero",
-          "Nyatieko"
+          "MONYERERO",
+          "SENSI",
+          "MARANI",
+          "MWAMONARI"
         ]
       },
       {
         "subcounty_name": "Kitutu Chache South",
         "wards": [
-          "Bogetenga",
-          "Bogusero",
-          "Gachuba",
-          "Ichuni",
-          "Itibo",
-          "Kenyenya",
-          "Masige East",
-          "Masige West",
-          "Matoke",
-          "Moticho",
-          "Nyacheki",
-          "Nyakoe",
-          "Nyamache",
-          "Rigoma"
+          "BOGUSERO",
+          "BOGEKA",
+          "NYAKOE",
+          "KITUTU CENTRAL",
+          "NYATIEKO"
         ]
       },
       {
         "subcounty_name": "Nyaribari Masaba",
         "wards": [
-          "Bobaracho",
-          "Bogusero",
-          "Chitago",
-          "Ekerenyo",
-          "Emekenye",
-          "Enchoro",
-          "Gesima",
-          "Itambe",
-          "Keumbu",
-          "Magwagwa",
-          "Marani",
-          "Mekenene",
-          "Nyamache",
-          "Nyamesocho",
-          "Nyandonge",
-          "Nyankoe",
-          "Nyatieko"
+          "ICHUNI",
+          "NYAMASIBI",
+          "MASIMBA",
+          "GESUSU",
+          "KIAMOKAMA"
         ]
       },
       {
         "subcounty_name": "Nyaribari Chache",
         "wards": [
-          "Boikanga",
-          "Bokimonge",
-          "Bomorenda",
-          "Borabu / Chitago",
-          "Ekerubo / Irianyi",
-          "Gesusu",
-          "Geta",
-          "Ichuni",
-          "Igeta",
-          "Iyabe / Gesonso",
-          "Kiamokama",
-          "Magwagwa",
-          "Masaba North",
-          "Mekenene",
-          "Mogonga",
-          "Nyacheki",
-          "Nyakoe",
-          "Riokindo"
+          "BOBARACHO",
+          "KISII CENTRAL",
+          "KEUMBU",
+          "KIOGORO",
+          "BIRONGO",
+          "IBENO"
         ]
       },
       {
         "subcounty_name": "Bomachoge Borabu",
         "wards": [
-          "Bosoti / Mogondo",
-          "Gachuba / Nyakorokoro",
-          "Gesusu",
-          "Ichuni / Bogetenga",
-          "Itibo / Kiong'anyo",
-          "Kiogoro",
-          "Magena / Isibania",
-          "Mangae",
-          "Masige East",
-          "Masige West",
-          "Mekenene / Kenyoro",
-          "Mogonga / Kebirigo",
-          "Nyansiongo",
-          "Nyaura",
-          "Riana",
-          "Sensa"
-        ]
+          "BORABU MASABA",
+          "BOOCHI BORABU",
+          "BOKIMONGE",
+          "MAGENCHE"
+          ]
       },
       {
         "subcounty_name": "Bomachoge Chache",
         "wards": [
-          "Bogetenga",
-          "Bokimonge",
-          "Bomorenda",
-          "Bonyamatuta",
-          "Boochi Borabu",
-          "Boochi/Tendere",
-          "Gesusu",
-          "Ichuni",
-          "Itibo",
-          "Kenyenya",
-          "Magombo",
-          "Majoge Borabu",
-          "Nyamaiya",
-          "Riana",
-          "Sameta/Mokwerero"
-        ]
+          "MAJOGE BASI",
+          "BOOCHI/TENDERE",
+          "BOSOTI/SENGERA"
+          ]
       },
       {
         "subcounty_name": "Bobasi",
         "wards": [
-          "Boikang'a",
-          "Bogeka",
-          "Bonyancha",
-          "Bosoti/Sengera",
-          "Gachuba",
-          "Getenga",
-          "Gionseri",
-          "Itierio",
-          "Kiamokama",
-          "Kiong'anyo",
-          "Masige West",
-          "Mekenene",
-          "Mokubo",
-          "Moticho",
-          "Mugumo-ini",
-          "Nyacheki",
-          "Nyagwina",
-          "Rigoma"
+          "MASIGE WEST",
+          "MASIG EAST",
+          "BASI CENTRAL",
+          "NYACHEKI",
+          "BASSI BOGETAORIO",
+          "BOBASI CHACHE",
+          "SAMETA/ MOKWERERO",
+          "BOBASI/ BOITANGARE"
         ]
       },
       {
         "subcounty_name": "South Mugirango",
         "wards": [
-          "Bogitaa",
-          "Borabu/Chitago",
-          "Gesima",
-          "Getenga",
-          "Gionseri",
-          "Gokeharaka/Gekeharakha",
-          "Ibeno",
-          "Itibo/Marani",
-          "Kebirigo/Monyoro",
-          "Magwagwa",
-          "Masige East",
-          "Motonyi",
-          "Mokomoni",
-          "Nyamarambe",
-          "Nyansiongo",
-          "Riosiri",
-          "Sensi",
-          "Tabaka"
-        ]
+          "BOGETENGA",
+          "BORABU/CHITAGO",
+          "MOTICHO",
+          "GETENGA",
+          "TABAKA",
+          "BOIKANGA"
+          ]
       },
       {
         "subcounty_name": "Bonchari",
         "wards": [
-          "Bogiakumu",
-          "Bomorenda",
-          "Borabu/Mwanyagetinge",
-          "Gesima",
-          "Iyabe/Igobor",
-          "Kiabonyoru",
-          "Kiogoro/Emanyinya",
-          "Magombo",
-          "Matutu",
-          "Mekenene",
-          "Momongina",
-          "Nyacheki",
-          "Nyamaiya",
-          "Riana",
-          "Rigoma",
-          "Riosiri",
-          "Sensi",
-          "Ziwa"
-        ]
+          "BOMARIBA",
+          "BOGIAKUMU",
+          "BOKEIRA",
+          "RIANA"
+          ]
       }
     ]
   },
