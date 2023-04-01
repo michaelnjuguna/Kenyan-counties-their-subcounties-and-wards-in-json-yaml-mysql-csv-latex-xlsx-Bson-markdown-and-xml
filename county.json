@@ -1284,117 +1284,73 @@
       {
         "subcounty_name": "Gatanga",
         "wards": [
-          "Kihumbuini",
-          "Gatanga",
+          "Ithanga",
           "Kakuzi/Mitubiri",
-          "Kamahuha",
-          "Kariara",
-          "Kigumo",
-          "Mugumoini",
-          "Ngenda",
-          "Nginda"
-        ]
-      },
-      {
-        "subcounty_name": "Kahuro",
-        "wards": [
-          "Ichagaki",
-          "Kahuro",
-          "Kambiti",
-          "Kangari",
-          "Karai",
-          "Kigaa",
-          "Ndunyu",
-          "Wempa"
+          "Mugumo-Ini",
+          "Kihumbu-Ini",
+          "Gatanga",
+          "Kariara"
         ]
       },
       {
         "subcounty_name": "Kandara",
         "wards": [
-          "Gitugi",
-          "Ithiru",
-          "Kagunduini",
-          "Kagwe",
-          "Kandara",
-          "Karuri",
+          "Ng’ararii",
           "Muruka",
-          "Ng'araria",
-          "Rwathia",
-          "Towett"
-        ]
+          "Kangundu-Ini",
+          "Gaichanjiru",
+          "Ithiru",
+          "Ruchu"
+          ]
       },
       {
         "subcounty_name": "Kigumo",
         "wards": [
-          "Kamacharia",
-          "Kamahuha",
-          "Kambirwa",
-          "Kangari",
+          "Kahumbu",
+          "Muthithi",
           "Kigumo",
-          "Kinyona",
-          "Makuyu",
-          "Ndakaini",
-          "Nginda"
+          "Kangari",
+          "Kinyona"
         ]
       },
       {
         "subcounty_name": "Mathioya",
         "wards": [
-          "Githabai",
-          "Githioro",
-          "Iyego",
-          "Kakuzi",
-          "Kamacharia",
-          "Kambiti",
-          "Karima",
-          "Muriranjas",
-          "Ruchu",
-          "Township"
+          "Gituhi",
+          "Kiru",
+          "Kamacharia"
         ]
       },
       {
         "subcounty_name": "Kiharu",
         "wards": [
-          "Gaichanjiru",
-          "Gatanga",
-          "Ichagaki",
-          "Ihana",
-          "Kamahuha",
-          "Kangari",
+          "Wangu",
+          "Mugoiri",
+          "Mbiri",
+          "Township",
           "Murarandia",
-          "Muthithi"
+          "Gaturi"
         ]
       },
       {
         "subcounty_name": "Kangema",
         "wards": [
-          "Gatanga",
-          "Kabati",
-          "Kahuro",
-          "Kamacharia",
-          "Kambirwa",
-          "Kangema",
-          "Kigumo",
+          "Kanyenya-Ini",
           "Muguru",
-          "Rwathia",
-          "Wangu"
-        ]
+          "Rwathia"
+          ]
       },
-      {
-        "subcounty_name": "Murang'a South",
-        "wards": [
-          "Gaturi",
-          "Ichagaki",
-          "Kahatia",
-          "Kandara",
-          "Kigumo",
-          "Kimorori/Wempa",
-          "Makuyu",
-          "Maragua",
-          "Mbiri",
-          "Ruchu"
-        ]
-      }
+{
+  "subcounty_name": "Maragwa",
+  "wards": [
+    "Kimorori/Wempa",
+    "Makuyu",
+    "Kambiti",
+    "Kamahuha",
+    "Ichagaki",
+    "Nginda"
+    ]
+}
     ]
   },
   {
