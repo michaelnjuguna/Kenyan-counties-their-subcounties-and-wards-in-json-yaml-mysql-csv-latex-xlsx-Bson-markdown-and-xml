@@ -1449,42 +1449,31 @@
       {
         "subcounty_name": "Samburu East",
         "wards": [
-          "Baawa",
-          "Kaesha",
-          "Kaputir",
-          "Kisima",
-          "Lpartuk",
-          "Nachola",
-          "Nkiloriti",
-          "Serolipi"
+          "Waso",
+          "Wamba West",
+          "Wamba East",
+          "Wamba North"
         ]
       },
       {
         "subcounty_name": "Samburu North",
         "wards": [
-          "Baragoi",
-          "Karare",
-          "Kileswa",
-          "Kom",
-          "Lengusaka",
-          "Lodokejek",
-          "Loiyangalani",
-          "Nadome",
+          "El-Barta",
+          "Nachola",
+          "Ndoto",
           "Nyiro",
-          "Suguta Marmar"
+          "Angata Nanyokie",
+          "Baawa"
         ]
       },
       {
         "subcounty_name": "Samburu West",
         "wards": [
-          "Angata Nanyokie",
-          "Bendera",
-          "Kapomboi",
-          "Loosuk",
+          "Lodokejek",
+          "Suguta Marmar",
           "Maralal",
-          "Ndoto",
-          "Poro",
-          "Seiya"
+          "Loosuk",
+          "Poro"
         ]
       }
     ]
