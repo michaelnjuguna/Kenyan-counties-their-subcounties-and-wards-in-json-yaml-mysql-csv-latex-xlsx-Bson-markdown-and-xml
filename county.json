@@ -1055,54 +1055,41 @@
         "wards": [
           "Engineer",
           "Gathara",
-          "Gathuri",
-          "Kaimbaga",
-          "Magumu",
+          "North Kinangop",
+          "Murungaru",
           "Njabini/Kiburu",
           "Nyakio",
-          "Rurii"
+          "Githabai",
+          "Magumu"
         ]
       },
       {
         "subcounty_name": "Kipipiri",
 
         "wards": [
-          "Geta",
-          "Githioro",
-          "Githioro/Karau",
-          "Githima",
+          "Wanjohi",
           "Kipipiri",
-          "Mirangine",
-          "Ndemi"
+          "Geta",
+          "Githioro"
         ]
       },
       {
         "subcounty_name": "Ol Joro Orok",
 
         "wards": [
-          "Charagita",
-          "Gathara",
-          "Kabati",
-          "Kanjuiri Range",
-          "Mirangine",
-          "Murungaru",
-          "Ndemi",
-          "Nyakinyua",
-          "Wanjohi"
-        ]
+          "Gathanji",
+          "Gatima",
+          "Weru",
+          "Charagita"
+       ]
       },
       {
         "subcounty_name": "Ndaragwa",
 
         "wards": [
-          "Central",
-          "Gathanji",
-          "Kamacharia",
-          "Kanjuiri",
-          "Karau",
+          "Leshau/Pondo",
           "Kiriita",
-          "Mahianyu",
-          "Ndaragwa",
+          "Central",
           "Shamata"
         ]
       },
@@ -1110,15 +1097,11 @@
         "subcounty_name": "Ol Kalou",
 
         "wards": [
-          "Chabana",
-          "Gathinja",
-          "Gatimu",
-          "Kaimbaga",
           "Karau",
-          "Kebirigo/Miharati",
-          "Kiriita",
-          "Njengi",
-          "Weru"
+          "Kanjuiri Range",
+          "Mirangine",
+          "Kaimbaga",
+          "Rurii"
         ]
       }
     ]
