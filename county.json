@@ -265,8 +265,6 @@
           "subcounty_name": "Garsen",
 
           "wards": [
-            "Bura",
-            "Chewele/Witu",
             "Garsen Central",
             "Garsen East",
             "Garsen North",
@@ -279,12 +277,9 @@
           "subcounty_name": "Galole",
 
           "wards": [
-            "Bangale",
-            "Dide Waride",
-            "Galole",
-            "Kipao",
+            "Kinakomba",
             "Mikinduni",
-            "Mitaboni",
+            "Chewani",
             "Wayu"
           ]
         },
@@ -292,12 +287,10 @@
           "subcounty_name": "Bura",
 
           "wards": [
-            "Bura",
+            "Chewele",
             "Hirimani",
-            "Kulesa",
+            "Bangale",
             "Madogo",
-            "Marafa",
-            "Minjila",
             "Sala"
           ]
         }
