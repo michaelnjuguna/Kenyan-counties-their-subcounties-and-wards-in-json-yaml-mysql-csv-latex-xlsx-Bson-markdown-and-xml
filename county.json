@@ -187,12 +187,12 @@
         {
           "subcounty_name": "Lamu East",
 
-          "wards": ["Mkomani", "Shella", "Faza", "Kiunga", "Basuba"]
+          "wards": ["Faza", "Kiunga", "Basuba"]
         },
         {
           "subcounty_name": "Lamu West",
 
-          "wards": ["Witu", "Bahari", "Milimani", "Hongwe", "Mkunumbi"]
+          "wards": ["Shella", "Mkomani", "Hindi", "Mkunumbi", "Hongwe", "Witu", "Bahari"]
         }
       ]
     },
