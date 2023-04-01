@@ -3330,73 +3330,43 @@
     "county_name": "Nyamira",
     "subcounties": [
       {
-        "subcounty_name": "Manga",
-        "Wards": [
-          "Ekerenyo",
-          "Magwagwa",
-          "Manga",
-          "Nyamaiya",
-          "Nyansiongo",
-          "Rigoma"
-        ]
-      },
-      {
-        "subcounty_name": "Nyamira North",
-        "Wards": [
-          "Borabu / Chitago",
-          "Esise / Ekerongo",
-          "Makairo",
-          "Miriri",
-          "Mosobeti",
-          "Nyamira",
-          "Nyangweso",
-          "Rigoma / Kebirigo"
-        ]
-      },
-      {
-        "subcounty_name": "Nyamira South",
-        "Wards": [
-          "Birongo",
-          "Bogetenga",
-          "Bokimonge",
-          "Magombo",
-          "Mekenene",
-          "Nyamaiya / Nyatieko",
-          "Sironga / Gesima"
-        ]
-      },
-      {
         "subcounty_name": "Borabu",
-        "Wards": [
-          "Boikang'a",
-          "Borabu / Chitago",
-          "Keumbu",
-          "Kiabonyoru",
+        "wards": [
           "Mekenene",
-          "Mokwerero",
-          "Moticho",
-          "Nyansiongo",
-          "Rioma",
-          "Riosiri"
-        ]
+          "Kiabonyoru",
+          "Esise",
+          "Nyansiongo"
+       ]
       },
-      {
-        "subcounty_name": "Masaba North",
-        "Wards": [
-          "Bogichora",
-          "Bomorenda",
-          "Bosamaro",
-          "Etago / Mokuba",
-          "Gachuba",
-          "Kiamokama",
-          "Magombo / Riokindo",
-          "Masaba",
-          "Mekenene / Kiabonyoru",
-          "Rangenyo / Mekenene",
-          "Riokindo",
-          "Sameta / Riosiri"
-        ]
-      }
+  {
+    "subcounty_name":"Kitutu Masaba",
+    "wards": [
+      "Rigoma",
+      "Gachuba",
+      "Kemera",
+      "Magombo",
+      "Manga",
+      "Gesima"
+    ]
+  },{
+    "subcounty_name":"West Mugirango",
+    "wards": [
+      "Nyamaiya",
+      "Bogichora",
+      "Bosamaro",
+      "Bonyamatuta",
+      "Township"
+    ]
+  },{
+    "subcounty_name":"North Mugirango",
+    "wards": [
+      "Itibo",
+      "Bomwagamo",
+      "Bokeira",
+      "Magwagwa",
+      "Ekerenyo"
+    ]
+  }
     ]
   },
   {
