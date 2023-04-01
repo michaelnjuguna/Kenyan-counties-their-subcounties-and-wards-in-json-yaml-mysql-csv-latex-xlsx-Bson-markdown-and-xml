@@ -204,51 +204,44 @@
           "subcounty_name": "Taveta",
 
           "wards": [
-            "Bomani",
             "Chala",
-            "Mata",
-            "Mbololo",
-            "Mwanda/Mgange",
-            "Ngolia",
-            "Rong'e",
-            "Taveta"
+            "Mahoo",
+            "Bomani",
+            "Mboghoni",
+            "Mata"
           ]
         },
         {
           "subcounty_name": "Wundanyi",
 
           "wards": [
-            "Bura",
-            "Chawia",
-            "Kasigau",
-            "Mgambonyi",
-            "Mwachabo",
-            "Werugha"
+            "Wundanyi/Mbale",
+            "Werugha",
+            "Wumingu/Kishushe",
+            "Mwanda/Mgange"
           ]
         },
         {
           "subcounty_name": "Mwatate",
 
           "wards": [
-            "Bughuta",
+            "Ronge",
+            "Mwatate",
             "Bura",
             "Chawia",
-            "Kasigau",
-            "Mgambonyi",
-            "Mwachabo",
-            "Werugha"
+            "Wusi/Kishamba"
           ]
         },
         {
           "subcounty_name": "Voi",
 
           "wards": [
-            "Kaloleni",
-            "Kishushe",
             "Mbololo",
-            "Miasenyi",
-            "Sagalla",
-            "Tausa"
+            "Kaloleni",
+            "Sagala",
+            "Marungu",
+            "Kaigau",
+            "Ngolia"
           ]
         }
       ]
