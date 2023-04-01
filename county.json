@@ -2777,118 +2777,82 @@
       {
         "subcounty_name": "Homa Bay Town",
         "wards": [
-          "Arujo",
           "Homa Bay Central",
-          "Kabuoch South",
-          "Kabuoch North",
-          "Kojwach",
-          "Kosele",
-          "Nyakol",
-          "Ong'engo",
-          "Wang'chieng"
+          "Homa Bay Arujo",
+          "Homa Bay West",
+          "Homa Bay East"
         ]
       },
       {
         "subcounty_name": "Kabondo Kasipul",
         "wards": [
-          "Kasipul Kabondo",
-          "Kibiri",
-          "Kojwach",
-          "Oria",
-          "Nyakongo",
-          "Nyakwere",
-          "Ragengni"
-        ]
+          "Kabondo East",
+          "Kabondo West",
+          "Kokwanyo",
+          "Kakelo-Kojwach"
+          ]
       },
       {
         "subcounty_name": "Karachuonyo",
         "wards": [
-          "Kendu Bay Town",
-          "Kanyaluo",
-          "Kibingoti",
-          "Kojwach",
-          "Kokwanyo",
-          "Koyango",
-          "Othoro",
-          "Othuoro"
-        ]
+          "West Karachuonyo",
+          "North Karachuonyo",
+          "Central Kanyaluo",
+          "Kibiri",
+          "Wangchieng",
+          "Kendu Bay Town"
+          ]
       },
       {
         "subcounty_name": "Kasipul",
         "wards": [
-          "Adiedo",
-          "Kamagaga",
-          "Kamolo",
-          "Kandiege",
-          "Kanyadoto",
-          "Kanyikela",
-          "Kibiri",
-          "Kogweno",
-          "Oboch"
-        ]
-      },
-      {
-        "subcounty_name": "Mbita",
-        "wards": [
-          "Gingo",
-          "Kanyamwa Kologi",
-          "Kanyamwa Kosewe",
-          "Kanyamwa Koth",
-          "Kanyamwa Kowino",
-          "Kanyikela",
-          "Kowidi",
-          "Mbita Town",
-          "Waware"
-        ]
+          "West Kasipul",
+          "South Kasipul",
+          "Central Kasipul",
+          "East Kamagak",
+          "West Kamagak"
+          ]
       },
       {
         "subcounty_name": "Ndhiwa",
         "wards": [
-          "Got Kachola",
+          "Kwabwai",
           "Kanyadoto",
           "Kanyikela",
-          "Kwabwai",
-          "Kwakwaila",
-          "Magunga",
-          "Mirogi",
-          "Ndhiwa East",
-          "Ndhiwa West",
-          "Pala",
-          "Rodi Kopany",
-          "Wigoteng"
-        ]
+          "Kabuoch North",
+          "Kabuoch South/Pala",
+          "Kanyamwa Kologi",
+          "Kanyamwa Kosewe"
+          ]
       },
       {
         "subcounty_name": "Rangwe",
         "wards": [
-          "East Kamagak",
-          "Gem East",
-          "Gem West",
+          "West Gem",
+          "East Gem",
           "Kagan",
-          "Kanyaluo",
-          "Kanyango",
-          "Kanyikela",
-          "North Kamagak",
-          "South Kamagak"
+          "Kochia"
         ]
       },
-      {
-        "subcounty_name": "Suba",
-        "wards": [
-          "Genga",
-          "Kaksingri West",
-          "Kaksingri East",
-          "Kasgunga",
-          "Kitolo",
-          "Kwabwai",
-          "Lwanda K'Otieno",
-          "Mfangano",
-          "Mirogi",
-          "Muhuru",
-          "Ng'oma K'Odo",
-          "Waware"
-        ]
-      }
+  {
+    "subcounty_name":"Suba North",
+    "wards": [
+      "Mfangano Island",
+      "Rusinga Island",
+      "Kasgunga",
+      "Gember",
+      "Lambwe"
+      ]
+  },
+  {
+    "subcounty_name":"Suba South",
+    "wards": [
+      "Gwassi South",
+      "Gwassi North",
+      "Kaksingri West",
+      "Ruma-Kakshingri"
+      ]
+  }
     ]
   },
   {
