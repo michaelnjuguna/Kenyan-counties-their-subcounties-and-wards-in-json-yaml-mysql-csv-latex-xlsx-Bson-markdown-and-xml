@@ -1578,99 +1578,61 @@
       {
         "subcounty_name": "Turkana Central",
         "wards": [
-          "Kapedo/Napeitom",
-          "Kibish",
-          "Lobei/Keyan",
-          "Lokori/Kochodin",
-          "Lokitaung",
-          "Nakalale",
-          "Songot"
+          "Kerio Delta",
+          "Kang’atotha",
+          "Kalokol",
+          "Lodwar Township",
+          "Kanamkemer"
         ]
       },
       {
         "subcounty_name": "Turkana East",
         "wards": [
-          "Alakas",
-          "Kalokol",
-          "Kanamkemer",
-          "Kapedo/Napeitom",
+          "Kapedo/Napeito",
           "Katilia",
-          "Kibish",
-          "Kolowa",
-          "Kotaruk/Lobei",
-          "Lokichar",
-          "Lokori/Kochodin",
-          "Lokitaung",
-          "Lorugum",
-          "Nakalale"
+          "Lokori/Kochodin"
         ]
       },
       {
         "subcounty_name": "Turkana North",
         "wards": [
           "Kaeris",
-          "Kang'atotha",
-          "Kaputir",
+          "Lake zone",
+          "Lapur",
+          "Kaaleng/kaikor",
           "Kibish",
-          "Kibish Town",
-          "Korobebe",
-          "Kotaruk/Lobei",
-          "Lokichoggio",
-          "Lopur",
-          "Nadapal",
-          "Nakalale",
-          "Songot"
+          "Nakalale"
         ]
       },
       {
         "subcounty_name": "Turkana South",
         "wards": [
-          "Kang'atotha",
           "Kaputir",
-          "Katilia",
-          "Kibish",
-          "Korobebe",
-          "Lokichar",
-          "Lopur",
-          "Lower Kataboi",
-          "Nakalale"
+          "Katilu",
+          "Lobokat",
+          "Kalapata",
+          "Lokichar"
         ]
       },
       {
         "subcounty_name": "Turkana West",
         "wards": [
-          "Kainuk",
           "Kakuma",
-          "Kalobeyei",
-          "Kanamkemer",
-          "Katilu",
-          "Kerio Delta",
-          "Kibish",
-          "Kotaruk/Lobei",
-          "Lokichoggio",
           "Lopur",
-          "Nakalale",
-          "Nanam",
-          "Tarach"
+          "Letea",
+          "Songot",
+          "Kalobeyei",
+          "Lokichoggio",
+          "Nanaam"
         ]
       },
       {
         "subcounty_name": "Loima",
         "wards": [
-          "Kalapata",
-          "Kanamkemer",
-          "Kaputir",
-          "Kibish",
-          "Korobebe",
           "Kotaruk/Lobei",
-          "Kotomarok",
-          "Lokichoggio",
-          "Lopur",
-          "Loyapat",
-          "Nakalale",
-          "Namoruputh",
-          "Songot",
-          "Tangulbei"
+          "Turkwel",
+          "Loima",
+          "Lokiriama/Loren Gippi"
         ]
       }
     ]
