@@ -1682,44 +1682,36 @@
       {
         "subcounty_name": "Kapenguria",
         "wards": [
-          "Batei",
-          "Cheelo",
-          "Kaibos",
-          "Kapenguria",
-          "Lomut",
-          "Mnagei",
-          "Murkwijit",
-          "Nyaru",
-          "Siyoi",
-          "Suam"
+          "Riwo",  "Kapenguria",  "Mnagei",  "Siyoi",  "Endugh",  "Sook"
         ]
       },
       {
         "subcounty_name": "Sigor",
         "wards": [
-          "Chesegon",
-          "Kapchok",
-          "Kasei",
-          "Kisegi",
-          "Kokwo",
-          "Lelan",
-          "Sook",
-          "Soy North",
-          "Soy South"
+          "Sekerr",
+  "Masool",
+  "Lomut",
+  "Weiwei"
         ]
       },
       {
         "subcounty_name": "Kacheliba",
         "wards": [
-          "Chepareria",
-          "Kaplamai",
+          "Suam",
+          "Kodich",
           "Kasei",
-          "Konyao",
-          "Kotaruk",
-          "Masool",
-          "Napeitom",
-          "Ombolion",
-          "Sook"
+          "Kapchok",
+          "Kiwawa",
+          "Alale"
+        ]
+      },{
+
+        "subcounty_name": "Pokot South",
+        "wards": [
+          "Chepareria",
+          "Batei",
+          "Lelan",
+          "Tapach"
         ]
       }
     ]
