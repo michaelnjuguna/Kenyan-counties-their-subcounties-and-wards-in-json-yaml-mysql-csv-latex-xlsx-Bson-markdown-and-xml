@@ -478,151 +478,96 @@
         "subcounty_name": "Buuri",
 
         "wards": [
-          "Akirang’ondu",
-          "Abothuguchi West",
-          "Abothuguchi Central",
-          "Mwanganthia",
-          "Mitunguu",
           "Timau",
-          "Tunyai",
+          "Kisima",
+          "Kiirua/Naari",
           "Ruiri/Rwarera"
-        ]
+          ]
       },
       {
         "subcounty_name": "Central Imenti",
 
         "wards": [
-          "Athwana",
-          "Abothuguchi East",
-          "Agricultural Development Corporation",
-          "Katheri",
-          "Kangeta",
-          "Kibirichia",
-          "Kiegoi/Antubochiu",
-          "Kiirua/Naari",
-          "Maua",
-          "Muthara",
-          "Nkomo"
+          "Mwanganthia",
+          "Abothuguchi Central",
+          "Abothuguchi West",
+          "Kiagu",
+          "Kibirichia"
         ]
       },
       {
         "subcounty_name": "Igembe Central",
 
         "wards": [
-          "Antuambui",
-          "Igembe East",
-          "Igembe South",
-          "Igembe North",
-          "Athiru Gaiti",
-          "Kanuni",
-          "Abogeta West"
+          "Akirang'ondu",
+          "Athiru",
+          "Ruujine",
+          "Igembe East Njia",
+          "Kangeta"
         ]
       },
       {
         "subcounty_name": "Igembe South",
 
         "wards": [
-          "Amwathi",
-          "Kiguchwa",
-          "Ntunene",
-          "Nyambene",
-          "Njia",
-          "Akirang’i South"
+          "Maua",
+          "Kegoi/Antubochiu",
+          "Athiru",
+          "Gaiti",
+          "Akachiu",
+          "Kanuni"
         ]
       },
       {
         "subcounty_name": "Igembe North",
 
         "wards": [
-          "Abogeta East",
-          "Athwana Gakwegori",
-          "Kangeta",
-          "Kirimari",
-          "Maua",
-          "Ntima East",
-          "Ntima West",
-          "Nyaki West",
-          "Nyaki East"
+          "Antuambui",
+          "Ntunene",
+          "Antubetwe Kiongo",
+          "Naathui",
+          "Amwathi"
         ]
       },
       {
         "subcounty_name": "Tigania West",
 
         "wards": [
+          "Athwana",
+          "Akithi",
           "Kianjai",
-          "Kiguchwa/Mitua",
-          "Mbeu/Mwimbi",
-          "Ntunene East",
-          "Ntunene West",
-          "Tigania Central",
-          "Tigania East",
-          "Tigania West",
-          "Nkomo Ward"
+          "Nkomo",
+          "Mbeu"
         ]
       },
       {
         "subcounty_name": "Tigania East",
 
         "wards": [
-          "Akithii",
-          "Athanakaribu",
-          "Athwana Wendo",
-          "Igoji East",
-          "Igoji West",
-          "Igoji West",
-          "Karama",
-          "Kianjai",
-          "Kiirua/ Nkomo",
-          "Kiguchwa/ Karama",
-          "Kiguchwa/ Ntirimiti",
-          "Ngandori",
-          "Nkuene",
           "Thangatha",
-          "Thingithu"
+          "Mikinduri",
+          "Kiguchwa",
+          "Mithara",
+          "Karama"
         ]
       },
       {
         "subcounty_name": "Imenti North",
 
         "wards": [
-          "Antuambui",
-          "Igembe East",
-          "Igembe South",
-          "Igembe North",
-          "Athiru Gaiti",
-          "Kanuni",
-          "Abogeta West",
-          "Abogeta East",
-          "Athwana Gakwegori",
-          "Kangeta",
-          "Kirimari",
-          "Maua",
-          "Ntima East",
-          "Ntima West",
-          "Nyaki West",
-          "Nyaki East"
+          "Municipality", "Ntima East", "Ntima West", "Nyaki West", "Nyaki East"
         ]
       },
       {
         "subcounty_name": "Imenti South",
 
         "wards": [
-          "Antubetwe Kiongo",
-          "Antuambui",
-          "Antuani",
-          "Athwana",
-          "Gaiti",
+          "Mitunguu",
           "Igoji East",
           "Igoji West",
-          "Kiagu",
-          "Kibirichia",
-          "Kiguchwa",
-          "Kinyaritha",
-          "Mariani",
-          "Ntunene",
-          "Nkuene",
-          "Nyaki",
-          "Thangatha"
+          "Abogeta East",
+          "Abogeta West",
+          "Nkuene"
         ]
       }
     ]
