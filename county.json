@@ -2050,15 +2050,11 @@
         "subcounty_name": "Baringo Central",
 
         "wards": [
-          "Ewalel/Chapchap",
           "Kabarnet",
-          "Kapropita",
-          "Kisiara",
-          "Korossi",
-          "Mogotio",
           "Sacho",
-          "Saimo/Kipsaraman",
-          "Tenges"
+          "Tenges",
+          "Ewalel/Chapcha",
+          "Kapropita"
         ]
       },
       {
@@ -2066,73 +2062,53 @@
 
         "wards": [
           "Barwessa",
-          "Emining",
           "Kabartonjo",
-          "Kabasis",
-          "Kaplamai",
-          "Koibatek",
-          "Lembus",
-          "Mumberes/Panyangara",
-          "Saimo/Soi"
-        ]
+          "Saimo/Kipsaraman",
+          "Saimo/Soi",
+          "Bartabwa"
+          ]
       },
       {
         "subcounty_name": "Baringo South",
 
         "wards": [
+          "Marigat",
           "Ilchamus",
-          "Kapropok",
           "Mochongoi",
-          "Mogotio",
-          "Soi",
-          "Tenges",
-          "Tiaty East",
-          "Tirioko",
-          "Tiritagoi"
-        ]
+          "Mukutani"
+          ]
       },
       {
         "subcounty_name": "Eldama Ravine",
 
         "wards": [
-          "Embobut / Embulot",
-          "Ilchan/Lenges",
-          "Kabazi",
-          "Makutani",
+          "Lembus",
+          "Lembus Kwen",
+          "Ravine",
           "Mumberes/Maji Mazuri",
-          "Mumberes/Wangapala",
-          "Ol Kokwe",
-          "Tulwet/Chuiyat"
+          "Lembus /Pekerra"
         ]
       },
       {
         "subcounty_name": "Mogotio",
 
         "wards": [
-          "Emsos",
-          "Kiserian",
-          "Koige",
-          "Lembus",
           "Mogotio",
-          "Seretut",
-          "Tembelio",
-          "Tirioko",
-          "Tiritagoi"
-        ]
+          "Emining",
+          "Kisanana"
+       ]
       },
       {
         "subcounty_name": "Tiaty",
 
         "wards": [
-          "Churo/Amaya",
-          "Katikit/Lomut",
-          "Korossi",
-          "Kositei",
-          "Kukurokok",
-          "Mochongoi",
+          "Tirioko",
+          "Kolowa",
           "Ribkwo",
           "Silale",
-          "Tangulbei/Korossi"
+          "Loiyamorock",
+          "Tangulbei/Korossi",
+          "Churo/Amaya"
         ]
       }
     ]
