@@ -1908,145 +1908,101 @@
       {
         "subcounty_name": "Nakuru Town East",
         "wards": [
-          "Kapkures",
-          "Rhonda",
+          "Biashara",
           "Kivumbini",
           "Flamingo",
-          "Kwa Rhonda",
-          "London",
-          "Biashara",
-          "Kwa Muhia"
+          "Menengai",
+          "Nakuru East"
         ]
       },
       {
         "subcounty_name": "Nakuru Town West",
         "wards": [
           "Barut",
-          "Kabatini",
+          "London",
           "Kaptembwo",
           "Kapkures",
-          "Lake View",
-          "Manga",
-          "Menengai",
-          "Nakuru West",
-          "Shabaab"
+          "Rhoda",
+          "Shaabab"
         ]
       },
       {
         "subcounty_name": "Njoro",
         "wards": [
-          "Elburgon",
-          "Kabazi",
-          "Lare",
-          "Mauche",
           "Mau Narok",
+          "Mauche",
+          "Kihingo",
           "Nessuit",
-          "Njoro",
-          "Ravine"
-        ]
+          "Lare",
+          "Njoro"
+          ]
       },
       {
         "subcounty_name": "Molo",
-        "wards": [
-          "Elburgon",
-          "Kihingo",
-          "Molo",
-          "Mariashoni",
-          "Turi",
-          "Sacho",
-          "Tinet",
-          "Endarasha"
-        ]
+        "wards": ["Mariashoni", "Elburgon", "Turi", "Molo"]
       },
       {
         "subcounty_name": "Gilgil",
         "wards": [
-          "Elementaita",
           "Gilgil",
-          "Kamara",
-          "Kongasis",
-          "Malewa West",
-          "Malewa East",
+          "Elementaita",
           "Mbaruk/Eburu",
-          "Murindat"
+          "Malewa West",
+          "Murindati"
         ]
       },
       {
         "subcounty_name": "Naivasha",
         "wards": [
           "Biashara",
-          "Hell's Gate",
+          "Hells Gate",
           "Lake View",
           "Maiella",
           "Mai Mahiu",
-          "Mairowa",
           "Olkaria",
+          "Naivasha East",
           "Viwandani"
         ]
       },
       {
         "subcounty_name": "Kuresoi North",
         "wards": [
-          "Kamara",
-          "Kamara",
-          "Keringet",
-          "Kiptororo",
-          "Mariashoni/Ndanai",
-          "Mau Summit",
-          "Sirikwa",
-          "Tulon",
-          "Tunyai"
+          "Kiptororo", "Nyota" , "Sirikwa","Kamara"
         ]
       },
       {
         "subcounty_name": "Kuresoi South",
         "wards": [
-          "Kamara",
-          "Kamara",
-          "Kiptororo",
-          "Kuresoi",
-          "Lembus",
-          "Nessuit",
-          "Nyakio",
-          "Tinet",
-          "Tuiyobei"
+          "Amalo", "Keringet", "Kiptagich","Tinet"
         ]
       },
       {
         "subcounty_name": "Bahati",
         "wards": [
-          "Bahati",
-          "Flamingo",
+          "Dundori",
+          "Kabatini",
           "Kiamaina",
           "Lanet/Umoja",
-          "Mbaruk/Eburu",
-          "Menengai",
-          "Moi Ndabi",
-          "Njoro",
-          "Sobea"
-        ]
+          "Bahati"
+          ]
       },
       {
         "subcounty_name": "Rongai",
         "wards": [
-          "Menengai East",
           "Menengai West",
+          "Soin",
           "Visoi",
-          "Kabarak University",
-          "Keringet",
+          "Mosop",
           "Solai"
-        ]
+          ]
       },
       {
         "subcounty_name": "Subukia",
         "wards": [
-          "Subukia East",
-          "Subukia West",
+          "Subukia",
           "Waseges",
-          "Kabazi",
-          "Flamingo",
-          "Turi"
-        ]
+          "Kabazi"
+          ]
       }
     ]
   },
