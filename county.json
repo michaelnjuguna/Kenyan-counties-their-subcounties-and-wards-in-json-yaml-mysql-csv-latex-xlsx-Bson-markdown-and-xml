@@ -3102,131 +3102,82 @@
           "North Kamagambo",
           "Central Kamagambo",
           "East Kamagambo",
-          "West Kamagambo",
-          "Kitere",
-          "Got Kachola",
-          "Kanyadoto",
-          "Kageno"
-        ]
+          "South Kamagambo"
+          ]
       },
       {
         "subcounty_name": "Awendo",
         "wards": [
-          "Kanyikela",
-          "Kibuon",
-          "Lwanda Koderobara",
-          "West Kanyamkago",
-          "North Sakwa",
+          "North East Sakwa",
           "South Sakwa",
+          "West Sakwa",
           "Central Sakwa"
         ]
       },
       {
         "subcounty_name": "Suna East",
         "wards": [
-          "Kakrao",
-          "Wiga",
           "God Jope",
-          "Lwala",
-          "Kanyamwa Kologi",
-          "Kanyamwa Kosewe",
-          "Kanyamwa K'odera"
+          "Suna Central",
+          "Kakrao",
+          "Kwa"
         ]
       },
       {
         "subcounty_name": "Suna West",
         "wards": [
-          "Wasweta I",
+          "Wiga",
           "Wasweta II",
-          "Gwitembe",
-          "Nyamonye",
-          "Kakrao",
-          "Masara",
-          "Lolwe",
-          "Kaler"
-        ]
+          "Ragan-Oruba",
+          "Wasimbete"
+          ]
       },
       {
         "subcounty_name": "Uriri",
         "wards": [
-          "Kakrao",
-          "Kanyamwa Kosewe",
-          "Kanyamwa Kologi",
-          "Central Kanyamkago",
+          "West Kanyamkago",
           "North Kanyamkago",
+          "Central Kanyam Kago",
           "South Kanyamkago",
-          "West Kanyamkago"
+          "East Kanyamkago"
         ]
       },
       {
         "subcounty_name": "Nyatike",
         "wards": [
-          "Kadem",
-          "Muhuru",
+          "Kachien’g",
+          "Kanyasa",
           "North Kadem",
-          "Macalder/Kanyarwanda",
-          "God Ngiro",
-          "Tagache",
-          "Got Kachola"
+          "Macalder/ Kanyarwanda",
+          "Kaler",
+          "Got Kachola",
+          "Muhuru"
         ]
       },
       {
         "subcounty_name": "Kuria East",
         "wards": [
-          "Kegonga",
-          "Gokeharaka/Getambwega",
-          "Nyabohanse/Komosoko",
-          "Kakrao/Kanyarus",
-          "Ntimaru West/Ngaiti",
-          "Ntimaru East/Ntimaru",
-          "Masaba",
-          "Nyacheki"
-        ]
+          "Gokeharaka/Getamwega",
+          "Ntimaru West",
+          "Ntimaru East",
+          "Nyabasi East",
+          "Nyabasi West"
+          ]
       },
       {
         "subcounty_name": "Kuria West",
         "wards": [
           "Bukira East",
-          "Bukira Central",
-          "Bukira North/Wagwe",
-          "Bukira West",
+          "Bukira Central/ Ikerege",
           "Isibania",
-          "Ntimaru West",
-          "Ntimaru East"
-        ]
-      },
-      {
-        "subcounty_name": "Ntimaru",
-        "wards": [
-          "Gokeharaka/Getambwega",
-          "Nyabohanse/Komosoko",
-          "Kakrao/Kanyarus",
-          "Ntimaru West/Ngaiti",
-          "Ntimaru East/Ntimaru",
+          "Makerero",
           "Masaba",
-          "Nyacheki",
-          "Bukira East",
-          "Bukira Central",
-          "Bukira North/Wagwe",
-          "Bukira West",
-          "Isibania"
-        ]
-      },
-      {
-        "subcounty_name": "Mabera",
-        "wards": [
-          "  Nyarombo",
-          "Kochia",
-          "Nyamaraga",
-          "Nyametaburo",
-          "Miruka",
-          "Bware",
-          "Rangenyo",
-          "Kanyasa",
-          "Nyamninia",
-          "Kirindo"
-        ]
+          "Tagare",
+          "Nyamosense/Ko Mosoko"
+          ]
       }
+  
+  
     ]
   },
   {
