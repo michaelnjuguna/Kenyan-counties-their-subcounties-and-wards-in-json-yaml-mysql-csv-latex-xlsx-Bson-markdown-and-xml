@@ -1,5 +1,6 @@
-﻿| county_code | county_name     | constituencies_constituency_name | constituencies_wards      |
-|-------------|-----------------|----------------------------------|---------------------------|
+﻿+-------------+-----------------+----------------------------------+---------------------------+
+| county_code | county_name     | constituencies_constituency_name | constituencies_wards      |
++-------------+-----------------+----------------------------------+---------------------------+
 | 1           | Mombasa         | Changamwe                        | Port Reitz                |
 | 1           | Mombasa         | Changamwe                        | Kipevu                    |
 | 1           | Mombasa         | Changamwe                        | Airport                   |
@@ -1441,3 +1442,4 @@
 | 47          | Nairobi         | Mwingi Central                   | Embakasi South            | Mathare                      | Ngei                     |
 | 47          | Nairobi         | Mwingi Central                   | Embakasi South            | Mathare                      | Huruma                   |
 | 47          | Nairobi         | Mwingi Central                   | Embakasi South            | Mathare                      | Mabatini                 |
++-------------+-----------------+----------------------------------+---------------------------+------------------------------+--------------------------+

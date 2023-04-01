@@ -2,17 +2,17 @@
   {
     "county_code": 1,
     "county_name": "Mombasa",
-    "sub_counties": [
+    "constituencies": [
       {
-        "subcounty_name": "Changamwe",
+        "constituency_name": "Changamwe",
         "wards": ["Port Reitz", "Kipevu", "Airport", "Miritini", "Chaani"]
       },
       {
-        "subcounty_name": "Jomvu",
+        "constituency_name": "Jomvu",
         "wards": ["Jomvu Kuu", "Magongo", "Mikindani"]
       },
       {
-        "subcounty_name": "Kisauni",
+        "constituency_name": "Kisauni",
         "wards": [
           "Mjambere",
           "Junda",
@@ -24,11 +24,11 @@
         ]
       },
       {
-        "subcounty_name": "Likoni",
+        "constituency_name": "Likoni",
         "wards": ["Mtongwe", "Shika adabu", "Bofu", "Likoni", "Timbwani"]
       },
       {
-        "subcounty_name": "Mvita",
+        "constituency_name": "Mvita",
         "wards": [
           "Mji wa Kale/Makadara",
           "Tudor",
@@ -38,7 +38,7 @@
         ]
       },
       {
-        "subcounty_name": "Nyali",
+        "constituency_name": "Nyali",
         "wards": [
           "Frere Town",
           "Ziwa la Ng'ombe",
@@ -52,9 +52,9 @@
   {
     "county_code": 2,
     "county_name": "Kwale",
-    "sub_counties": [
+    "constituencies": [
       {
-        "subcounty_name": "Kinango",
+        "constituency_name": "Kinango",
         "wards": [
           "Ndavaya",
           "Puma",
@@ -66,15 +66,15 @@
         ]
       },
       {
-        "subcounty_name": "Lunga Lunga",
+        "constituency_name": "Lunga Lunga",
         "wards": ["Pongwe/Kikoneni", "Dzombo", "Vanga", " Mwereni"]
       },
       {
-        "subcounty_name": "Msambweni",
+        "constituency_name": "Msambweni",
         "wards": ["Gombato Bongwe", " Ukunda", "Kinondo", "Ramisi"]
       },
       {
-        "subcounty_name": "Matuga",
+        "constituency_name": "Matuga",
         "wards": ["  Tsimba Golini", "Waa", "Tiwi", "Kubo South", "Mkongani"]
       }
     ]
@@ -133,9 +133,9 @@
   {
     "county_code": 4,
     "county_name": "Tana River",
-    "sub_counties": [
+    "constituencies": [
       {
-        "subcounty_name": "Garsen",
+        "constituency_name": "Garsen",
 
         "wards": [
           "Garsen Central",
@@ -147,12 +147,12 @@
         ]
       },
       {
-        "subcounty_name": "Galole",
+        "constituency_name": "Galole",
 
         "wards": ["Kinakomba", "Mikinduni", "Chewani", "Wayu"]
       },
       {
-        "subcounty_name": "Bura",
+        "constituency_name": "Bura",
 
         "wards": ["Chewele", "Hirimani", "Bangale", "Madogo", "Sala"]
       }
@@ -161,14 +161,14 @@
   {
     "county_code": 5,
     "county_name": "Lamu",
-    "sub_counties": [
+    "constituencies": [
       {
-        "subcounty_name": "Lamu East",
+        "constituency_name": "Lamu East",
 
         "wards": ["Faza", "Kiunga", "Basuba"]
       },
       {
-        "subcounty_name": "Lamu West",
+        "constituency_name": "Lamu West",
 
         "wards": [
           "Shella",
@@ -185,14 +185,14 @@
   {
     "county_code": 6,
     "county_name": "Taita-Taveta",
-    "sub_counties": [
+    "constituencies": [
       {
-        "subcounty_name": "Taveta",
+        "constituency_name": "Taveta",
 
         "wards": ["Chala", "Mahoo", "Bomani", "Mboghoni", "Mata"]
       },
       {
-        "subcounty_name": "Wundanyi",
+        "constituency_name": "Wundanyi",
 
         "wards": [
           "Wundanyi/Mbale",
@@ -202,12 +202,12 @@
         ]
       },
       {
-        "subcounty_name": "Mwatate",
+        "constituency_name": "Mwatate",
 
         "wards": ["Ronge", "Mwatate", "Bura", "Chawia", "Wusi/Kishamba"]
       },
       {
-        "subcounty_name": "Voi",
+        "constituency_name": "Voi",
 
         "wards": [
           "Mbololo",
@@ -223,18 +223,18 @@
   {
     "county_code": 7,
     "county_name": "Garissa",
-    "sub_counties": [
+    "constituencies": [
       {
-        "subcounty_name": "Dujis",
+        "constituency_name": "Dujis",
         "wards": ["Waberi", "Galbet", "Township", "Iftin"]
       },
       {
-        "subcounty_name": "Balambala",
+        "constituency_name": "Balambala",
 
         "wards": ["Balambala", "Danyere", "Jarajara", "Saka", "Sankuri"]
       },
       {
-        "subcounty_name": "Dadaab",
+        "constituency_name": "Dadaab",
 
         "wards": [
           "Dertu",
@@ -246,17 +246,17 @@
         ]
       },
       {
-        "subcounty_name": "Fafi",
+        "constituency_name": "Fafi",
 
         "wards": ["Bura", "Dekaharia", "Jarajila", "Fafi", "Nanighi"]
       },
 
       {
-        "subcounty_name": "Ijara",
+        "constituency_name": "Ijara",
         "wards": ["Hulugho", "Sangailu", "Ijara", "Masalani"]
       },
       {
-        "subcounty_name": "Lagdera",
+        "constituency_name": "Lagdera",
 
         "wards": [
           "Modogashe",
@@ -272,9 +272,9 @@
   {
     "county_code": 8,
     "county_name": "Wajir",
-    "sub_counties": [
+    "constituencies": [
       {
-        "subcounty_name": "Wajir East",
+        "constituency_name": "Wajir East",
 
         "wards": [
           "Wagbri",
@@ -284,7 +284,7 @@
         ]
       },
       {
-        "subcounty_name": "Wajir North",
+        "constituency_name": "Wajir North",
 
         "wards": [
           "Gurar",
@@ -297,7 +297,7 @@
         ]
       },
       {
-        "subcounty_name": "Wajir South",
+        "constituency_name": "Wajir South",
 
         "wards": [
           "Benane",
@@ -309,7 +309,7 @@
         ]
       },
       {
-        "subcounty_name": "Wajir West",
+        "constituency_name": "Wajir West",
 
         "wards": [
           "Arbajahan",
@@ -320,7 +320,7 @@
         ]
       },
       {
-        "subcounty_name": "Tarbaj",
+        "constituency_name": "Tarbaj",
         "wards": [
           "Elben",
           "Sarman",
@@ -329,7 +329,7 @@
         ]
       },
       {
-        "subcounty_name":"Eldas",
+        "constituency_name":"Eldas",
         "wards": [
           "Eldas",
           "Della",
@@ -342,9 +342,9 @@
   {
     "county_code": 9,
     "county_name": "Mandera",
-    "sub_counties": [
+    "constituencies": [
   {
-    "subcounty_name": "Moyale",
+    "constituency_name": "Moyale",
     "wards": [
       "Butiye",
       "Sololo",
@@ -356,7 +356,7 @@
     ]
   },
   {
-    "subcounty_name":"North Horr",
+    "constituency_name":"North Horr",
     "wards": [
       "Dukana",
       "Maikona",
@@ -365,7 +365,7 @@
       "Illeret"
     ]
   },{
-    "subcounty_name":"Laisamis",
+    "constituency_name":"Laisamis",
     "wards": [
       "Loiyangalani",
       "Kargi/South Horr",
@@ -375,7 +375,7 @@
     ]
   },
   {
-    "subcounty_name":"Saku",
+    "constituency_name":"Saku",
     "wards": [
       "Sagate/Jaldesa",
       "Karare",
@@ -388,29 +388,29 @@
   {
     "county_code": 10,
     "county_name": "Marsabit",
-    "sub_counties": [
+    "constituencies": [
       {
-        "subcounty_name": "Laisamis",
+        "constituency_name": "Laisamis",
 
         "wards": [
         "  Loiyangalani", "Kargi/South Horr", "Korr/Ngurunit", "Logo Logo", "Laisamis"
         ]
       },
       {
-        "subcounty_name": "North Horr",
+        "constituency_name": "North Horr",
 
         "wards": [
         "  Dukana", "Maikona", "Turbi", "North Horr"," Illeret"
         ]
       },
       {
-        "subcounty_name": "Saku",
+        "constituency_name": "Saku",
 
         "wards": [
           "Sagate/Jaldesa", "Karare", "Marsabit Central"
         ]
       },{
-        "subcounty_name":"Moyale",
+        "constituency_name":"Moyale",
         "wards":[
           "Butiye", "Sololo", "Heillu/Manyatta", "Golbo", "Moyale Township", "Uran", "Obbu"
         ]
@@ -420,9 +420,9 @@
   {
     "county_code": 11,
     "county_name": "Isiolo",
-    "sub_counties": [
+    "constituencies": [
       {
-        "subcounty_name": "Isiolo North",
+        "constituency_name": "Isiolo North",
         "wards": [
           "Wabera",
           "Bulla Pesa",
@@ -434,7 +434,7 @@
         ]
       },
       {
-        "subcounty_name": "Isiolo South",
+        "constituency_name": "Isiolo South",
 
         "wards": [
           "Garba Tulla",
@@ -447,9 +447,9 @@
   {
     "county_code": 12,
     "county_name": "Meru",
-    "sub_counties": [
+    "constituencies": [
       {
-        "subcounty_name": "Buuri",
+        "constituency_name": "Buuri",
 
         "wards": [
           "Timau",
@@ -459,7 +459,7 @@
           ]
       },
       {
-        "subcounty_name": "Central Imenti",
+        "constituency_name": "Central Imenti",
 
         "wards": [
           "Mwanganthia",
@@ -470,7 +470,7 @@
         ]
       },
       {
-        "subcounty_name": "Igembe Central",
+        "constituency_name": "Igembe Central",
 
         "wards": [
           "Akirang'ondu",
@@ -481,7 +481,7 @@
         ]
       },
       {
-        "subcounty_name": "Igembe South",
+        "constituency_name": "Igembe South",
 
         "wards": [
           "Maua",
@@ -493,7 +493,7 @@
         ]
       },
       {
-        "subcounty_name": "Igembe North",
+        "constituency_name": "Igembe North",
 
         "wards": [
           "Antuambui",
@@ -504,7 +504,7 @@
         ]
       },
       {
-        "subcounty_name": "Tigania West",
+        "constituency_name": "Tigania West",
 
         "wards": [
           "Athwana",
@@ -515,7 +515,7 @@
         ]
       },
       {
-        "subcounty_name": "Tigania East",
+        "constituency_name": "Tigania East",
 
         "wards": [
           "Thangatha",
@@ -526,14 +526,14 @@
         ]
       },
       {
-        "subcounty_name": "Imenti North",
+        "constituency_name": "Imenti North",
 
         "wards": [
           "Municipality", "Ntima East", "Ntima West", "Nyaki West", "Nyaki East"
         ]
       },
       {
-        "subcounty_name": "Imenti South",
+        "constituency_name": "Imenti South",
 
         "wards": [
           "Mitunguu",
@@ -549,9 +549,9 @@
   {
     "county_code": 13,
     "county_name": "Tharaka Nithi",
-    "sub_counties": [
+    "constituencies": [
       {
-        "subcounty_name": "Tharaka ",
+        "constituency_name": "Tharaka ",
 
         "wards": [
           "Gatunga",
@@ -562,7 +562,7 @@
           ]
       },
       {
-        "subcounty_name": "Chuka/Igambang’ombe",
+        "constituency_name": "Chuka/Igambang’ombe",
 
         "wards": [
           "Mariani",
@@ -573,7 +573,7 @@
           ]
       },
       {
-        "subcounty_name": "Maara",
+        "constituency_name": "Maara",
 
         "wards": [
           "Mitheru",
@@ -588,9 +588,9 @@
   {
     "county_code": 14,
     "county_name": "Embu",
-    "sub_counties": [
+    "constituencies": [
       {
-        "subcounty_name": "Manyatta",
+        "constituency_name": "Manyatta",
 
         "wards": [
           "Ruguru/Ngandori",
@@ -602,7 +602,7 @@
         ]
       },
       {
-        "subcounty_name": "Runyenjes",
+        "constituency_name": "Runyenjes",
 
         "wards": [
           "Gaturi North",
@@ -614,7 +614,7 @@
         ]
       },
       {
-        "subcounty_name": "Mbeere North",
+        "constituency_name": "Mbeere North",
 
         "wards": [
           "Nthawa",
@@ -623,7 +623,7 @@
         ]
       },
       {
-        "subcounty_name": "Mbeere South",
+        "constituency_name": "Mbeere South",
 
         "wards": [
           "Mwea",
@@ -638,9 +638,9 @@
   {
     "county_code": 15,
     "county_name": "Kitui",
-    "sub_counties": [
+    "constituencies": [
       {
-        "subcounty_name": "Kitui West",
+        "constituency_name": "Kitui West",
 
         "wards": [
           "Mutonguni",
@@ -650,14 +650,14 @@
         ]
       },
       {
-        "subcounty_name": "Kitui Central",
+        "constituency_name": "Kitui Central",
 
         "wards": [
           "Miambani", "Township Kyangwithya West", "Mulango", "Kyangwithya East"
         ]
       },
       {
-        "subcounty_name": "Kitui Rural",
+        "constituency_name": "Kitui Rural",
 
         "wards": [
           "Kisasi",
@@ -667,7 +667,7 @@
         ]
       },
       {
-        "subcounty_name": "Kitui South",
+        "constituency_name": "Kitui South",
 
         "wards": [
           "Ikana/Kyantune",
@@ -679,7 +679,7 @@
           ]
       },
       {
-        "subcounty_name": "Kitui East",
+        "constituency_name": "Kitui East",
 
         "wards": [
           "Zombe/Mwitika",
@@ -691,7 +691,7 @@
         ]
       },
       {
-        "subcounty_name": "Mwingi North",
+        "constituency_name": "Mwingi North",
 
         "wards": [
           "Ngomeni",
@@ -702,7 +702,7 @@
         ]
       },
       {
-        "subcounty_name": "Mwingi West",
+        "constituency_name": "Mwingi West",
 
         "wards": [
           "Kyome/Thaana",
@@ -712,7 +712,7 @@
         ]
       },
       {
-        "subcounty_name": "Mwingi Central",
+        "constituency_name": "Mwingi Central",
         "wards":[
         "Central","Kivou","Nguni","Mui","Waita"
         ]
@@ -725,7 +725,7 @@
     "county_name": "Machakos",
     "subcounties": [
       {
-        "subcounty_name": "Masinga",
+        "constituency_name": "Masinga",
 
         "wards": [
           "Kivaa",
@@ -737,7 +737,7 @@
         ]
       },
       {
-        "subcounty_name": "Yatta",
+        "constituency_name": "Yatta",
 
         "wards": [
           "Ndalani",
@@ -748,7 +748,7 @@
           ]
       },
       {
-        "subcounty_name": "Matungulu",
+        "constituency_name": "Matungulu",
 
         "wards": [
           "Tala",
@@ -759,7 +759,7 @@
         ]
       },
       {
-        "subcounty_name": "Kangundo",
+        "constituency_name": "Kangundo",
         "wards": [
           "Kangundo North",
           "Kangundo Central",
@@ -768,7 +768,7 @@
         ]
       },
       {
-        "subcounty_name": "Mwala",
+        "constituency_name": "Mwala",
 
         "wards": [
           "Mbiuni",
@@ -780,7 +780,7 @@
        ]
       },
       {
-        "subcounty_name": "Kathiani",
+        "constituency_name": "Kathiani",
 
         "wards": [
           "Mitaboni",
@@ -790,7 +790,7 @@
         ]
       },
       {
-        "subcounty_name": "Machakos Town",
+        "constituency_name": "Machakos Town",
 
         "wards": [
           "Kalama",
@@ -803,7 +803,7 @@
         ]
       },
       {
-        "subcounty_name": "Mavoko",
+        "constituency_name": "Mavoko",
 
         "wards": [
           "Athi River",
@@ -821,7 +821,7 @@
     },
     "subcounties": [
       {
-"subcounty_name":"Mbooni",
+"constituency_name":"Mbooni",
 "wards": [
   "Tulimani",
   "Mbooni",
@@ -832,7 +832,7 @@
   ]
       },
       {
-        "subcounty_name":"Kaiti",
+        "constituency_name":"Kaiti",
         "wards": [
           "Ukia",
           "Kee",
@@ -841,7 +841,7 @@
           ]
       },
       {
-        "subcounty_name": "Makueni",
+        "constituency_name": "Makueni",
 
         "wards": [
           "Wote",
@@ -855,7 +855,7 @@
       },
 
       {
-        "subcounty_name": "Kilome",
+        "constituency_name": "Kilome",
 
         "wards": [
           "Kasikeu",
@@ -864,7 +864,7 @@
         ]
       },
       {
-        "subcounty_name": "Kibwezi East",
+        "constituency_name": "Kibwezi East",
 
         "wards": [
           "Masongaleni",
@@ -874,7 +874,7 @@
         ]
       },
       {
-        "subcounty_name": "Kibwezi West",
+        "constituency_name": "Kibwezi West",
 
         "wards": [
           "Makindu",
@@ -892,7 +892,7 @@
     "county_name": "Nyandarua",
     "subcounties": [
       {
-        "subcounty_name": "Kinangop",
+        "constituency_name": "Kinangop",
 
         "wards": [
           "Engineer",
@@ -906,7 +906,7 @@
         ]
       },
       {
-        "subcounty_name": "Kipipiri",
+        "constituency_name": "Kipipiri",
 
         "wards": [
           "Wanjohi",
@@ -916,7 +916,7 @@
         ]
       },
       {
-        "subcounty_name": "Ol Joro Orok",
+        "constituency_name": "Ol Joro Orok",
 
         "wards": [
           "Gathanji",
@@ -926,7 +926,7 @@
        ]
       },
       {
-        "subcounty_name": "Ndaragwa",
+        "constituency_name": "Ndaragwa",
 
         "wards": [
           "Leshau/Pondo",
@@ -936,7 +936,7 @@
         ]
       },
       {
-        "subcounty_name": "Ol Kalou",
+        "constituency_name": "Ol Kalou",
 
         "wards": [
           "Karau",
@@ -953,7 +953,7 @@
     "county_name": "Nyeri",
     "subcounties": [
       {
-        "subcounty_name": "Mathira",
+        "constituency_name": "Mathira",
         "wards": [
           "Ruguru",
           "Magutu",
@@ -964,7 +964,7 @@
         ]
       },
       {
-        "subcounty_name": "Othaya",
+        "constituency_name": "Othaya",
         "wards": [
           "Mahiga",
           "Iria-Ini",
@@ -973,7 +973,7 @@
         ]
       },
       {
-        "subcounty_name": "Tetu",
+        "constituency_name": "Tetu",
         "wards": [
           "Dedan Kimathi",
           "Wamagana",
@@ -981,7 +981,7 @@
         ]
       },
       {
-        "subcounty_name": "Mukurweini",
+        "constituency_name": "Mukurweini",
         "wards": [
           "Gikondi",
           "Rugi",
@@ -989,7 +989,7 @@
           "Mukurwe-Ini Central"
         ]
       },{
-        "subcounty_name":"Tetu",
+        "constituency_name":"Tetu",
         "wards": [
           "Dedan Kimathi",
           "Wamagana",
@@ -997,7 +997,7 @@
         ]
       },
       {
-        "subcounty_name":"Nyeri Town",
+        "constituency_name":"Nyeri Town",
         "wards": [
           "Kiganjo/Mathari",
           "Rware",
@@ -1007,7 +1007,7 @@
         ]
       },
       {
-        "subcounty_name":"Kieni",
+        "constituency_name":"Kieni",
         "wards": [
           "Mweiga",
           "Naromoro Kiamthaga",
@@ -1027,7 +1027,7 @@
     "subcounties": [
     
       {
-        "subcounty_name": "Kirinyaga Central",
+        "constituency_name": "Kirinyaga Central",
         "wards": [
           "Mutira",
           "Kanyekini",
@@ -1036,7 +1036,7 @@
           ]
       },
       {
-        "subcounty_name": "Mwea",
+        "constituency_name": "Mwea",
         "wards": [
           "Mutithi",
           "Kangai",
@@ -1048,7 +1048,7 @@
           "Thiba"
           ]
       },{
-        "subcounty_name":"Gichugu",
+        "constituency_name":"Gichugu",
         "wards": [
           "Kabare Baragwi",
           "Njukiini",
@@ -1056,7 +1056,7 @@
           "Karumandi"
           ]
       },{
-        "subcounty_name":"Ndia",
+        "constituency_name":"Ndia",
         "wards": [
           "Mukure",
           "Kiine",
@@ -1070,7 +1070,7 @@
     "county_name": "Murang'a",
     "subcounties": [
       {
-        "subcounty_name": "Gatanga",
+        "constituency_name": "Gatanga",
         "wards": [
           "Ithanga",
           "Kakuzi/Mitubiri",
@@ -1081,7 +1081,7 @@
         ]
       },
       {
-        "subcounty_name": "Kandara",
+        "constituency_name": "Kandara",
         "wards": [
           "Ng’ararii",
           "Muruka",
@@ -1092,7 +1092,7 @@
           ]
       },
       {
-        "subcounty_name": "Kigumo",
+        "constituency_name": "Kigumo",
         "wards": [
           "Kahumbu",
           "Muthithi",
@@ -1102,7 +1102,7 @@
         ]
       },
       {
-        "subcounty_name": "Mathioya",
+        "constituency_name": "Mathioya",
         "wards": [
           "Gituhi",
           "Kiru",
@@ -1110,7 +1110,7 @@
         ]
       },
       {
-        "subcounty_name": "Kiharu",
+        "constituency_name": "Kiharu",
         "wards": [
           "Wangu",
           "Mugoiri",
@@ -1121,7 +1121,7 @@
         ]
       },
       {
-        "subcounty_name": "Kangema",
+        "constituency_name": "Kangema",
         "wards": [
           "Kanyenya-Ini",
           "Muguru",
@@ -1129,7 +1129,7 @@
           ]
       },
 {
-  "subcounty_name": "Maragwa",
+  "constituency_name": "Maragwa",
   "wards": [
     "Kimorori/Wempa",
     "Makuyu",
@@ -1146,7 +1146,7 @@
     "county_name": "Kiambu",
     "subcounties": [
       {
-        "subcounty_name": "Gatundu North",
+        "constituency_name": "Gatundu North",
         "wards": [
           "Gituamba",
           "Githobokoni",
@@ -1155,7 +1155,7 @@
         ]
       },
       {
-        "subcounty_name": "Gatundu South",
+        "constituency_name": "Gatundu South",
         "wards": [
           "Kiamwangi",
           "Kiganjo",
@@ -1164,7 +1164,7 @@
         ]
       },
       {
-        "subcounty_name": "Githunguri",
+        "constituency_name": "Githunguri",
         "wards": [
           "Githunguri",
           "Githiga",
@@ -1174,7 +1174,7 @@
           ]
       },
       {
-        "subcounty_name": "Juja",
+        "constituency_name": "Juja",
         "wards": [
           "Murera",
           "Theta",
@@ -1184,7 +1184,7 @@
         ]
       },
       {
-        "subcounty_name": "Kabete",
+        "constituency_name": "Kabete",
         "wards": [
           "Gitaru",
           "Muguga",
@@ -1194,7 +1194,7 @@
         ]
       },
       {
-        "subcounty_name": "Kiambaa",
+        "constituency_name": "Kiambaa",
         "wards": [
           "Cianda",
           "Karuiri",
@@ -1204,7 +1204,7 @@
         ]
       },
       {
-        "subcounty_name": "Kiambu",
+        "constituency_name": "Kiambu",
         "wards": [
           "Ting’gang’a",
           "Ndumberi",
@@ -1213,7 +1213,7 @@
         ]
       },
       {
-        "subcounty_name": "Limuru",
+        "constituency_name": "Limuru",
         "wards": [
           "Bibirioni",
           "Limuru Central",
@@ -1223,7 +1223,7 @@
         ]
       },
       {
-        "subcounty_name": "Kikuyu",
+        "constituency_name": "Kikuyu",
         "wards": [
           "Karai",
           "Nachu",
@@ -1233,7 +1233,7 @@
           ]
       },
       {
-        "subcounty_name": "Lari",
+        "constituency_name": "Lari",
         "wards": [
           "Kijabe",
           "Nyanduma",
@@ -1242,7 +1242,7 @@
           ]
       },
       {
-        "subcounty_name": "Ruiru",
+        "constituency_name": "Ruiru",
         "wards": [
           "Gitothua",
           "Biashara",
@@ -1255,7 +1255,7 @@
           ]
       },
       {
-        "subcounty_name": "Thika Town",
+        "constituency_name": "Thika Town",
         "wards": [
           "Township",
           "Kamenu",
@@ -1271,7 +1271,7 @@
     "county_name": "Turkana",
     "subcounties": [
       {
-        "subcounty_name": "Turkana Central",
+        "constituency_name": "Turkana Central",
         "wards": [
           "Kerio Delta",
           "Kang’atotha",
@@ -1281,7 +1281,7 @@
         ]
       },
       {
-        "subcounty_name": "Turkana East",
+        "constituency_name": "Turkana East",
         "wards": [
           "Kapedo/Napeito",
           "Katilia",
@@ -1289,7 +1289,7 @@
         ]
       },
       {
-        "subcounty_name": "Turkana North",
+        "constituency_name": "Turkana North",
         "wards": [
           "Kaeris",
           "Lake zone",
@@ -1300,7 +1300,7 @@
         ]
       },
       {
-        "subcounty_name": "Turkana South",
+        "constituency_name": "Turkana South",
         "wards": [
           "Kaputir",
           "Katilu",
@@ -1310,7 +1310,7 @@
         ]
       },
       {
-        "subcounty_name": "Turkana West",
+        "constituency_name": "Turkana West",
         "wards": [
           "Kakuma",
           "Lopur",
@@ -1322,7 +1322,7 @@
         ]
       },
       {
-        "subcounty_name": "Loima",
+        "constituency_name": "Loima",
         "wards": [
           "Kotaruk/Lobei",
           "Turkwel",
@@ -1337,13 +1337,13 @@
     "county_name": "West pokot",
     "subcounties": [
       {
-        "subcounty_name": "Kapenguria",
+        "constituency_name": "Kapenguria",
         "wards": [
           "Riwo",  "Kapenguria",  "Mnagei",  "Siyoi",  "Endugh",  "Sook"
         ]
       },
       {
-        "subcounty_name": "Sigor",
+        "constituency_name": "Sigor",
         "wards": [
           "Sekerr",
   "Masool",
@@ -1352,7 +1352,7 @@
         ]
       },
       {
-        "subcounty_name": "Kacheliba",
+        "constituency_name": "Kacheliba",
         "wards": [
           "Suam",
           "Kodich",
@@ -1363,7 +1363,7 @@
         ]
       },{
 
-        "subcounty_name": "Pokot South",
+        "constituency_name": "Pokot South",
         "wards": [
           "Chepareria",
           "Batei",
@@ -1378,7 +1378,7 @@
     "county_name": "Samburu",
     "subcounties": [
       {
-        "subcounty_name": "Samburu East",
+        "constituency_name": "Samburu East",
         "wards": [
           "Waso",
           "Wamba West",
@@ -1387,7 +1387,7 @@
         ]
       },
       {
-        "subcounty_name": "Samburu North",
+        "constituency_name": "Samburu North",
         "wards": [
           "El-Barta",
           "Nachola",
@@ -1398,7 +1398,7 @@
         ]
       },
       {
-        "subcounty_name": "Samburu West",
+        "constituency_name": "Samburu West",
         "wards": [
           "Lodokejek",
           "Suguta Marmar",
@@ -1414,7 +1414,7 @@
     "county_name": "Trans-Nzoia",
     "subcounties": [
       {
-        "subcounty_name": "Cherang'any",
+        "constituency_name": "Cherang'any",
         "wards": [
           "Sinyerere",
           "Makutano",
@@ -1426,7 +1426,7 @@
           ]
       },
       {
-        "subcounty_name": "Kwanza",
+        "constituency_name": "Kwanza",
         "wards": [
           "Kapomboi",
           "Kwanza",
@@ -1435,7 +1435,7 @@
         ]
       },
       {
-        "subcounty_name": "Endebess",
+        "constituency_name": "Endebess",
         "wards": [
           "Chepchoina",
           "Endebess",
@@ -1443,7 +1443,7 @@
           ]
       },
       {
-        "subcounty_name": "Saboti",
+        "constituency_name": "Saboti",
         "wards": [
           "Kinyoro",
           "Matisi",
@@ -1453,7 +1453,7 @@
           ]
       },
       {
-        "subcounty_name": "Kiminini",
+        "constituency_name": "Kiminini",
         "wards": [
           "Kiminini",
           "Waitaluk",
@@ -1470,37 +1470,37 @@
     "county_name": "Uasin Gishu",
     "subcounties": [
       {
-        "subcounty_name": "Ainabkoi",
+        "constituency_name": "Ainabkoi",
         "wards": [
           "Kapsoya","Kaptagat","Ainabkoi/Olare"
         ]
       },
       {
-        "subcounty_name": "Kapseret",
+        "constituency_name": "Kapseret",
         "wards": [
           "Simat/Kapseret","Kipkenyo","Ngeria","Megun","Langas"
         ]
       },
       {
-        "subcounty_name": "Kesses",
+        "constituency_name": "Kesses",
         "wards": [
         "Racecourse","Cheptiret/Kipchamo","Tulwet/Chuiyat","Tarakwa"
         ]
       },
       {
-        "subcounty_name": "Moiben",
+        "constituency_name": "Moiben",
         "wards": [
           "Tembelio","Sergoit","Karuna/Meibeki","Moiben","Kimumu"
         ]
       },
       {
-        "subcounty_name": "Soy",
+        "constituency_name": "Soy",
         "wards": [
         "  Moi’s Bridge","Kapkures","Ziwa","Segero/Barsombe","Kipsom Ba","Soy","Kuinet/Kapsuswa"
         ]
       },
       {
-        "subcounty_name": "Turbo",
+        "constituency_name": "Turbo",
         "wards": [
         "  Ngenyilel","Tapsagoi","Kamagut","Kiplombe","Kapsaos","Huruma"
         ]
@@ -1512,19 +1512,19 @@
     "county_name": "Elgeyo-Marakwet",
     "subcounties": [
       {
-        "subcounty_name": "Keiyo North",
+        "constituency_name": "Keiyo North",
         "wards": ["Emsoo","Kamariny","Kapchemutwa","Tambach"]
       },
       {
-        "subcounty_name": "Keiyo South",
+        "constituency_name": "Keiyo South",
         "wards": ["Kaptarakwa","Chepkorio","Soy North","Soy South","Kabiemit","Metkei"]
       },
       {
-        "subcounty_name": "Marakwet East",
+        "constituency_name": "Marakwet East",
         "wards": ["Kapyego","Sambirir","Endo","Embobut / Embulot"]
       },
       {
-        "subcounty_name": "Marakwet West",
+        "constituency_name": "Marakwet West",
         "wards": [
           "Kapsowar","Lelan","Sengwer","Cherang’any/Chebororwa","Moiben/Kuserwo","Arror"
         ]
@@ -1536,7 +1536,7 @@
     "county_name": "Nandi",
     "subcounties": [
       {
-        "subcounty_name": "Aldai",
+        "constituency_name": "Aldai",
         "wards": [
           "Kabwareng",
           "Terik",
@@ -1547,7 +1547,7 @@
         ]
       },
       {
-        "subcounty_name": "Chesumei",
+        "constituency_name": "Chesumei",
         "wards": [
           "Chemundu/Kapng’etuny",
           "Kosirai",
@@ -1557,7 +1557,7 @@
           ]
       },
       {
-        "subcounty_name": "Emgwen",
+        "constituency_name": "Emgwen",
         "wards": [
           "Chepkumia",
           "Kapkangani",
@@ -1566,7 +1566,7 @@
           ]
       },
       {
-        "subcounty_name": "Mosop",
+        "constituency_name": "Mosop",
         "wards": [
           "Chepterwai",
           "Kipkaren",
@@ -1578,7 +1578,7 @@
           ]
       },
       {
-        "subcounty_name": "Nandi Hills",
+        "constituency_name": "Nandi Hills",
         "wards": [
           "Nandi Hills",
           "Chepkunyuk",
@@ -1587,7 +1587,7 @@
           ]
       },
       {
-        "subcounty_name": "Tinderet",
+        "constituency_name": "Tinderet",
         "wards": [
           "Songhor/Soba",
           "Tindiret",
@@ -1602,7 +1602,7 @@
     "county_name": "Baringo",
     "subcounties": [
       {
-        "subcounty_name": "Baringo Central",
+        "constituency_name": "Baringo Central",
 
         "wards": [
           "Kabarnet",
@@ -1613,7 +1613,7 @@
         ]
       },
       {
-        "subcounty_name": "Baringo North",
+        "constituency_name": "Baringo North",
 
         "wards": [
           "Barwessa",
@@ -1624,7 +1624,7 @@
           ]
       },
       {
-        "subcounty_name": "Baringo South",
+        "constituency_name": "Baringo South",
 
         "wards": [
           "Marigat",
@@ -1634,7 +1634,7 @@
           ]
       },
       {
-        "subcounty_name": "Eldama Ravine",
+        "constituency_name": "Eldama Ravine",
 
         "wards": [
           "Lembus",
@@ -1645,7 +1645,7 @@
         ]
       },
       {
-        "subcounty_name": "Mogotio",
+        "constituency_name": "Mogotio",
 
         "wards": [
           "Mogotio",
@@ -1654,7 +1654,7 @@
        ]
       },
       {
-        "subcounty_name": "Tiaty",
+        "constituency_name": "Tiaty",
 
         "wards": [
           "Tirioko",
@@ -1673,19 +1673,19 @@
     "county_name": "Laikipia",
     "subcounties": [
       {
-        "subcounty_name": "Laikipia North",
+        "constituency_name": "Laikipia North",
         "wards": [
           "Sosian","Segera", "Mugogodo West" , "Mugogodo East"
         ]
       },
       {
-        "subcounty_name": "Laikipia East",
+        "constituency_name": "Laikipia East",
         "wards": [
           "Ngobit", "Tigithi", "Thingithu","Nanyuki"," Umande"
         ]
       },
       {
-        "subcounty_name": "Laikipia West",
+        "constituency_name": "Laikipia West",
         "wards": [
           "Ol-Moran", "Rumuruti", "Township ","Githiga", "Marmanet", "Igwamiti Salama"
         ]
@@ -1699,7 +1699,7 @@
     "county_name": "Nakuru",
     "subcounties": [
       {
-        "subcounty_name": "Nakuru Town East",
+        "constituency_name": "Nakuru Town East",
         "wards": [
           "Biashara",
           "Kivumbini",
@@ -1709,7 +1709,7 @@
         ]
       },
       {
-        "subcounty_name": "Nakuru Town West",
+        "constituency_name": "Nakuru Town West",
         "wards": [
           "Barut",
           "London",
@@ -1720,7 +1720,7 @@
         ]
       },
       {
-        "subcounty_name": "Njoro",
+        "constituency_name": "Njoro",
         "wards": [
           "Mau Narok",
           "Mauche",
@@ -1731,11 +1731,11 @@
           ]
       },
       {
-        "subcounty_name": "Molo",
+        "constituency_name": "Molo",
         "wards": ["Mariashoni", "Elburgon", "Turi", "Molo"]
       },
       {
-        "subcounty_name": "Gilgil",
+        "constituency_name": "Gilgil",
         "wards": [
           "Gilgil",
           "Elementaita",
@@ -1745,7 +1745,7 @@
         ]
       },
       {
-        "subcounty_name": "Naivasha",
+        "constituency_name": "Naivasha",
         "wards": [
           "Biashara",
           "Hells Gate",
@@ -1758,19 +1758,19 @@
         ]
       },
       {
-        "subcounty_name": "Kuresoi North",
+        "constituency_name": "Kuresoi North",
         "wards": [
           "Kiptororo", "Nyota" , "Sirikwa","Kamara"
         ]
       },
       {
-        "subcounty_name": "Kuresoi South",
+        "constituency_name": "Kuresoi South",
         "wards": [
           "Amalo", "Keringet", "Kiptagich","Tinet"
         ]
       },
       {
-        "subcounty_name": "Bahati",
+        "constituency_name": "Bahati",
         "wards": [
           "Dundori",
           "Kabatini",
@@ -1780,7 +1780,7 @@
           ]
       },
       {
-        "subcounty_name": "Rongai",
+        "constituency_name": "Rongai",
         "wards": [
           "Menengai West",
           "Soin",
@@ -1790,7 +1790,7 @@
           ]
       },
       {
-        "subcounty_name": "Subukia",
+        "constituency_name": "Subukia",
         "wards": [
           "Subukia",
           "Waseges",
@@ -1804,7 +1804,7 @@
     "county_name": "Narok",
     "subcounties": [
       {
-        "subcounty_name": "Narok North",
+        "constituency_name": "Narok North",
         "wards": [
           "Olpusimoru",
           "Olokurto",
@@ -1814,7 +1814,7 @@
         ]
       },
       {
-        "subcounty_name": "Narok South",
+        "constituency_name": "Narok South",
         "wards": [
           "Majimoto/Naroos",
           "Uraololulung’a",
@@ -1825,7 +1825,7 @@
         ]
       },
       {
-        "subcounty_name": "Narok East",
+        "constituency_name": "Narok East",
         "wards": [
           "Mosiro",
           "Ildamat",
@@ -1834,7 +1834,7 @@
         ]
       },
       {
-        "subcounty_name": "Narok West",
+        "constituency_name": "Narok West",
         "wards": [
           "Ilmotiok",
           "Mara",
@@ -1843,7 +1843,7 @@
         ]
       },
     {
-      "subcounty_name":"Kilgoris",
+      "constituency_name":"Kilgoris",
       " wards": [
           "Kilgoris Central",
           "Keyian",
@@ -1855,7 +1855,7 @@
       
     },
     {
-      "subcounty_name":"Emurua Dikirr",
+      "constituency_name":"Emurua Dikirr",
       "wards": [
         "Ilkerin",
         "Ololmasani",
@@ -1870,7 +1870,7 @@
     "county_name": "Kajiado",
     "subcounties": [
       {
-        "subcounty_name": "Kajiado Central",
+        "constituency_name": "Kajiado Central",
         "wards": [
           "Purko",
           "Ildamat",
@@ -1880,7 +1880,7 @@
         ]
       },
       {
-        "subcounty_name": "Kajiado East",
+        "constituency_name": "Kajiado East",
         "wards": [
           "Kaputiei North",
           "Kitengela",
@@ -1890,7 +1890,7 @@
         ]
       },
       {
-        "subcounty_name": "Kajiado North",
+        "constituency_name": "Kajiado North",
         "wards": [
           "Olkeri",
           "Ongata Rongai",
@@ -1900,7 +1900,7 @@
         ]
       },
       {
-        "subcounty_name": "Kajiado West",
+        "constituency_name": "Kajiado West",
         "wards": [
         "  Keekonyokie",
           "Iloodokilani",
@@ -1910,7 +1910,7 @@
         ]
       },
   {
-    "subcounty_name": "Kajiado South",
+    "constituency_name": "Kajiado South",
     "wards": [
       "Entonet/Lenkisi",
       "Mbirikani/Eselen",
@@ -1927,7 +1927,7 @@
     "county_name": "Kericho",
     "subcounties": [
       {
-        "subcounty_name": "Ainamoi",
+        "constituency_name": "Ainamoi",
         "wards": [
           "Kapsoit",
           "Ainamoi",
@@ -1938,7 +1938,7 @@
         ]
       },
       {
-        "subcounty_name": "Belgut",
+        "constituency_name": "Belgut",
         "wards": [
           "Waldai",
           "Kabianga",
@@ -1948,7 +1948,7 @@
           ]
       },
       {
-        "subcounty_name": "Bureti",
+        "constituency_name": "Bureti",
         "wards": [
           "Kisiara",
           "Tebesonik",
@@ -1960,7 +1960,7 @@
           ]
       },
       {
-        "subcounty_name": "Kipkelion East",
+        "constituency_name": "Kipkelion East",
         "wards": [
           "Londiani",
           "Kedowa/Kimugul",
@@ -1969,7 +1969,7 @@
           ]
       },
       {
-        "subcounty_name": "Kipkelion West",
+        "constituency_name": "Kipkelion West",
         "wards": [
           "Kunyak",
           "Kamasian",
@@ -1978,7 +1978,7 @@
         ]
       },
       {
-        "subcounty_name": "Soin Sigowet",
+        "constituency_name": "Soin Sigowet",
         "wards": [
           "Sigowet",
           "Kaplelartet",
@@ -1993,7 +1993,7 @@
     "county_name": "Bomet",
     "subcounties": [
       {
-        "subcounty_name": "Sotik",
+        "constituency_name": "Sotik",
         "wards": [
           "Ndanai/Abosi",
           "Chemagel",
@@ -2003,25 +2003,25 @@
           ]
       },
       {
-        "subcounty_name": "Bomet Central",
+        "constituency_name": "Bomet Central",
         "wards": [
           "Silibwet Township", "Ndaraweta"," Singorwet", "Chesoen", "Mutarakwa"
         ]
       },
       {
-        "subcounty_name": "Bomet East",
+        "constituency_name": "Bomet East",
         "wards": [
           "Merigi", "Kembu", "Longisa", "Kipreres", "Chemaner"
         ]
       },
       {
-        "subcounty_name": "Chepalungu",
+        "constituency_name": "Chepalungu",
         "wards": [
         "  Kong’asis"," Nyangores", "Sigor"," Chebunyo", "Siongiroi"
         ]
       },
       {
-        "subcounty_name": "Konoin",
+        "constituency_name": "Konoin",
         "wards": [
           "Chepchabas", "Kimulot", "Mogogosiek", "Boito"," Embomos"
         ]
@@ -2033,7 +2033,7 @@
     "county_name": "Kakamega",
     "subcounties": [
       {
-        "subcounty_name": "Butere",
+        "constituency_name": "Butere",
         "wards": [
           "Marama West",
           "Marama Central",
@@ -2043,7 +2043,7 @@
           ]
       },
       {
-        "subcounty_name": "Ikolomani",
+        "constituency_name": "Ikolomani",
         "wards": [
           "Idakho South",
           "Idakho East",
@@ -2052,7 +2052,7 @@
           ]
       },
       {
-        "subcounty_name": "Khwisero",
+        "constituency_name": "Khwisero",
         "wards": [
           "Kisa North",
           "Kisa East",
@@ -2061,7 +2061,7 @@
           ]
       },
       {
-        "subcounty_name": "Lurambi",
+        "constituency_name": "Lurambi",
         "wards": [
           "Butsotso East",
           "Butsotso South",
@@ -2072,7 +2072,7 @@
           ]
       },
       {
-        "subcounty_name": "Likuyani",
+        "constituency_name": "Likuyani",
         "wards": [
           "Likuyani",
           "Sango",
@@ -2082,7 +2082,7 @@
           ]
       },
       {
-        "subcounty_name": "Malava",
+        "constituency_name": "Malava",
         "wards": [
           "West Kabras",
           "Chemuche East",
@@ -2094,7 +2094,7 @@
           ]
       },
       {
-        "subcounty_name": "Matungu",
+        "constituency_name": "Matungu",
         "wards": [
           "Koyonzo",
           "Kholera",
@@ -2104,7 +2104,7 @@
           ]
       },
       {
-        "subcounty_name": "Mumias East",
+        "constituency_name": "Mumias East",
         "wards": [
           "Lusheya/Lubinu",
           "Malaha/Isongo/Makunga",
@@ -2112,7 +2112,7 @@
           ]
       },
       {
-        "subcounty_name": "Mumias West",
+        "constituency_name": "Mumias West",
         "wards": [
           "Mumias Central",
           "Mumias North",
@@ -2121,7 +2121,7 @@
           ]
       },
       {
-        "subcounty_name": "Navakholo",
+        "constituency_name": "Navakholo",
         "wards": [
           "Ingostse-Mathia",
           "Shinoyi-Shikomari",
@@ -2132,7 +2132,7 @@
           ]
       },
       {
-        "subcounty_name": "Lugari",
+        "constituency_name": "Lugari",
         "wards": [
           "Mautuma",
           "Lugari",
@@ -2143,7 +2143,7 @@
           ]
       },
       {
-        "subcounty_name": "Shinyalu",
+        "constituency_name": "Shinyalu",
         "wards": [
           "Mautuma",
           "Lugari",
@@ -2160,7 +2160,7 @@
     "county_name": "Vihiga",
     "subcounties": [
       {
-        "subcounty_name": "Emuhaya",
+        "constituency_name": "Emuhaya",
         "wards": [
           "North East Bunyore",
           "Central Bunyore",
@@ -2168,7 +2168,7 @@
         ]
       },
       {
-        "subcounty_name": "Hamisi",
+        "constituency_name": "Hamisi",
         "wards": [
           "Shiru",
           "Gisambai",
@@ -2180,7 +2180,7 @@
         ]
       },
       {
-        "subcounty_name": "Sabatia",
+        "constituency_name": "Sabatia",
         "wards": [
           "Lyaduywa/Izava",
           "West Sabatia",
@@ -2191,7 +2191,7 @@
         ]
       },
       {
-        "subcounty_name": "Vihiga",
+        "constituency_name": "Vihiga",
         "wards": [
           "Lugaga-Wamuluma",
           "South Maragoli",
@@ -2200,7 +2200,7 @@
         ]
       },
       {
-        "subcounty_name": "Luanda",
+        "constituency_name": "Luanda",
         "wards": [
           "Luanda Township",
           "Wemilabi",
@@ -2217,7 +2217,7 @@
     "county_name": "Bungoma",
     "subcounties": [
       {
-        "subcounty_name": "Bumula",
+        "constituency_name": "Bumula",
         "wards": [
           "Bumula",
           "Khasoko",
@@ -2228,7 +2228,7 @@
         ]
       },
       {
-        "subcounty_name": "Kanduyi",
+        "constituency_name": "Kanduyi",
         "wards": [
           "Bukembe West",
           "Bukembe East",
@@ -2242,11 +2242,11 @@
         ]
       },
       {
-        "subcounty_name": "Webuye East",
+        "constituency_name": "Webuye East",
         "wards": ["Mihuu", "Ndivisi", "Maraka"]
       },
       {
-        "subcounty_name": "Webuye West",
+        "constituency_name": "Webuye West",
         "wards": [
           "Sitikho",
           "Matulo",
@@ -2254,7 +2254,7 @@
         ]
       },
       {
-        "subcounty_name": "Mt. Elgon",
+        "constituency_name": "Mt. Elgon",
         "wards": [
           "Cheptais",
           "Chesikaki",
@@ -2265,7 +2265,7 @@
         ]
       },
       {
-        "subcounty_name": "Sirisia",
+        "constituency_name": "Sirisia",
         "wards": [
           "Namwela",
           "Malakisi/South Kulisiru",
@@ -2273,7 +2273,7 @@
         ]
       },
       {
-        "subcounty_name": "Tongaren",
+        "constituency_name": "Tongaren",
         "wards": [
           "Mbakalo",
           "Naitiri/Kabuyefwe",
@@ -2284,7 +2284,7 @@
         ]
       },
       {
-        "subcounty_name": "Kabuchai",
+        "constituency_name": "Kabuchai",
         "wards": [
           "Kabuchai/Chwele",
           "West Nalondo",
@@ -2294,7 +2294,7 @@
         ]
       },
       {
-        "subcounty_name": "Kimilili",
+        "constituency_name": "Kimilili",
         "wards": [
           "Kibingei",
           "Kimilili",
@@ -2309,7 +2309,7 @@
     "county_name": "Busia",
     "subcounties": [
       {
-        "subcounty_name": "Teso North",
+        "constituency_name": "Teso North",
         "wards": [
           "MALABA CENTRAL",
           "MALABA NORTH",
@@ -2320,7 +2320,7 @@
         ]
       },
       {
-        "subcounty_name": "Teso South",
+        "constituency_name": "Teso South",
         "wards": [
           "ANG'OROM",
           "CHAKOI SOUTH",
@@ -2331,7 +2331,7 @@
         ]
       },
       {
-        "subcounty_name": "Nambale",
+        "constituency_name": "Nambale",
         "wards": [
           "NAMBALE TOWNSHIP",
           "BUKHAYO NORTH/WALTSI",
@@ -2340,7 +2340,7 @@
         ]
       },
       {
-        "subcounty_name": "Matayos",
+        "constituency_name": "Matayos",
         "wards": [
           "BUKHAYO WEST",
           "MAYENJE",
@@ -2349,7 +2349,7 @@
         ]
       },
       {
-        "subcounty_name": "Butula",
+        "constituency_name": "Butula",
         "wards": [
           "MARACHI WESTKINGANDOLE",
           "MARACHI CENTRAL",
@@ -2359,7 +2359,7 @@
         ]
       },
   {
-    "subcounty_name":"Funyula",
+    "constituency_name":"Funyula",
     "wards": [
       "NAMBOBOTO NAMBUKU",
       "NANGINA",
@@ -2375,7 +2375,7 @@
     "county_name": "Siaya",
     "subcounties": [
       {
-        "subcounty_name": "Alego Usonga",
+        "constituency_name": "Alego Usonga",
         "wards": [
           "Usonga",
           "West Alego",
@@ -2386,7 +2386,7 @@
       ]
       },
       {
-        "subcounty_name": "Gem",
+        "constituency_name": "Gem",
         "wards": [
           "North Gem",
           "West Gem",
@@ -2397,7 +2397,7 @@
         ]
       },
       {
-        "subcounty_name": "Bondo",
+        "constituency_name": "Bondo",
         "wards": [
           "West Yimbo",
           "Central Sakwa",
@@ -2408,7 +2408,7 @@
         ]
       },
       {
-        "subcounty_name": "Rarieda",
+        "constituency_name": "Rarieda",
         "wards": [
           "Gem Rae",
           "East Asembo",
@@ -2425,7 +2425,7 @@
         ]
       },
       {
-        "subcounty_name": "Ugenya",
+        "constituency_name": "Ugenya",
         "wards": [
           "East Asembo",
           "West Asembo",
@@ -2435,7 +2435,7 @@
         ]
       },
       {
-        "subcounty_name": "Ugunja",
+        "constituency_name": "Ugunja",
         "wards": [
           "Sidindi",
           "Sigomere",
@@ -2449,7 +2449,7 @@
     "county_name": "Kisumu",
     "subcounties": [
       {
-        "subcounty_name": "Kisumu Central",
+        "constituency_name": "Kisumu Central",
         "wards": [
           "Railways",
           "Migosi",
@@ -2460,7 +2460,7 @@
         ]
       },
       {
-        "subcounty_name": "Kisumu East",
+        "constituency_name": "Kisumu East",
         "wards": [
           "Kajulu",
           "Kolwa East",
@@ -2470,7 +2470,7 @@
         ]
       },
       {
-        "subcounty_name": "Kisumu West",
+        "constituency_name": "Kisumu West",
         "wards": [
           "South West Kisumu",
           "Cetral Kisumu",
@@ -2480,7 +2480,7 @@
         ]
       },
       {
-        "subcounty_name": "Seme",
+        "constituency_name": "Seme",
         "wards": [
           "West Seme",
           "Central Seme",
@@ -2489,7 +2489,7 @@
         ]
       },
       {
-        "subcounty_name": "Nyando",
+        "constituency_name": "Nyando",
         "wards": [
           "East Kano/Waidhi",
           "Awasi/Onjiko",
@@ -2499,7 +2499,7 @@
         ]
       },
       {
-        "subcounty_name": "Muhoroni",
+        "constituency_name": "Muhoroni",
         "wards": [
           "Miwani",
           "Ombeyi",
@@ -2508,7 +2508,7 @@
         ]
       },
       {
-        "subcounty_name": "Nyakach",
+        "constituency_name": "Nyakach",
         "wards": [
           "South East Nyakach",
           "West Nyakach",
@@ -2524,7 +2524,7 @@
     "county_name": "Homa Bay",
     "subcounties": [
       {
-        "subcounty_name": "Homa Bay Town",
+        "constituency_name": "Homa Bay Town",
         "wards": [
           "Homa Bay Central",
           "Homa Bay Arujo",
@@ -2533,7 +2533,7 @@
         ]
       },
       {
-        "subcounty_name": "Kabondo Kasipul",
+        "constituency_name": "Kabondo Kasipul",
         "wards": [
           "Kabondo East",
           "Kabondo West",
@@ -2542,7 +2542,7 @@
           ]
       },
       {
-        "subcounty_name": "Karachuonyo",
+        "constituency_name": "Karachuonyo",
         "wards": [
           "West Karachuonyo",
           "North Karachuonyo",
@@ -2553,7 +2553,7 @@
           ]
       },
       {
-        "subcounty_name": "Kasipul",
+        "constituency_name": "Kasipul",
         "wards": [
           "West Kasipul",
           "South Kasipul",
@@ -2563,7 +2563,7 @@
           ]
       },
       {
-        "subcounty_name": "Ndhiwa",
+        "constituency_name": "Ndhiwa",
         "wards": [
           "Kwabwai",
           "Kanyadoto",
@@ -2575,7 +2575,7 @@
           ]
       },
       {
-        "subcounty_name": "Rangwe",
+        "constituency_name": "Rangwe",
         "wards": [
           "West Gem",
           "East Gem",
@@ -2584,7 +2584,7 @@
         ]
       },
   {
-    "subcounty_name":"Suba North",
+    "constituency_name":"Suba North",
     "wards": [
       "Mfangano Island",
       "Rusinga Island",
@@ -2594,7 +2594,7 @@
       ]
   },
   {
-    "subcounty_name":"Suba South",
+    "constituency_name":"Suba South",
     "wards": [
       "Gwassi South",
       "Gwassi North",
@@ -2609,7 +2609,7 @@
     "county_name": "Migori",
     "subcounties": [
       {
-        "subcounty_name": "Rongo",
+        "constituency_name": "Rongo",
         "wards": [
           "North Kamagambo",
           "Central Kamagambo",
@@ -2618,7 +2618,7 @@
           ]
       },
       {
-        "subcounty_name": "Awendo",
+        "constituency_name": "Awendo",
         "wards": [
           "North East Sakwa",
           "South Sakwa",
@@ -2627,7 +2627,7 @@
         ]
       },
       {
-        "subcounty_name": "Suna East",
+        "constituency_name": "Suna East",
         "wards": [
           "God Jope",
           "Suna Central",
@@ -2636,7 +2636,7 @@
         ]
       },
       {
-        "subcounty_name": "Suna West",
+        "constituency_name": "Suna West",
         "wards": [
           "Wiga",
           "Wasweta II",
@@ -2645,7 +2645,7 @@
           ]
       },
       {
-        "subcounty_name": "Uriri",
+        "constituency_name": "Uriri",
         "wards": [
           "West Kanyamkago",
           "North Kanyamkago",
@@ -2655,7 +2655,7 @@
         ]
       },
       {
-        "subcounty_name": "Nyatike",
+        "constituency_name": "Nyatike",
         "wards": [
           "Kachien’g",
           "Kanyasa",
@@ -2667,7 +2667,7 @@
         ]
       },
       {
-        "subcounty_name": "Kuria East",
+        "constituency_name": "Kuria East",
         "wards": [
           "Gokeharaka/Getamwega",
           "Ntimaru West",
@@ -2677,7 +2677,7 @@
           ]
       },
       {
-        "subcounty_name": "Kuria West",
+        "constituency_name": "Kuria West",
         "wards": [
           "Bukira East",
           "Bukira Central/ Ikerege",
@@ -2697,7 +2697,7 @@
     "county_name": "Kisii",
     "subcounties": [
       {
-        "subcounty_name": "Kitutu Chache North",
+        "constituency_name": "Kitutu Chache North",
         "wards": [
           "MONYERERO",
           "SENSI",
@@ -2706,7 +2706,7 @@
         ]
       },
       {
-        "subcounty_name": "Kitutu Chache South",
+        "constituency_name": "Kitutu Chache South",
         "wards": [
           "BOGUSERO",
           "BOGEKA",
@@ -2716,7 +2716,7 @@
         ]
       },
       {
-        "subcounty_name": "Nyaribari Masaba",
+        "constituency_name": "Nyaribari Masaba",
         "wards": [
           "ICHUNI",
           "NYAMASIBI",
@@ -2726,7 +2726,7 @@
         ]
       },
       {
-        "subcounty_name": "Nyaribari Chache",
+        "constituency_name": "Nyaribari Chache",
         "wards": [
           "BOBARACHO",
           "KISII CENTRAL",
@@ -2737,7 +2737,7 @@
         ]
       },
       {
-        "subcounty_name": "Bomachoge Borabu",
+        "constituency_name": "Bomachoge Borabu",
         "wards": [
           "BORABU MASABA",
           "BOOCHI BORABU",
@@ -2746,7 +2746,7 @@
           ]
       },
       {
-        "subcounty_name": "Bomachoge Chache",
+        "constituency_name": "Bomachoge Chache",
         "wards": [
           "MAJOGE BASI",
           "BOOCHI/TENDERE",
@@ -2754,7 +2754,7 @@
           ]
       },
       {
-        "subcounty_name": "Bobasi",
+        "constituency_name": "Bobasi",
         "wards": [
           "MASIGE WEST",
           "MASIG EAST",
@@ -2767,7 +2767,7 @@
         ]
       },
       {
-        "subcounty_name": "South Mugirango",
+        "constituency_name": "South Mugirango",
         "wards": [
           "BOGETENGA",
           "BORABU/CHITAGO",
@@ -2778,7 +2778,7 @@
           ]
       },
       {
-        "subcounty_name": "Bonchari",
+        "constituency_name": "Bonchari",
         "wards": [
           "BOMARIBA",
           "BOGIAKUMU",
@@ -2793,7 +2793,7 @@
     "county_name": "Nyamira",
     "subcounties": [
       {
-        "subcounty_name": "Borabu",
+        "constituency_name": "Borabu",
         "wards": [
           "Mekenene",
           "Kiabonyoru",
@@ -2802,7 +2802,7 @@
        ]
       },
   {
-    "subcounty_name":"Kitutu Masaba",
+    "constituency_name":"Kitutu Masaba",
     "wards": [
       "Rigoma",
       "Gachuba",
@@ -2812,7 +2812,7 @@
       "Gesima"
     ]
   },{
-    "subcounty_name":"West Mugirango",
+    "constituency_name":"West Mugirango",
     "wards": [
       "Nyamaiya",
       "Bogichora",
@@ -2821,7 +2821,7 @@
       "Township"
     ]
   },{
-    "subcounty_name":"North Mugirango",
+    "constituency_name":"North Mugirango",
     "wards": [
       "Itibo",
       "Bomwagamo",
@@ -2837,7 +2837,7 @@
     "county_name": "Nairobi",
     "subcounties": [
       {
-        "subcounty_name": "Westlands",
+        "constituency_name": "Westlands",
         "wards": [
           "Kitisuru",
           "Parklands/Highridge",
@@ -2847,7 +2847,7 @@
           ]
       },
       {
-        "subcounty_name": "Dagoretti North",
+        "constituency_name": "Dagoretti North",
         "wards": [
           "Kilimani",
           "Kawangware",
@@ -2857,7 +2857,7 @@
           ]
       },
       {
-        "subcounty_name": "Dagoretti South",
+        "constituency_name": "Dagoretti South",
         "wards": [
           "Mutu-Ini",
           "Ngando",
@@ -2867,7 +2867,7 @@
           ]
       },
       {
-        "subcounty_name": "Lang'ata",
+        "constituency_name": "Lang'ata",
         "wards": [
           "Karen",
           "Nairobi West",
@@ -2877,7 +2877,7 @@
           ]
       },
       {
-        "subcounty_name": "Kibra",
+        "constituency_name": "Kibra",
         "wards": [
           "Woodley/Kenyatta Golf Course",
           "Sarang'ombe",
@@ -2887,7 +2887,7 @@
         ]
       },
       {
-        "subcounty_name": "Roysambu",
+        "constituency_name": "Roysambu",
         "wards": [
           "Kahawa West",
           "Roysambu",
@@ -2897,11 +2897,11 @@
         ]
       },
       {
-        "subcounty_name": "Kasarani",
+        "constituency_name": "Kasarani",
         "wards": ["Kasarani", "Njiru", "Clay City", "Mwiki", "Ruai"]
       },
       {
-        "subcounty_name": "Ruaraka",
+        "constituency_name": "Ruaraka",
         "wards": [
           "Utalii",
           "Korogocho",
@@ -2911,7 +2911,7 @@
         ]
       },
       {
-        "subcounty_name": "Embakasi South",
+        "constituency_name": "Embakasi South",
         "wards": [
           "Kwa Njenga",
           "Imara Daima",
