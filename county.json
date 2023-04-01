@@ -2904,101 +2904,70 @@
         "subcounty_name": "Kisumu Central",
         "wards": [
           "Railways",
+          "Migosi",
+          "Shaurimoyo Kaloleni",
           "Market Milimani",
           "Kondele",
-          "Nyalenda A",
-          "Nyalenda B",
-          "Shaurimoyo-Kaloleni",
-          "Manyatta A",
-          "Manyatta B",
-          "Manyatta C",
-          "Pandpieri",
-          "Kolwa Central",
-          "Kolwa East"
+          "Nyalenda B"
         ]
       },
       {
         "subcounty_name": "Kisumu East",
         "wards": [
-          "Central Kisumu",
-          "Kanyakwar",
-          "Milimani West",
-          "Shauri Yako",
-          "Nyalenda",
-          "Obunga",
-          "East Kisumu"
+          "Kajulu",
+          "Kolwa East",
+          "Manyatta 'B'",
+          "Nyalenda 'A'",
+          "Kolwa Central"
         ]
       },
       {
         "subcounty_name": "Kisumu West",
         "wards": [
-          "Kajulu",
-          "Kondele",
-          "Nyalenda 'B'",
+          "South West Kisumu",
+          "Cetral Kisumu",
           "Kisumu North",
-          "Shauri Moyo / Kaloleni",
-          "Manyatta 'A'",
-          "Manyatta 'B'",
-          "Manyatta 'C'",
-          "Pand Pieri",
-          "Railways",
-          "Kolwa Central",
-          "Kolwa East"
+          "West Kisumu",
+          "North West Kisumu"
         ]
       },
       {
         "subcounty_name": "Seme",
         "wards": [
-          "East Seme",
           "West Seme",
-          "Central Sakwa",
-          "South East Sakwa",
-          "North Sakwa",
-          "Central Kanyamkago",
-          "North Kanyamkago"
+          "Central Seme",
+          "East Seme",
+          "North Seme"
         ]
       },
       {
         "subcounty_name": "Nyando",
         "wards": [
-          "Kanam",
-          "Kabonyo / Kanyagwal",
-          "Nyang'oma Kogelo",
-          "Wawidhi",
+          "East Kano/Waidhi",
+          "Awasi/Onjiko",
           "Ahero",
-          "Awasi / Onjiko",
-          "Nyang'ande",
-          "Kiwango",
-          "Kibos",
-          "Miwani",
-          "Chemelil"
+          "Kabonyo/Kanyag Wal",
+          "Kobura"
         ]
       },
       {
         "subcounty_name": "Muhoroni",
         "wards": [
           "Miwani",
-          "Muhoroni / Township",
           "Ombeyi",
-          "Masogo / Mbaga",
-          "Chemelil",
-          "Fort Ternan",
-          "Londiani"
+          "Masogo/Nyag’oma",
+          "Chemeli/Muhoroni/Koru"
         ]
       },
       {
         "subcounty_name": "Nyakach",
         "wards": [
-          "Nyakach",
-          "Kobura",
-          "Pap Onditi",
-          "Lwak",
-          "Kajulu",
-          "Manyuanda",
-          "Kasagam",
-          "West Kano",
-          "North Kano"
-        ]
+          "South East Nyakach",
+          "West Nyakach",
+          "North Nyakach",
+          "Central Nyakach",
+          "South West Nyakach"
+          ]
       }
     ]
   },
