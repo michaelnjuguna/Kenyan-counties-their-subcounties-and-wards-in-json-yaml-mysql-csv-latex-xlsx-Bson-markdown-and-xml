@@ -2685,126 +2685,63 @@
       {
         "subcounty_name": "Teso North",
         "wards": [
-          "Ang'urai",
-          "Amukura Central",
-          "Ang'ai",
-          "Chakol South",
-          "Chakol North",
-          "North Busia",
-          "Alupe",
-          "Malaba Central",
-          "Malaba North",
-          "Malaba South",
-          "Malaba East",
-          "Malaba West"
+          "MALABA CENTRAL",
+          "MALABA NORTH",
+          "ANG’URAI SOUTH",
+          "MALABA SOUTH",
+          "ANG’URAI NORTH",
+          "ANG’URAI EAST"
         ]
       },
       {
         "subcounty_name": "Teso South",
         "wards": [
-          "Amagoro",
-          "Chakoi",
-          "Chewele",
-          "Chakol South/Kasuku",
-          "Amukura East",
-          "Amukura West",
-          "Angurai South",
-          "Chakol North",
-          "Turbo",
-          "Sikuda",
-          "Sirisia",
-          "Maeni"
+          "ANG'OROM",
+          "CHAKOI SOUTH",
+          "AMUKURA CENTRAL",
+          "CHAKOI NORTH",
+          "AMUKURA EAST",
+          "AMUKURA WEST"
         ]
       },
       {
         "subcounty_name": "Nambale",
         "wards": [
-          "Bukhayo Central",
-          "Bukhayo East/Walatsi",
-          "Bukhayo North/Walodeya",
-          "Bukhayo South",
-          "Bunyala Central",
-          "Bunyala North",
-          "Bunyala West",
-          "Nambale Township",
-          "Nambale Market",
-          "Bukhayo West"
+          "NAMBALE TOWNSHIP",
+          "BUKHAYO NORTH/WALTSI",
+          "BUKHAYO EAST",
+          "BUKHAYO CENTRAL"
         ]
       },
       {
         "subcounty_name": "Matayos",
         "wards": [
-          "Marachi Central",
-          "Marachi East",
-          "Marachi North",
-          "Marachi South",
-          "Marachi West",
-          "Burumba",
-          "Elugulu",
-          "Butula",
-          "Funyula North",
-          "Funyula South"
+          "BUKHAYO WEST",
+          "MAYENJE",
+          "MATAYOS SOUTHBUSIBWABO",
+          "BURUMBA"
         ]
       },
       {
         "subcounty_name": "Butula",
         "wards": [
-          "Alupe",
-          "Bukiri",
-          "Elureko",
-          "Kwang'amor",
-          "Mukhweya",
-          "Marama West",
-          "Marama Central",
-          "Marama North",
-          "Marama South",
-          "Kingandole"
+          "MARACHI WESTKINGANDOLE",
+          "MARACHI CENTRAL",
+          "MARACHI EAST",
+          "MARACHI NORTH",
+          "ELUGULU"
         ]
       },
-      {
-        "subcounty_name": "Samia",
-        "wards": [
-          "Bukhayo Central",
-          "Bukhayo East",
-          "Bukhayo North",
-          "Bukhayo South",
-          "Bukhayo West",
-          "Busia Township",
-          "Chakol South",
-          "Funyula North",
-          "Funyula South",
-          "Khwisero",
-          "Luanda",
-          "Lwanda",
-          "Malaba Central",
-          "Malaba North",
-          "Malaba South",
-          "Marachi Central",
-          "Marachi East",
-          "Marachi North",
-          "Marachi South",
-          "Marachi West",
-          "Nambale",
-          "Namboboto",
-          "Shirere"
-        ]
-      },
-      {
-        "subcounty_name": "Bunyala",
-        "wards": [
-          "Bwiri",
-          "Marachi East",
-          "Marachi North",
-          "Marachi West",
-          "Munami",
-          "North Bukhayo",
-          "North Bunyala",
-          "Sango",
-          "South Bukhayo",
-          "South Bunyala",
-          "West Ugenya"
-        ]
-      }
+  {
+    "subcounty_name":"Funyula",
+    "wards": [
+      "NAMBOBOTO NAMBUKU",
+      "NANGINA",
+      "AGENG'A NANGUBA",
+      "BWIRI"
+    ]
+  }
+  
     ]
   },
   {
