@@ -2814,51 +2814,34 @@
       {
         "subcounty_name": "Alego Usonga",
         "wards": [
-          "Siaya Township",
+          "Usonga",
           "West Alego",
           "Central Alego",
+          "Siaya Township",
           "North Alego",
-          "South East Alego",
-          "West Ugenya",
-          "North Ugenya",
-          "East Ugenya",
-          "West Gem",
-          "Central Gem",
-          "North Gem",
-          "South Gem"
-        ]
+          "South East Alego"
+      ]
       },
       {
         "subcounty_name": "Gem",
         "wards": [
-          "Wagai",
           "North Gem",
           "West Gem",
+          "Central Gem",
           "Yala Township",
-          "Central Sakwa",
-          "South Sakwa",
-          "West Sakwa",
-          "North Sakwa",
-          "West Yimbo",
-          "Central Yimbo",
-          "East Yimbo"
+          "East Gem",
+          "South Gem"
         ]
       },
       {
         "subcounty_name": "Bondo",
         "wards": [
-          "East Yimbo",
           "West Yimbo",
-          "West Ukwala",
-          "Central Ukwala",
-          "North Ukwala",
-          "South Ukwala",
-          "North Sakwa",
           "Central Sakwa",
           "South Sakwa",
-          "Yala Township",
-          "Wagai",
-          "West Gem"
+          "Yimbo East",
+          "West Sakwa",
+          "North Sakwa"
         ]
       },
       {
@@ -2880,18 +2863,20 @@
       },
       {
         "subcounty_name": "Ugenya",
-        "wards": ["North Ugenya", "West Ugenya", "South Ugenya", "East Ugenya"]
+        "wards": [
+          "East Asembo",
+          "West Asembo",
+          "North Uyoma",
+          "South Uyoma",
+          "West Uyoma"
+        ]
       },
       {
         "subcounty_name": "Ugunja",
         "wards": [
-          "West Ukwala",
-          "East Ukwala",
           "Sidindi",
-          "Ugunja",
-          "Sidindi",
-          "Sigomre",
-          "Bukura"
+          "Sigomere",
+          "Ugunja"
         ]
       }
     ]
