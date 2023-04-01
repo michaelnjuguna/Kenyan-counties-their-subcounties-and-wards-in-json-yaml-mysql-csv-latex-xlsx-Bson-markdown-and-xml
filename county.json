@@ -2551,93 +2551,61 @@
       {
         "subcounty_name": "Ainamoi",
         "wards": [
-          "Ainamoi",
           "Kapsoit",
+          "Ainamoi",
           "Kipchebor",
+          "Kapkugerwet",
           "Kipchimchim",
-          "Kipsaos",
-          "Koiwa",
-          "Soin"
+          "Kapsaos"
         ]
       },
       {
         "subcounty_name": "Belgut",
         "wards": [
+          "Waldai",
           "Kabianga",
-          "Kapkatet",
-          "Kapsuser",
-          "Kedowa/Kimugul",
-          "Tendeno/Sorget",
-          "Chepseon",
-          "Kiplelje",
-          "Kipreres",
-          "Koiwa/Kipchimchim",
-          "Siongiroi",
-          "Chepkorio",
-          "Kapsoit"
-        ]
+          "Cheptororiet/Seretut",
+          "Chaik",
+          "Kapsuser"
+          ]
       },
       {
         "subcounty_name": "Bureti",
         "wards": [
-          "Kapkatet",
-          "Chemaner",
-          "Cheplanget",
           "Kisiara",
-          "Kedowa",
-          "Kamasian",
-          "Kipreres",
-          "Litein",
           "Tebesonik",
-          "Ainamoi"
-        ]
+          "Cheboin",
+          "Chemosot",
+          "Litein",
+          "Cheplanget",
+          "Kapkatet"
+          ]
       },
       {
         "subcounty_name": "Kipkelion East",
         "wards": [
+          "Londiani",
           "Kedowa/Kimugul",
-          "Kapsoit",
-          "Kipchebor",
-          "Kipchimchim",
-          "Kiptenden",
-          "Koiwa/Kipchimchim",
-          "Kapsaos",
-          "Siongiroi",
-          "Tebesonik",
-          "Kipkelion",
+          "Chepseon",
           "Tendeno/Sorget"
-        ]
+          ]
       },
       {
         "subcounty_name": "Kipkelion West",
         "wards": [
-          "Chepchabas",
-          "Kapsagom",
           "Kunyak",
-          "Letuva",
-          "Londiani",
-          "Sosiot",
-          "Tuiyobei",
-          "Tunoi",
-          "Chilchila",
-          "Kedowa/Kimugul",
-          "Sorget/Kipchimchim"
+          "Kamasian",
+          "Kipkelion",
+          "Chilchila"
         ]
       },
       {
         "subcounty_name": "Soin Sigowet",
         "wards": [
           "Sigowet",
-          "Cheptenye",
-          "Kapkatet",
-          "Kapletundo",
+          "Kaplelartet",
           "Soliat",
-          "Koiwa/Kipchimchim",
-          "Kedowa",
-          "Chepseon",
-          "Roret/Kamureito",
-          "Chemagel",
-          "Chemaner"
+          "Soin"
         ]
       }
     ]
