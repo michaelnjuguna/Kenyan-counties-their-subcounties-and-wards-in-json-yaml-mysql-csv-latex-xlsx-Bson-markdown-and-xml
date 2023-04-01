@@ -446,27 +446,25 @@
     "county_name": "Isiolo",
     "sub_counties": [
       {
-        "subcounty_name": "Garbatulla",
-
-        "wards": ["Burat", "Garbatulla", "Kinna", "Kiwanja", "Sericho"]
-      },
-      {
         "subcounty_name": "Isiolo North",
-
         "wards": [
+          "Wabera",
           "Bulla Pesa",
           "Chari",
-          "Kina",
-          "Kom",
+          "Cherab",
           "Ngare Mara",
-          "Oldonyiro",
-          "Wabera"
+          "Burat",
+          "Oldo/Nyiro"
         ]
       },
       {
         "subcounty_name": "Isiolo South",
 
-        "wards": ["Attan", "Garfasa", "Gatolo", "Kipsing", "Merti", "Ndoto"]
+        "wards": [
+          "Garba Tulla",
+          "Kina",
+          "Sericho"
+          ]
       }
     ]
   },
