@@ -18,7 +18,7 @@
           "wards": [
             "Jomvu Kuu",
             "Magongo",
-            "Mikindani",
+            "Mikindani"
 
           ]
         },
@@ -31,7 +31,7 @@
             "Mwakirunge",
             "Mtopanga",
             "Magogoni",
-            "Shanzu",
+            "Shanzu"
           ]
         },
         {
@@ -74,51 +74,25 @@
         {
           "subcounty_name": "Kinango",
           "wards": [
-            "Chengoni/Samburu",
-            "Dzombo",
-            "Kasemeni",
-            "Kinango",
-            "Kubo South",
-            "Mackinon Road",
-            "Matuga",
-            "Mwavumbo",
-            "Tsimba Golini"
+            "Ndavaya", "Puma", "Kinango", "Chengoni/Samburu", "Mackinon Road", "Mwavumbo", "Kasemeni"
           ]
         },
         {
           "subcounty_name": "Lunga Lunga",
           "wards": [
-            "Mwereni",
-            "Pongwe/Kikoneni",
-            "Vanga",
-            "Werugha",
-            "Mvindeni",
-            "Ras Ngomeni"
+            "Pongwe/Kikoneni", "Dzombo", "Vanga"," Mwereni"
           ]
         },
         {
           "subcounty_name": "Msambweni",
           "wards": [
-            "Gombato Bongwe",
-            "Kikoneni",
-            "Kubo North",
-            "Msambweni",
-            "Ramisi",
-            "Vanga"
+            "Gombato Bongwe"," Ukunda", "Kinondo", "Ramisi"
           ]
         },
         {
           "subcounty_name": "Matuga",
           "wards": [
-            "Bongwe/Gombato",
-            "Kasemeni",
-            "Kibuyuni",
-            "Kinondo",
-            "Kubo East",
-            "Mackinon Road",
-            "Majoreni",
-            "Mbuguni",
-            "Mivumoni"
+          "  Tsimba Golini", "Waa", "Tiwi", "Kubo South", "Mkongani"
           ]
         }
       ]
