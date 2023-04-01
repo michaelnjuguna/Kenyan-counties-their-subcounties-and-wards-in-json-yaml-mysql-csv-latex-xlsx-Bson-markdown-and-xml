@@ -393,50 +393,26 @@
         "subcounty_name": "Laisamis",
 
         "wards": [
-          "Golbo",
-          "Korr/Ngurunit",
-          "Logologo",
-          "Maikona",
-          "Maralal",
-          "Marsabit Central",
-          "Songa"
-        ]
-      },
-      {
-        "subcounty_name": "Marsabit Central",
-
-        "wards": [
-          "Karare",
-          "Kukuto",
-          "Loiyangalani",
-          "Marsabit",
-          "North Horr",
-          "Turbi"
+        "  Loiyangalani", "Kargi/South Horr", "Korr/Ngurunit", "Logo Logo", "Laisamis"
         ]
       },
       {
         "subcounty_name": "North Horr",
 
         "wards": [
-          "Dabel",
-          "Dukana",
-          "Illaut",
-          "Kargi/South Horr",
-          "Korr/Alale",
-          "North Horr"
+        "  Dukana", "Maikona", "Turbi", "North Horr"," Illeret"
         ]
       },
       {
         "subcounty_name": "Saku",
 
         "wards": [
-          "Badasa",
-          "Bubisa",
-          "Galis",
-          "Kargi/Chari",
-          "Koobi",
-          "Marsabit-Lake Turkana",
-          "Sagante/Jaldesa"
+          "Sagate/Jaldesa", "Karare", "Marsabit Central"
+        ]
+      },{
+        "subcounty_name":"Moyale",
+        "wards":[
+          "Butiye", "Sololo", "Heillu/Manyatta", "Golbo", "Moyale Township", "Uran", "Obbu"
         ]
       }
     ]
