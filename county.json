@@ -2448,100 +2448,54 @@
       {
         "subcounty_name": "Kajiado Central",
         "wards": [
+          "Purko",
+          "Ildamat",
           "Dalalekutuk",
-          "Imbirrikani",
-          "Ilbisil",
-          "Kajiado Central",
-          "Kajiado North",
-          "Kiserian",
-          "Magadi",
           "Matapato North",
-          "Matapato South",
-          "Mosiro"
+          "Matapato South"
         ]
       },
       {
         "subcounty_name": "Kajiado East",
         "wards": [
           "Kaputiei North",
-          "Kaputiei South",
           "Kitengela",
           "Oloosirkon/Sholinke",
-          "Ongata Rongai",
-          "Purko",
-          "Saikeri/Maasai Lodge"
+          "Kenyawa-Poka",
+          "Imaroro"
         ]
       },
       {
         "subcounty_name": "Kajiado North",
         "wards": [
-          "Entonet/Lenkisi",
-          "Ewuaso Oonkidong'i",
-          "Iloodokilani",
-          "Iloodokilani East",
-          "Keekonyokie",
-          "Matapato West",
           "Olkeri",
-          "Pardamat"
+          "Ongata Rongai",
+          "Nkaimurunya",
+          "Oloolua",
+          "Ngong"
         ]
       },
       {
         "subcounty_name": "Kajiado West",
         "wards": [
-          "Ildamat",
-          "Inkae",
-          "Magadi/Kiserian",
-          "Mosiro/ Oloosirkon",
-          "Ngong",
-          "Ngong Ping",
-          "Purko/ Ngong",
-          "Rongai/ Nkoroi"
+        "  Keekonyokie",
+          "Iloodokilani",
+          "Magadi",
+          "Ewuaso Oonkidong’i",
+          "Mosiro"
         ]
       },
-      {
-        "subcounty_name": "Loitokitok",
-        "wards": [
-          "Dalmas Olkeri",
-          "Isinya",
-          "Kajiado South/ Olchorro",
-          "Kaputiei Central",
-          "Mbirikani/ Eselenkei",
-          "Nkaimurunya",
-          "Oloolaiser",
-          "Oloosuyian/ Nkorombo"
-        ]
-      },
-      {
-        "subcounty_name": "Mashuuru",
-        "wards": [
-          "Elangata Wuas Ward",
-          "Embulbul Ward",
-          "Entonet/Lenkisi Ward",
-          "Iloodokilani Ward",
-          "Mashuuru Ward",
-          "Mbirikani Ward",
-          "Mbirikani/Amboseli Ward",
-          "Oloitokitok Ward",
-          "Rombo Ward"
-        ]
-      },
-      {
-        "subcounty_name": "Isinya",
-        "wards": [
-          "Ilbissil Ward",
-          "Imaroro Ward",
-          "Kajiado Central Ward",
-          "Kajiado East Ward",
-          "Kajiado North Ward",
-          "Kajiado West Ward",
-          "Keekonyokie Ward",
-          "Kiserian Ward",
-          "Matapato South Ward",
-          "Mosiro Ward",
-          "Oloosirkon/Sholinke Ward",
-          "Purko Ward"
-        ]
-      }
+  {
+    "subcounty_name": "Kajiado South",
+    "wards": [
+      "Entonet/Lenkisi",
+      "Mbirikani/Eselen",
+      "Keikuku",
+      "Rombo",
+      "Kimana"
+    ]
+  }
+  
     ]
   },
   {
