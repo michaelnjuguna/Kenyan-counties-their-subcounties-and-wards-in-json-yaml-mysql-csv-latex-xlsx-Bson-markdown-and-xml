@@ -1440,69 +1440,52 @@
       {
         "subcounty_name": "Cherang'any",
         "wards": [
-          "Endebess",
-          "Matumbei",
+          "Sinyerere",
+          "Makutano",
+          "Kaplamai",
           "Motosiet",
-          "Motosiet/ Kachibora",
-          "Sitatunga",
-          "Waitaluk",
+          "Cherangany/Suwerwa",
           "Chepsiro/Kiptoror",
-          "Chepkorio",
-          "Chepnyal"
-        ]
+          "Sitatunga"
+          ]
       },
       {
         "subcounty_name": "Kwanza",
         "wards": [
           "Kapomboi",
           "Kwanza",
-          "Kwanza/Kenyenya",
-          "Nabiswa",
-          "Nasyo",
-          "Nyakinyua",
-          "Sinyerere",
-          "Tuwani"
+          "Keiyo",
+          "Bidii"
         ]
       },
       {
         "subcounty_name": "Endebess",
         "wards": [
+          "Chepchoina",
           "Endebess",
-          "Endebess/Namanjalala",
-          "Matumbei",
-          "Motosiet",
-          "Sitatunga",
-          "Waitaluk",
-          "Chepkorio",
-          "Chepnyal"
-        ]
+          "Matumbei"
+          ]
       },
       {
         "subcounty_name": "Saboti",
         "wards": [
-          "Machewa",
+          "Kinyoro",
           "Matisi",
-          "Matisi/Makutano",
-          "Matisi/Malaha",
-          "Matisi/Marua",
-          "Matisi/Nabkoi",
-          "Matisi/Naisambu",
+          "Tuwani",
           "Saboti",
-          "Sinyerere"
-        ]
+          "Machewa"
+          ]
       },
       {
         "subcounty_name": "Kiminini",
         "wards": [
-          "Bukembe East",
-          "Bukembe West",
           "Kiminini",
-          "Hospital",
-          "Kamukuywa",
           "Waitaluk",
           "Sirende",
-          "Township"
-        ]
+          "Hospital",
+          "Sikhendu",
+          "Nabiswa"
+          ]
       }
     ]
   },
