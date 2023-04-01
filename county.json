@@ -276,42 +276,65 @@
       {
         "subcounty_name": "Wajir East",
 
-        "wards": ["Ajawaan", "Arbajahan", "Barwago", "Benane", "Buna", "Gurar"]
+        "wards": [
+          "Wagbri",
+          "Township",
+          "Barwago",
+          "Khorof/Harar"
+        ]
       },
       {
         "subcounty_name": "Wajir North",
 
         "wards": [
-          "Ali Mude",
+          "Gurar",
+          "Bute",
+          "Korondile",
+          "Malkagufu",
           "Batalu",
           "Danaba",
-          "Elben",
-          "Godoma",
-          "Hadado/Athibohol"
+          "Godoma"
         ]
       },
       {
         "subcounty_name": "Wajir South",
 
         "wards": [
-          "Korondille",
+          "Benane",
+          "Burder",
+          "Dadaja Bulla",
+          "Habaswein",
           "Lagboghol South",
-          "Lagboghol North",
-          "Liban",
-          "Malkamari",
-          "Dadaja Bulla"
+          "Ibrahim Ure"
         ]
       },
       {
         "subcounty_name": "Wajir West",
 
         "wards": [
-          "Batalle",
-          "Boystown",
-          "Habaswein",
-          "Hadado/Wagalla",
-          "Kutulo",
-          "Quarray"
+          "Arbajahan",
+          "Hadado/Athibohol",
+          "Ademasajide",
+          "Ganyure",
+          "Wagalla"
+        ]
+      },
+      {
+        "subcounty_name": "Tarbaj",
+        "wards": [
+          "Elben",
+          "Sarman",
+          "Tarbaj",
+          "Wargadud"
+        ]
+      },
+      {
+        "subcounty_name":"Eldas",
+        "wards": [
+          "Eldas",
+          "Della",
+          "Lakoley South/Basir",
+          "Elnur/Tula Tula"
         ]
       }
     ]
@@ -320,66 +343,46 @@
     "county_code": 9,
     "county_name": "Mandera",
     "sub_counties": [
-      {
-        "subcounty_name": "Banisa",
+  {
+    "subcounty_name": "Moyale",
+    "wards": [
+      "Butiye",
+      "Sololo",
+      "Heillu/Manyatta",
+      "Golbo",
+      "Moyale Township",
+      "Uran",
+      "Obbu"
+    ]
+  },
+  {
+    "subcounty_name":"North Horr",
+    "wards": [
+      "Dukana",
+      "Maikona",
+      "Turbi",
+      "North Horr",
+      "Illeret"
+    ]
+  },{
+    "subcounty_name":"Laisamis",
+    "wards": [
+      "Loiyangalani",
+      "Kargi/South Horr",
+      "Korr/Ngurunit",
+      "Logo Logo",
+      "Laisamis"
+    ]
+  },
+  {
+    "subcounty_name":"Saku",
+    "wards": [
+      "Sagate/Jaldesa",
+      "Karare",
+      "Marsabit Central"
+    ]
+  }
 
-        "wards": [
-          "Amaru",
-          "Biliqo-Bulesa",
-          "Bulla Mpya",
-          "Derkhale",
-          "Kiliwehiri",
-          "Kulan"
-        ]
-      },
-      {
-        "subcounty_name": "Lafey",
-
-        "wards": [
-          "Alango Gof",
-          "Alango Wachu",
-          "Bambo",
-          "Benane",
-          "Dere",
-          "Lafey"
-        ]
-      },
-      {
-        "subcounty_name": "Mandera East",
-
-        "wards": [
-          "Ashabito",
-          "Banane",
-          "Guba",
-          "Guticha",
-          "Rhamu",
-          "Rhamu-Dimtu"
-        ]
-      },
-      {
-        "subcounty_name": "Mandera North",
-
-        "wards": [
-          "Bula Hawa",
-          "Fino",
-          "Gither",
-          "Guba Ward",
-          "Kutulo",
-          "Shimbir Fatuma"
-        ]
-      },
-      {
-        "subcounty_name": "Mandera South",
-
-        "wards": [
-          "Ashabito",
-          "Goreale",
-          "Khalalio",
-          "Kutulo",
-          "Rhamu",
-          "Rhamu-Dimtu"
-        ]
-      }
     ]
   },
   {
