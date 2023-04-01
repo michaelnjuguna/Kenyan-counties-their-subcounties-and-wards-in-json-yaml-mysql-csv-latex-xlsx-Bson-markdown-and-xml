@@ -2057,82 +2057,63 @@
       {
         "subcounty_name": "Narok North",
         "wards": [
-          "Ololulung'a",
-          "Melili",
-          "Olmaroroi",
-          "Nkareta",
-          "Ilmotiook",
-          "Ildamat",
-          "Mosiro",
-          "Sogoo",
-          "Naikarra",
-          "Majimoto"
+          "Olpusimoru",
+          "Olokurto",
+          "Narok Town",
+          "Nkareta'Olorropil",
+          "Melili"
         ]
       },
       {
         "subcounty_name": "Narok South",
         "wards": [
-          "Naroosura",
-          "Olpusimoru",
-          "Oloololo",
+          "Majimoto/Naroos",
+          "Uraololulung’a",
           "Melelo",
-          "Ololulunga",
-          "Mara",
-          "Siana"
+          "Loita",
+          "Sogoo",
+          "Sagamian"
         ]
       },
       {
         "subcounty_name": "Narok East",
         "wards": [
-          "Ildamat",
-          "Ilkerin",
-          "Kaputiei North",
-          "Kaputiei South",
-          "Keekonyokie",
           "Mosiro",
-          "Naroosura",
-          "Olpusimoru"
+          "Ildamat",
+          "Keekonyokie",
+          "Suswa"
         ]
       },
       {
         "subcounty_name": "Narok West",
         "wards": [
-          "Enoosokon",
+          "Ilmotiok",
           "Mara",
-          "Olchorro",
-          "Olposimoru",
-          "Sogoo",
-          "Sorobi",
-          "Suswa"
+          "Siana",
+          "Naikarra"
         ]
       },
-      {
-        "subcounty_name": "Transmara West",
-        "wards": [
-          "Tagorian",
-          "Nkoben",
-          "Oriang",
-          "Esoit",
-          "Olenkurungu",
-          "Ilkerin",
-          "Ololulunga",
-          "Tegerer",
-          "Kapsasian"
-        ]
-      },
-      {
-        "subcounty_name": "Transmara East",
-        "wards": [
+    {
+      "subcounty_name":"Kilgoris",
+      " wards": [
           "Kilgoris Central",
-          "Kilgoris North",
-          "Kimintet",
-          "Kapsasian",
-          "Kilgoris South",
+          "Keyian",
           "Angata Barikoi",
           "Shankoe",
-          "Entarara"
-        ]
-      }
+          "Kimintet",
+          "Lolgorian"
+          ]
+      
+    },
+    {
+      "subcounty_name":"Emurua Dikirr",
+      "wards": [
+        "Ilkerin",
+        "Ololmasani",
+        "Mogondo",
+        "Kapsasian"
+      ]
+    }
     ]
   },
   {
