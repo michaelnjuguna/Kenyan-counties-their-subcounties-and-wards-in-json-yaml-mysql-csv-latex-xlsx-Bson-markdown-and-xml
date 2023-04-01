@@ -575,80 +575,37 @@
     "county_name": "Tharaka Nithi",
     "sub_counties": [
       {
-        "subcounty_name": "Tharaka North",
+        "subcounty_name": "Tharaka ",
 
         "wards": [
-          "Chiakariga",
-          "Magumoni",
-          "Muthambi",
-          "Nkondi",
-          "Kisima",
-          "Mariani",
-          "Mitheru",
-          "Karingani",
-          "Ganga"
-        ]
-      },
-      {
-        "subcounty_name": "Tharaka South",
-
-        "wards": [
-          "Chiakariga",
           "Gatunga",
-          "Igambang'ombe",
           "Mukothima",
-          "Muthigi Ntunene",
-          "Mwimbi",
-          "Nangali",
-          "Nginda"
-        ]
+          "Nkondi",
+          "Chiakariga",
+          "Marimanti"
+          ]
       },
       {
-        "subcounty_name": "Chuka",
+        "subcounty_name": "Chuka/Igambang’ombe",
 
         "wards": [
-          "Chogoria",
+          "Mariani",
           "Karingani",
-          "Kibungei",
           "Magumoni",
-          "Marimanti",
           "Mugwe",
-          "Mwimbi",
-          "Ndagani"
-        ]
-      },
-      {
-        "subcounty_name": "Igambango’mbe",
-
-        "wards": ["Karingani", "Magumoni", "Mbeu", "Mwimbi", "Ndagani"]
+          "Igambang'ombe"
+          ]
       },
       {
         "subcounty_name": "Maara",
 
         "wards": [
-          "Kanyakine",
-          "Kiguchwa",
-          "Kiomboi",
           "Mitheru",
-          "Ntunene",
-          "Nturiri",
-          "Ntunene West",
-          "Nyaki East",
-          "Nyaki West"
-        ]
-      },
-      {
-        "subcounty_name": "Muthambi",
-
-        "wards": [
-          "Kamaguna",
-          "Karingani",
-          "Kathera",
-          "Kianjai",
-          "Migwani",
-          "Mukothima",
-          "Nkondi"
-        ]
+          "Muthambi",
+          "Mwimbi",
+          "Ganga",
+          "Chogoria"
+          ]
       }
     ]
   },
