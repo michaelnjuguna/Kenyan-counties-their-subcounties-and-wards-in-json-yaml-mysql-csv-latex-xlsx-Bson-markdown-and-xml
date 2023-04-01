@@ -104,119 +104,38 @@
         {
           "Kilifi North": {
             "wards": [
-              "Kakuyuni",
-              "Kibarani",
-              "Mtepeni",
-              "Shariani",
-              "Tetuani",
-              "Junju",
-              "Sokoni",
-              "Mnarani",
-              "Matsangoni",
-              "Watamu",
-              "Mida"
+              "Tezo", "Sokoni", "Kibarani", "Dabaso", "Matsangoni", "Watamu", "Mnarani"
             ]
           },
           "Kilifi South": {
             "wards": [
-              "Kayafungo",
-              "Ganze",
-              "Chasimba",
-              "Jilore",
-              "Sokoke",
-              "Malindi Town",
-              "Shella",
-              "Kakuyuni",
-              "Kibarani",
-              "Mtepeni",
-              "Shariani",
-              "Tetuani",
-              "Junju",
-              "Sokoni",
-              "Mnarani",
-              "Matsangoni",
-              "Watamu",
-              "Mida"
+              "Junju", "Mwarakaya", "Shimo la Tewa", "Chasimba", "Mtepeni"
             ]
           },
           "Kaloleni": {
             "wards": [
-              "Kakuyuni",
-              "Kayafungo",
-              "Kilifi North",
-              "Kilifi South",
-              "Marafa",
-              "Mariakani/Kaloleni",
-              "Mwarakaya/Mwakirunge",
-              "Sokoni",
-              "Tezo",
-              "Vitengeni",
-              "Wenje"
+              "Mariakani", "Kayafungo", "Kaloleni", "Mwanamwinga"
             ]
           },
           "Ganze": {
             "wards": [
-              "Bamba",
-              "Baricho",
-              "Chakama/Kaloleni",
-              "Jaribuni",
-              "Jila",
-              "Kakuyuni",
-              "Kambe/Ribe",
-              "Kilifi South",
-              "Magarini",
-              "Ruruma"
+              "Dungicha", "Bamba", "Jaribuni", "Sokoke"
             ]
           },
           "Magarini": {
             "wards": [
-              "Adu",
-              "Chembeeni",
-              "Ganda",
-              "Garashi",
-              "Kakuyuni",
-              "Kakuyuni/Kaloleni",
-              "Kakuyuni/Matsangoni",
-              "Kakuyuni/Sokoni",
-              "Kilifi South",
-              "Marafa",
-              "Sokoke"
+              "Maarafa", "Magarini", "Gongoni", "Adu", "Garashi", "Sabaki"
             ]
           },
 
           "Rabai": {
             "wards": [
-              "Mwarakaya",
-              "Mwawesa",
-              "Kambe",
-              "Kibarani",
-              "Ruruma",
-              "Chonyi/Kadzandani",
-              "Bukhayo North/Walatsi",
-              "Bukhayo East",
-              "Bukhayo South",
-              "Bukhayo Central",
-              "West Kabras",
-              "Butali/Chegulo",
-              "Shirere",
-              "Sango",
-              "Kabras Township",
-              "Matsakha"
+              "Mwawesa", "Ruruma", "Jibana", "Rabai/Kisurutuni"
             ]
           },
           "Malindi": {
             "wards": [
-              "Ganda",
-              "Gede",
-              "Jilore",
-              "Kakuyuni",
-              "Malindi Central",
-              "Malindi North",
-              "Malindi South",
-              "Maweni",
-              "Shella",
-              "Sultan Hamud",
-              "Watamu"
+              "Jilore", "Kakuyuni", "Ganda", "Malindi Town", "Shella"
             ]
           }
         }
