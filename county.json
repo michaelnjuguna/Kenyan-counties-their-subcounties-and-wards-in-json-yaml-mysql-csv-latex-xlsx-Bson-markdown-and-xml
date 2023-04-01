@@ -1682,81 +1682,62 @@
       {
         "subcounty_name": "Aldai",
         "wards": [
-          "Kaptumo-Kaboi",
           "Kabwareng",
-          "Kemeloi-Marakwet",
-          "Koyo-Ndurio",
-          "Kapsaos",
-          "Kapsabet",
-          "Kilibwoni",
-          "Kamobo-Chepkorio",
-          "Kiliboti"
+          "Terik",
+          "Kemeloi-Maraba",
+          "Kobujoi",
+          "Kaptumo-Kaboi",
+          "Koyo-Ndurio"
         ]
       },
       {
         "subcounty_name": "Chesumei",
         "wards": [
-          "Kipkaren",
-          "Kapsimotwo",
-          "Kiptenden / Tuiyobei",
-          "Chepkumia",
-          "Kapkong'a",
-          "Kabiyet",
-          "Kiptororo"
-        ]
+          "Chemundu/Kapng’etuny",
+          "Kosirai",
+          "Lelmokwo/Ngechek",
+          "Kaptel/Kamoiywo",
+          "Kiptuya"
+          ]
       },
       {
         "subcounty_name": "Emgwen",
         "wards": [
+          "Chepkumia",
           "Kapkangani",
-          "Koyo-Ndurio",
-          "Kipchimchim",
           "Kapsabet",
-          "Kilibwoni",
-          "Kapsaos",
-          "Kipkaren",
-          "Kiliboti",
-          "Kamobo-Chepkorio"
-        ]
+          "Kilibwoni"
+          ]
       },
       {
         "subcounty_name": "Mosop",
         "wards": [
+          "Chepterwai",
           "Kipkaren",
-          "Kipsigak",
-          "Kamara",
-          "Kaptumo-Kaboi",
-          "Kabwareng",
-          "Kaptel-Kamoi",
-          "Kilibwoni",
-          "Kaptumo Centre",
-          "Kipsaos"
-        ]
+          "Kurgung/ Surungai",
+          "Kabiyet",
+          "Ndalat",
+          "Kabisaga",
+          "Sangalo/Kebulonik"
+          ]
       },
       {
         "subcounty_name": "Nandi Hills",
         "wards": [
-          "Kapsabet",
-          "Kilibwoni",
-          "Kamobo",
-          "Songhor / Soba",
-          "Chemundu / Kaptumo",
-          "Kapchemutwa",
-          "Kabirirsang",
-          "Kapchorwa",
-          "Kapkesembe"
-        ]
+          "Nandi Hills",
+          "Chepkunyuk",
+          "Ol’lessos",
+          "Kapchorua"
+          ]
       },
       {
         "subcounty_name": "Tinderet",
         "wards": [
-          "Chemase",
-          "Kapsegut",
-          "Kipkaren",
-          "Kosirai",
-          "Lessos",
-          "Tindiret"
-        ]
+          "Songhor/Soba",
+          "Tindiret",
+          "Chemelil/Chemase",
+          "Kapsimotwo"
+          ]
       }
     ]
   },
