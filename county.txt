@@ -1,5 +1,5 @@
 ﻿|^.
-|_.county_code|_.county_name|_.constituencies_constituency_name|_.constituencies_wards|
+|_.county_code|_.county_name|_.constituency_name|_.constituencies_wards|
 |-.
 |1|Mombasa|Changamwe|Port Reitz|
 |1|Mombasa|Changamwe|Kipevu|
@@ -355,11 +355,11 @@
 |15|Kitui|Mwingi West|Nguutani|
 |15|Kitui|Mwingi West|Migwani|
 |15|Kitui|Mwingi West|Kiomo/Kyethani|
-|15|Kitui|mwingi central|Central|
-|15|Kitui|mwingi central|Kivou|
-|15|Kitui|mwingi central|Nguni|
-|15|Kitui|mwingi central|Mui|
-|15|Kitui|mwingi central|Waita|
+|15|Kitui|Mwingi Central|Central|
+|15|Kitui|Mwingi Central|Kivou|
+|15|Kitui|Mwingi Central|Nguni|
+|15|Kitui|Mwingi Central|Mui|
+|15|Kitui|Mwingi Central|Waita|
 |16|Machakos|Masinga|Kivaa|
 |16|Machakos|Masinga|Masinga|
 |16|Machakos|Masinga|Central|
@@ -401,36 +401,36 @@
 |16|Machakos|Mavoko|Kinanie|
 |16|Machakos|Mavoko|Muthwani|
 |16|Machakos|Mavoko|Syokimau/Mulolongo|
-|16|Machakos|Mbooni|Tulimani|
-|16|Machakos|Mbooni|Mbooni|
-|16|Machakos|Mbooni|Kithungo/Kitundu|
-|16|Machakos|Mbooni|Kiteta/Kisau|
-|16|Machakos|Mbooni|Waia==-==Kako|
-|16|Machakos|Mbooni|Kalawa|
-|16|Machakos|Kaiti|Ukia|
-|16|Machakos|Kaiti|Kee|
-|16|Machakos|Kaiti|Kilungu|
-|16|Machakos|Kaiti|Ilima|
-|16|Machakos|Makueni|Wote|
-|16|Machakos|Makueni|Muvau/Kikuumini|
-|16|Machakos|Makueni|Mavindini|
-|16|Machakos|Makueni|Kitise/Kithuki|
-|16|Machakos|Makueni|Kathonzweni|
-|16|Machakos|Makueni|Nzau/Kilili/Kalamba|
-|16|Machakos|Makueni|Mbitini|
-|16|Machakos|Kilome|Kasikeu|
-|16|Machakos|Kilome|Mukaa|
-|16|Machakos|Kilome|Kiima Kiu/Kalanzoni|
-|16|Machakos|Kibwezi East|Masongaleni|
-|16|Machakos|Kibwezi East|Mtito Andei|
-|16|Machakos|Kibwezi East|Thange|
-|16|Machakos|Kibwezi East|Ivingoni/Nzambani|
-|16|Machakos|Kibwezi West|Makindu|
-|16|Machakos|Kibwezi West|Nguumo|
-|16|Machakos|Kibwezi West|Kikumbulyu North|
-|16|Machakos|Kibwezi West|Kimumbulyu South|
-|16|Machakos|Kibwezi West|Nguu/Masumba|
-|16|Machakos|Kibwezi West|Emali/Mulala|
+|17|Makueni|Mbooni|Tulimani|
+|17|Makueni|Mbooni|Mbooni|
+|17|Makueni|Mbooni|Kithungo/Kitundu|
+|17|Makueni|Mbooni|Kiteta/Kisau|
+|17|Makueni|Mbooni|Waia==-==Kako|
+|17|Makueni|Mbooni|Kalawa|
+|17|Makueni|Kaiti|Ukia|
+|17|Makueni|Kaiti|Kee|
+|17|Makueni|Kaiti|Kilungu|
+|17|Makueni|Kaiti|Ilima|
+|17|Makueni|Makueni|Wote|
+|17|Makueni|Makueni|Muvau/Kikuumini|
+|17|Makueni|Makueni|Mavindini|
+|17|Makueni|Makueni|Kitise/Kithuki|
+|17|Makueni|Makueni|Kathonzweni|
+|17|Makueni|Makueni|Nzau/Kilili/Kalamba|
+|17|Makueni|Makueni|Mbitini|
+|17|Makueni|Kilome|Kasikeu|
+|17|Makueni|Kilome|Mukaa|
+|17|Makueni|Kilome|Kiima Kiu/Kalanzoni|
+|17|Makueni|Kibwezi East|Masongaleni|
+|17|Makueni|Kibwezi East|Mtito Andei|
+|17|Makueni|Kibwezi East|Thange|
+|17|Makueni|Kibwezi East|Ivingoni/Nzambani|
+|17|Makueni|Kibwezi West|Makindu|
+|17|Makueni|Kibwezi West|Nguumo|
+|17|Makueni|Kibwezi West|Kikumbulyu North|
+|17|Makueni|Kibwezi West|Kimumbulyu South|
+|17|Makueni|Kibwezi West|Nguu/Masumba|
+|17|Makueni|Kibwezi West|Emali/Mulala|
 |18|Nyandarua|Kinangop|Engineer|
 |18|Nyandarua|Kinangop|Gathara|
 |18|Nyandarua|Kinangop|North Kinangop|
