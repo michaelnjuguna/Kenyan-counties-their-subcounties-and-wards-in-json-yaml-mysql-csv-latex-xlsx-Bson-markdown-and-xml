@@ -353,11 +353,11 @@
 15,Kitui,Mwingi West,Nguutani
 15,Kitui,Mwingi West,Migwani
 15,Kitui,Mwingi West,Kiomo/Kyethani
-15,Kitui,mwingi central,Central
-15,Kitui,mwingi central,Kivou
-15,Kitui,mwingi central,Nguni
-15,Kitui,mwingi central,Mui
-15,Kitui,mwingi central,Waita
+15,Kitui,Mwingi Central,Central
+15,Kitui,Mwingi Central,Kivou
+15,Kitui,Mwingi Central,Nguni
+15,Kitui,Mwingi Central,Mui
+15,Kitui,Mwingi Central,Waita
 16,Machakos,Masinga,Kivaa
 16,Machakos,Masinga,Masinga
 16,Machakos,Masinga,Central
@@ -399,36 +399,36 @@
 16,Machakos,Mavoko,Kinanie
 16,Machakos,Mavoko,Muthwani
 16,Machakos,Mavoko,Syokimau/Mulolongo
-16,Machakos,Mbooni,Tulimani
-16,Machakos,Mbooni,Mbooni
-16,Machakos,Mbooni,Kithungo/Kitundu
-16,Machakos,Mbooni,Kiteta/Kisau
-16,Machakos,Mbooni,Waia-Kako
-16,Machakos,Mbooni,Kalawa
-16,Machakos,Kaiti,Ukia
-16,Machakos,Kaiti,Kee
-16,Machakos,Kaiti,Kilungu
-16,Machakos,Kaiti,Ilima
-16,Machakos,Makueni,Wote
-16,Machakos,Makueni,Muvau/Kikuumini
-16,Machakos,Makueni,Mavindini
-16,Machakos,Makueni,Kitise/Kithuki
-16,Machakos,Makueni,Kathonzweni
-16,Machakos,Makueni,Nzau/Kilili/Kalamba
-16,Machakos,Makueni,Mbitini
-16,Machakos,Kilome,Kasikeu
-16,Machakos,Kilome,Mukaa
-16,Machakos,Kilome,Kiima Kiu/Kalanzoni
-16,Machakos,Kibwezi East,Masongaleni
-16,Machakos,Kibwezi East,Mtito Andei
-16,Machakos,Kibwezi East,Thange
-16,Machakos,Kibwezi East,Ivingoni/Nzambani
-16,Machakos,Kibwezi West,Makindu
-16,Machakos,Kibwezi West,Nguumo
-16,Machakos,Kibwezi West,Kikumbulyu North
-16,Machakos,Kibwezi West,Kimumbulyu South
-16,Machakos,Kibwezi West,Nguu/Masumba
-16,Machakos,Kibwezi West,Emali/Mulala
+17,Makueni,Mbooni,Tulimani
+17,Makueni,Mbooni,Mbooni
+17,Makueni,Mbooni,Kithungo/Kitundu
+17,Makueni,Mbooni,Kiteta/Kisau
+17,Makueni,Mbooni,Waia-Kako
+17,Makueni,Mbooni,Kalawa
+17,Makueni,Kaiti,Ukia
+17,Makueni,Kaiti,Kee
+17,Makueni,Kaiti,Kilungu
+17,Makueni,Kaiti,Ilima
+17,Makueni,Makueni,Wote
+17,Makueni,Makueni,Muvau/Kikuumini
+17,Makueni,Makueni,Mavindini
+17,Makueni,Makueni,Kitise/Kithuki
+17,Makueni,Makueni,Kathonzweni
+17,Makueni,Makueni,Nzau/Kilili/Kalamba
+17,Makueni,Makueni,Mbitini
+17,Makueni,Kilome,Kasikeu
+17,Makueni,Kilome,Mukaa
+17,Makueni,Kilome,Kiima Kiu/Kalanzoni
+17,Makueni,Kibwezi East,Masongaleni
+17,Makueni,Kibwezi East,Mtito Andei
+17,Makueni,Kibwezi East,Thange
+17,Makueni,Kibwezi East,Ivingoni/Nzambani
+17,Makueni,Kibwezi West,Makindu
+17,Makueni,Kibwezi West,Nguumo
+17,Makueni,Kibwezi West,Kikumbulyu North
+17,Makueni,Kibwezi West,Kimumbulyu South
+17,Makueni,Kibwezi West,Nguu/Masumba
+17,Makueni,Kibwezi West,Emali/Mulala
 18,Nyandarua,Kinangop,Engineer
 18,Nyandarua,Kinangop,Gathara
 18,Nyandarua,Kinangop,North Kinangop
@@ -506,41 +506,41 @@
 20,Kirinyaga,Ndia,Mukure
 20,Kirinyaga,Ndia,Kiine
 20,Kirinyaga,Ndia,Kariti
-21,Murang’a,Gatanga,Ithanga
-21,Murang’a,Gatanga,Kakuzi/Mitubiri
-21,Murang’a,Gatanga,Mugumo-Ini
-21,Murang’a,Gatanga,Kihumbu-Ini
-21,Murang’a,Gatanga,Gatanga
-21,Murang’a,Gatanga,Kariara
-21,Murang’a,Kandara,Ng’ararii
-21,Murang’a,Kandara,Muruka
-21,Murang’a,Kandara,Kangundu-Ini
-21,Murang’a,Kandara,Gaichanjiru
-21,Murang’a,Kandara,Ithiru
-21,Murang’a,Kandara,Ruchu
-21,Murang’a,Kigumo,Kahumbu
-21,Murang’a,Kigumo,Muthithi
-21,Murang’a,Kigumo,Kigumo
-21,Murang’a,Kigumo,Kangari
-21,Murang’a,Kigumo,Kinyona
-21,Murang’a,Mathioya,Gituhi
-21,Murang’a,Mathioya,Kiru
-21,Murang’a,Mathioya,Kamacharia
-21,Murang’a,Kiharu,Wangu
-21,Murang’a,Kiharu,Mugoiri
-21,Murang’a,Kiharu,Mbiri
-21,Murang’a,Kiharu,Township
-21,Murang’a,Kiharu,Murarandia
-21,Murang’a,Kiharu,Gaturi
-21,Murang’a,Kangema,Kanyenya-Ini
-21,Murang’a,Kangema,Muguru
-21,Murang’a,Kangema,Rwathia
-21,Murang’a,Maragwa,Kimorori/Wempa
-21,Murang’a,Maragwa,Makuyu
-21,Murang’a,Maragwa,Kambiti
-21,Murang’a,Maragwa,Kamahuha
-21,Murang’a,Maragwa,Ichagaki
-21,Murang’a,Maragwa,Nginda
+21,Murang''a,Gatanga,Ithanga
+21,Murang''a,Gatanga,Kakuzi/Mitubiri
+21,Murang''a,Gatanga,Mugumo-Ini
+21,Murang''a,Gatanga,Kihumbu-Ini
+21,Murang''a,Gatanga,Gatanga
+21,Murang''a,Gatanga,Kariara
+21,Murang''a,Kandara,Ng’ararii
+21,Murang''a,Kandara,Muruka
+21,Murang''a,Kandara,Kangundu-Ini
+21,Murang''a,Kandara,Gaichanjiru
+21,Murang''a,Kandara,Ithiru
+21,Murang''a,Kandara,Ruchu
+21,Murang''a,Kigumo,Kahumbu
+21,Murang''a,Kigumo,Muthithi
+21,Murang''a,Kigumo,Kigumo
+21,Murang''a,Kigumo,Kangari
+21,Murang''a,Kigumo,Kinyona
+21,Murang''a,Mathioya,Gituhi
+21,Murang''a,Mathioya,Kiru
+21,Murang''a,Mathioya,Kamacharia
+21,Murang''a,Kiharu,Wangu
+21,Murang''a,Kiharu,Mugoiri
+21,Murang''a,Kiharu,Mbiri
+21,Murang''a,Kiharu,Township
+21,Murang''a,Kiharu,Murarandia
+21,Murang''a,Kiharu,Gaturi
+21,Murang''a,Kangema,Kanyenya-Ini
+21,Murang''a,Kangema,Muguru
+21,Murang''a,Kangema,Rwathia
+21,Murang''a,Maragwa,Kimorori/Wempa
+21,Murang''a,Maragwa,Makuyu
+21,Murang''a,Maragwa,Kambiti
+21,Murang''a,Maragwa,Kamahuha
+21,Murang''a,Maragwa,Ichagaki
+21,Murang''a,Maragwa,Nginda
 22,Kiambu,Gatundu North,Gituamba
 22,Kiambu,Gatundu North,Githobokoni
 22,Kiambu,Gatundu North,Chania
