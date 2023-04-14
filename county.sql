@@ -6,7 +6,7 @@ CREATE TABLE IF NOT EXISTS county (
 	PRIMARY KEY (`county_code`)
 
 );
-INSERT INTO county VALUES(1,'Mombasa','Changamwe','Port Reitz'),
+INSERT INTO county VALUES (1,'Mombasa','Changamwe','Port Reitz'),
 	(1,'Mombasa','Changamwe','Kipevu'),
 	(1,'Mombasa','Changamwe','Airport'),
 	(1,'Mombasa','Changamwe','Miritini'),
@@ -256,7 +256,7 @@ INSERT INTO county VALUES(1,'Mombasa','Changamwe','Port Reitz'),
 	(12,'Meru','Central Imenti','Kiagu'),
 	(12,'Meru','Central Imenti','Kibirichia'),
 	(12,'Meru','Igembe Central','Akirang''ondu');
-INSERT INTO county VALUES(12,'Meru','Igembe Central','Athiru'),
+INSERT INTO county VALUES (12,'Meru','Igembe Central','Athiru'),
 	(12,'Meru','Igembe Central','Ruujine'),
 	(12,'Meru','Igembe Central','Igembe East Njia'),
 	(12,'Meru','Igembe Central','Kangeta'),
