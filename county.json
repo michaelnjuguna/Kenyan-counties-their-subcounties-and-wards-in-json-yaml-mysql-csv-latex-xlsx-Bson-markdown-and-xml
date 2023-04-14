@@ -2921,7 +2921,7 @@
         ]
       },
       {
-        "Sub-county": "Embakasi North",
+        "constituency_name": "Embakasi North",
         "Wards": [
           "Dandora Area I",
           "Dandora Area II",
@@ -2931,7 +2931,7 @@
         ]
       },
       {
-        "Sub-county": "Embakasi Central",
+        "constituency_name": "Embakasi Central",
         "Wards": [
           "Kayole North",
           "Kayole Central",
@@ -2941,7 +2941,7 @@
         ]
       },
       {
-        "Sub-county": "Embakasi East",
+        "constituency_name": "Embakasi East",
         "Wards": [
           "Utawala",
           "Upper Savanna",
@@ -2951,15 +2951,15 @@
         ]
       },
       {
-        "Sub-county": "Embakasi West",
+        "constituency_name": "Embakasi West",
         "Wards": ["Umoja 1", "Umoja 2", "Mowlem ", "Kariobangi south","Maringo/ Hamza"]
       },
       {
-        "Sub-county": "Makadara",
+        "constituency_name": "Makadara",
         "Wards": [ "Viwandani", "Harambee",  "Makongeni","Pumwani","Eastleigh North"]
       },
       {
-        "Sub-county": "Kamukunji",
+        "constituency_name": "Kamukunji",
         "Wards": [
           "Eastleigh South",
           "Nairobi Central",
@@ -2969,7 +2969,7 @@
         ]
       },
       {
-        "Sub-county": "Starehe",
+        "constituency_name": "Starehe",
         "Wards": [
           "Nairobi South",
         "Hospital",
@@ -2980,7 +2980,7 @@
         ]
       },
       {
-        "Sub-county": "Mathare",
+        "constituency_name": "Mathare",
         "Wards": ["Mlango Kubwa", "Kiamaiko", "Ngei", "Huruma", "Mabatini"]
       }
     ]
