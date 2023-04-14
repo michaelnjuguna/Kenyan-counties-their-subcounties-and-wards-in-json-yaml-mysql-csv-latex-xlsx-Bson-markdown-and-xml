@@ -815,10 +815,9 @@
     ]
   },
   {
-    "county": {
       "county_code": 17,
       "county_name": "Makueni"
-    },
+    ,
     "subcounties": [
       {
 "constituency_name":"Mbooni",
