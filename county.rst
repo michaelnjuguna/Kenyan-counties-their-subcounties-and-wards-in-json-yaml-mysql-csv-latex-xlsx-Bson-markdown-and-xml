@@ -27,7 +27,7 @@
 | 1           | Mombasa         | Mvita               | Ganjoni/Shimanzi             |
 | 1           | Mombasa         | Mvita               | Majengo                      |
 | 1           | Mombasa         | Nyali               | Frere Town                   |
-| 1           | Mombasa         | Nyali               | Ziwa la Ng''ombe             |
+| 1           | Mombasa         | Nyali               | Ziwa la Ng’ombe             |
 | 1           | Mombasa         | Nyali               | Mkomani                      |
 | 1           | Mombasa         | Nyali               | Kongowea                     |
 | 1           | Mombasa         | Nyali               | Ziwani/Kadzandani            |
@@ -250,7 +250,7 @@
 | 12          | Meru            | Central Imenti      | Abothuguchi West             |
 | 12          | Meru            | Central Imenti      | Kiagu                        |
 | 12          | Meru            | Central Imenti      | Kibirichia                   |
-| 12          | Meru            | Igembe Central      | Akirang''ondu                |
+| 12          | Meru            | Igembe Central      | Akirang’ondu                |
 | 12          | Meru            | Igembe Central      | Athiru                       |
 | 12          | Meru            | Igembe Central      | Ruujine                      |
 | 12          | Meru            | Igembe Central      | Igembe East Njia             |
@@ -296,7 +296,7 @@
 | 13          | Tharaka Nithi   | Chuka/Igambang’ombe | Karingani                    |
 | 13          | Tharaka Nithi   | Chuka/Igambang’ombe | Magumoni                     |
 | 13          | Tharaka Nithi   | Chuka/Igambang’ombe | Mugwe                        |
-| 13          | Tharaka Nithi   | Chuka/Igambang’ombe | Igambang''ombe               |
+| 13          | Tharaka Nithi   | Chuka/Igambang’ombe | Igambang’ombe               |
 | 13          | Tharaka Nithi   | Maara               | Mitheru                      |
 | 13          | Tharaka Nithi   | Maara               | Muthambi                     |
 | 13          | Tharaka Nithi   | Maara               | Mwimbi                       |
@@ -667,13 +667,13 @@
 | 25          | Samburu         | Samburu West        | Maralal                      |
 | 25          | Samburu         | Samburu West        | Loosuk                       |
 | 25          | Samburu         | Samburu West        | Poro                         |
-| 26          | Trans-Nzoia     | Cherang''any        | Sinyerere                    |
-| 26          | Trans-Nzoia     | Cherang''any        | Makutano                     |
-| 26          | Trans-Nzoia     | Cherang''any        | Kaplamai                     |
-| 26          | Trans-Nzoia     | Cherang''any        | Motosiet                     |
-| 26          | Trans-Nzoia     | Cherang''any        | Cherangany/Suwerwa           |
-| 26          | Trans-Nzoia     | Cherang''any        | Chepsiro/Kiptoror            |
-| 26          | Trans-Nzoia     | Cherang''any        | Sitatunga                    |
+| 26          | Trans-Nzoia     | Cherang’any        | Sinyerere                    |
+| 26          | Trans-Nzoia     | Cherang’any        | Makutano                     |
+| 26          | Trans-Nzoia     | Cherang’any        | Kaplamai                     |
+| 26          | Trans-Nzoia     | Cherang’any        | Motosiet                     |
+| 26          | Trans-Nzoia     | Cherang’any        | Cherangany/Suwerwa           |
+| 26          | Trans-Nzoia     | Cherang’any        | Chepsiro/Kiptoror            |
+| 26          | Trans-Nzoia     | Cherang’any        | Sitatunga                    |
 | 26          | Trans-Nzoia     | Kwanza              | Kapomboi                     |
 | 26          | Trans-Nzoia     | Kwanza              | Kwanza                       |
 | 26          | Trans-Nzoia     | Kwanza              | Keiyo                        |
@@ -874,7 +874,7 @@
 | 33          | Narok           | Narok North         | Olpusimoru                   |
 | 33          | Narok           | Narok North         | Olokurto                     |
 | 33          | Narok           | Narok North         | Narok Town                   |
-| 33          | Narok           | Narok North         | Nkareta''Olorropil           |
+| 33          | Narok           | Narok North         | Nkareta’Olorropil           |
 | 33          | Narok           | Narok North         | Melili                       |
 | 33          | Narok           | Narok South         | Majimoto/Naroos              |
 | 33          | Narok           | Narok South         | Uraololulung’a               |
@@ -1117,7 +1117,7 @@
 | 40          | Busia           | Teso North          | MALABA SOUTH                 |
 | 40          | Busia           | Teso North          | ANG’URAI NORTH               |
 | 40          | Busia           | Teso North          | ANG’URAI EAST                |
-| 40          | Busia           | Teso South          | ANG''OROM                    |
+| 40          | Busia           | Teso South          | ANG’OROM                    |
 | 40          | Busia           | Teso South          | CHAKOI SOUTH                 |
 | 40          | Busia           | Teso South          | AMUKURA CENTRAL              |
 | 40          | Busia           | Teso South          | CHAKOI NORTH                 |
@@ -1138,7 +1138,7 @@
 | 40          | Busia           | Butula              | ELUGULU                      |
 | 40          | Busia           | Funyula             | NAMBOBOTO NAMBUKU            |
 | 40          | Busia           | Funyula             | NANGINA                      |
-| 40          | Busia           | Funyula             | AGENG''A NANGUBA             |
+| 40          | Busia           | Funyula             | AGENG’A NANGUBA             |
 | 40          | Busia           | Funyula             | BWIRI                        |
 | 41          | Siaya           | Alego Usonga        | Usonga                       |
 | 41          | Siaya           | Alego Usonga        | West Alego                   |
@@ -1166,7 +1166,7 @@
 | 41          | Siaya           | Rarieda             | North West Asembo            |
 | 41          | Siaya           | Rarieda             | North East Asembo            |
 | 41          | Siaya           | Rarieda             | South East Asembo            |
-| 41          | Siaya           | Rarieda             | Nyang''oma Kogelo            |
+| 41          | Siaya           | Rarieda             | Nyang’oma Kogelo            |
 | 41          | Siaya           | Rarieda             | West Uyoma                   |
 | 41          | Siaya           | Rarieda             | Central Uyoma                |
 | 41          | Siaya           | Rarieda             | North Uyoma                  |
@@ -1186,8 +1186,8 @@
 | 42          | Kisumu          | Kisumu Central      | Nyalenda B                   |
 | 42          | Kisumu          | Kisumu East         | Kajulu                       |
 | 42          | Kisumu          | Kisumu East         | Kolwa East                   |
-| 42          | Kisumu          | Kisumu East         | Manyatta ''B                 |
-| 42          | Kisumu          | Kisumu East         | Nyalenda ''A                 |
+| 42          | Kisumu          | Kisumu East         | Manyatta ’B                 |
+| 42          | Kisumu          | Kisumu East         | Nyalenda ’A                 |
 | 42          | Kisumu          | Kisumu East         | Kolwa Central                |
 | 42          | Kisumu          | Kisumu West         | South West Kisumu            |
 | 42          | Kisumu          | Kisumu West         | Cetral Kisumu                |
@@ -1371,13 +1371,13 @@
 | 47          | Nairobi         | Dagoretti South     | Riruta                       |
 | 47          | Nairobi         | Dagoretti South     | Uthiru/Ruthimitu             |
 | 47          | Nairobi         | Dagoretti South     | Waithaka                     |
-| 47          | Nairobi         | Lang''ata           | Karen                        |
-| 47          | Nairobi         | Lang''ata           | Nairobi West                 |
-| 47          | Nairobi         | Lang''ata           | Mugumu-Ini                   |
-| 47          | Nairobi         | Lang''ata           | South C                      |
-| 47          | Nairobi         | Lang''ata           | Nyayo Highrise               |
+| 47          | Nairobi         | Lang’ata           | Karen                        |
+| 47          | Nairobi         | Lang’ata           | Nairobi West                 |
+| 47          | Nairobi         | Lang’ata           | Mugumu-Ini                   |
+| 47          | Nairobi         | Lang’ata           | South C                      |
+| 47          | Nairobi         | Lang’ata           | Nyayo Highrise               |
 | 47          | Nairobi         | Kibra               | Woodley/Kenyatta Golf Course |
-| 47          | Nairobi         | Kibra               | Sarang''ombe                 |
+| 47          | Nairobi         | Kibra               | Sarang’ombe                 |
 | 47          | Nairobi         | Kibra               | Makina                       |
 | 47          | Nairobi         | Kibra               | Lindi                        |
 | 47          | Nairobi         | Kibra               | Laini Saba                   |
