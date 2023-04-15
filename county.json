@@ -67,15 +67,15 @@
       },
       {
         "constituency_name": "Lunga Lunga",
-        "wards": ["Pongwe/Kikoneni", "Dzombo", "Vanga", " Mwereni"]
+        "wards": ["Pongwe/Kikoneni", "Dzombo", "Vanga", "Mwereni"]
       },
       {
         "constituency_name": "Msambweni",
-        "wards": ["Gombato Bongwe", " Ukunda", "Kinondo", "Ramisi"]
+        "wards": ["Gombato Bongwe", "Ukunda", "Kinondo", "Ramisi"]
       },
       {
         "constituency_name": "Matuga",
-        "wards": ["  Tsimba Golini", "Waa", "Tiwi", "Kubo South", "Mkongani"]
+        "wards": ["Tsimba Golini", "Waa", "Tiwi", "Kubo South", "Mkongani"]
       }
     ]
   },
@@ -359,7 +359,7 @@
         "constituency_name": "Laisamis",
 
         "wards": [
-          "  Loiyangalani",
+          "Loiyangalani",
           "Kargi/South Horr",
           "Korr/Ngurunit",
           "Logo Logo",
@@ -369,7 +369,7 @@
       {
         "constituency_name": "North Horr",
 
-        "wards": ["  Dukana", "Maikona", "Turbi", "North Horr", " Illeret"]
+        "wards": ["Dukana", "Maikona", "Turbi", "North Horr", "Illeret"]
       },
       {
         "constituency_name": "Saku",
@@ -1193,7 +1193,7 @@
       {
         "constituency_name": "Soy",
         "wards": [
-          "  Moi’s Bridge",
+          "Moi’s Bridge",
           "Kapkures",
           "Ziwa",
           "Segero/Barsombe",
@@ -1205,7 +1205,7 @@
       {
         "constituency_name": "Turbo",
         "wards": [
-          "  Ngenyilel",
+          "Ngenyilel",
           "Tapsagoi",
           "Kamagut",
           "Kiplombe",
@@ -1368,7 +1368,7 @@
       },
       {
         "constituency_name": "Laikipia East",
-        "wards": ["Ngobit", "Tigithi", "Thingithu", "Nanyuki", " Umande"]
+        "wards": ["Ngobit", "Tigithi", "Thingithu", "Nanyuki", "Umande"]
       },
       {
         "constituency_name": "Laikipia West",
@@ -1542,7 +1542,7 @@
       {
         "constituency_name": "Kajiado West",
         "wards": [
-          "  Keekonyokie",
+          "Keekonyokie",
           "Iloodokilani",
           "Magadi",
           "Ewuaso Oonkidong’i",
@@ -1631,7 +1631,7 @@
         "wards": [
           "Silibwet Township",
           "Ndaraweta",
-          " Singorwet",
+          "Singorwet",
           "Chesoen",
           "Mutarakwa"
         ]
@@ -1643,16 +1643,16 @@
       {
         "constituency_name": "Chepalungu",
         "wards": [
-          "  Kong’asis",
-          " Nyangores",
+          "Kong’asis",
+          "Nyangores",
           "Sigor",
-          " Chebunyo",
+          "Chebunyo",
           "Siongiroi"
         ]
       },
       {
         "constituency_name": "Konoin",
-        "wards": ["Chepchabas", "Kimulot", "Mogogosiek", "Boito", " Embomos"]
+        "wards": ["Chepchabas", "Kimulot", "Mogogosiek", "Boito", "Embomos"]
       }
     ]
   },
