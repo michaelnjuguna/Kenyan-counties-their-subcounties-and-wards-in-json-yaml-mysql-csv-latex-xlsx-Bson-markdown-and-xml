@@ -202,7 +202,7 @@
    county_code: 2
    county_name: Kwale
    constituency_name: Lunga Lunga
-   constituencies_wards:  Mwereni
+   constituencies_wards: Mwereni
 -
    county_code: 2
    county_name: Kwale
@@ -212,7 +212,7 @@
    county_code: 2
    county_name: Kwale
    constituency_name: Msambweni
-   constituencies_wards:  Ukunda
+   constituencies_wards: Ukunda
 -
    county_code: 2
    county_name: Kwale
@@ -227,7 +227,7 @@
    county_code: 2
    county_name: Kwale
    constituency_name: Matuga
-   constituencies_wards:   Tsimba Golini
+   constituencies_wards: Tsimba Golini
 -
    county_code: 2
    county_name: Kwale
@@ -251,177 +251,177 @@
 -
    county_code: 3
    county_name: Kilifi
-   constituency_name: Matuga
+   constituency_name: Kilifi North
    constituencies_wards: Tezo
 -
    county_code: 3
    county_name: Kilifi
-   constituency_name: Matuga
+   constituency_name: Kilifi North
    constituencies_wards: Sokoni
 -
    county_code: 3
    county_name: Kilifi
-   constituency_name: Matuga
+   constituency_name: Kilifi North
    constituencies_wards: Kibarani
 -
    county_code: 3
    county_name: Kilifi
-   constituency_name: Matuga
+   constituency_name: Kilifi North
    constituencies_wards: Dabaso
 -
    county_code: 3
    county_name: Kilifi
-   constituency_name: Matuga
+   constituency_name: Kilifi North
    constituencies_wards: Matsangoni
 -
    county_code: 3
    county_name: Kilifi
-   constituency_name: Matuga
+   constituency_name: Kilifi North
    constituencies_wards: Watamu
 -
    county_code: 3
    county_name: Kilifi
-   constituency_name: Matuga
+   constituency_name: Kilifi North
    constituencies_wards: Mnarani
 -
    county_code: 3
    county_name: Kilifi
-   constituency_name: Matuga
+   constituency_name: Kilifi South
    constituencies_wards: Junju
 -
    county_code: 3
    county_name: Kilifi
-   constituency_name: Matuga
+   constituency_name: Kilifi South
    constituencies_wards: Mwarakaya
 -
    county_code: 3
    county_name: Kilifi
-   constituency_name: Matuga
+   constituency_name: Kilifi South
    constituencies_wards: Shimo la Tewa
 -
    county_code: 3
    county_name: Kilifi
-   constituency_name: Matuga
+   constituency_name: Kilifi South
    constituencies_wards: Chasimba
 -
    county_code: 3
    county_name: Kilifi
-   constituency_name: Matuga
+   constituency_name: Kilifi South
    constituencies_wards: Mtepeni
 -
    county_code: 3
    county_name: Kilifi
-   constituency_name: Matuga
+   constituency_name: Kaloleni
    constituencies_wards: Mariakani
 -
    county_code: 3
    county_name: Kilifi
-   constituency_name: Matuga
+   constituency_name: Kaloleni
    constituencies_wards: Kayafungo
 -
    county_code: 3
    county_name: Kilifi
-   constituency_name: Matuga
+   constituency_name: Kaloleni
    constituencies_wards: Kaloleni
 -
    county_code: 3
    county_name: Kilifi
-   constituency_name: Matuga
+   constituency_name: Kaloleni
    constituencies_wards: Mwanamwinga
 -
    county_code: 3
    county_name: Kilifi
-   constituency_name: Matuga
+   constituency_name: Ganze
    constituencies_wards: Dungicha
 -
    county_code: 3
    county_name: Kilifi
-   constituency_name: Matuga
+   constituency_name: Ganze
    constituencies_wards: Bamba
 -
    county_code: 3
    county_name: Kilifi
-   constituency_name: Matuga
+   constituency_name: Ganze
    constituencies_wards: Jaribuni
 -
    county_code: 3
    county_name: Kilifi
-   constituency_name: Matuga
+   constituency_name: Ganze
    constituencies_wards: Sokoke
 -
    county_code: 3
    county_name: Kilifi
-   constituency_name: Matuga
+   constituency_name: Magarini
    constituencies_wards: Maarafa
 -
    county_code: 3
    county_name: Kilifi
-   constituency_name: Matuga
+   constituency_name: Magarini
    constituencies_wards: Magarini
 -
    county_code: 3
    county_name: Kilifi
-   constituency_name: Matuga
+   constituency_name: Magarini
    constituencies_wards: Gongoni
 -
    county_code: 3
    county_name: Kilifi
-   constituency_name: Matuga
+   constituency_name: Magarini
    constituencies_wards: Adu
 -
    county_code: 3
    county_name: Kilifi
-   constituency_name: Matuga
+   constituency_name: Magarini
    constituencies_wards: Garashi
 -
    county_code: 3
    county_name: Kilifi
-   constituency_name: Matuga
+   constituency_name: Magarini
    constituencies_wards: Sabaki
 -
    county_code: 3
    county_name: Kilifi
-   constituency_name: Matuga
+   constituency_name: Rabai
    constituencies_wards: Mwawesa
 -
    county_code: 3
    county_name: Kilifi
-   constituency_name: Matuga
+   constituency_name: Rabai
    constituencies_wards: Ruruma
 -
    county_code: 3
    county_name: Kilifi
-   constituency_name: Matuga
+   constituency_name: Rabai
    constituencies_wards: Jibana
 -
    county_code: 3
    county_name: Kilifi
-   constituency_name: Matuga
+   constituency_name: Rabai
    constituencies_wards: Rabai/Kisurutuni
 -
    county_code: 3
    county_name: Kilifi
-   constituency_name: Matuga
+   constituency_name: Malindi
    constituencies_wards: Jilore
 -
    county_code: 3
    county_name: Kilifi
-   constituency_name: Matuga
+   constituency_name: Malindi
    constituencies_wards: Kakuyuni
 -
    county_code: 3
    county_name: Kilifi
-   constituency_name: Matuga
+   constituency_name: Malindi
    constituencies_wards: Ganda
 -
    county_code: 3
    county_name: Kilifi
-   constituency_name: Matuga
+   constituency_name: Malindi
    constituencies_wards: Malindi Town
 -
    county_code: 3
    county_name: Kilifi
-   constituency_name: Matuga
+   constituency_name: Malindi
    constituencies_wards: Shella
 -
    county_code: 4
@@ -1052,7 +1052,7 @@
    county_code: 10
    county_name: Marsabit
    constituency_name: Laisamis
-   constituencies_wards:   Loiyangalani
+   constituencies_wards: Loiyangalani
 -
    county_code: 10
    county_name: Marsabit
@@ -1077,7 +1077,7 @@
    county_code: 10
    county_name: Marsabit
    constituency_name: North Horr
-   constituencies_wards:   Dukana
+   constituencies_wards: Dukana
 -
    county_code: 10
    county_name: Marsabit
@@ -1097,7 +1097,7 @@
    county_code: 10
    county_name: Marsabit
    constituency_name: North Horr
-   constituencies_wards:  Illeret
+   constituencies_wards: Illeret
 -
    county_code: 10
    county_name: Marsabit
@@ -2535,177 +2535,177 @@
    constituencies_wards: Kariti
 -
    county_code: 21
-   county_name: Murang’a
+   county_name: Murang''a
    constituency_name: Gatanga
    constituencies_wards: Ithanga
 -
    county_code: 21
-   county_name: Murang’a
+   county_name: Murang''a
    constituency_name: Gatanga
    constituencies_wards: Kakuzi/Mitubiri
 -
    county_code: 21
-   county_name: Murang’a
+   county_name: Murang''a
    constituency_name: Gatanga
    constituencies_wards: Mugumo-Ini
 -
    county_code: 21
-   county_name: Murang’a
+   county_name: Murang''a
    constituency_name: Gatanga
    constituencies_wards: Kihumbu-Ini
 -
    county_code: 21
-   county_name: Murang’a
+   county_name: Murang''a
    constituency_name: Gatanga
    constituencies_wards: Gatanga
 -
    county_code: 21
-   county_name: Murang’a
+   county_name: Murang''a
    constituency_name: Gatanga
    constituencies_wards: Kariara
 -
    county_code: 21
-   county_name: Murang’a
+   county_name: Murang''a
    constituency_name: Kandara
    constituencies_wards: Ng’ararii
 -
    county_code: 21
-   county_name: Murang’a
+   county_name: Murang''a
    constituency_name: Kandara
    constituencies_wards: Muruka
 -
    county_code: 21
-   county_name: Murang’a
+   county_name: Murang''a
    constituency_name: Kandara
    constituencies_wards: Kangundu-Ini
 -
    county_code: 21
-   county_name: Murang’a
+   county_name: Murang''a
    constituency_name: Kandara
    constituencies_wards: Gaichanjiru
 -
    county_code: 21
-   county_name: Murang’a
+   county_name: Murang''a
    constituency_name: Kandara
    constituencies_wards: Ithiru
 -
    county_code: 21
-   county_name: Murang’a
+   county_name: Murang''a
    constituency_name: Kandara
    constituencies_wards: Ruchu
 -
    county_code: 21
-   county_name: Murang’a
+   county_name: Murang''a
    constituency_name: Kigumo
    constituencies_wards: Kahumbu
 -
    county_code: 21
-   county_name: Murang’a
+   county_name: Murang''a
    constituency_name: Kigumo
    constituencies_wards: Muthithi
 -
    county_code: 21
-   county_name: Murang’a
+   county_name: Murang''a
    constituency_name: Kigumo
    constituencies_wards: Kigumo
 -
    county_code: 21
-   county_name: Murang’a
+   county_name: Murang''a
    constituency_name: Kigumo
    constituencies_wards: Kangari
 -
    county_code: 21
-   county_name: Murang’a
+   county_name: Murang''a
    constituency_name: Kigumo
    constituencies_wards: Kinyona
 -
    county_code: 21
-   county_name: Murang’a
+   county_name: Murang''a
    constituency_name: Mathioya
    constituencies_wards: Gituhi
 -
    county_code: 21
-   county_name: Murang’a
+   county_name: Murang''a
    constituency_name: Mathioya
    constituencies_wards: Kiru
 -
    county_code: 21
-   county_name: Murang’a
+   county_name: Murang''a
    constituency_name: Mathioya
    constituencies_wards: Kamacharia
 -
    county_code: 21
-   county_name: Murang’a
+   county_name: Murang''a
    constituency_name: Kiharu
    constituencies_wards: Wangu
 -
    county_code: 21
-   county_name: Murang’a
+   county_name: Murang''a
    constituency_name: Kiharu
    constituencies_wards: Mugoiri
 -
    county_code: 21
-   county_name: Murang’a
+   county_name: Murang''a
    constituency_name: Kiharu
    constituencies_wards: Mbiri
 -
    county_code: 21
-   county_name: Murang’a
+   county_name: Murang''a
    constituency_name: Kiharu
    constituencies_wards: Township
 -
    county_code: 21
-   county_name: Murang’a
+   county_name: Murang''a
    constituency_name: Kiharu
    constituencies_wards: Murarandia
 -
    county_code: 21
-   county_name: Murang’a
+   county_name: Murang''a
    constituency_name: Kiharu
    constituencies_wards: Gaturi
 -
    county_code: 21
-   county_name: Murang’a
+   county_name: Murang''a
    constituency_name: Kangema
    constituencies_wards: Kanyenya-Ini
 -
    county_code: 21
-   county_name: Murang’a
+   county_name: Murang''a
    constituency_name: Kangema
    constituencies_wards: Muguru
 -
    county_code: 21
-   county_name: Murang’a
+   county_name: Murang''a
    constituency_name: Kangema
    constituencies_wards: Rwathia
 -
    county_code: 21
-   county_name: Murang’a
+   county_name: Murang''a
    constituency_name: Maragwa
    constituencies_wards: Kimorori/Wempa
 -
    county_code: 21
-   county_name: Murang’a
+   county_name: Murang''a
    constituency_name: Maragwa
    constituencies_wards: Makuyu
 -
    county_code: 21
-   county_name: Murang’a
+   county_name: Murang''a
    constituency_name: Maragwa
    constituencies_wards: Kambiti
 -
    county_code: 21
-   county_name: Murang’a
+   county_name: Murang''a
    constituency_name: Maragwa
    constituencies_wards: Kamahuha
 -
    county_code: 21
-   county_name: Murang’a
+   county_name: Murang''a
    constituency_name: Maragwa
    constituencies_wards: Ichagaki
 -
    county_code: 21
-   county_name: Murang’a
+   county_name: Murang''a
    constituency_name: Maragwa
    constituencies_wards: Nginda
 -
@@ -3542,7 +3542,7 @@
    county_code: 27
    county_name: Uasin Gishu
    constituency_name: Soy
-   constituencies_wards:   Moi’s Bridge
+   constituencies_wards: Moi’s Bridge
 -
    county_code: 27
    county_name: Uasin Gishu
@@ -3577,7 +3577,7 @@
    county_code: 27
    county_name: Uasin Gishu
    constituency_name: Turbo
-   constituencies_wards:   Ngenyilel
+   constituencies_wards: Ngenyilel
 -
    county_code: 27
    county_name: Uasin Gishu
@@ -4042,7 +4042,7 @@
    county_code: 31
    county_name: Laikipia
    constituency_name: Laikipia East
-   constituencies_wards:  Umande
+   constituencies_wards: Umande
 -
    county_code: 31
    county_name: Laikipia
@@ -4572,7 +4572,7 @@
    county_code: 34
    county_name: Kajiado
    constituency_name: Kajiado West
-   constituencies_wards:   Keekonyokie
+   constituencies_wards: Keekonyokie
 -
    county_code: 34
    county_name: Kajiado
@@ -4807,7 +4807,7 @@
    county_code: 36
    county_name: Bomet
    constituency_name: Bomet Central
-   constituencies_wards:  Singorwet
+   constituencies_wards: Singorwet
 -
    county_code: 36
    county_name: Bomet
@@ -4847,12 +4847,12 @@
    county_code: 36
    county_name: Bomet
    constituency_name: Chepalungu
-   constituencies_wards:   Kong’asis
+   constituencies_wards: Kong’asis
 -
    county_code: 36
    county_name: Bomet
    constituency_name: Chepalungu
-   constituencies_wards:  Nyangores
+   constituencies_wards: Nyangores
 -
    county_code: 36
    county_name: Bomet
@@ -4862,7 +4862,7 @@
    county_code: 36
    county_name: Bomet
    constituency_name: Chepalungu
-   constituencies_wards:  Chebunyo
+   constituencies_wards: Chebunyo
 -
    county_code: 36
    county_name: Bomet
@@ -4892,7 +4892,7 @@
    county_code: 36
    county_name: Bomet
    constituency_name: Konoin
-   constituencies_wards:  Embomos
+   constituencies_wards: Embomos
 -
    county_code: 37
    county_name: Kakamega
