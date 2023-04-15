@@ -1,7 +1,7 @@
 CREATE TABLE IF NOT EXISTS county (
     `county_code` INT,
     `county_name` VARCHAR(15) CHARACTER SET utf8,
-    `constituencies_constituency_name` VARCHAR(19) CHARACTER SET utf8,
+    `constituency_name` VARCHAR(19) CHARACTER SET utf8,
     `constituencies_wards` VARCHAR(28) CHARACTER SET utf8
 );
 INSERT INTO county VALUES (1,'Mombasa','Changamwe','Port Reitz'),
