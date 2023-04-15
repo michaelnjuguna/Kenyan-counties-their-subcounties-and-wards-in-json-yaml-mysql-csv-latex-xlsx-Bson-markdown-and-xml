@@ -40,51 +40,51 @@
 | 2           | Kwale           | Lunga Lunga         | Pongwe/Kikoneni              |
 | 2           | Kwale           | Lunga Lunga         | Dzombo                       |
 | 2           | Kwale           | Lunga Lunga         | Vanga                        |
-| 2           | Kwale           | Lunga Lunga         |  Mwereni                     |
+| 2           | Kwale           | Lunga Lunga         | Mwereni                      |
 | 2           | Kwale           | Msambweni           | Gombato Bongwe               |
-| 2           | Kwale           | Msambweni           |  Ukunda                      |
+| 2           | Kwale           | Msambweni           | Ukunda                       |
 | 2           | Kwale           | Msambweni           | Kinondo                      |
 | 2           | Kwale           | Msambweni           | Ramisi                       |
-| 2           | Kwale           | Matuga              |   Tsimba Golini              |
+| 2           | Kwale           | Matuga              | Tsimba Golini                |
 | 2           | Kwale           | Matuga              | Waa                          |
 | 2           | Kwale           | Matuga              | Tiwi                         |
 | 2           | Kwale           | Matuga              | Kubo South                   |
 | 2           | Kwale           | Matuga              | Mkongani                     |
-| 3           | Kilifi          | Matuga              | Tezo                         |
-| 3           | Kilifi          | Matuga              | Sokoni                       |
-| 3           | Kilifi          | Matuga              | Kibarani                     |
-| 3           | Kilifi          | Matuga              | Dabaso                       |
-| 3           | Kilifi          | Matuga              | Matsangoni                   |
-| 3           | Kilifi          | Matuga              | Watamu                       |
-| 3           | Kilifi          | Matuga              | Mnarani                      |
-| 3           | Kilifi          | Matuga              | Junju                        |
-| 3           | Kilifi          | Matuga              | Mwarakaya                    |
-| 3           | Kilifi          | Matuga              | Shimo la Tewa                |
-| 3           | Kilifi          | Matuga              | Chasimba                     |
-| 3           | Kilifi          | Matuga              | Mtepeni                      |
-| 3           | Kilifi          | Matuga              | Mariakani                    |
-| 3           | Kilifi          | Matuga              | Kayafungo                    |
-| 3           | Kilifi          | Matuga              | Kaloleni                     |
-| 3           | Kilifi          | Matuga              | Mwanamwinga                  |
-| 3           | Kilifi          | Matuga              | Dungicha                     |
-| 3           | Kilifi          | Matuga              | Bamba                        |
-| 3           | Kilifi          | Matuga              | Jaribuni                     |
-| 3           | Kilifi          | Matuga              | Sokoke                       |
-| 3           | Kilifi          | Matuga              | Maarafa                      |
-| 3           | Kilifi          | Matuga              | Magarini                     |
-| 3           | Kilifi          | Matuga              | Gongoni                      |
-| 3           | Kilifi          | Matuga              | Adu                          |
-| 3           | Kilifi          | Matuga              | Garashi                      |
-| 3           | Kilifi          | Matuga              | Sabaki                       |
-| 3           | Kilifi          | Matuga              | Mwawesa                      |
-| 3           | Kilifi          | Matuga              | Ruruma                       |
-| 3           | Kilifi          | Matuga              | Jibana                       |
-| 3           | Kilifi          | Matuga              | Rabai/Kisurutuni             |
-| 3           | Kilifi          | Matuga              | Jilore                       |
-| 3           | Kilifi          | Matuga              | Kakuyuni                     |
-| 3           | Kilifi          | Matuga              | Ganda                        |
-| 3           | Kilifi          | Matuga              | Malindi Town                 |
-| 3           | Kilifi          | Matuga              | Shella                       |
+| 3           | Kilifi          | Kilifi North        | Tezo                         |
+| 3           | Kilifi          | Kilifi North        | Sokoni                       |
+| 3           | Kilifi          | Kilifi North        | Kibarani                     |
+| 3           | Kilifi          | Kilifi North        | Dabaso                       |
+| 3           | Kilifi          | Kilifi North        | Matsangoni                   |
+| 3           | Kilifi          | Kilifi North        | Watamu                       |
+| 3           | Kilifi          | Kilifi North        | Mnarani                      |
+| 3           | Kilifi          | Kilifi South        | Junju                        |
+| 3           | Kilifi          | Kilifi South        | Mwarakaya                    |
+| 3           | Kilifi          | Kilifi South        | Shimo la Tewa                |
+| 3           | Kilifi          | Kilifi South        | Chasimba                     |
+| 3           | Kilifi          | Kilifi South        | Mtepeni                      |
+| 3           | Kilifi          | Kaloleni            | Mariakani                    |
+| 3           | Kilifi          | Kaloleni            | Kayafungo                    |
+| 3           | Kilifi          | Kaloleni            | Kaloleni                     |
+| 3           | Kilifi          | Kaloleni            | Mwanamwinga                  |
+| 3           | Kilifi          | Ganze               | Dungicha                     |
+| 3           | Kilifi          | Ganze               | Bamba                        |
+| 3           | Kilifi          | Ganze               | Jaribuni                     |
+| 3           | Kilifi          | Ganze               | Sokoke                       |
+| 3           | Kilifi          | Magarini            | Maarafa                      |
+| 3           | Kilifi          | Magarini            | Magarini                     |
+| 3           | Kilifi          | Magarini            | Gongoni                      |
+| 3           | Kilifi          | Magarini            | Adu                          |
+| 3           | Kilifi          | Magarini            | Garashi                      |
+| 3           | Kilifi          | Magarini            | Sabaki                       |
+| 3           | Kilifi          | Rabai               | Mwawesa                      |
+| 3           | Kilifi          | Rabai               | Ruruma                       |
+| 3           | Kilifi          | Rabai               | Jibana                       |
+| 3           | Kilifi          | Rabai               | Rabai/Kisurutuni             |
+| 3           | Kilifi          | Malindi             | Jilore                       |
+| 3           | Kilifi          | Malindi             | Kakuyuni                     |
+| 3           | Kilifi          | Malindi             | Ganda                        |
+| 3           | Kilifi          | Malindi             | Malindi Town                 |
+| 3           | Kilifi          | Malindi             | Shella                       |
 | 4           | Tana River      | Garsen              | Garsen Central               |
 | 4           | Tana River      | Garsen              | Garsen East                  |
 | 4           | Tana River      | Garsen              | Garsen North                 |
@@ -210,16 +210,16 @@
 | 9           | Mandera         | Saku                | Sagate/Jaldesa               |
 | 9           | Mandera         | Saku                | Karare                       |
 | 9           | Mandera         | Saku                | Marsabit Central             |
-| 10          | Marsabit        | Laisamis            |   Loiyangalani               |
+| 10          | Marsabit        | Laisamis            | Loiyangalani                 |
 | 10          | Marsabit        | Laisamis            | Kargi/South Horr             |
 | 10          | Marsabit        | Laisamis            | Korr/Ngurunit                |
 | 10          | Marsabit        | Laisamis            | Logo Logo                    |
 | 10          | Marsabit        | Laisamis            | Laisamis                     |
-| 10          | Marsabit        | North Horr          |   Dukana                     |
+| 10          | Marsabit        | North Horr          | Dukana                       |
 | 10          | Marsabit        | North Horr          | Maikona                      |
 | 10          | Marsabit        | North Horr          | Turbi                        |
 | 10          | Marsabit        | North Horr          | North Horr                   |
-| 10          | Marsabit        | North Horr          |  Illeret                     |
+| 10          | Marsabit        | North Horr          | Illeret                      |
 | 10          | Marsabit        | Saku                | Sagate/Jaldesa               |
 | 10          | Marsabit        | Saku                | Karare                       |
 | 10          | Marsabit        | Saku                | Marsabit Central             |
@@ -507,41 +507,41 @@
 | 20          | Kirinyaga       | Ndia                | Mukure                       |
 | 20          | Kirinyaga       | Ndia                | Kiine                        |
 | 20          | Kirinyaga       | Ndia                | Kariti                       |
-| 21          | murang’a       | Gatanga             | Ithanga                      |
-| 21          | murang’a       | Gatanga             | Kakuzi/Mitubiri              |
-| 21          | murang’a       | Gatanga             | Mugumo-Ini                   |
-| 21          | murang’a       | Gatanga             | Kihumbu-Ini                  |
-| 21          | murang’a       | Gatanga             | Gatanga                      |
-| 21          | murang’a       | Gatanga             | Kariara                      |
-| 21          | murang’a       | Kandara             | Ng’ararii                    |
-| 21          | murang’a       | Kandara             | Muruka                       |
-| 21          | murang’a       | Kandara             | Kangundu-Ini                 |
-| 21          | murang’a       | Kandara             | Gaichanjiru                  |
-| 21          | murang’a       | Kandara             | Ithiru                       |
-| 21          | murang’a       | Kandara             | Ruchu                        |
-| 21          | murang’a       | Kigumo              | Kahumbu                      |
-| 21          | murang’a       | Kigumo              | Muthithi                     |
-| 21          | murang’a       | Kigumo              | Kigumo                       |
-| 21          | murang’a       | Kigumo              | Kangari                      |
-| 21          | murang’a       | Kigumo              | Kinyona                      |
-| 21          | murang’a       | Mathioya            | Gituhi                       |
-| 21          | murang’a       | Mathioya            | Kiru                         |
-| 21          | murang’a       | Mathioya            | Kamacharia                   |
-| 21          | murang’a       | Kiharu              | Wangu                        |
-| 21          | murang’a       | Kiharu              | Mugoiri                      |
-| 21          | murang’a       | Kiharu              | Mbiri                        |
-| 21          | murang’a       | Kiharu              | Township                     |
-| 21          | murang’a       | Kiharu              | Murarandia                   |
-| 21          | murang’a       | Kiharu              | Gaturi                       |
-| 21          | murang’a       | Kangema             | Kanyenya-Ini                 |
-| 21          | murang’a       | Kangema             | Muguru                       |
-| 21          | murang’a       | Kangema             | Rwathia                      |
-| 21          | murang’a       | Maragwa             | Kimorori/Wempa               |
-| 21          | murang’a       | Maragwa             | Makuyu                       |
-| 21          | murang’a       | Maragwa             | Kambiti                      |
-| 21          | murang’a       | Maragwa             | Kamahuha                     |
-| 21          | murang’a       | Maragwa             | Ichagaki                     |
-| 21          | murang’a       | Maragwa             | Nginda                       |
+| 21          | Murang''a       | Gatanga             | Ithanga                      |
+| 21          | Murang''a       | Gatanga             | Kakuzi/Mitubiri              |
+| 21          | Murang''a       | Gatanga             | Mugumo-Ini                   |
+| 21          | Murang''a       | Gatanga             | Kihumbu-Ini                  |
+| 21          | Murang''a       | Gatanga             | Gatanga                      |
+| 21          | Murang''a       | Gatanga             | Kariara                      |
+| 21          | Murang''a       | Kandara             | Ng’ararii                    |
+| 21          | Murang''a       | Kandara             | Muruka                       |
+| 21          | Murang''a       | Kandara             | Kangundu-Ini                 |
+| 21          | Murang''a       | Kandara             | Gaichanjiru                  |
+| 21          | Murang''a       | Kandara             | Ithiru                       |
+| 21          | Murang''a       | Kandara             | Ruchu                        |
+| 21          | Murang''a       | Kigumo              | Kahumbu                      |
+| 21          | Murang''a       | Kigumo              | Muthithi                     |
+| 21          | Murang''a       | Kigumo              | Kigumo                       |
+| 21          | Murang''a       | Kigumo              | Kangari                      |
+| 21          | Murang''a       | Kigumo              | Kinyona                      |
+| 21          | Murang''a       | Mathioya            | Gituhi                       |
+| 21          | Murang''a       | Mathioya            | Kiru                         |
+| 21          | Murang''a       | Mathioya            | Kamacharia                   |
+| 21          | Murang''a       | Kiharu              | Wangu                        |
+| 21          | Murang''a       | Kiharu              | Mugoiri                      |
+| 21          | Murang''a       | Kiharu              | Mbiri                        |
+| 21          | Murang''a       | Kiharu              | Township                     |
+| 21          | Murang''a       | Kiharu              | Murarandia                   |
+| 21          | Murang''a       | Kiharu              | Gaturi                       |
+| 21          | Murang''a       | Kangema             | Kanyenya-Ini                 |
+| 21          | Murang''a       | Kangema             | Muguru                       |
+| 21          | Murang''a       | Kangema             | Rwathia                      |
+| 21          | Murang''a       | Maragwa             | Kimorori/Wempa               |
+| 21          | Murang''a       | Maragwa             | Makuyu                       |
+| 21          | Murang''a       | Maragwa             | Kambiti                      |
+| 21          | Murang''a       | Maragwa             | Kamahuha                     |
+| 21          | Murang''a       | Maragwa             | Ichagaki                     |
+| 21          | Murang''a       | Maragwa             | Nginda                       |
 | 22          | Kiambu          | Gatundu North       | Gituamba                     |
 | 22          | Kiambu          | Gatundu North       | Githobokoni                  |
 | 22          | Kiambu          | Gatundu North       | Chania                       |
@@ -708,14 +708,14 @@
 | 27          | Uasin Gishu     | Moiben              | Karuna/Meibeki               |
 | 27          | Uasin Gishu     | Moiben              | Moiben                       |
 | 27          | Uasin Gishu     | Moiben              | Kimumu                       |
-| 27          | Uasin Gishu     | Soy                 |   Moi’s Bridge               |
+| 27          | Uasin Gishu     | Soy                 | Moi’s Bridge                 |
 | 27          | Uasin Gishu     | Soy                 | Kapkures                     |
 | 27          | Uasin Gishu     | Soy                 | Ziwa                         |
 | 27          | Uasin Gishu     | Soy                 | Segero/Barsombe              |
 | 27          | Uasin Gishu     | Soy                 | Kipsom Ba                    |
 | 27          | Uasin Gishu     | Soy                 | Soy                          |
 | 27          | Uasin Gishu     | Soy                 | Kuinet/Kapsuswa              |
-| 27          | Uasin Gishu     | Turbo               |   Ngenyilel                  |
+| 27          | Uasin Gishu     | Turbo               | Ngenyilel                    |
 | 27          | Uasin Gishu     | Turbo               | Tapsagoi                     |
 | 27          | Uasin Gishu     | Turbo               | Kamagut                      |
 | 27          | Uasin Gishu     | Turbo               | Kiplombe                     |
@@ -808,7 +808,7 @@
 | 31          | Laikipia        | Laikipia East       | Tigithi                      |
 | 31          | Laikipia        | Laikipia East       | Thingithu                    |
 | 31          | Laikipia        | Laikipia East       | Nanyuki                      |
-| 31          | Laikipia        | Laikipia East       |  Umande                      |
+| 31          | Laikipia        | Laikipia East       | Umande                       |
 | 31          | Laikipia        | Laikipia West       | Ol-Moran                     |
 | 31          | Laikipia        | Laikipia West       | Rumuruti                     |
 | 31          | Laikipia        | Laikipia West       | Township                     |
@@ -914,7 +914,7 @@
 | 34          | Kajiado         | Kajiado North       | Nkaimurunya                  |
 | 34          | Kajiado         | Kajiado North       | Oloolua                      |
 | 34          | Kajiado         | Kajiado North       | Ngong                        |
-| 34          | Kajiado         | Kajiado West        |   Keekonyokie                |
+| 34          | Kajiado         | Kajiado West        | Keekonyokie                  |
 | 34          | Kajiado         | Kajiado West        | Iloodokilani                 |
 | 34          | Kajiado         | Kajiado West        | Magadi                       |
 | 34          | Kajiado         | Kajiado West        | Ewuaso Oonkidong’i           |
@@ -961,7 +961,7 @@
 | 36          | Bomet           | Sotik               | Rongena/Manare T             |
 | 36          | Bomet           | Bomet Central       | Silibwet Township            |
 | 36          | Bomet           | Bomet Central       | Ndaraweta                    |
-| 36          | Bomet           | Bomet Central       |  Singorwet                   |
+| 36          | Bomet           | Bomet Central       | Singorwet                    |
 | 36          | Bomet           | Bomet Central       | Chesoen                      |
 | 36          | Bomet           | Bomet Central       | Mutarakwa                    |
 | 36          | Bomet           | Bomet East          | Merigi                       |
@@ -969,16 +969,16 @@
 | 36          | Bomet           | Bomet East          | Longisa                      |
 | 36          | Bomet           | Bomet East          | Kipreres                     |
 | 36          | Bomet           | Bomet East          | Chemaner                     |
-| 36          | Bomet           | Chepalungu          |   Kong’asis                  |
-| 36          | Bomet           | Chepalungu          |  Nyangores                   |
+| 36          | Bomet           | Chepalungu          | Kong’asis                    |
+| 36          | Bomet           | Chepalungu          | Nyangores                    |
 | 36          | Bomet           | Chepalungu          | Sigor                        |
-| 36          | Bomet           | Chepalungu          |  Chebunyo                    |
+| 36          | Bomet           | Chepalungu          | Chebunyo                     |
 | 36          | Bomet           | Chepalungu          | Siongiroi                    |
 | 36          | Bomet           | Konoin              | Chepchabas                   |
 | 36          | Bomet           | Konoin              | Kimulot                      |
 | 36          | Bomet           | Konoin              | Mogogosiek                   |
 | 36          | Bomet           | Konoin              | Boito                        |
-| 36          | Bomet           | Konoin              |  Embomos                     |
+| 36          | Bomet           | Konoin              | Embomos                      |
 | 37          | Kakamega        | Butere              | Marama West                  |
 | 37          | Kakamega        | Butere              | Marama Central               |
 | 37          | Kakamega        | Butere              | Marenyo-Shianda              |
