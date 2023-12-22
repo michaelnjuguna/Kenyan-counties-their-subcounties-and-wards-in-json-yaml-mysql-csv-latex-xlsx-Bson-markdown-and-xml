@@ -200,21 +200,21 @@
 | 9           | Mandera         | Banissa             | Guba                         |
 | 9           | Mandera         | Banissa             | Malkamari                    |
 | 9           | Mandera         | Banissa             | Kiliwehiri                   |
-| 9           | Mandera         | Manderra North      | Ashabito                     |
-| 9           | Mandera         | Manderra North      | Guticha                      |
-| 9           | Mandera         | Manderra North      | Marothile                    |
-| 9           | Mandera         | Manderra North      | Rhamu                        |
-| 9           | Mandera         | Manderra North      | Rhamu Dimtu                  |
-| 9           | Mandera         | Manderra South      | Wargadud                     |
-| 9           | Mandera         | Manderra South      | Kutulo                       |
-| 9           | Mandera         | Manderra South      | Elwak South                  |
-| 9           | Mandera         | Manderra South      | Elwak North                  |
-| 9           | Mandera         | Manderra South      | Shimbir Fatuma               |
-| 9           | Mandera         | Manderra East       | Arabia                       |
-| 9           | Mandera         | Manderra East       | Libehia                      |
-| 9           | Mandera         | Manderra East       | Khalalio                     |
-| 9           | Mandera         | Manderra East       | Neboi                        |
-| 9           | Mandera         | Manderra East       | Township                     |
+| 9           | Mandera         | mandera North      | Ashabito                     |
+| 9           | Mandera         | mandera North      | Guticha                      |
+| 9           | Mandera         | mandera North      | Marothile                    |
+| 9           | Mandera         | mandera North      | Rhamu                        |
+| 9           | Mandera         | mandera North      | Rhamu Dimtu                  |
+| 9           | Mandera         | mandera South      | Wargadud                     |
+| 9           | Mandera         | mandera South      | Kutulo                       |
+| 9           | Mandera         | mandera South      | Elwak South                  |
+| 9           | Mandera         | mandera South      | Elwak North                  |
+| 9           | Mandera         | mandera South      | Shimbir Fatuma               |
+| 9           | Mandera         | mandera East       | Arabia                       |
+| 9           | Mandera         | mandera East       | Libehia                      |
+| 9           | Mandera         | mandera East       | Khalalio                     |
+| 9           | Mandera         | mandera East       | Neboi                        |
+| 9           | Mandera         | mandera East       | Township                     |
 | 9           | Mandera         | Lafey               | Sala                         |
 | 9           | Mandera         | Lafey               | Fino                         |
 | 9           | Mandera         | Lafey               | Lafey                        |

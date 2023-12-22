@@ -200,21 +200,21 @@
     <record><id>198</id><county_code>9</county_code><county_name>Mandera</county_name><constituency_name>Banissa</constituency_name><constituencies_wards>Guba</constituencies_wards></record>
     <record><id>199</id><county_code>9</county_code><county_name>Mandera</county_name><constituency_name>Banissa</constituency_name><constituencies_wards>Malkamari</constituencies_wards></record>
     <record><id>200</id><county_code>9</county_code><county_name>Mandera</county_name><constituency_name>Banissa</constituency_name><constituencies_wards>Kiliwehiri</constituencies_wards></record>
-    <record><id>201</id><county_code>9</county_code><county_name>Mandera</county_name><constituency_name>Manderra North</constituency_name><constituencies_wards>Ashabito</constituencies_wards></record>
-    <record><id>202</id><county_code>9</county_code><county_name>Mandera</county_name><constituency_name>Manderra North</constituency_name><constituencies_wards>Guticha</constituencies_wards></record>
-    <record><id>203</id><county_code>9</county_code><county_name>Mandera</county_name><constituency_name>Manderra North</constituency_name><constituencies_wards>Marothile</constituencies_wards></record>
-    <record><id>204</id><county_code>9</county_code><county_name>Mandera</county_name><constituency_name>Manderra North</constituency_name><constituencies_wards>Rhamu</constituencies_wards></record>
-    <record><id>205</id><county_code>9</county_code><county_name>Mandera</county_name><constituency_name>Manderra North</constituency_name><constituencies_wards>Rhamu Dimtu</constituencies_wards></record>
-    <record><id>206</id><county_code>9</county_code><county_name>Mandera</county_name><constituency_name>Manderra South</constituency_name><constituencies_wards>Wargadud</constituencies_wards></record>
-    <record><id>207</id><county_code>9</county_code><county_name>Mandera</county_name><constituency_name>Manderra South</constituency_name><constituencies_wards>Kutulo</constituencies_wards></record>
-    <record><id>208</id><county_code>9</county_code><county_name>Mandera</county_name><constituency_name>Manderra South</constituency_name><constituencies_wards>Elwak South</constituencies_wards></record>
-    <record><id>209</id><county_code>9</county_code><county_name>Mandera</county_name><constituency_name>Manderra South</constituency_name><constituencies_wards>Elwak North</constituencies_wards></record>
-    <record><id>210</id><county_code>9</county_code><county_name>Mandera</county_name><constituency_name>Manderra South</constituency_name><constituencies_wards>Shimbir Fatuma</constituencies_wards></record>
-    <record><id>211</id><county_code>9</county_code><county_name>Mandera</county_name><constituency_name>Manderra East</constituency_name><constituencies_wards>Arabia</constituencies_wards></record>
-    <record><id>212</id><county_code>9</county_code><county_name>Mandera</county_name><constituency_name>Manderra East</constituency_name><constituencies_wards>Libehia</constituencies_wards></record>
-    <record><id>213</id><county_code>9</county_code><county_name>Mandera</county_name><constituency_name>Manderra East</constituency_name><constituencies_wards>Khalalio</constituencies_wards></record>
-    <record><id>214</id><county_code>9</county_code><county_name>Mandera</county_name><constituency_name>Manderra East</constituency_name><constituencies_wards>Neboi</constituencies_wards></record>
-    <record><id>215</id><county_code>9</county_code><county_name>Mandera</county_name><constituency_name>Manderra East</constituency_name><constituencies_wards>Township</constituencies_wards></record>
+    <record><id>201</id><county_code>9</county_code><county_name>Mandera</county_name><constituency_name>mandera North</constituency_name><constituencies_wards>Ashabito</constituencies_wards></record>
+    <record><id>202</id><county_code>9</county_code><county_name>Mandera</county_name><constituency_name>mandera North</constituency_name><constituencies_wards>Guticha</constituencies_wards></record>
+    <record><id>203</id><county_code>9</county_code><county_name>Mandera</county_name><constituency_name>mandera North</constituency_name><constituencies_wards>Marothile</constituencies_wards></record>
+    <record><id>204</id><county_code>9</county_code><county_name>Mandera</county_name><constituency_name>mandera North</constituency_name><constituencies_wards>Rhamu</constituencies_wards></record>
+    <record><id>205</id><county_code>9</county_code><county_name>Mandera</county_name><constituency_name>mandera North</constituency_name><constituencies_wards>Rhamu Dimtu</constituencies_wards></record>
+    <record><id>206</id><county_code>9</county_code><county_name>Mandera</county_name><constituency_name>mandera South</constituency_name><constituencies_wards>Wargadud</constituencies_wards></record>
+    <record><id>207</id><county_code>9</county_code><county_name>Mandera</county_name><constituency_name>mandera South</constituency_name><constituencies_wards>Kutulo</constituencies_wards></record>
+    <record><id>208</id><county_code>9</county_code><county_name>Mandera</county_name><constituency_name>mandera South</constituency_name><constituencies_wards>Elwak South</constituencies_wards></record>
+    <record><id>209</id><county_code>9</county_code><county_name>Mandera</county_name><constituency_name>mandera South</constituency_name><constituencies_wards>Elwak North</constituencies_wards></record>
+    <record><id>210</id><county_code>9</county_code><county_name>Mandera</county_name><constituency_name>mandera South</constituency_name><constituencies_wards>Shimbir Fatuma</constituencies_wards></record>
+    <record><id>211</id><county_code>9</county_code><county_name>Mandera</county_name><constituency_name>mandera East</constituency_name><constituencies_wards>Arabia</constituencies_wards></record>
+    <record><id>212</id><county_code>9</county_code><county_name>Mandera</county_name><constituency_name>mandera East</constituency_name><constituencies_wards>Libehia</constituencies_wards></record>
+    <record><id>213</id><county_code>9</county_code><county_name>Mandera</county_name><constituency_name>mandera East</constituency_name><constituencies_wards>Khalalio</constituencies_wards></record>
+    <record><id>214</id><county_code>9</county_code><county_name>Mandera</county_name><constituency_name>mandera East</constituency_name><constituencies_wards>Neboi</constituencies_wards></record>
+    <record><id>215</id><county_code>9</county_code><county_name>Mandera</county_name><constituency_name>mandera East</constituency_name><constituencies_wards>Township</constituencies_wards></record>
     <record><id>216</id><county_code>9</county_code><county_name>Mandera</county_name><constituency_name>Lafey</constituency_name><constituencies_wards>Sala</constituencies_wards></record>
     <record><id>217</id><county_code>9</county_code><county_name>Mandera</county_name><constituency_name>Lafey</constituency_name><constituencies_wards>Fino</constituencies_wards></record>
     <record><id>218</id><county_code>9</county_code><county_name>Mandera</county_name><constituency_name>Lafey</constituency_name><constituencies_wards>Lafey</constituencies_wards></record>
