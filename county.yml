@@ -1,7204 +1,8705 @@
 ﻿-
+   id: 1
    county_code: 1
    county_name: Mombasa
    constituency_name: Changamwe
    constituencies_wards: Port Reitz
 -
+   id: 2
    county_code: 1
    county_name: Mombasa
    constituency_name: Changamwe
    constituencies_wards: Kipevu
 -
+   id: 3
    county_code: 1
    county_name: Mombasa
    constituency_name: Changamwe
    constituencies_wards: Airport
 -
+   id: 4
    county_code: 1
    county_name: Mombasa
    constituency_name: Changamwe
    constituencies_wards: Miritini
 -
+   id: 5
    county_code: 1
    county_name: Mombasa
    constituency_name: Changamwe
    constituencies_wards: Chaani
 -
+   id: 6
    county_code: 1
    county_name: Mombasa
    constituency_name: Jomvu
    constituencies_wards: Jomvu Kuu
 -
+   id: 7
    county_code: 1
    county_name: Mombasa
    constituency_name: Jomvu
    constituencies_wards: Magongo
 -
+   id: 8
    county_code: 1
    county_name: Mombasa
    constituency_name: Jomvu
    constituencies_wards: Mikindani
 -
+   id: 9
    county_code: 1
    county_name: Mombasa
    constituency_name: Kisauni
    constituencies_wards: Mjambere
 -
+   id: 10
    county_code: 1
    county_name: Mombasa
    constituency_name: Kisauni
    constituencies_wards: Junda
 -
+   id: 11
    county_code: 1
    county_name: Mombasa
    constituency_name: Kisauni
    constituencies_wards: Bamburi
 -
+   id: 12
    county_code: 1
    county_name: Mombasa
    constituency_name: Kisauni
    constituencies_wards: Mwakirunge
 -
+   id: 13
    county_code: 1
    county_name: Mombasa
    constituency_name: Kisauni
    constituencies_wards: Mtopanga
 -
+   id: 14
    county_code: 1
    county_name: Mombasa
    constituency_name: Kisauni
    constituencies_wards: Magogoni
 -
+   id: 15
    county_code: 1
    county_name: Mombasa
    constituency_name: Kisauni
    constituencies_wards: Shanzu
 -
+   id: 16
    county_code: 1
    county_name: Mombasa
    constituency_name: Likoni
    constituencies_wards: Mtongwe
 -
+   id: 17
    county_code: 1
    county_name: Mombasa
    constituency_name: Likoni
    constituencies_wards: Shika adabu
 -
+   id: 18
    county_code: 1
    county_name: Mombasa
    constituency_name: Likoni
    constituencies_wards: Bofu
 -
+   id: 19
    county_code: 1
    county_name: Mombasa
    constituency_name: Likoni
    constituencies_wards: Likoni
 -
+   id: 20
    county_code: 1
    county_name: Mombasa
    constituency_name: Likoni
    constituencies_wards: Timbwani
 -
+   id: 21
    county_code: 1
    county_name: Mombasa
    constituency_name: Mvita
    constituencies_wards: Mji wa Kale/Makadara
 -
+   id: 22
    county_code: 1
    county_name: Mombasa
    constituency_name: Mvita
    constituencies_wards: Tudor
 -
+   id: 23
    county_code: 1
    county_name: Mombasa
    constituency_name: Mvita
    constituencies_wards: Tononoka
 -
+   id: 24
    county_code: 1
    county_name: Mombasa
    constituency_name: Mvita
    constituencies_wards: Ganjoni/Shimanzi
 -
+   id: 25
    county_code: 1
    county_name: Mombasa
    constituency_name: Mvita
    constituencies_wards: Majengo
 -
+   id: 26
    county_code: 1
    county_name: Mombasa
    constituency_name: Nyali
    constituencies_wards: Frere Town
 -
+   id: 27
    county_code: 1
    county_name: Mombasa
    constituency_name: Nyali
    constituencies_wards: Ziwa la Ng’ombe
 -
+   id: 28
    county_code: 1
    county_name: Mombasa
    constituency_name: Nyali
    constituencies_wards: Mkomani
 -
+   id: 29
    county_code: 1
    county_name: Mombasa
    constituency_name: Nyali
    constituencies_wards: Kongowea
 -
+   id: 30
    county_code: 1
    county_name: Mombasa
    constituency_name: Nyali
    constituencies_wards: Ziwani/Kadzandani
 -
+   id: 31
    county_code: 2
    county_name: Kwale
    constituency_name: Kinango
    constituencies_wards: Ndavaya
 -
+   id: 32
    county_code: 2
    county_name: Kwale
    constituency_name: Kinango
    constituencies_wards: Puma
 -
+   id: 33
    county_code: 2
    county_name: Kwale
    constituency_name: Kinango
    constituencies_wards: Kinango
 -
+   id: 34
    county_code: 2
    county_name: Kwale
    constituency_name: Kinango
    constituencies_wards: Chengoni/Samburu
 -
+   id: 35
    county_code: 2
    county_name: Kwale
    constituency_name: Kinango
    constituencies_wards: Mackinon Road
 -
+   id: 36
    county_code: 2
    county_name: Kwale
    constituency_name: Kinango
    constituencies_wards: Mwavumbo
 -
+   id: 37
    county_code: 2
    county_name: Kwale
    constituency_name: Kinango
    constituencies_wards: Kasemeni
 -
+   id: 38
    county_code: 2
    county_name: Kwale
    constituency_name: Lunga Lunga
    constituencies_wards: Pongwe/Kikoneni
 -
+   id: 39
    county_code: 2
    county_name: Kwale
    constituency_name: Lunga Lunga
    constituencies_wards: Dzombo
 -
+   id: 40
    county_code: 2
    county_name: Kwale
    constituency_name: Lunga Lunga
    constituencies_wards: Vanga
 -
+   id: 41
    county_code: 2
    county_name: Kwale
    constituency_name: Lunga Lunga
    constituencies_wards: Mwereni
 -
+   id: 42
    county_code: 2
    county_name: Kwale
    constituency_name: Msambweni
    constituencies_wards: Gombato Bongwe
 -
+   id: 43
    county_code: 2
    county_name: Kwale
    constituency_name: Msambweni
    constituencies_wards: Ukunda
 -
+   id: 44
    county_code: 2
    county_name: Kwale
    constituency_name: Msambweni
    constituencies_wards: Kinondo
 -
+   id: 45
    county_code: 2
    county_name: Kwale
    constituency_name: Msambweni
    constituencies_wards: Ramisi
 -
+   id: 46
    county_code: 2
    county_name: Kwale
    constituency_name: Matuga
    constituencies_wards: Tsimba Golini
 -
+   id: 47
    county_code: 2
    county_name: Kwale
    constituency_name: Matuga
    constituencies_wards: Waa
 -
+   id: 48
    county_code: 2
    county_name: Kwale
    constituency_name: Matuga
    constituencies_wards: Tiwi
 -
+   id: 49
    county_code: 2
    county_name: Kwale
    constituency_name: Matuga
    constituencies_wards: Kubo South
 -
+   id: 50
    county_code: 2
    county_name: Kwale
    constituency_name: Matuga
    constituencies_wards: Mkongani
 -
+   id: 51
    county_code: 3
    county_name: Kilifi
    constituency_name: Kilifi North
    constituencies_wards: Tezo
 -
+   id: 52
    county_code: 3
    county_name: Kilifi
    constituency_name: Kilifi North
    constituencies_wards: Sokoni
 -
+   id: 53
    county_code: 3
    county_name: Kilifi
    constituency_name: Kilifi North
    constituencies_wards: Kibarani
 -
+   id: 54
    county_code: 3
    county_name: Kilifi
    constituency_name: Kilifi North
    constituencies_wards: Dabaso
 -
+   id: 55
    county_code: 3
    county_name: Kilifi
    constituency_name: Kilifi North
    constituencies_wards: Matsangoni
 -
+   id: 56
    county_code: 3
    county_name: Kilifi
    constituency_name: Kilifi North
    constituencies_wards: Watamu
 -
+   id: 57
    county_code: 3
    county_name: Kilifi
    constituency_name: Kilifi North
    constituencies_wards: Mnarani
 -
+   id: 58
    county_code: 3
    county_name: Kilifi
    constituency_name: Kilifi South
    constituencies_wards: Junju
 -
+   id: 59
    county_code: 3
    county_name: Kilifi
    constituency_name: Kilifi South
    constituencies_wards: Mwarakaya
 -
+   id: 60
    county_code: 3
    county_name: Kilifi
    constituency_name: Kilifi South
    constituencies_wards: Shimo la Tewa
 -
+   id: 61
    county_code: 3
    county_name: Kilifi
    constituency_name: Kilifi South
    constituencies_wards: Chasimba
 -
+   id: 62
    county_code: 3
    county_name: Kilifi
    constituency_name: Kilifi South
    constituencies_wards: Mtepeni
 -
+   id: 63
    county_code: 3
    county_name: Kilifi
    constituency_name: Kaloleni
    constituencies_wards: Mariakani
 -
+   id: 64
    county_code: 3
    county_name: Kilifi
    constituency_name: Kaloleni
    constituencies_wards: Kayafungo
 -
+   id: 65
    county_code: 3
    county_name: Kilifi
    constituency_name: Kaloleni
    constituencies_wards: Kaloleni
 -
+   id: 66
    county_code: 3
    county_name: Kilifi
    constituency_name: Kaloleni
    constituencies_wards: Mwanamwinga
 -
+   id: 67
    county_code: 3
    county_name: Kilifi
    constituency_name: Ganze
    constituencies_wards: Dungicha
 -
+   id: 68
    county_code: 3
    county_name: Kilifi
    constituency_name: Ganze
    constituencies_wards: Bamba
 -
+   id: 69
    county_code: 3
    county_name: Kilifi
    constituency_name: Ganze
    constituencies_wards: Jaribuni
 -
+   id: 70
    county_code: 3
    county_name: Kilifi
    constituency_name: Ganze
    constituencies_wards: Sokoke
 -
+   id: 71
    county_code: 3
    county_name: Kilifi
    constituency_name: Magarini
    constituencies_wards: Maarafa
 -
+   id: 72
    county_code: 3
    county_name: Kilifi
    constituency_name: Magarini
    constituencies_wards: Magarini
 -
+   id: 73
    county_code: 3
    county_name: Kilifi
    constituency_name: Magarini
    constituencies_wards: Gongoni
 -
+   id: 74
    county_code: 3
    county_name: Kilifi
    constituency_name: Magarini
    constituencies_wards: Adu
 -
+   id: 75
    county_code: 3
    county_name: Kilifi
    constituency_name: Magarini
    constituencies_wards: Garashi
 -
+   id: 76
    county_code: 3
    county_name: Kilifi
    constituency_name: Magarini
    constituencies_wards: Sabaki
 -
+   id: 77
    county_code: 3
    county_name: Kilifi
    constituency_name: Rabai
    constituencies_wards: Mwawesa
 -
+   id: 78
    county_code: 3
    county_name: Kilifi
    constituency_name: Rabai
    constituencies_wards: Ruruma
 -
+   id: 79
    county_code: 3
    county_name: Kilifi
    constituency_name: Rabai
    constituencies_wards: Jibana
 -
+   id: 80
    county_code: 3
    county_name: Kilifi
    constituency_name: Rabai
    constituencies_wards: Rabai/Kisurutuni
 -
+   id: 81
    county_code: 3
    county_name: Kilifi
    constituency_name: Malindi
    constituencies_wards: Jilore
 -
+   id: 82
    county_code: 3
    county_name: Kilifi
    constituency_name: Malindi
    constituencies_wards: Kakuyuni
 -
+   id: 83
    county_code: 3
    county_name: Kilifi
    constituency_name: Malindi
    constituencies_wards: Ganda
 -
+   id: 84
    county_code: 3
    county_name: Kilifi
    constituency_name: Malindi
    constituencies_wards: Malindi Town
 -
+   id: 85
    county_code: 3
    county_name: Kilifi
    constituency_name: Malindi
    constituencies_wards: Shella
 -
+   id: 86
    county_code: 4
    county_name: Tana River
    constituency_name: Garsen
    constituencies_wards: Garsen Central
 -
+   id: 87
    county_code: 4
    county_name: Tana River
    constituency_name: Garsen
    constituencies_wards: Garsen East
 -
+   id: 88
    county_code: 4
    county_name: Tana River
    constituency_name: Garsen
    constituencies_wards: Garsen North
 -
+   id: 89
    county_code: 4
    county_name: Tana River
    constituency_name: Garsen
    constituencies_wards: Garsen South
 -
+   id: 90
    county_code: 4
    county_name: Tana River
    constituency_name: Garsen
    constituencies_wards: Kipini East
 -
+   id: 91
    county_code: 4
    county_name: Tana River
    constituency_name: Garsen
    constituencies_wards: Kipini West
 -
+   id: 92
    county_code: 4
    county_name: Tana River
    constituency_name: Galole
    constituencies_wards: Kinakomba
 -
+   id: 93
    county_code: 4
    county_name: Tana River
    constituency_name: Galole
    constituencies_wards: Mikinduni
 -
+   id: 94
    county_code: 4
    county_name: Tana River
    constituency_name: Galole
    constituencies_wards: Chewani
 -
+   id: 95
    county_code: 4
    county_name: Tana River
    constituency_name: Galole
    constituencies_wards: Wayu
 -
+   id: 96
    county_code: 4
    county_name: Tana River
    constituency_name: Bura
    constituencies_wards: Chewele
 -
+   id: 97
    county_code: 4
    county_name: Tana River
    constituency_name: Bura
    constituencies_wards: Hirimani
 -
+   id: 98
    county_code: 4
    county_name: Tana River
    constituency_name: Bura
    constituencies_wards: Bangale
 -
+   id: 99
    county_code: 4
    county_name: Tana River
    constituency_name: Bura
    constituencies_wards: Madogo
 -
+   id: 100
    county_code: 4
    county_name: Tana River
    constituency_name: Bura
    constituencies_wards: Sala
 -
+   id: 101
    county_code: 5
    county_name: Lamu
    constituency_name: Lamu East
    constituencies_wards: Faza
 -
+   id: 102
    county_code: 5
    county_name: Lamu
    constituency_name: Lamu East
    constituencies_wards: Kiunga
 -
+   id: 103
    county_code: 5
    county_name: Lamu
    constituency_name: Lamu East
    constituencies_wards: Basuba
 -
+   id: 104
    county_code: 5
    county_name: Lamu
    constituency_name: Lamu West
    constituencies_wards: Shella
 -
+   id: 105
    county_code: 5
    county_name: Lamu
    constituency_name: Lamu West
    constituencies_wards: Mkomani
 -
+   id: 106
    county_code: 5
    county_name: Lamu
    constituency_name: Lamu West
    constituencies_wards: Hindi
 -
+   id: 107
    county_code: 5
    county_name: Lamu
    constituency_name: Lamu West
    constituencies_wards: Mkunumbi
 -
+   id: 108
    county_code: 5
    county_name: Lamu
    constituency_name: Lamu West
    constituencies_wards: Hongwe
 -
+   id: 109
    county_code: 5
    county_name: Lamu
    constituency_name: Lamu West
    constituencies_wards: Witu
 -
+   id: 110
    county_code: 5
    county_name: Lamu
    constituency_name: Lamu West
    constituencies_wards: Bahari
 -
+   id: 111
    county_code: 6
    county_name: Taita-Taveta
    constituency_name: Taveta
    constituencies_wards: Chala
 -
+   id: 112
    county_code: 6
    county_name: Taita-Taveta
    constituency_name: Taveta
    constituencies_wards: Mahoo
 -
+   id: 113
    county_code: 6
    county_name: Taita-Taveta
    constituency_name: Taveta
    constituencies_wards: Bomani
 -
+   id: 114
    county_code: 6
    county_name: Taita-Taveta
    constituency_name: Taveta
    constituencies_wards: Mboghoni
 -
+   id: 115
    county_code: 6
    county_name: Taita-Taveta
    constituency_name: Taveta
    constituencies_wards: Mata
 -
+   id: 116
    county_code: 6
    county_name: Taita-Taveta
    constituency_name: Wundanyi
    constituencies_wards: Wundanyi/Mbale
 -
+   id: 117
    county_code: 6
    county_name: Taita-Taveta
    constituency_name: Wundanyi
    constituencies_wards: Werugha
 -
+   id: 118
    county_code: 6
    county_name: Taita-Taveta
    constituency_name: Wundanyi
    constituencies_wards: Wumingu/Kishushe
 -
+   id: 119
    county_code: 6
    county_name: Taita-Taveta
    constituency_name: Wundanyi
    constituencies_wards: Mwanda/Mgange
 -
+   id: 120
    county_code: 6
    county_name: Taita-Taveta
    constituency_name: Mwatate
    constituencies_wards: Ronge
 -
+   id: 121
    county_code: 6
    county_name: Taita-Taveta
    constituency_name: Mwatate
    constituencies_wards: Mwatate
 -
+   id: 122
    county_code: 6
    county_name: Taita-Taveta
    constituency_name: Mwatate
    constituencies_wards: Bura
 -
+   id: 123
    county_code: 6
    county_name: Taita-Taveta
    constituency_name: Mwatate
    constituencies_wards: Chawia
 -
+   id: 124
    county_code: 6
    county_name: Taita-Taveta
    constituency_name: Mwatate
    constituencies_wards: Wusi/Kishamba
 -
+   id: 125
    county_code: 6
    county_name: Taita-Taveta
    constituency_name: Voi
    constituencies_wards: Mbololo
 -
+   id: 126
    county_code: 6
    county_name: Taita-Taveta
    constituency_name: Voi
    constituencies_wards: Kaloleni
 -
+   id: 127
    county_code: 6
    county_name: Taita-Taveta
    constituency_name: Voi
    constituencies_wards: Sagala
 -
+   id: 128
    county_code: 6
    county_name: Taita-Taveta
    constituency_name: Voi
    constituencies_wards: Marungu
 -
+   id: 129
    county_code: 6
    county_name: Taita-Taveta
    constituency_name: Voi
    constituencies_wards: Kaigau
 -
+   id: 130
    county_code: 6
    county_name: Taita-Taveta
    constituency_name: Voi
    constituencies_wards: Ngolia
 -
+   id: 131
    county_code: 7
    county_name: Garissa
    constituency_name: Dujis
    constituencies_wards: Waberi
 -
+   id: 132
    county_code: 7
    county_name: Garissa
    constituency_name: Dujis
    constituencies_wards: Galbet
 -
+   id: 133
    county_code: 7
    county_name: Garissa
    constituency_name: Dujis
    constituencies_wards: Township
 -
+   id: 134
    county_code: 7
    county_name: Garissa
    constituency_name: Dujis
    constituencies_wards: Iftin
 -
+   id: 135
    county_code: 7
    county_name: Garissa
    constituency_name: Balambala
    constituencies_wards: Balambala
 -
+   id: 136
    county_code: 7
    county_name: Garissa
    constituency_name: Balambala
    constituencies_wards: Danyere
 -
+   id: 137
    county_code: 7
    county_name: Garissa
    constituency_name: Balambala
    constituencies_wards: Jarajara
 -
+   id: 138
    county_code: 7
    county_name: Garissa
    constituency_name: Balambala
    constituencies_wards: Saka
 -
+   id: 139
    county_code: 7
    county_name: Garissa
    constituency_name: Balambala
    constituencies_wards: Sankuri
 -
+   id: 140
    county_code: 7
    county_name: Garissa
    constituency_name: Dadaab
    constituencies_wards: Dertu
 -
+   id: 141
    county_code: 7
    county_name: Garissa
    constituency_name: Dadaab
    constituencies_wards: Dadaab
 -
+   id: 142
    county_code: 7
    county_name: Garissa
    constituency_name: Dadaab
    constituencies_wards: Labasigale
 -
+   id: 143
    county_code: 7
    county_name: Garissa
    constituency_name: Dadaab
    constituencies_wards: Damajale
 -
+   id: 144
    county_code: 7
    county_name: Garissa
    constituency_name: Dadaab
    constituencies_wards: Liboi
 -
+   id: 145
    county_code: 7
    county_name: Garissa
    constituency_name: Dadaab
    constituencies_wards: Abakaile
 -
+   id: 146
    county_code: 7
    county_name: Garissa
    constituency_name: Fafi
    constituencies_wards: Bura
 -
+   id: 147
    county_code: 7
    county_name: Garissa
    constituency_name: Fafi
    constituencies_wards: Dekaharia
 -
+   id: 148
    county_code: 7
    county_name: Garissa
    constituency_name: Fafi
    constituencies_wards: Jarajila
 -
+   id: 149
    county_code: 7
    county_name: Garissa
    constituency_name: Fafi
    constituencies_wards: Fafi
 -
+   id: 150
    county_code: 7
    county_name: Garissa
    constituency_name: Fafi
    constituencies_wards: Nanighi
 -
+   id: 151
    county_code: 7
    county_name: Garissa
    constituency_name: Ijara
    constituencies_wards: Hulugho
 -
+   id: 152
    county_code: 7
    county_name: Garissa
    constituency_name: Ijara
    constituencies_wards: Sangailu
 -
+   id: 153
    county_code: 7
    county_name: Garissa
    constituency_name: Ijara
    constituencies_wards: Ijara
 -
+   id: 154
    county_code: 7
    county_name: Garissa
    constituency_name: Ijara
    constituencies_wards: Masalani
 -
+   id: 155
    county_code: 7
    county_name: Garissa
    constituency_name: Lagdera
    constituencies_wards: Modogashe
 -
+   id: 156
    county_code: 7
    county_name: Garissa
    constituency_name: Lagdera
    constituencies_wards: Bename
 -
+   id: 157
    county_code: 7
    county_name: Garissa
    constituency_name: Lagdera
    constituencies_wards: Goreale
 -
+   id: 158
    county_code: 7
    county_name: Garissa
    constituency_name: Lagdera
    constituencies_wards: Maalamin
 -
+   id: 159
    county_code: 7
    county_name: Garissa
    constituency_name: Lagdera
    constituencies_wards: Sabena
 -
+   id: 160
    county_code: 7
    county_name: Garissa
    constituency_name: Lagdera
    constituencies_wards: Baraki
 -
+   id: 161
    county_code: 8
    county_name: Wajir
    constituency_name: Wajir East
    constituencies_wards: Wagbri
 -
+   id: 162
    county_code: 8
    county_name: Wajir
    constituency_name: Wajir East
    constituencies_wards: Township
 -
+   id: 163
    county_code: 8
    county_name: Wajir
    constituency_name: Wajir East
    constituencies_wards: Barwago
 -
+   id: 164
    county_code: 8
    county_name: Wajir
    constituency_name: Wajir East
    constituencies_wards: Khorof/Harar
 -
+   id: 165
    county_code: 8
    county_name: Wajir
    constituency_name: Wajir North
    constituencies_wards: Gurar
 -
+   id: 166
    county_code: 8
    county_name: Wajir
    constituency_name: Wajir North
    constituencies_wards: Bute
 -
+   id: 167
    county_code: 8
    county_name: Wajir
    constituency_name: Wajir North
    constituencies_wards: Korondile
 -
+   id: 168
    county_code: 8
    county_name: Wajir
    constituency_name: Wajir North
    constituencies_wards: Malkagufu
 -
+   id: 169
    county_code: 8
    county_name: Wajir
    constituency_name: Wajir North
    constituencies_wards: Batalu
 -
+   id: 170
    county_code: 8
    county_name: Wajir
    constituency_name: Wajir North
    constituencies_wards: Danaba
 -
+   id: 171
    county_code: 8
    county_name: Wajir
    constituency_name: Wajir North
    constituencies_wards: Godoma
 -
+   id: 172
    county_code: 8
    county_name: Wajir
    constituency_name: Wajir South
    constituencies_wards: Benane
 -
+   id: 173
    county_code: 8
    county_name: Wajir
    constituency_name: Wajir South
    constituencies_wards: Burder
 -
+   id: 174
    county_code: 8
    county_name: Wajir
    constituency_name: Wajir South
    constituencies_wards: Dadaja Bulla
 -
+   id: 175
    county_code: 8
    county_name: Wajir
    constituency_name: Wajir South
    constituencies_wards: Habaswein
 -
+   id: 176
    county_code: 8
    county_name: Wajir
    constituency_name: Wajir South
    constituencies_wards: Lagboghol South
 -
+   id: 177
    county_code: 8
    county_name: Wajir
    constituency_name: Wajir South
    constituencies_wards: Ibrahim Ure
 -
+   id: 178
    county_code: 8
    county_name: Wajir
    constituency_name: Wajir West
    constituencies_wards: Arbajahan
 -
+   id: 179
    county_code: 8
    county_name: Wajir
    constituency_name: Wajir West
    constituencies_wards: Hadado/Athibohol
 -
+   id: 180
    county_code: 8
    county_name: Wajir
    constituency_name: Wajir West
    constituencies_wards: Ademasajide
 -
+   id: 181
    county_code: 8
    county_name: Wajir
    constituency_name: Wajir West
    constituencies_wards: Ganyure
 -
+   id: 182
    county_code: 8
    county_name: Wajir
    constituency_name: Wajir West
    constituencies_wards: Wagalla
 -
+   id: 183
    county_code: 8
    county_name: Wajir
    constituency_name: Tarbaj
    constituencies_wards: Elben
 -
+   id: 184
    county_code: 8
    county_name: Wajir
    constituency_name: Tarbaj
    constituencies_wards: Sarman
 -
+   id: 185
    county_code: 8
    county_name: Wajir
    constituency_name: Tarbaj
    constituencies_wards: Tarbaj
 -
+   id: 186
    county_code: 8
    county_name: Wajir
    constituency_name: Tarbaj
    constituencies_wards: Wargadud
 -
+   id: 187
    county_code: 8
    county_name: Wajir
    constituency_name: Eldas
    constituencies_wards: Eldas
 -
+   id: 188
    county_code: 8
    county_name: Wajir
    constituency_name: Eldas
    constituencies_wards: Della
 -
+   id: 189
    county_code: 8
    county_name: Wajir
    constituency_name: Eldas
    constituencies_wards: Lakoley South/Basir
 -
+   id: 190
    county_code: 8
    county_name: Wajir
    constituency_name: Eldas
    constituencies_wards: Elnur/Tula Tula
 -
+   id: 191
    county_code: 9
    county_name: Mandera
-   constituency_name: Moyale
-   constituencies_wards: Butiye
+   constituency_name: Mandera West
+   constituencies_wards: Takaba South
 -
+   id: 192
    county_code: 9
    county_name: Mandera
-   constituency_name: Moyale
-   constituencies_wards: Sololo
+   constituency_name: Mandera West
+   constituencies_wards: Takaba
 -
+   id: 193
    county_code: 9
    county_name: Mandera
-   constituency_name: Moyale
-   constituencies_wards: Heillu/Manyatta
+   constituency_name: Mandera West
+   constituencies_wards: Lagsure
 -
+   id: 194
    county_code: 9
    county_name: Mandera
-   constituency_name: Moyale
-   constituencies_wards: Golbo
+   constituency_name: Mandera West
+   constituencies_wards: Dandu
 -
+   id: 195
    county_code: 9
    county_name: Mandera
-   constituency_name: Moyale
-   constituencies_wards: Moyale Township
+   constituency_name: Mandera West
+   constituencies_wards: Gither
 -
+   id: 196
    county_code: 9
    county_name: Mandera
-   constituency_name: Moyale
-   constituencies_wards: Uran
+   constituency_name: Banissa
+   constituencies_wards: Banissa
 -
+   id: 197
    county_code: 9
    county_name: Mandera
-   constituency_name: Moyale
-   constituencies_wards: Obbu
+   constituency_name: Banissa
+   constituencies_wards: Derkhale
 -
+   id: 198
    county_code: 9
    county_name: Mandera
-   constituency_name: North Horr
-   constituencies_wards: Dukana
+   constituency_name: Banissa
+   constituencies_wards: Guba
 -
+   id: 199
    county_code: 9
    county_name: Mandera
-   constituency_name: North Horr
-   constituencies_wards: Maikona
+   constituency_name: Banissa
+   constituencies_wards: Malkamari
 -
+   id: 200
    county_code: 9
    county_name: Mandera
-   constituency_name: North Horr
-   constituencies_wards: Turbi
+   constituency_name: Banissa
+   constituencies_wards: Kiliwehiri
 -
+   id: 201
    county_code: 9
    county_name: Mandera
-   constituency_name: North Horr
-   constituencies_wards: North Horr
+   constituency_name: Manderra North
+   constituencies_wards: Ashabito
 -
+   id: 202
    county_code: 9
    county_name: Mandera
-   constituency_name: North Horr
-   constituencies_wards: Illeret
+   constituency_name: Manderra North
+   constituencies_wards: Guticha
 -
+   id: 203
    county_code: 9
    county_name: Mandera
-   constituency_name: Laisamis
-   constituencies_wards: Loiyangalani
+   constituency_name: Manderra North
+   constituencies_wards: Marothile
 -
+   id: 204
    county_code: 9
    county_name: Mandera
-   constituency_name: Laisamis
-   constituencies_wards: Kargi/South Horr
+   constituency_name: Manderra North
+   constituencies_wards: Rhamu
 -
+   id: 205
    county_code: 9
    county_name: Mandera
-   constituency_name: Laisamis
-   constituencies_wards: Korr/Ngurunit
+   constituency_name: Manderra North
+   constituencies_wards: Rhamu Dimtu
 -
+   id: 206
    county_code: 9
    county_name: Mandera
-   constituency_name: Laisamis
-   constituencies_wards: Logo Logo
+   constituency_name: Manderra South
+   constituencies_wards: Wargadud
 -
+   id: 207
    county_code: 9
    county_name: Mandera
-   constituency_name: Laisamis
-   constituencies_wards: Laisamis
+   constituency_name: Manderra South
+   constituencies_wards: Kutulo
 -
+   id: 208
    county_code: 9
    county_name: Mandera
-   constituency_name: Saku
-   constituencies_wards: Sagate/Jaldesa
+   constituency_name: Manderra South
+   constituencies_wards: Elwak South
 -
+   id: 209
    county_code: 9
    county_name: Mandera
-   constituency_name: Saku
-   constituencies_wards: Karare
+   constituency_name: Manderra South
+   constituencies_wards: Elwak North
 -
+   id: 210
    county_code: 9
    county_name: Mandera
-   constituency_name: Saku
-   constituencies_wards: Marsabit Central
+   constituency_name: Manderra South
+   constituencies_wards: Shimbir Fatuma
 -
+   id: 211
+   county_code: 9
+   county_name: Mandera
+   constituency_name: Manderra East
+   constituencies_wards: Arabia
+-
+   id: 212
+   county_code: 9
+   county_name: Mandera
+   constituency_name: Manderra East
+   constituencies_wards: Libehia
+-
+   id: 213
+   county_code: 9
+   county_name: Mandera
+   constituency_name: Manderra East
+   constituencies_wards: Khalalio
+-
+   id: 214
+   county_code: 9
+   county_name: Mandera
+   constituency_name: Manderra East
+   constituencies_wards: Neboi
+-
+   id: 215
+   county_code: 9
+   county_name: Mandera
+   constituency_name: Manderra East
+   constituencies_wards: Township
+-
+   id: 216
+   county_code: 9
+   county_name: Mandera
+   constituency_name: Lafey
+   constituencies_wards: Sala
+-
+   id: 217
+   county_code: 9
+   county_name: Mandera
+   constituency_name: Lafey
+   constituencies_wards: Fino
+-
+   id: 218
+   county_code: 9
+   county_name: Mandera
+   constituency_name: Lafey
+   constituencies_wards: Lafey
+-
+   id: 219
+   county_code: 9
+   county_name: Mandera
+   constituency_name: Lafey
+   constituencies_wards: Warangara
+-
+   id: 220
+   county_code: 9
+   county_name: Mandera
+   constituency_name: Lafey
+   constituencies_wards: Alungo
+-
+   id: 221
    county_code: 10
    county_name: Marsabit
    constituency_name: Laisamis
    constituencies_wards: Loiyangalani
 -
+   id: 222
    county_code: 10
    county_name: Marsabit
    constituency_name: Laisamis
    constituencies_wards: Kargi/South Horr
 -
+   id: 223
    county_code: 10
    county_name: Marsabit
    constituency_name: Laisamis
    constituencies_wards: Korr/Ngurunit
 -
+   id: 224
    county_code: 10
    county_name: Marsabit
    constituency_name: Laisamis
    constituencies_wards: Logo Logo
 -
+   id: 225
    county_code: 10
    county_name: Marsabit
    constituency_name: Laisamis
    constituencies_wards: Laisamis
 -
+   id: 226
    county_code: 10
    county_name: Marsabit
    constituency_name: North Horr
    constituencies_wards: Dukana
 -
+   id: 227
    county_code: 10
    county_name: Marsabit
    constituency_name: North Horr
    constituencies_wards: Maikona
 -
+   id: 228
    county_code: 10
    county_name: Marsabit
    constituency_name: North Horr
    constituencies_wards: Turbi
 -
+   id: 229
    county_code: 10
    county_name: Marsabit
    constituency_name: North Horr
    constituencies_wards: North Horr
 -
+   id: 230
    county_code: 10
    county_name: Marsabit
    constituency_name: North Horr
    constituencies_wards: Illeret
 -
+   id: 231
    county_code: 10
    county_name: Marsabit
    constituency_name: Saku
    constituencies_wards: Sagate/Jaldesa
 -
+   id: 232
    county_code: 10
    county_name: Marsabit
    constituency_name: Saku
    constituencies_wards: Karare
 -
+   id: 233
    county_code: 10
    county_name: Marsabit
    constituency_name: Saku
    constituencies_wards: Marsabit Central
 -
+   id: 234
    county_code: 10
    county_name: Marsabit
    constituency_name: Moyale
    constituencies_wards: Butiye
 -
+   id: 235
    county_code: 10
    county_name: Marsabit
    constituency_name: Moyale
    constituencies_wards: Sololo
 -
+   id: 236
    county_code: 10
    county_name: Marsabit
    constituency_name: Moyale
    constituencies_wards: Heillu/Manyatta
 -
+   id: 237
    county_code: 10
    county_name: Marsabit
    constituency_name: Moyale
    constituencies_wards: Golbo
 -
+   id: 238
    county_code: 10
    county_name: Marsabit
    constituency_name: Moyale
    constituencies_wards: Moyale Township
 -
+   id: 239
    county_code: 10
    county_name: Marsabit
    constituency_name: Moyale
    constituencies_wards: Uran
 -
+   id: 240
    county_code: 10
    county_name: Marsabit
    constituency_name: Moyale
    constituencies_wards: Obbu
 -
+   id: 241
    county_code: 11
    county_name: Isiolo
    constituency_name: Isiolo North
    constituencies_wards: Wabera
 -
+   id: 242
    county_code: 11
    county_name: Isiolo
    constituency_name: Isiolo North
    constituencies_wards: Bulla Pesa
 -
+   id: 243
    county_code: 11
    county_name: Isiolo
    constituency_name: Isiolo North
    constituencies_wards: Chari
 -
+   id: 244
    county_code: 11
    county_name: Isiolo
    constituency_name: Isiolo North
    constituencies_wards: Cherab
 -
+   id: 245
    county_code: 11
    county_name: Isiolo
    constituency_name: Isiolo North
    constituencies_wards: Ngare Mara
 -
+   id: 246
    county_code: 11
    county_name: Isiolo
    constituency_name: Isiolo North
    constituencies_wards: Burat
 -
+   id: 247
    county_code: 11
    county_name: Isiolo
    constituency_name: Isiolo North
    constituencies_wards: Oldo/Nyiro
 -
+   id: 248
    county_code: 11
    county_name: Isiolo
    constituency_name: Isiolo South
    constituencies_wards: Garba Tulla
 -
+   id: 249
    county_code: 11
    county_name: Isiolo
    constituency_name: Isiolo South
    constituencies_wards: Kina
 -
+   id: 250
    county_code: 11
    county_name: Isiolo
    constituency_name: Isiolo South
    constituencies_wards: Sericho
 -
+   id: 251
    county_code: 12
    county_name: Meru
    constituency_name: Buuri
    constituencies_wards: Timau
 -
+   id: 252
    county_code: 12
    county_name: Meru
    constituency_name: Buuri
    constituencies_wards: Kisima
 -
+   id: 253
    county_code: 12
    county_name: Meru
    constituency_name: Buuri
    constituencies_wards: Kiirua/Naari
 -
+   id: 254
    county_code: 12
    county_name: Meru
    constituency_name: Buuri
    constituencies_wards: Ruiri/Rwarera
 -
+   id: 255
    county_code: 12
    county_name: Meru
    constituency_name: Central Imenti
    constituencies_wards: Mwanganthia
 -
+   id: 256
    county_code: 12
    county_name: Meru
    constituency_name: Central Imenti
    constituencies_wards: Abothuguchi Central
 -
+   id: 257
    county_code: 12
    county_name: Meru
    constituency_name: Central Imenti
    constituencies_wards: Abothuguchi West
 -
+   id: 258
    county_code: 12
    county_name: Meru
    constituency_name: Central Imenti
    constituencies_wards: Kiagu
 -
+   id: 259
    county_code: 12
    county_name: Meru
    constituency_name: Central Imenti
    constituencies_wards: Kibirichia
 -
+   id: 260
    county_code: 12
    county_name: Meru
    constituency_name: Igembe Central
    constituencies_wards: Akirang’ondu
 -
+   id: 261
    county_code: 12
    county_name: Meru
    constituency_name: Igembe Central
    constituencies_wards: Athiru
 -
+   id: 262
    county_code: 12
    county_name: Meru
    constituency_name: Igembe Central
    constituencies_wards: Ruujine
 -
+   id: 263
    county_code: 12
    county_name: Meru
    constituency_name: Igembe Central
    constituencies_wards: Igembe East Njia
 -
+   id: 264
    county_code: 12
    county_name: Meru
    constituency_name: Igembe Central
    constituencies_wards: Kangeta
 -
+   id: 265
    county_code: 12
    county_name: Meru
    constituency_name: Igembe South
    constituencies_wards: Maua
 -
+   id: 266
    county_code: 12
    county_name: Meru
    constituency_name: Igembe South
    constituencies_wards: Kegoi/Antubochiu
 -
+   id: 267
    county_code: 12
    county_name: Meru
    constituency_name: Igembe South
    constituencies_wards: Athiru
 -
+   id: 268
    county_code: 12
    county_name: Meru
    constituency_name: Igembe South
    constituencies_wards: Gaiti
 -
+   id: 269
    county_code: 12
    county_name: Meru
    constituency_name: Igembe South
    constituencies_wards: Akachiu
 -
+   id: 270
    county_code: 12
    county_name: Meru
    constituency_name: Igembe South
    constituencies_wards: Kanuni
 -
+   id: 271
    county_code: 12
    county_name: Meru
    constituency_name: Igembe North
    constituencies_wards: Antuambui
 -
+   id: 272
    county_code: 12
    county_name: Meru
    constituency_name: Igembe North
    constituencies_wards: Ntunene
 -
+   id: 273
    county_code: 12
    county_name: Meru
    constituency_name: Igembe North
    constituencies_wards: Antubetwe Kiongo
 -
+   id: 274
    county_code: 12
    county_name: Meru
    constituency_name: Igembe North
    constituencies_wards: Naathui
 -
+   id: 275
    county_code: 12
    county_name: Meru
    constituency_name: Igembe North
    constituencies_wards: Amwathi
 -
+   id: 276
    county_code: 12
    county_name: Meru
    constituency_name: Tigania West
    constituencies_wards: Athwana
 -
+   id: 277
    county_code: 12
    county_name: Meru
    constituency_name: Tigania West
    constituencies_wards: Akithi
 -
+   id: 278
    county_code: 12
    county_name: Meru
    constituency_name: Tigania West
    constituencies_wards: Kianjai
 -
+   id: 279
    county_code: 12
    county_name: Meru
    constituency_name: Tigania West
    constituencies_wards: Nkomo
 -
+   id: 280
    county_code: 12
    county_name: Meru
    constituency_name: Tigania West
    constituencies_wards: Mbeu
 -
+   id: 281
    county_code: 12
    county_name: Meru
    constituency_name: Tigania East
    constituencies_wards: Thangatha
 -
+   id: 282
    county_code: 12
    county_name: Meru
    constituency_name: Tigania East
    constituencies_wards: Mikinduri
 -
+   id: 283
    county_code: 12
    county_name: Meru
    constituency_name: Tigania East
    constituencies_wards: Kiguchwa
 -
+   id: 284
    county_code: 12
    county_name: Meru
    constituency_name: Tigania East
    constituencies_wards: Mithara
 -
+   id: 285
    county_code: 12
    county_name: Meru
    constituency_name: Tigania East
    constituencies_wards: Karama
 -
+   id: 286
    county_code: 12
    county_name: Meru
    constituency_name: Imenti North
    constituencies_wards: Municipality
 -
+   id: 287
    county_code: 12
    county_name: Meru
    constituency_name: Imenti North
    constituencies_wards: Ntima East
 -
+   id: 288
    county_code: 12
    county_name: Meru
    constituency_name: Imenti North
    constituencies_wards: Ntima West
 -
+   id: 289
    county_code: 12
    county_name: Meru
    constituency_name: Imenti North
    constituencies_wards: Nyaki West
 -
+   id: 290
    county_code: 12
    county_name: Meru
    constituency_name: Imenti North
    constituencies_wards: Nyaki East
 -
+   id: 291
    county_code: 12
    county_name: Meru
    constituency_name: Imenti South
    constituencies_wards: Mitunguu
 -
+   id: 292
    county_code: 12
    county_name: Meru
    constituency_name: Imenti South
    constituencies_wards: Igoji East
 -
+   id: 293
    county_code: 12
    county_name: Meru
    constituency_name: Imenti South
    constituencies_wards: Igoji West
 -
+   id: 294
    county_code: 12
    county_name: Meru
    constituency_name: Imenti South
    constituencies_wards: Abogeta East
 -
+   id: 295
    county_code: 12
    county_name: Meru
    constituency_name: Imenti South
    constituencies_wards: Abogeta West
 -
+   id: 296
    county_code: 12
    county_name: Meru
    constituency_name: Imenti South
    constituencies_wards: Nkuene
 -
+   id: 297
    county_code: 13
    county_name: Tharaka Nithi
-   constituency_name: Tharaka 
+   constituency_name: Tharaka
    constituencies_wards: Gatunga
 -
+   id: 298
    county_code: 13
    county_name: Tharaka Nithi
-   constituency_name: Tharaka 
+   constituency_name: Tharaka
    constituencies_wards: Mukothima
 -
+   id: 299
    county_code: 13
    county_name: Tharaka Nithi
-   constituency_name: Tharaka 
+   constituency_name: Tharaka
    constituencies_wards: Nkondi
 -
+   id: 300
    county_code: 13
    county_name: Tharaka Nithi
-   constituency_name: Tharaka 
+   constituency_name: Tharaka
    constituencies_wards: Chiakariga
 -
+   id: 301
    county_code: 13
    county_name: Tharaka Nithi
-   constituency_name: Tharaka 
+   constituency_name: Tharaka
    constituencies_wards: Marimanti
 -
+   id: 302
    county_code: 13
    county_name: Tharaka Nithi
    constituency_name: Chuka/Igambang’ombe
    constituencies_wards: Mariani
 -
+   id: 303
    county_code: 13
    county_name: Tharaka Nithi
    constituency_name: Chuka/Igambang’ombe
    constituencies_wards: Karingani
 -
+   id: 304
    county_code: 13
    county_name: Tharaka Nithi
    constituency_name: Chuka/Igambang’ombe
    constituencies_wards: Magumoni
 -
+   id: 305
    county_code: 13
    county_name: Tharaka Nithi
    constituency_name: Chuka/Igambang’ombe
    constituencies_wards: Mugwe
 -
+   id: 306
    county_code: 13
    county_name: Tharaka Nithi
    constituency_name: Chuka/Igambang’ombe
    constituencies_wards: Igambang’ombe
 -
+   id: 307
    county_code: 13
    county_name: Tharaka Nithi
    constituency_name: Maara
    constituencies_wards: Mitheru
 -
+   id: 308
    county_code: 13
    county_name: Tharaka Nithi
    constituency_name: Maara
    constituencies_wards: Muthambi
 -
+   id: 309
    county_code: 13
    county_name: Tharaka Nithi
    constituency_name: Maara
    constituencies_wards: Mwimbi
 -
+   id: 310
    county_code: 13
    county_name: Tharaka Nithi
    constituency_name: Maara
    constituencies_wards: Ganga
 -
+   id: 311
    county_code: 13
    county_name: Tharaka Nithi
    constituency_name: Maara
    constituencies_wards: Chogoria
 -
+   id: 312
    county_code: 14
    county_name: Embu
    constituency_name: Manyatta
    constituencies_wards: Ruguru/Ngandori
 -
+   id: 313
    county_code: 14
    county_name: Embu
    constituency_name: Manyatta
    constituencies_wards: Kithimu
 -
+   id: 314
    county_code: 14
    county_name: Embu
    constituency_name: Manyatta
    constituencies_wards: Nginda
 -
+   id: 315
    county_code: 14
    county_name: Embu
    constituency_name: Manyatta
    constituencies_wards: Mbeti North
 -
+   id: 316
    county_code: 14
    county_name: Embu
    constituency_name: Manyatta
    constituencies_wards: Kirimari
 -
+   id: 317
    county_code: 14
    county_name: Embu
    constituency_name: Manyatta
    constituencies_wards: Gaturi South
 -
+   id: 318
    county_code: 14
    county_name: Embu
    constituency_name: Runyenjes
    constituencies_wards: Gaturi North
 -
+   id: 319
    county_code: 14
    county_name: Embu
    constituency_name: Runyenjes
    constituencies_wards: Kagaari South
 -
+   id: 320
    county_code: 14
    county_name: Embu
    constituency_name: Runyenjes
    constituencies_wards: Kagaari North
 -
+   id: 321
    county_code: 14
    county_name: Embu
    constituency_name: Runyenjes
    constituencies_wards: Central Ward
 -
+   id: 322
    county_code: 14
    county_name: Embu
    constituency_name: Runyenjes
    constituencies_wards: Kyeni North
 -
+   id: 323
    county_code: 14
    county_name: Embu
    constituency_name: Runyenjes
    constituencies_wards: Kyeni South
 -
+   id: 324
    county_code: 14
    county_name: Embu
    constituency_name: Mbeere North
    constituencies_wards: Nthawa
 -
+   id: 325
    county_code: 14
    county_name: Embu
    constituency_name: Mbeere North
    constituencies_wards: Muminji
 -
+   id: 326
    county_code: 14
    county_name: Embu
    constituency_name: Mbeere North
    constituencies_wards: Evurore
 -
+   id: 327
    county_code: 14
    county_name: Embu
    constituency_name: Mbeere South
    constituencies_wards: Mwea
 -
+   id: 328
    county_code: 14
    county_name: Embu
    constituency_name: Mbeere South
    constituencies_wards: Amakim
 -
+   id: 329
    county_code: 14
    county_name: Embu
    constituency_name: Mbeere South
    constituencies_wards: Mbeti South
 -
+   id: 330
    county_code: 14
    county_name: Embu
    constituency_name: Mbeere South
    constituencies_wards: Mavuria
 -
+   id: 331
    county_code: 14
    county_name: Embu
    constituency_name: Mbeere South
    constituencies_wards: Kiambere
 -
+   id: 332
    county_code: 15
    county_name: Kitui
    constituency_name: Kitui West
    constituencies_wards: Mutonguni
 -
+   id: 333
    county_code: 15
    county_name: Kitui
    constituency_name: Kitui West
    constituencies_wards: Kauwi
 -
+   id: 334
    county_code: 15
    county_name: Kitui
    constituency_name: Kitui West
    constituencies_wards: Matinyani
 -
+   id: 335
    county_code: 15
    county_name: Kitui
    constituency_name: Kitui West
    constituencies_wards: Kwa Mutonga/Kithum Ula
 -
+   id: 336
    county_code: 15
    county_name: Kitui
    constituency_name: Kitui Central
    constituencies_wards: Miambani
 -
+   id: 337
    county_code: 15
    county_name: Kitui
    constituency_name: Kitui Central
    constituencies_wards: Township Kyangwithya West
 -
+   id: 338
    county_code: 15
    county_name: Kitui
    constituency_name: Kitui Central
    constituencies_wards: Mulango
 -
+   id: 339
    county_code: 15
    county_name: Kitui
    constituency_name: Kitui Central
    constituencies_wards: Kyangwithya East
 -
+   id: 340
    county_code: 15
    county_name: Kitui
    constituency_name: Kitui Rural
    constituencies_wards: Kisasi
 -
+   id: 341
    county_code: 15
    county_name: Kitui
    constituency_name: Kitui Rural
    constituencies_wards: Mbitini
 -
+   id: 342
    county_code: 15
    county_name: Kitui
    constituency_name: Kitui Rural
    constituencies_wards: Kwavonza/Yatta
 -
+   id: 343
    county_code: 15
    county_name: Kitui
    constituency_name: Kitui Rural
    constituencies_wards: Kanyangi
 -
+   id: 344
    county_code: 15
    county_name: Kitui
    constituency_name: Kitui South
    constituencies_wards: Ikana/Kyantune
 -
+   id: 345
    county_code: 15
    county_name: Kitui
    constituency_name: Kitui South
    constituencies_wards: Mutomo
 -
+   id: 346
    county_code: 15
    county_name: Kitui
    constituency_name: Kitui South
    constituencies_wards: Mutha
 -
+   id: 347
    county_code: 15
    county_name: Kitui
    constituency_name: Kitui South
    constituencies_wards: Ikutha
 -
+   id: 348
    county_code: 15
    county_name: Kitui
    constituency_name: Kitui South
    constituencies_wards: Kanziko
 -
+   id: 349
    county_code: 15
    county_name: Kitui
    constituency_name: Kitui South
    constituencies_wards: Athi
 -
+   id: 350
    county_code: 15
    county_name: Kitui
    constituency_name: Kitui East
    constituencies_wards: Zombe/Mwitika
 -
+   id: 351
    county_code: 15
    county_name: Kitui
    constituency_name: Kitui East
    constituencies_wards: Nzambani
 -
+   id: 352
    county_code: 15
    county_name: Kitui
    constituency_name: Kitui East
    constituencies_wards: Chuluni
 -
+   id: 353
    county_code: 15
    county_name: Kitui
    constituency_name: Kitui East
    constituencies_wards: Voo/Kyamatu
 -
+   id: 354
    county_code: 15
    county_name: Kitui
    constituency_name: Kitui East
    constituencies_wards: Endau/Malalani
 -
+   id: 355
    county_code: 15
    county_name: Kitui
    constituency_name: Kitui East
    constituencies_wards: Mutito/Kaliku
 -
+   id: 356
    county_code: 15
    county_name: Kitui
    constituency_name: Mwingi North
    constituencies_wards: Ngomeni
 -
+   id: 357
    county_code: 15
    county_name: Kitui
    constituency_name: Mwingi North
    constituencies_wards: Kyuso
 -
+   id: 358
    county_code: 15
    county_name: Kitui
    constituency_name: Mwingi North
    constituencies_wards: Mumoni
 -
+   id: 359
    county_code: 15
    county_name: Kitui
    constituency_name: Mwingi North
    constituencies_wards: Tseikuru
 -
+   id: 360
    county_code: 15
    county_name: Kitui
    constituency_name: Mwingi North
    constituencies_wards: Tharaka
 -
+   id: 361
    county_code: 15
    county_name: Kitui
    constituency_name: Mwingi West
    constituencies_wards: Kyome/Thaana
 -
+   id: 362
    county_code: 15
    county_name: Kitui
    constituency_name: Mwingi West
    constituencies_wards: Nguutani
 -
+   id: 363
    county_code: 15
    county_name: Kitui
    constituency_name: Mwingi West
    constituencies_wards: Migwani
 -
+   id: 364
    county_code: 15
    county_name: Kitui
    constituency_name: Mwingi West
    constituencies_wards: Kiomo/Kyethani
 -
+   id: 365
    county_code: 15
    county_name: Kitui
    constituency_name: Mwingi Central
    constituencies_wards: Central
 -
+   id: 366
    county_code: 15
    county_name: Kitui
    constituency_name: Mwingi Central
    constituencies_wards: Kivou
 -
+   id: 367
    county_code: 15
    county_name: Kitui
    constituency_name: Mwingi Central
    constituencies_wards: Nguni
 -
+   id: 368
    county_code: 15
    county_name: Kitui
    constituency_name: Mwingi Central
    constituencies_wards: Mui
 -
+   id: 369
    county_code: 15
    county_name: Kitui
    constituency_name: Mwingi Central
    constituencies_wards: Waita
 -
+   id: 370
    county_code: 16
    county_name: Machakos
    constituency_name: Masinga
    constituencies_wards: Kivaa
 -
+   id: 371
    county_code: 16
    county_name: Machakos
    constituency_name: Masinga
    constituencies_wards: Masinga
 -
+   id: 372
    county_code: 16
    county_name: Machakos
    constituency_name: Masinga
    constituencies_wards: Central
 -
+   id: 373
    county_code: 16
    county_name: Machakos
    constituency_name: Masinga
    constituencies_wards: Ekalakala
 -
+   id: 374
    county_code: 16
    county_name: Machakos
    constituency_name: Masinga
    constituencies_wards: Muthesya
 -
+   id: 375
    county_code: 16
    county_name: Machakos
    constituency_name: Masinga
    constituencies_wards: Ndithini
 -
+   id: 376
    county_code: 16
    county_name: Machakos
    constituency_name: Yatta
    constituencies_wards: Ndalani
 -
+   id: 377
    county_code: 16
    county_name: Machakos
    constituency_name: Yatta
    constituencies_wards: Matuu
 -
+   id: 378
    county_code: 16
    county_name: Machakos
    constituency_name: Yatta
    constituencies_wards: Kithimani
 -
+   id: 379
    county_code: 16
    county_name: Machakos
    constituency_name: Yatta
    constituencies_wards: Ikomba
 -
+   id: 380
    county_code: 16
    county_name: Machakos
    constituency_name: Yatta
    constituencies_wards: Katangi
 -
+   id: 381
    county_code: 16
    county_name: Machakos
    constituency_name: Matungulu
    constituencies_wards: Tala
 -
+   id: 382
    county_code: 16
    county_name: Machakos
    constituency_name: Matungulu
    constituencies_wards: Matungulu North
 -
+   id: 383
    county_code: 16
    county_name: Machakos
    constituency_name: Matungulu
    constituencies_wards: Matungulu East
 -
+   id: 384
    county_code: 16
    county_name: Machakos
    constituency_name: Matungulu
    constituencies_wards: Matungulu West
 -
+   id: 385
    county_code: 16
    county_name: Machakos
    constituency_name: Matungulu
    constituencies_wards: Kyeleni
 -
+   id: 386
    county_code: 16
    county_name: Machakos
    constituency_name: Kangundo
    constituencies_wards: Kangundo North
 -
+   id: 387
    county_code: 16
    county_name: Machakos
    constituency_name: Kangundo
    constituencies_wards: Kangundo Central
 -
+   id: 388
    county_code: 16
    county_name: Machakos
    constituency_name: Kangundo
    constituencies_wards: Kangundo East
 -
+   id: 389
    county_code: 16
    county_name: Machakos
    constituency_name: Kangundo
    constituencies_wards: Kangundo West
 -
+   id: 390
    county_code: 16
    county_name: Machakos
    constituency_name: Mwala
    constituencies_wards: Mbiuni
 -
+   id: 391
    county_code: 16
    county_name: Machakos
    constituency_name: Mwala
    constituencies_wards: Makutano/Mwala
 -
+   id: 392
    county_code: 16
    county_name: Machakos
    constituency_name: Mwala
    constituencies_wards: Masii
 -
+   id: 393
    county_code: 16
    county_name: Machakos
    constituency_name: Mwala
    constituencies_wards: Muthetheni
 -
+   id: 394
    county_code: 16
    county_name: Machakos
    constituency_name: Mwala
    constituencies_wards: Wamunyu
 -
+   id: 395
    county_code: 16
    county_name: Machakos
    constituency_name: Mwala
    constituencies_wards: Kibauni
 -
+   id: 396
    county_code: 16
    county_name: Machakos
    constituency_name: Kathiani
    constituencies_wards: Mitaboni
 -
+   id: 397
    county_code: 16
    county_name: Machakos
    constituency_name: Kathiani
    constituencies_wards: Kathiani Central
 -
+   id: 398
    county_code: 16
    county_name: Machakos
    constituency_name: Kathiani
    constituencies_wards: Upper Kaewa/Iveti
 -
+   id: 399
    county_code: 16
    county_name: Machakos
    constituency_name: Kathiani
    constituencies_wards: Lower Kaewa/Kaani
 -
+   id: 400
    county_code: 16
    county_name: Machakos
    constituency_name: Machakos Town
    constituencies_wards: Kalama
 -
+   id: 401
    county_code: 16
    county_name: Machakos
    constituency_name: Machakos Town
    constituencies_wards: Mua
 -
+   id: 402
    county_code: 16
    county_name: Machakos
    constituency_name: Machakos Town
    constituencies_wards: Mutitini
 -
+   id: 403
    county_code: 16
    county_name: Machakos
    constituency_name: Machakos Town
    constituencies_wards: Machakos Central
 -
+   id: 404
    county_code: 16
    county_name: Machakos
    constituency_name: Machakos Town
    constituencies_wards: Mumbuni North
 -
+   id: 405
    county_code: 16
    county_name: Machakos
    constituency_name: Machakos Town
    constituencies_wards: Muvuti/Kiima-Kimwe
 -
+   id: 406
    county_code: 16
    county_name: Machakos
    constituency_name: Machakos Town
    constituencies_wards: Kola
 -
+   id: 407
    county_code: 16
    county_name: Machakos
    constituency_name: Mavoko
    constituencies_wards: Athi River
 -
+   id: 408
    county_code: 16
    county_name: Machakos
    constituency_name: Mavoko
    constituencies_wards: Kinanie
 -
+   id: 409
    county_code: 16
    county_name: Machakos
    constituency_name: Mavoko
    constituencies_wards: Muthwani
 -
+   id: 410
    county_code: 16
    county_name: Machakos
    constituency_name: Mavoko
    constituencies_wards: Syokimau/Mulolongo
 -
+   id: 411
    county_code: 17
    county_name: Makueni
    constituency_name: Mbooni
    constituencies_wards: Tulimani
 -
+   id: 412
    county_code: 17
    county_name: Makueni
    constituency_name: Mbooni
    constituencies_wards: Mbooni
 -
+   id: 413
    county_code: 17
    county_name: Makueni
    constituency_name: Mbooni
    constituencies_wards: Kithungo/Kitundu
 -
+   id: 414
    county_code: 17
    county_name: Makueni
    constituency_name: Mbooni
    constituencies_wards: Kiteta/Kisau
 -
+   id: 415
    county_code: 17
    county_name: Makueni
    constituency_name: Mbooni
    constituencies_wards: Waia-Kako
 -
+   id: 416
    county_code: 17
    county_name: Makueni
    constituency_name: Mbooni
    constituencies_wards: Kalawa
 -
+   id: 417
    county_code: 17
    county_name: Makueni
    constituency_name: Kaiti
    constituencies_wards: Ukia
 -
+   id: 418
    county_code: 17
    county_name: Makueni
    constituency_name: Kaiti
    constituencies_wards: Kee
 -
+   id: 419
    county_code: 17
    county_name: Makueni
    constituency_name: Kaiti
    constituencies_wards: Kilungu
 -
+   id: 420
    county_code: 17
    county_name: Makueni
    constituency_name: Kaiti
    constituencies_wards: Ilima
 -
+   id: 421
    county_code: 17
    county_name: Makueni
    constituency_name: Makueni
    constituencies_wards: Wote
 -
+   id: 422
    county_code: 17
    county_name: Makueni
    constituency_name: Makueni
    constituencies_wards: Muvau/Kikuumini
 -
+   id: 423
    county_code: 17
    county_name: Makueni
    constituency_name: Makueni
    constituencies_wards: Mavindini
 -
+   id: 424
    county_code: 17
    county_name: Makueni
    constituency_name: Makueni
    constituencies_wards: Kitise/Kithuki
 -
+   id: 425
    county_code: 17
    county_name: Makueni
    constituency_name: Makueni
    constituencies_wards: Kathonzweni
 -
+   id: 426
    county_code: 17
    county_name: Makueni
    constituency_name: Makueni
    constituencies_wards: Nzau/Kilili/Kalamba
 -
+   id: 427
    county_code: 17
    county_name: Makueni
    constituency_name: Makueni
    constituencies_wards: Mbitini
 -
+   id: 428
    county_code: 17
    county_name: Makueni
    constituency_name: Kilome
    constituencies_wards: Kasikeu
 -
+   id: 429
    county_code: 17
    county_name: Makueni
    constituency_name: Kilome
    constituencies_wards: Mukaa
 -
+   id: 430
    county_code: 17
    county_name: Makueni
    constituency_name: Kilome
    constituencies_wards: Kiima Kiu/Kalanzoni
 -
+   id: 431
    county_code: 17
    county_name: Makueni
    constituency_name: Kibwezi East
    constituencies_wards: Masongaleni
 -
+   id: 432
    county_code: 17
    county_name: Makueni
    constituency_name: Kibwezi East
    constituencies_wards: Mtito Andei
 -
+   id: 433
    county_code: 17
    county_name: Makueni
    constituency_name: Kibwezi East
    constituencies_wards: Thange
 -
+   id: 434
    county_code: 17
    county_name: Makueni
    constituency_name: Kibwezi East
    constituencies_wards: Ivingoni/Nzambani
 -
+   id: 435
    county_code: 17
    county_name: Makueni
    constituency_name: Kibwezi West
    constituencies_wards: Makindu
 -
+   id: 436
    county_code: 17
    county_name: Makueni
    constituency_name: Kibwezi West
    constituencies_wards: Nguumo
 -
+   id: 437
    county_code: 17
    county_name: Makueni
    constituency_name: Kibwezi West
    constituencies_wards: Kikumbulyu North
 -
+   id: 438
    county_code: 17
    county_name: Makueni
    constituency_name: Kibwezi West
    constituencies_wards: Kimumbulyu South
 -
+   id: 439
    county_code: 17
    county_name: Makueni
    constituency_name: Kibwezi West
    constituencies_wards: Nguu/Masumba
 -
+   id: 440
    county_code: 17
    county_name: Makueni
    constituency_name: Kibwezi West
    constituencies_wards: Emali/Mulala
 -
+   id: 441
    county_code: 18
    county_name: Nyandarua
    constituency_name: Kinangop
    constituencies_wards: Engineer
 -
+   id: 442
    county_code: 18
    county_name: Nyandarua
    constituency_name: Kinangop
    constituencies_wards: Gathara
 -
+   id: 443
    county_code: 18
    county_name: Nyandarua
    constituency_name: Kinangop
    constituencies_wards: North Kinangop
 -
+   id: 444
    county_code: 18
    county_name: Nyandarua
    constituency_name: Kinangop
    constituencies_wards: Murungaru
 -
+   id: 445
    county_code: 18
    county_name: Nyandarua
    constituency_name: Kinangop
    constituencies_wards: Njabini/Kiburu
 -
+   id: 446
    county_code: 18
    county_name: Nyandarua
    constituency_name: Kinangop
    constituencies_wards: Nyakio
 -
+   id: 447
    county_code: 18
    county_name: Nyandarua
    constituency_name: Kinangop
    constituencies_wards: Githabai
 -
+   id: 448
    county_code: 18
    county_name: Nyandarua
    constituency_name: Kinangop
    constituencies_wards: Magumu
 -
+   id: 449
    county_code: 18
    county_name: Nyandarua
    constituency_name: Kipipiri
    constituencies_wards: Wanjohi
 -
+   id: 450
    county_code: 18
    county_name: Nyandarua
    constituency_name: Kipipiri
    constituencies_wards: Kipipiri
 -
+   id: 451
    county_code: 18
    county_name: Nyandarua
    constituency_name: Kipipiri
    constituencies_wards: Geta
 -
+   id: 452
    county_code: 18
    county_name: Nyandarua
    constituency_name: Kipipiri
    constituencies_wards: Githioro
 -
+   id: 453
    county_code: 18
    county_name: Nyandarua
    constituency_name: Ol Joro Orok
    constituencies_wards: Gathanji
 -
+   id: 454
    county_code: 18
    county_name: Nyandarua
    constituency_name: Ol Joro Orok
    constituencies_wards: Gatima
 -
+   id: 455
    county_code: 18
    county_name: Nyandarua
    constituency_name: Ol Joro Orok
    constituencies_wards: Weru
 -
+   id: 456
    county_code: 18
    county_name: Nyandarua
    constituency_name: Ol Joro Orok
    constituencies_wards: Charagita
 -
+   id: 457
    county_code: 18
    county_name: Nyandarua
    constituency_name: Ndaragwa
    constituencies_wards: Leshau/Pondo
 -
+   id: 458
    county_code: 18
    county_name: Nyandarua
    constituency_name: Ndaragwa
    constituencies_wards: Kiriita
 -
+   id: 459
    county_code: 18
    county_name: Nyandarua
    constituency_name: Ndaragwa
    constituencies_wards: Central
 -
+   id: 460
    county_code: 18
    county_name: Nyandarua
    constituency_name: Ndaragwa
    constituencies_wards: Shamata
 -
+   id: 461
    county_code: 18
    county_name: Nyandarua
    constituency_name: Ol Kalou
    constituencies_wards: Karau
 -
+   id: 462
    county_code: 18
    county_name: Nyandarua
    constituency_name: Ol Kalou
    constituencies_wards: Kanjuiri Range
 -
+   id: 463
    county_code: 18
    county_name: Nyandarua
    constituency_name: Ol Kalou
    constituencies_wards: Mirangine
 -
+   id: 464
    county_code: 18
    county_name: Nyandarua
    constituency_name: Ol Kalou
    constituencies_wards: Kaimbaga
 -
+   id: 465
    county_code: 18
    county_name: Nyandarua
    constituency_name: Ol Kalou
    constituencies_wards: Rurii
 -
+   id: 466
    county_code: 19
    county_name: Nyeri
    constituency_name: Mathira
    constituencies_wards: Ruguru
 -
+   id: 467
    county_code: 19
    county_name: Nyeri
    constituency_name: Mathira
    constituencies_wards: Magutu
 -
+   id: 468
    county_code: 19
    county_name: Nyeri
    constituency_name: Mathira
    constituencies_wards: Iriani
 -
+   id: 469
    county_code: 19
    county_name: Nyeri
    constituency_name: Mathira
    constituencies_wards: Konyu
 -
+   id: 470
    county_code: 19
    county_name: Nyeri
    constituency_name: Mathira
    constituencies_wards: Kirimukuyu
 -
+   id: 471
    county_code: 19
    county_name: Nyeri
    constituency_name: Mathira
    constituencies_wards: Karatina Town
 -
+   id: 472
    county_code: 19
    county_name: Nyeri
    constituency_name: Othaya
    constituencies_wards: Mahiga
 -
+   id: 473
    county_code: 19
    county_name: Nyeri
    constituency_name: Othaya
    constituencies_wards: Iria-Ini
 -
+   id: 474
    county_code: 19
    county_name: Nyeri
    constituency_name: Othaya
    constituencies_wards: Chinga
 -
+   id: 475
    county_code: 19
    county_name: Nyeri
    constituency_name: Othaya
    constituencies_wards: Karima
 -
+   id: 476
    county_code: 19
    county_name: Nyeri
    constituency_name: Tetu
    constituencies_wards: Dedan Kimathi
 -
+   id: 477
    county_code: 19
    county_name: Nyeri
    constituency_name: Tetu
    constituencies_wards: Wamagana
 -
+   id: 478
    county_code: 19
    county_name: Nyeri
    constituency_name: Tetu
    constituencies_wards: Aguthi-Gaaki
 -
+   id: 479
    county_code: 19
    county_name: Nyeri
    constituency_name: Mukurweini
    constituencies_wards: Gikondi
 -
+   id: 480
    county_code: 19
    county_name: Nyeri
    constituency_name: Mukurweini
    constituencies_wards: Rugi
 -
+   id: 481
    county_code: 19
    county_name: Nyeri
    constituency_name: Mukurweini
    constituencies_wards: Mukurwe-Ini West
 -
+   id: 482
    county_code: 19
    county_name: Nyeri
    constituency_name: Mukurweini
    constituencies_wards: Mukurwe-Ini Central
 -
+   id: 483
    county_code: 19
    county_name: Nyeri
    constituency_name: Tetu
    constituencies_wards: Dedan Kimathi
 -
+   id: 484
    county_code: 19
    county_name: Nyeri
    constituency_name: Tetu
    constituencies_wards: Wamagana
 -
+   id: 485
    county_code: 19
    county_name: Nyeri
    constituency_name: Tetu
    constituencies_wards: Aguthi-Gaaki
 -
+   id: 486
    county_code: 19
    county_name: Nyeri
    constituency_name: Nyeri Town
    constituencies_wards: Kiganjo/Mathari
 -
+   id: 487
    county_code: 19
    county_name: Nyeri
    constituency_name: Nyeri Town
    constituencies_wards: Rware
 -
+   id: 488
    county_code: 19
    county_name: Nyeri
    constituency_name: Nyeri Town
    constituencies_wards: Gatitu/Muruguru
 -
+   id: 489
    county_code: 19
    county_name: Nyeri
    constituency_name: Nyeri Town
    constituencies_wards: Ruring’u
 -
+   id: 490
    county_code: 19
    county_name: Nyeri
    constituency_name: Nyeri Town
    constituencies_wards: Kamakwa/Mukaro
 -
+   id: 491
    county_code: 19
    county_name: Nyeri
    constituency_name: Kieni
    constituencies_wards: Mweiga
 -
+   id: 492
    county_code: 19
    county_name: Nyeri
    constituency_name: Kieni
    constituencies_wards: Naromoro Kiamthaga
 -
+   id: 493
    county_code: 19
    county_name: Nyeri
    constituency_name: Kieni
    constituencies_wards: Mwiyogo/Endara Sha
 -
+   id: 494
    county_code: 19
    county_name: Nyeri
    constituency_name: Kieni
    constituencies_wards: Mugunda
 -
+   id: 495
    county_code: 19
    county_name: Nyeri
    constituency_name: Kieni
    constituencies_wards: Gatarakwa
 -
+   id: 496
    county_code: 19
    county_name: Nyeri
    constituency_name: Kieni
    constituencies_wards: Thegu River
 -
+   id: 497
    county_code: 19
    county_name: Nyeri
    constituency_name: Kieni
    constituencies_wards: Kabaru
 -
+   id: 498
    county_code: 19
    county_name: Nyeri
    constituency_name: Kieni
    constituencies_wards: Gakawa
 -
+   id: 499
    county_code: 20
    county_name: Kirinyaga
    constituency_name: Kirinyaga Central
    constituencies_wards: Mutira
 -
+   id: 500
    county_code: 20
    county_name: Kirinyaga
    constituency_name: Kirinyaga Central
    constituencies_wards: Kanyekini
 -
+   id: 501
    county_code: 20
    county_name: Kirinyaga
    constituency_name: Kirinyaga Central
    constituencies_wards: Kerugoya
 -
+   id: 502
    county_code: 20
    county_name: Kirinyaga
    constituency_name: Kirinyaga Central
    constituencies_wards: Inoi
 -
+   id: 503
    county_code: 20
    county_name: Kirinyaga
    constituency_name: Mwea
    constituencies_wards: Mutithi
 -
+   id: 504
    county_code: 20
    county_name: Kirinyaga
    constituency_name: Mwea
    constituencies_wards: Kangai
 -
+   id: 505
    county_code: 20
    county_name: Kirinyaga
    constituency_name: Mwea
    constituencies_wards: Wamumu
 -
+   id: 506
    county_code: 20
    county_name: Kirinyaga
    constituency_name: Mwea
    constituencies_wards: Nyangati
 -
+   id: 507
    county_code: 20
    county_name: Kirinyaga
    constituency_name: Mwea
    constituencies_wards: Murindiko
 -
+   id: 508
    county_code: 20
    county_name: Kirinyaga
    constituency_name: Mwea
    constituencies_wards: Gathigiriri
 -
+   id: 509
    county_code: 20
    county_name: Kirinyaga
    constituency_name: Mwea
    constituencies_wards: Teberer
 -
+   id: 510
    county_code: 20
    county_name: Kirinyaga
    constituency_name: Mwea
    constituencies_wards: Thiba
 -
+   id: 511
    county_code: 20
    county_name: Kirinyaga
    constituency_name: Gichugu
    constituencies_wards: Kabare Baragwi
 -
+   id: 512
    county_code: 20
    county_name: Kirinyaga
    constituency_name: Gichugu
    constituencies_wards: Njukiini
 -
+   id: 513
    county_code: 20
    county_name: Kirinyaga
    constituency_name: Gichugu
    constituencies_wards: Ngariama
 -
+   id: 514
    county_code: 20
    county_name: Kirinyaga
    constituency_name: Gichugu
    constituencies_wards: Karumandi
 -
+   id: 515
    county_code: 20
    county_name: Kirinyaga
    constituency_name: Ndia
    constituencies_wards: Mukure
 -
+   id: 516
    county_code: 20
    county_name: Kirinyaga
    constituency_name: Ndia
    constituencies_wards: Kiine
 -
+   id: 517
    county_code: 20
    county_name: Kirinyaga
    constituency_name: Ndia
    constituencies_wards: Kariti
 -
+   id: 518
    county_code: 21
    county_name: Murang’a
    constituency_name: Gatanga
    constituencies_wards: Ithanga
 -
+   id: 519
    county_code: 21
    county_name: Murang’a
    constituency_name: Gatanga
    constituencies_wards: Kakuzi/Mitubiri
 -
+   id: 520
    county_code: 21
    county_name: Murang’a
    constituency_name: Gatanga
    constituencies_wards: Mugumo-Ini
 -
+   id: 521
    county_code: 21
    county_name: Murang’a
    constituency_name: Gatanga
    constituencies_wards: Kihumbu-Ini
 -
+   id: 522
    county_code: 21
    county_name: Murang’a
    constituency_name: Gatanga
    constituencies_wards: Gatanga
 -
+   id: 523
    county_code: 21
    county_name: Murang’a
    constituency_name: Gatanga
    constituencies_wards: Kariara
 -
+   id: 524
    county_code: 21
    county_name: Murang’a
    constituency_name: Kandara
    constituencies_wards: Ng’ararii
 -
+   id: 525
    county_code: 21
    county_name: Murang’a
    constituency_name: Kandara
    constituencies_wards: Muruka
 -
+   id: 526
    county_code: 21
    county_name: Murang’a
    constituency_name: Kandara
    constituencies_wards: Kangundu-Ini
 -
+   id: 527
    county_code: 21
    county_name: Murang’a
    constituency_name: Kandara
    constituencies_wards: Gaichanjiru
 -
+   id: 528
    county_code: 21
    county_name: Murang’a
    constituency_name: Kandara
    constituencies_wards: Ithiru
 -
+   id: 529
    county_code: 21
    county_name: Murang’a
    constituency_name: Kandara
    constituencies_wards: Ruchu
 -
+   id: 530
    county_code: 21
    county_name: Murang’a
    constituency_name: Kigumo
    constituencies_wards: Kahumbu
 -
+   id: 531
    county_code: 21
    county_name: Murang’a
    constituency_name: Kigumo
    constituencies_wards: Muthithi
 -
+   id: 532
    county_code: 21
    county_name: Murang’a
    constituency_name: Kigumo
    constituencies_wards: Kigumo
 -
+   id: 533
    county_code: 21
    county_name: Murang’a
    constituency_name: Kigumo
    constituencies_wards: Kangari
 -
+   id: 534
    county_code: 21
    county_name: Murang’a
    constituency_name: Kigumo
    constituencies_wards: Kinyona
 -
+   id: 535
    county_code: 21
    county_name: Murang’a
    constituency_name: Mathioya
    constituencies_wards: Gituhi
 -
+   id: 536
    county_code: 21
    county_name: Murang’a
    constituency_name: Mathioya
    constituencies_wards: Kiru
 -
+   id: 537
    county_code: 21
    county_name: Murang’a
    constituency_name: Mathioya
    constituencies_wards: Kamacharia
 -
+   id: 538
    county_code: 21
    county_name: Murang’a
    constituency_name: Kiharu
    constituencies_wards: Wangu
 -
+   id: 539
    county_code: 21
    county_name: Murang’a
    constituency_name: Kiharu
    constituencies_wards: Mugoiri
 -
+   id: 540
    county_code: 21
    county_name: Murang’a
    constituency_name: Kiharu
    constituencies_wards: Mbiri
 -
+   id: 541
    county_code: 21
    county_name: Murang’a
    constituency_name: Kiharu
    constituencies_wards: Township
 -
+   id: 542
    county_code: 21
    county_name: Murang’a
    constituency_name: Kiharu
    constituencies_wards: Murarandia
 -
+   id: 543
    county_code: 21
    county_name: Murang’a
    constituency_name: Kiharu
    constituencies_wards: Gaturi
 -
+   id: 544
    county_code: 21
    county_name: Murang’a
    constituency_name: Kangema
    constituencies_wards: Kanyenya-Ini
 -
+   id: 545
    county_code: 21
    county_name: Murang’a
    constituency_name: Kangema
    constituencies_wards: Muguru
 -
+   id: 546
    county_code: 21
    county_name: Murang’a
    constituency_name: Kangema
    constituencies_wards: Rwathia
 -
+   id: 547
    county_code: 21
    county_name: Murang’a
    constituency_name: Maragwa
    constituencies_wards: Kimorori/Wempa
 -
+   id: 548
    county_code: 21
    county_name: Murang’a
    constituency_name: Maragwa
    constituencies_wards: Makuyu
 -
+   id: 549
    county_code: 21
    county_name: Murang’a
    constituency_name: Maragwa
    constituencies_wards: Kambiti
 -
+   id: 550
    county_code: 21
    county_name: Murang’a
    constituency_name: Maragwa
    constituencies_wards: Kamahuha
 -
+   id: 551
    county_code: 21
    county_name: Murang’a
    constituency_name: Maragwa
    constituencies_wards: Ichagaki
 -
+   id: 552
    county_code: 21
    county_name: Murang’a
    constituency_name: Maragwa
    constituencies_wards: Nginda
 -
+   id: 553
    county_code: 22
    county_name: Kiambu
    constituency_name: Gatundu North
    constituencies_wards: Gituamba
 -
+   id: 554
    county_code: 22
    county_name: Kiambu
    constituency_name: Gatundu North
    constituencies_wards: Githobokoni
 -
+   id: 555
    county_code: 22
    county_name: Kiambu
    constituency_name: Gatundu North
    constituencies_wards: Chania
 -
+   id: 556
    county_code: 22
    county_name: Kiambu
    constituency_name: Gatundu North
    constituencies_wards: Mang’u
 -
+   id: 557
    county_code: 22
    county_name: Kiambu
    constituency_name: Gatundu South
    constituencies_wards: Kiamwangi
 -
+   id: 558
    county_code: 22
    county_name: Kiambu
    constituency_name: Gatundu South
    constituencies_wards: Kiganjo
 -
+   id: 559
    county_code: 22
    county_name: Kiambu
    constituency_name: Gatundu South
    constituencies_wards: Ndarugu
 -
+   id: 560
    county_code: 22
    county_name: Kiambu
    constituency_name: Gatundu South
    constituencies_wards: Ngenda
 -
+   id: 561
    county_code: 22
    county_name: Kiambu
    constituency_name: Githunguri
    constituencies_wards: Githunguri
 -
+   id: 562
    county_code: 22
    county_name: Kiambu
    constituency_name: Githunguri
    constituencies_wards: Githiga
 -
+   id: 563
    county_code: 22
    county_name: Kiambu
    constituency_name: Githunguri
    constituencies_wards: Ikinu
 -
+   id: 564
    county_code: 22
    county_name: Kiambu
    constituency_name: Githunguri
    constituencies_wards: Ngewa
 -
+   id: 565
    county_code: 22
    county_name: Kiambu
    constituency_name: Githunguri
    constituencies_wards: Komothai
 -
+   id: 566
    county_code: 22
    county_name: Kiambu
    constituency_name: Juja
    constituencies_wards: Murera
 -
+   id: 567
    county_code: 22
    county_name: Kiambu
    constituency_name: Juja
    constituencies_wards: Theta
 -
+   id: 568
    county_code: 22
    county_name: Kiambu
    constituency_name: Juja
    constituencies_wards: Juja
 -
+   id: 569
    county_code: 22
    county_name: Kiambu
    constituency_name: Juja
    constituencies_wards: Witeithie
 -
+   id: 570
    county_code: 22
    county_name: Kiambu
    constituency_name: Juja
    constituencies_wards: Kalimoni
 -
+   id: 571
    county_code: 22
    county_name: Kiambu
    constituency_name: Kabete
    constituencies_wards: Gitaru
 -
+   id: 572
    county_code: 22
    county_name: Kiambu
    constituency_name: Kabete
    constituencies_wards: Muguga
 -
+   id: 573
    county_code: 22
    county_name: Kiambu
    constituency_name: Kabete
    constituencies_wards: Nyathuna
 -
+   id: 574
    county_code: 22
    county_name: Kiambu
    constituency_name: Kabete
    constituencies_wards: Kabete
 -
+   id: 575
    county_code: 22
    county_name: Kiambu
    constituency_name: Kabete
    constituencies_wards: Uthiru
 -
+   id: 576
    county_code: 22
    county_name: Kiambu
    constituency_name: Kiambaa
    constituencies_wards: Cianda
 -
+   id: 577
    county_code: 22
    county_name: Kiambu
    constituency_name: Kiambaa
    constituencies_wards: Karuiri
 -
+   id: 578
    county_code: 22
    county_name: Kiambu
    constituency_name: Kiambaa
    constituencies_wards: Ndenderu
 -
+   id: 579
    county_code: 22
    county_name: Kiambu
    constituency_name: Kiambaa
    constituencies_wards: Muchatha
 -
+   id: 580
    county_code: 22
    county_name: Kiambu
    constituency_name: Kiambaa
    constituencies_wards: Kihara
 -
+   id: 581
    county_code: 22
    county_name: Kiambu
    constituency_name: Kiambu
    constituencies_wards: Ting’gang’a
 -
+   id: 582
    county_code: 22
    county_name: Kiambu
    constituency_name: Kiambu
    constituencies_wards: Ndumberi
 -
+   id: 583
    county_code: 22
    county_name: Kiambu
    constituency_name: Kiambu
    constituencies_wards: Riabai
 -
+   id: 584
    county_code: 22
    county_name: Kiambu
    constituency_name: Kiambu
    constituencies_wards: Township
 -
+   id: 585
    county_code: 22
    county_name: Kiambu
    constituency_name: Limuru
    constituencies_wards: Bibirioni
 -
+   id: 586
    county_code: 22
    county_name: Kiambu
    constituency_name: Limuru
    constituencies_wards: Limuru Central
 -
+   id: 587
    county_code: 22
    county_name: Kiambu
    constituency_name: Limuru
    constituencies_wards: Ndeiya
 -
+   id: 588
    county_code: 22
    county_name: Kiambu
    constituency_name: Limuru
    constituencies_wards: Limuru East
 -
+   id: 589
    county_code: 22
    county_name: Kiambu
    constituency_name: Limuru
    constituencies_wards: Ngecha Tigoni
 -
+   id: 590
    county_code: 22
    county_name: Kiambu
    constituency_name: Kikuyu
    constituencies_wards: Karai
 -
+   id: 591
    county_code: 22
    county_name: Kiambu
    constituency_name: Kikuyu
    constituencies_wards: Nachu
 -
+   id: 592
    county_code: 22
    county_name: Kiambu
    constituency_name: Kikuyu
    constituencies_wards: Sigona
 -
+   id: 593
    county_code: 22
    county_name: Kiambu
    constituency_name: Kikuyu
    constituencies_wards: Kikuyu
 -
+   id: 594
    county_code: 22
    county_name: Kiambu
    constituency_name: Kikuyu
    constituencies_wards: Kinoo
 -
+   id: 595
    county_code: 22
    county_name: Kiambu
    constituency_name: Lari
    constituencies_wards: Kijabe
 -
+   id: 596
    county_code: 22
    county_name: Kiambu
    constituency_name: Lari
    constituencies_wards: Nyanduma
 -
+   id: 597
    county_code: 22
    county_name: Kiambu
    constituency_name: Lari
    constituencies_wards: Kamburu
 -
+   id: 598
    county_code: 22
    county_name: Kiambu
    constituency_name: Lari
    constituencies_wards: Lari/Kirenga
 -
+   id: 599
    county_code: 22
    county_name: Kiambu
    constituency_name: Ruiru
    constituencies_wards: Gitothua
 -
+   id: 600
    county_code: 22
    county_name: Kiambu
    constituency_name: Ruiru
    constituencies_wards: Biashara
 -
+   id: 601
    county_code: 22
    county_name: Kiambu
    constituency_name: Ruiru
    constituencies_wards: Gatongora
 -
+   id: 602
    county_code: 22
    county_name: Kiambu
    constituency_name: Ruiru
    constituencies_wards: Kahawa Sukari
 -
+   id: 603
    county_code: 22
    county_name: Kiambu
    constituency_name: Ruiru
    constituencies_wards: Kahawa Wendani
 -
+   id: 604
    county_code: 22
    county_name: Kiambu
    constituency_name: Ruiru
    constituencies_wards: Kiuu
 -
+   id: 605
    county_code: 22
    county_name: Kiambu
    constituency_name: Ruiru
    constituencies_wards: Mwiki
 -
+   id: 606
    county_code: 22
    county_name: Kiambu
    constituency_name: Ruiru
    constituencies_wards: Mwihoko
 -
+   id: 607
    county_code: 22
    county_name: Kiambu
    constituency_name: Thika Town
    constituencies_wards: Township
 -
+   id: 608
    county_code: 22
    county_name: Kiambu
    constituency_name: Thika Town
    constituencies_wards: Kamenu
 -
+   id: 609
    county_code: 22
    county_name: Kiambu
    constituency_name: Thika Town
    constituencies_wards: Hospital
 -
+   id: 610
    county_code: 22
    county_name: Kiambu
    constituency_name: Thika Town
    constituencies_wards: Gatuanyaga
 -
+   id: 611
    county_code: 22
    county_name: Kiambu
    constituency_name: Thika Town
    constituencies_wards: Ngoliba
 -
+   id: 612
    county_code: 23
    county_name: Turkana
    constituency_name: Turkana Central
    constituencies_wards: Kerio Delta
 -
+   id: 613
    county_code: 23
    county_name: Turkana
    constituency_name: Turkana Central
    constituencies_wards: Kang’atotha
 -
+   id: 614
    county_code: 23
    county_name: Turkana
    constituency_name: Turkana Central
    constituencies_wards: Kalokol
 -
+   id: 615
    county_code: 23
    county_name: Turkana
    constituency_name: Turkana Central
    constituencies_wards: Lodwar Township
 -
+   id: 616
    county_code: 23
    county_name: Turkana
    constituency_name: Turkana Central
    constituencies_wards: Kanamkemer
 -
+   id: 617
    county_code: 23
    county_name: Turkana
    constituency_name: Turkana East
    constituencies_wards: Kapedo/Napeito
 -
+   id: 618
    county_code: 23
    county_name: Turkana
    constituency_name: Turkana East
    constituencies_wards: Katilia
 -
+   id: 619
    county_code: 23
    county_name: Turkana
    constituency_name: Turkana East
    constituencies_wards: Lokori/Kochodin
 -
+   id: 620
    county_code: 23
    county_name: Turkana
    constituency_name: Turkana North
    constituencies_wards: Kaeris
 -
+   id: 621
    county_code: 23
    county_name: Turkana
    constituency_name: Turkana North
    constituencies_wards: Lake zone
 -
+   id: 622
    county_code: 23
    county_name: Turkana
    constituency_name: Turkana North
    constituencies_wards: Lapur
 -
+   id: 623
    county_code: 23
    county_name: Turkana
    constituency_name: Turkana North
    constituencies_wards: Kaaleng/kaikor
 -
+   id: 624
    county_code: 23
    county_name: Turkana
    constituency_name: Turkana North
    constituencies_wards: Kibish
 -
+   id: 625
    county_code: 23
    county_name: Turkana
    constituency_name: Turkana North
    constituencies_wards: Nakalale
 -
+   id: 626
    county_code: 23
    county_name: Turkana
    constituency_name: Turkana South
    constituencies_wards: Kaputir
 -
+   id: 627
    county_code: 23
    county_name: Turkana
    constituency_name: Turkana South
    constituencies_wards: Katilu
 -
+   id: 628
    county_code: 23
    county_name: Turkana
    constituency_name: Turkana South
    constituencies_wards: Lobokat
 -
+   id: 629
    county_code: 23
    county_name: Turkana
    constituency_name: Turkana South
    constituencies_wards: Kalapata
 -
+   id: 630
    county_code: 23
    county_name: Turkana
    constituency_name: Turkana South
    constituencies_wards: Lokichar
 -
+   id: 631
    county_code: 23
    county_name: Turkana
    constituency_name: Turkana West
    constituencies_wards: Kakuma
 -
+   id: 632
    county_code: 23
    county_name: Turkana
    constituency_name: Turkana West
    constituencies_wards: Lopur
 -
+   id: 633
    county_code: 23
    county_name: Turkana
    constituency_name: Turkana West
    constituencies_wards: Letea
 -
+   id: 634
    county_code: 23
    county_name: Turkana
    constituency_name: Turkana West
    constituencies_wards: Songot
 -
+   id: 635
    county_code: 23
    county_name: Turkana
    constituency_name: Turkana West
    constituencies_wards: Kalobeyei
 -
+   id: 636
    county_code: 23
    county_name: Turkana
    constituency_name: Turkana West
    constituencies_wards: Lokichoggio
 -
+   id: 637
    county_code: 23
    county_name: Turkana
    constituency_name: Turkana West
    constituencies_wards: Nanaam
 -
+   id: 638
    county_code: 23
    county_name: Turkana
    constituency_name: Loima
    constituencies_wards: Kotaruk/Lobei
 -
+   id: 639
    county_code: 23
    county_name: Turkana
    constituency_name: Loima
    constituencies_wards: Turkwel
 -
+   id: 640
    county_code: 23
    county_name: Turkana
    constituency_name: Loima
    constituencies_wards: Loima
 -
+   id: 641
    county_code: 23
    county_name: Turkana
    constituency_name: Loima
    constituencies_wards: Lokiriama/Loren Gippi
 -
+   id: 642
    county_code: 24
    county_name: West pokot
    constituency_name: Kapenguria
    constituencies_wards: Riwo
 -
+   id: 643
    county_code: 24
    county_name: West pokot
    constituency_name: Kapenguria
    constituencies_wards: Kapenguria
 -
+   id: 644
    county_code: 24
    county_name: West pokot
    constituency_name: Kapenguria
    constituencies_wards: Mnagei
 -
+   id: 645
    county_code: 24
    county_name: West pokot
    constituency_name: Kapenguria
    constituencies_wards: Siyoi
 -
+   id: 646
    county_code: 24
    county_name: West pokot
    constituency_name: Kapenguria
    constituencies_wards: Endugh
 -
+   id: 647
    county_code: 24
    county_name: West pokot
    constituency_name: Kapenguria
    constituencies_wards: Sook
 -
+   id: 648
    county_code: 24
    county_name: West pokot
    constituency_name: Sigor
    constituencies_wards: Sekerr
 -
+   id: 649
    county_code: 24
    county_name: West pokot
    constituency_name: Sigor
    constituencies_wards: Masool
 -
+   id: 650
    county_code: 24
    county_name: West pokot
    constituency_name: Sigor
    constituencies_wards: Lomut
 -
+   id: 651
    county_code: 24
    county_name: West pokot
    constituency_name: Sigor
    constituencies_wards: Weiwei
 -
+   id: 652
    county_code: 24
    county_name: West pokot
    constituency_name: Kacheliba
    constituencies_wards: Suam
 -
+   id: 653
    county_code: 24
    county_name: West pokot
    constituency_name: Kacheliba
    constituencies_wards: Kodich
 -
+   id: 654
    county_code: 24
    county_name: West pokot
    constituency_name: Kacheliba
    constituencies_wards: Kasei
 -
+   id: 655
    county_code: 24
    county_name: West pokot
    constituency_name: Kacheliba
    constituencies_wards: Kapchok
 -
+   id: 656
    county_code: 24
    county_name: West pokot
    constituency_name: Kacheliba
    constituencies_wards: Kiwawa
 -
+   id: 657
    county_code: 24
    county_name: West pokot
    constituency_name: Kacheliba
    constituencies_wards: Alale
 -
+   id: 658
    county_code: 24
    county_name: West pokot
    constituency_name: Pokot South
    constituencies_wards: Chepareria
 -
+   id: 659
    county_code: 24
    county_name: West pokot
    constituency_name: Pokot South
    constituencies_wards: Batei
 -
+   id: 660
    county_code: 24
    county_name: West pokot
    constituency_name: Pokot South
    constituencies_wards: Lelan
 -
+   id: 661
    county_code: 24
    county_name: West pokot
    constituency_name: Pokot South
    constituencies_wards: Tapach
 -
+   id: 662
    county_code: 25
    county_name: Samburu
    constituency_name: Samburu East
    constituencies_wards: Waso
 -
+   id: 663
    county_code: 25
    county_name: Samburu
    constituency_name: Samburu East
    constituencies_wards: Wamba West
 -
+   id: 664
    county_code: 25
    county_name: Samburu
    constituency_name: Samburu East
    constituencies_wards: Wamba East
 -
+   id: 665
    county_code: 25
    county_name: Samburu
    constituency_name: Samburu East
    constituencies_wards: Wamba North
 -
+   id: 666
    county_code: 25
    county_name: Samburu
    constituency_name: Samburu North
    constituencies_wards: El-Barta
 -
+   id: 667
    county_code: 25
    county_name: Samburu
    constituency_name: Samburu North
    constituencies_wards: Nachola
 -
+   id: 668
    county_code: 25
    county_name: Samburu
    constituency_name: Samburu North
    constituencies_wards: Ndoto
 -
+   id: 669
    county_code: 25
    county_name: Samburu
    constituency_name: Samburu North
    constituencies_wards: Nyiro
 -
+   id: 670
    county_code: 25
    county_name: Samburu
    constituency_name: Samburu North
    constituencies_wards: Angata Nanyokie
 -
+   id: 671
    county_code: 25
    county_name: Samburu
    constituency_name: Samburu North
    constituencies_wards: Baawa
 -
+   id: 672
    county_code: 25
    county_name: Samburu
    constituency_name: Samburu West
    constituencies_wards: Lodokejek
 -
+   id: 673
    county_code: 25
    county_name: Samburu
    constituency_name: Samburu West
    constituencies_wards: Suguta Marmar
 -
+   id: 674
    county_code: 25
    county_name: Samburu
    constituency_name: Samburu West
    constituencies_wards: Maralal
 -
+   id: 675
    county_code: 25
    county_name: Samburu
    constituency_name: Samburu West
    constituencies_wards: Loosuk
 -
+   id: 676
    county_code: 25
    county_name: Samburu
    constituency_name: Samburu West
    constituencies_wards: Poro
 -
+   id: 677
    county_code: 26
    county_name: Trans-Nzoia
    constituency_name: Cherang’any
    constituencies_wards: Sinyerere
 -
+   id: 678
    county_code: 26
    county_name: Trans-Nzoia
    constituency_name: Cherang’any
    constituencies_wards: Makutano
 -
+   id: 679
    county_code: 26
    county_name: Trans-Nzoia
    constituency_name: Cherang’any
    constituencies_wards: Kaplamai
 -
+   id: 680
    county_code: 26
    county_name: Trans-Nzoia
    constituency_name: Cherang’any
    constituencies_wards: Motosiet
 -
+   id: 681
    county_code: 26
    county_name: Trans-Nzoia
    constituency_name: Cherang’any
    constituencies_wards: Cherangany/Suwerwa
 -
+   id: 682
    county_code: 26
    county_name: Trans-Nzoia
    constituency_name: Cherang’any
    constituencies_wards: Chepsiro/Kiptoror
 -
+   id: 683
    county_code: 26
    county_name: Trans-Nzoia
    constituency_name: Cherang’any
    constituencies_wards: Sitatunga
 -
+   id: 684
    county_code: 26
    county_name: Trans-Nzoia
    constituency_name: Kwanza
    constituencies_wards: Kapomboi
 -
+   id: 685
    county_code: 26
    county_name: Trans-Nzoia
    constituency_name: Kwanza
    constituencies_wards: Kwanza
 -
+   id: 686
    county_code: 26
    county_name: Trans-Nzoia
    constituency_name: Kwanza
    constituencies_wards: Keiyo
 -
+   id: 687
    county_code: 26
    county_name: Trans-Nzoia
    constituency_name: Kwanza
    constituencies_wards: Bidii
 -
+   id: 688
    county_code: 26
    county_name: Trans-Nzoia
    constituency_name: Endebess
    constituencies_wards: Chepchoina
 -
+   id: 689
    county_code: 26
    county_name: Trans-Nzoia
    constituency_name: Endebess
    constituencies_wards: Endebess
 -
+   id: 690
    county_code: 26
    county_name: Trans-Nzoia
    constituency_name: Endebess
    constituencies_wards: Matumbei
 -
+   id: 691
    county_code: 26
    county_name: Trans-Nzoia
    constituency_name: Saboti
    constituencies_wards: Kinyoro
 -
+   id: 692
    county_code: 26
    county_name: Trans-Nzoia
    constituency_name: Saboti
    constituencies_wards: Matisi
 -
+   id: 693
    county_code: 26
    county_name: Trans-Nzoia
    constituency_name: Saboti
    constituencies_wards: Tuwani
 -
+   id: 694
    county_code: 26
    county_name: Trans-Nzoia
    constituency_name: Saboti
    constituencies_wards: Saboti
 -
+   id: 695
    county_code: 26
    county_name: Trans-Nzoia
    constituency_name: Saboti
    constituencies_wards: Machewa
 -
+   id: 696
    county_code: 26
    county_name: Trans-Nzoia
    constituency_name: Kiminini
    constituencies_wards: Kiminini
 -
+   id: 697
    county_code: 26
    county_name: Trans-Nzoia
    constituency_name: Kiminini
    constituencies_wards: Waitaluk
 -
+   id: 698
    county_code: 26
    county_name: Trans-Nzoia
    constituency_name: Kiminini
    constituencies_wards: Sirende
 -
+   id: 699
    county_code: 26
    county_name: Trans-Nzoia
    constituency_name: Kiminini
    constituencies_wards: Hospital
 -
+   id: 700
    county_code: 26
    county_name: Trans-Nzoia
    constituency_name: Kiminini
    constituencies_wards: Sikhendu
 -
+   id: 701
    county_code: 26
    county_name: Trans-Nzoia
    constituency_name: Kiminini
    constituencies_wards: Nabiswa
 -
+   id: 702
    county_code: 27
    county_name: Uasin Gishu
    constituency_name: Ainabkoi
    constituencies_wards: Kapsoya
 -
+   id: 703
    county_code: 27
    county_name: Uasin Gishu
    constituency_name: Ainabkoi
    constituencies_wards: Kaptagat
 -
+   id: 704
    county_code: 27
    county_name: Uasin Gishu
    constituency_name: Ainabkoi
    constituencies_wards: Ainabkoi/Olare
 -
+   id: 705
    county_code: 27
    county_name: Uasin Gishu
    constituency_name: Kapseret
    constituencies_wards: Simat/Kapseret
 -
+   id: 706
    county_code: 27
    county_name: Uasin Gishu
    constituency_name: Kapseret
    constituencies_wards: Kipkenyo
 -
+   id: 707
    county_code: 27
    county_name: Uasin Gishu
    constituency_name: Kapseret
    constituencies_wards: Ngeria
 -
+   id: 708
    county_code: 27
    county_name: Uasin Gishu
    constituency_name: Kapseret
    constituencies_wards: Megun
 -
+   id: 709
    county_code: 27
    county_name: Uasin Gishu
    constituency_name: Kapseret
    constituencies_wards: Langas
 -
+   id: 710
    county_code: 27
    county_name: Uasin Gishu
    constituency_name: Kesses
    constituencies_wards: Racecourse
 -
+   id: 711
    county_code: 27
    county_name: Uasin Gishu
    constituency_name: Kesses
    constituencies_wards: Cheptiret/Kipchamo
 -
+   id: 712
    county_code: 27
    county_name: Uasin Gishu
    constituency_name: Kesses
    constituencies_wards: Tulwet/Chuiyat
 -
+   id: 713
    county_code: 27
    county_name: Uasin Gishu
    constituency_name: Kesses
    constituencies_wards: Tarakwa
 -
+   id: 714
    county_code: 27
    county_name: Uasin Gishu
    constituency_name: Moiben
    constituencies_wards: Tembelio
 -
+   id: 715
    county_code: 27
    county_name: Uasin Gishu
    constituency_name: Moiben
    constituencies_wards: Sergoit
 -
+   id: 716
    county_code: 27
    county_name: Uasin Gishu
    constituency_name: Moiben
    constituencies_wards: Karuna/Meibeki
 -
+   id: 717
    county_code: 27
    county_name: Uasin Gishu
    constituency_name: Moiben
    constituencies_wards: Moiben
 -
+   id: 718
    county_code: 27
    county_name: Uasin Gishu
    constituency_name: Moiben
    constituencies_wards: Kimumu
 -
+   id: 719
    county_code: 27
    county_name: Uasin Gishu
    constituency_name: Soy
    constituencies_wards: Moi’s Bridge
 -
+   id: 720
    county_code: 27
    county_name: Uasin Gishu
    constituency_name: Soy
    constituencies_wards: Kapkures
 -
+   id: 721
    county_code: 27
    county_name: Uasin Gishu
    constituency_name: Soy
    constituencies_wards: Ziwa
 -
+   id: 722
    county_code: 27
    county_name: Uasin Gishu
    constituency_name: Soy
    constituencies_wards: Segero/Barsombe
 -
+   id: 723
    county_code: 27
    county_name: Uasin Gishu
    constituency_name: Soy
    constituencies_wards: Kipsom Ba
 -
+   id: 724
    county_code: 27
    county_name: Uasin Gishu
    constituency_name: Soy
    constituencies_wards: Soy
 -
+   id: 725
    county_code: 27
    county_name: Uasin Gishu
    constituency_name: Soy
    constituencies_wards: Kuinet/Kapsuswa
 -
+   id: 726
    county_code: 27
    county_name: Uasin Gishu
    constituency_name: Turbo
    constituencies_wards: Ngenyilel
 -
+   id: 727
    county_code: 27
    county_name: Uasin Gishu
    constituency_name: Turbo
    constituencies_wards: Tapsagoi
 -
+   id: 728
    county_code: 27
    county_name: Uasin Gishu
    constituency_name: Turbo
    constituencies_wards: Kamagut
 -
+   id: 729
    county_code: 27
    county_name: Uasin Gishu
    constituency_name: Turbo
    constituencies_wards: Kiplombe
 -
+   id: 730
    county_code: 27
    county_name: Uasin Gishu
    constituency_name: Turbo
    constituencies_wards: Kapsaos
 -
+   id: 731
    county_code: 27
    county_name: Uasin Gishu
    constituency_name: Turbo
    constituencies_wards: Huruma
 -
+   id: 732
    county_code: 28
    county_name: Elgeyo-Marakwet
    constituency_name: Keiyo North
    constituencies_wards: Emsoo
 -
+   id: 733
    county_code: 28
    county_name: Elgeyo-Marakwet
    constituency_name: Keiyo North
    constituencies_wards: Kamariny
 -
+   id: 734
    county_code: 28
    county_name: Elgeyo-Marakwet
    constituency_name: Keiyo North
    constituencies_wards: Kapchemutwa
 -
+   id: 735
    county_code: 28
    county_name: Elgeyo-Marakwet
    constituency_name: Keiyo North
    constituencies_wards: Tambach
 -
+   id: 736
    county_code: 28
    county_name: Elgeyo-Marakwet
    constituency_name: Keiyo South
    constituencies_wards: Kaptarakwa
 -
+   id: 737
    county_code: 28
    county_name: Elgeyo-Marakwet
    constituency_name: Keiyo South
    constituencies_wards: Chepkorio
 -
+   id: 738
    county_code: 28
    county_name: Elgeyo-Marakwet
    constituency_name: Keiyo South
    constituencies_wards: Soy North
 -
+   id: 739
    county_code: 28
    county_name: Elgeyo-Marakwet
    constituency_name: Keiyo South
    constituencies_wards: Soy South
 -
+   id: 740
    county_code: 28
    county_name: Elgeyo-Marakwet
    constituency_name: Keiyo South
    constituencies_wards: Kabiemit
 -
+   id: 741
    county_code: 28
    county_name: Elgeyo-Marakwet
    constituency_name: Keiyo South
    constituencies_wards: Metkei
 -
+   id: 742
    county_code: 28
    county_name: Elgeyo-Marakwet
    constituency_name: Marakwet East
    constituencies_wards: Kapyego
 -
+   id: 743
    county_code: 28
    county_name: Elgeyo-Marakwet
    constituency_name: Marakwet East
    constituencies_wards: Sambirir
 -
+   id: 744
    county_code: 28
    county_name: Elgeyo-Marakwet
    constituency_name: Marakwet East
    constituencies_wards: Endo
 -
+   id: 745
    county_code: 28
    county_name: Elgeyo-Marakwet
    constituency_name: Marakwet East
    constituencies_wards: Embobut / Embulot
 -
+   id: 746
    county_code: 28
    county_name: Elgeyo-Marakwet
    constituency_name: Marakwet West
    constituencies_wards: Kapsowar
 -
+   id: 747
    county_code: 28
    county_name: Elgeyo-Marakwet
    constituency_name: Marakwet West
    constituencies_wards: Lelan
 -
+   id: 748
    county_code: 28
    county_name: Elgeyo-Marakwet
    constituency_name: Marakwet West
    constituencies_wards: Sengwer
 -
+   id: 749
    county_code: 28
    county_name: Elgeyo-Marakwet
    constituency_name: Marakwet West
    constituencies_wards: Cherang’any/Chebororwa
 -
+   id: 750
    county_code: 28
    county_name: Elgeyo-Marakwet
    constituency_name: Marakwet West
    constituencies_wards: Moiben/Kuserwo
 -
+   id: 751
    county_code: 28
    county_name: Elgeyo-Marakwet
    constituency_name: Marakwet West
    constituencies_wards: Arror
 -
+   id: 752
    county_code: 29
    county_name: Nandi
    constituency_name: Aldai
    constituencies_wards: Kabwareng
 -
+   id: 753
    county_code: 29
    county_name: Nandi
    constituency_name: Aldai
    constituencies_wards: Terik
 -
+   id: 754
    county_code: 29
    county_name: Nandi
    constituency_name: Aldai
    constituencies_wards: Kemeloi-Maraba
 -
+   id: 755
    county_code: 29
    county_name: Nandi
    constituency_name: Aldai
    constituencies_wards: Kobujoi
 -
+   id: 756
    county_code: 29
    county_name: Nandi
    constituency_name: Aldai
    constituencies_wards: Kaptumo-Kaboi
 -
+   id: 757
    county_code: 29
    county_name: Nandi
    constituency_name: Aldai
    constituencies_wards: Koyo-Ndurio
 -
+   id: 758
    county_code: 29
    county_name: Nandi
    constituency_name: Chesumei
    constituencies_wards: Chemundu/Kapng’etuny
 -
+   id: 759
    county_code: 29
    county_name: Nandi
    constituency_name: Chesumei
    constituencies_wards: Kosirai
 -
+   id: 760
    county_code: 29
    county_name: Nandi
    constituency_name: Chesumei
    constituencies_wards: Lelmokwo/Ngechek
 -
+   id: 761
    county_code: 29
    county_name: Nandi
    constituency_name: Chesumei
    constituencies_wards: Kaptel/Kamoiywo
 -
+   id: 762
    county_code: 29
    county_name: Nandi
    constituency_name: Chesumei
    constituencies_wards: Kiptuya
 -
+   id: 763
    county_code: 29
    county_name: Nandi
    constituency_name: Emgwen
    constituencies_wards: Chepkumia
 -
+   id: 764
    county_code: 29
    county_name: Nandi
    constituency_name: Emgwen
    constituencies_wards: Kapkangani
 -
+   id: 765
    county_code: 29
    county_name: Nandi
    constituency_name: Emgwen
    constituencies_wards: Kapsabet
 -
+   id: 766
    county_code: 29
    county_name: Nandi
    constituency_name: Emgwen
    constituencies_wards: Kilibwoni
 -
+   id: 767
    county_code: 29
    county_name: Nandi
    constituency_name: Mosop
    constituencies_wards: Chepterwai
 -
+   id: 768
    county_code: 29
    county_name: Nandi
    constituency_name: Mosop
    constituencies_wards: Kipkaren
 -
+   id: 769
    county_code: 29
    county_name: Nandi
    constituency_name: Mosop
    constituencies_wards: Kurgung/ Surungai
 -
+   id: 770
    county_code: 29
    county_name: Nandi
    constituency_name: Mosop
    constituencies_wards: Kabiyet
 -
+   id: 771
    county_code: 29
    county_name: Nandi
    constituency_name: Mosop
    constituencies_wards: Ndalat
 -
+   id: 772
    county_code: 29
    county_name: Nandi
    constituency_name: Mosop
    constituencies_wards: Kabisaga
 -
+   id: 773
    county_code: 29
    county_name: Nandi
    constituency_name: Mosop
    constituencies_wards: Sangalo/Kebulonik
 -
+   id: 774
    county_code: 29
    county_name: Nandi
    constituency_name: Nandi Hills
    constituencies_wards: Nandi Hills
 -
+   id: 775
    county_code: 29
    county_name: Nandi
    constituency_name: Nandi Hills
    constituencies_wards: Chepkunyuk
 -
+   id: 776
    county_code: 29
    county_name: Nandi
    constituency_name: Nandi Hills
    constituencies_wards: Ol’lessos
 -
+   id: 777
    county_code: 29
    county_name: Nandi
    constituency_name: Nandi Hills
    constituencies_wards: Kapchorua
 -
+   id: 778
    county_code: 29
    county_name: Nandi
    constituency_name: Tinderet
    constituencies_wards: Songhor/Soba
 -
+   id: 779
    county_code: 29
    county_name: Nandi
    constituency_name: Tinderet
    constituencies_wards: Tindiret
 -
+   id: 780
    county_code: 29
    county_name: Nandi
    constituency_name: Tinderet
    constituencies_wards: Chemelil/Chemase
 -
+   id: 781
    county_code: 29
    county_name: Nandi
    constituency_name: Tinderet
    constituencies_wards: Kapsimotwo
 -
+   id: 782
    county_code: 30
    county_name: Baringo
    constituency_name: Baringo Central
    constituencies_wards: Kabarnet
 -
+   id: 783
    county_code: 30
    county_name: Baringo
    constituency_name: Baringo Central
    constituencies_wards: Sacho
 -
+   id: 784
    county_code: 30
    county_name: Baringo
    constituency_name: Baringo Central
    constituencies_wards: Tenges
 -
+   id: 785
    county_code: 30
    county_name: Baringo
    constituency_name: Baringo Central
    constituencies_wards: Ewalel/Chapcha
 -
+   id: 786
    county_code: 30
    county_name: Baringo
    constituency_name: Baringo Central
    constituencies_wards: Kapropita
 -
+   id: 787
    county_code: 30
    county_name: Baringo
    constituency_name: Baringo North
    constituencies_wards: Barwessa
 -
+   id: 788
    county_code: 30
    county_name: Baringo
    constituency_name: Baringo North
    constituencies_wards: Kabartonjo
 -
+   id: 789
    county_code: 30
    county_name: Baringo
    constituency_name: Baringo North
    constituencies_wards: Saimo/Kipsaraman
 -
+   id: 790
    county_code: 30
    county_name: Baringo
    constituency_name: Baringo North
    constituencies_wards: Saimo/Soi
 -
+   id: 791
    county_code: 30
    county_name: Baringo
    constituency_name: Baringo North
    constituencies_wards: Bartabwa
 -
+   id: 792
    county_code: 30
    county_name: Baringo
    constituency_name: Baringo South
    constituencies_wards: Marigat
 -
+   id: 793
    county_code: 30
    county_name: Baringo
    constituency_name: Baringo South
    constituencies_wards: Ilchamus
 -
+   id: 794
    county_code: 30
    county_name: Baringo
    constituency_name: Baringo South
    constituencies_wards: Mochongoi
 -
+   id: 795
    county_code: 30
    county_name: Baringo
    constituency_name: Baringo South
    constituencies_wards: Mukutani
 -
+   id: 796
    county_code: 30
    county_name: Baringo
    constituency_name: Eldama Ravine
    constituencies_wards: Lembus
 -
+   id: 797
    county_code: 30
    county_name: Baringo
    constituency_name: Eldama Ravine
    constituencies_wards: Lembus Kwen
 -
+   id: 798
    county_code: 30
    county_name: Baringo
    constituency_name: Eldama Ravine
    constituencies_wards: Ravine
 -
+   id: 799
    county_code: 30
    county_name: Baringo
    constituency_name: Eldama Ravine
    constituencies_wards: Mumberes/Maji Mazuri
 -
+   id: 800
    county_code: 30
    county_name: Baringo
    constituency_name: Eldama Ravine
    constituencies_wards: Lembus /Pekerra
 -
+   id: 801
    county_code: 30
    county_name: Baringo
    constituency_name: Mogotio
    constituencies_wards: Mogotio
 -
+   id: 802
    county_code: 30
    county_name: Baringo
    constituency_name: Mogotio
    constituencies_wards: Emining
 -
+   id: 803
    county_code: 30
    county_name: Baringo
    constituency_name: Mogotio
    constituencies_wards: Kisanana
 -
+   id: 804
    county_code: 30
    county_name: Baringo
    constituency_name: Tiaty
    constituencies_wards: Tirioko
 -
+   id: 805
    county_code: 30
    county_name: Baringo
    constituency_name: Tiaty
    constituencies_wards: Kolowa
 -
+   id: 806
    county_code: 30
    county_name: Baringo
    constituency_name: Tiaty
    constituencies_wards: Ribkwo
 -
+   id: 807
    county_code: 30
    county_name: Baringo
    constituency_name: Tiaty
    constituencies_wards: Silale
 -
+   id: 808
    county_code: 30
    county_name: Baringo
    constituency_name: Tiaty
    constituencies_wards: Loiyamorock
 -
+   id: 809
    county_code: 30
    county_name: Baringo
    constituency_name: Tiaty
    constituencies_wards: Tangulbei/Korossi
 -
+   id: 810
    county_code: 30
    county_name: Baringo
    constituency_name: Tiaty
    constituencies_wards: Churo/Amaya
 -
+   id: 811
    county_code: 31
    county_name: Laikipia
    constituency_name: Laikipia North
    constituencies_wards: Sosian
 -
+   id: 812
    county_code: 31
    county_name: Laikipia
    constituency_name: Laikipia North
    constituencies_wards: Segera
 -
+   id: 813
    county_code: 31
    county_name: Laikipia
    constituency_name: Laikipia North
    constituencies_wards: Mugogodo West
 -
+   id: 814
    county_code: 31
    county_name: Laikipia
    constituency_name: Laikipia North
    constituencies_wards: Mugogodo East
 -
+   id: 815
    county_code: 31
    county_name: Laikipia
    constituency_name: Laikipia East
    constituencies_wards: Ngobit
 -
+   id: 816
    county_code: 31
    county_name: Laikipia
    constituency_name: Laikipia East
    constituencies_wards: Tigithi
 -
+   id: 817
    county_code: 31
    county_name: Laikipia
    constituency_name: Laikipia East
    constituencies_wards: Thingithu
 -
+   id: 818
    county_code: 31
    county_name: Laikipia
    constituency_name: Laikipia East
    constituencies_wards: Nanyuki
 -
+   id: 819
    county_code: 31
    county_name: Laikipia
    constituency_name: Laikipia East
    constituencies_wards: Umande
 -
+   id: 820
    county_code: 31
    county_name: Laikipia
    constituency_name: Laikipia West
    constituencies_wards: Ol-Moran
 -
+   id: 821
    county_code: 31
    county_name: Laikipia
    constituency_name: Laikipia West
    constituencies_wards: Rumuruti
 -
+   id: 822
    county_code: 31
    county_name: Laikipia
    constituency_name: Laikipia West
    constituencies_wards: Township
 -
+   id: 823
    county_code: 31
    county_name: Laikipia
    constituency_name: Laikipia West
    constituencies_wards: Githiga
 -
+   id: 824
    county_code: 31
    county_name: Laikipia
    constituency_name: Laikipia West
    constituencies_wards: Marmanet
 -
+   id: 825
    county_code: 31
    county_name: Laikipia
    constituency_name: Laikipia West
    constituencies_wards: Igwamiti Salama
 -
+   id: 826
    county_code: 32
    county_name: Nakuru
    constituency_name: Nakuru Town East
    constituencies_wards: Biashara
 -
+   id: 827
    county_code: 32
    county_name: Nakuru
    constituency_name: Nakuru Town East
    constituencies_wards: Kivumbini
 -
+   id: 828
    county_code: 32
    county_name: Nakuru
    constituency_name: Nakuru Town East
    constituencies_wards: Flamingo
 -
+   id: 829
    county_code: 32
    county_name: Nakuru
    constituency_name: Nakuru Town East
    constituencies_wards: Menengai
 -
+   id: 830
    county_code: 32
    county_name: Nakuru
    constituency_name: Nakuru Town East
    constituencies_wards: Nakuru East
 -
+   id: 831
    county_code: 32
    county_name: Nakuru
    constituency_name: Nakuru Town West
    constituencies_wards: Barut
 -
+   id: 832
    county_code: 32
    county_name: Nakuru
    constituency_name: Nakuru Town West
    constituencies_wards: London
 -
+   id: 833
    county_code: 32
    county_name: Nakuru
    constituency_name: Nakuru Town West
    constituencies_wards: Kaptembwo
 -
+   id: 834
    county_code: 32
    county_name: Nakuru
    constituency_name: Nakuru Town West
    constituencies_wards: Kapkures
 -
+   id: 835
    county_code: 32
    county_name: Nakuru
    constituency_name: Nakuru Town West
    constituencies_wards: Rhoda
 -
+   id: 836
    county_code: 32
    county_name: Nakuru
    constituency_name: Nakuru Town West
    constituencies_wards: Shaabab
 -
+   id: 837
    county_code: 32
    county_name: Nakuru
    constituency_name: Njoro
    constituencies_wards: Mau Narok
 -
+   id: 838
    county_code: 32
    county_name: Nakuru
    constituency_name: Njoro
    constituencies_wards: Mauche
 -
+   id: 839
    county_code: 32
    county_name: Nakuru
    constituency_name: Njoro
    constituencies_wards: Kihingo
 -
+   id: 840
    county_code: 32
    county_name: Nakuru
    constituency_name: Njoro
    constituencies_wards: Nessuit
 -
+   id: 841
    county_code: 32
    county_name: Nakuru
    constituency_name: Njoro
    constituencies_wards: Lare
 -
+   id: 842
    county_code: 32
    county_name: Nakuru
    constituency_name: Njoro
    constituencies_wards: Njoro
 -
+   id: 843
    county_code: 32
    county_name: Nakuru
    constituency_name: Molo
    constituencies_wards: Mariashoni
 -
+   id: 844
    county_code: 32
    county_name: Nakuru
    constituency_name: Molo
    constituencies_wards: Elburgon
 -
+   id: 845
    county_code: 32
    county_name: Nakuru
    constituency_name: Molo
    constituencies_wards: Turi
 -
+   id: 846
    county_code: 32
    county_name: Nakuru
    constituency_name: Molo
    constituencies_wards: Molo
 -
+   id: 847
    county_code: 32
    county_name: Nakuru
    constituency_name: Gilgil
    constituencies_wards: Gilgil
 -
+   id: 848
    county_code: 32
    county_name: Nakuru
    constituency_name: Gilgil
    constituencies_wards: Elementaita
 -
+   id: 849
    county_code: 32
    county_name: Nakuru
    constituency_name: Gilgil
    constituencies_wards: Mbaruk/Eburu
 -
+   id: 850
    county_code: 32
    county_name: Nakuru
    constituency_name: Gilgil
    constituencies_wards: Malewa West
 -
+   id: 851
    county_code: 32
    county_name: Nakuru
    constituency_name: Gilgil
    constituencies_wards: Murindati
 -
+   id: 852
    county_code: 32
    county_name: Nakuru
    constituency_name: Naivasha
    constituencies_wards: Biashara
 -
+   id: 853
    county_code: 32
    county_name: Nakuru
    constituency_name: Naivasha
    constituencies_wards: Hells Gate
 -
+   id: 854
    county_code: 32
    county_name: Nakuru
    constituency_name: Naivasha
    constituencies_wards: Lake View
 -
+   id: 855
    county_code: 32
    county_name: Nakuru
    constituency_name: Naivasha
    constituencies_wards: Maiella
 -
+   id: 856
    county_code: 32
    county_name: Nakuru
    constituency_name: Naivasha
    constituencies_wards: Mai Mahiu
 -
+   id: 857
    county_code: 32
    county_name: Nakuru
    constituency_name: Naivasha
    constituencies_wards: Olkaria
 -
+   id: 858
    county_code: 32
    county_name: Nakuru
    constituency_name: Naivasha
    constituencies_wards: Naivasha East
 -
+   id: 859
    county_code: 32
    county_name: Nakuru
    constituency_name: Naivasha
    constituencies_wards: Viwandani
 -
+   id: 860
    county_code: 32
    county_name: Nakuru
    constituency_name: Kuresoi North
    constituencies_wards: Kiptororo
 -
+   id: 861
    county_code: 32
    county_name: Nakuru
    constituency_name: Kuresoi North
    constituencies_wards: Nyota
 -
+   id: 862
    county_code: 32
    county_name: Nakuru
    constituency_name: Kuresoi North
    constituencies_wards: Sirikwa
 -
+   id: 863
    county_code: 32
    county_name: Nakuru
    constituency_name: Kuresoi North
    constituencies_wards: Kamara
 -
+   id: 864
    county_code: 32
    county_name: Nakuru
    constituency_name: Kuresoi South
    constituencies_wards: Amalo
 -
+   id: 865
    county_code: 32
    county_name: Nakuru
    constituency_name: Kuresoi South
    constituencies_wards: Keringet
 -
+   id: 866
    county_code: 32
    county_name: Nakuru
    constituency_name: Kuresoi South
    constituencies_wards: Kiptagich
 -
+   id: 867
    county_code: 32
    county_name: Nakuru
    constituency_name: Kuresoi South
    constituencies_wards: Tinet
 -
+   id: 868
    county_code: 32
    county_name: Nakuru
    constituency_name: Bahati
    constituencies_wards: Dundori
 -
+   id: 869
    county_code: 32
    county_name: Nakuru
    constituency_name: Bahati
    constituencies_wards: Kabatini
 -
+   id: 870
    county_code: 32
    county_name: Nakuru
    constituency_name: Bahati
    constituencies_wards: Kiamaina
 -
+   id: 871
    county_code: 32
    county_name: Nakuru
    constituency_name: Bahati
    constituencies_wards: Lanet/Umoja
 -
+   id: 872
    county_code: 32
    county_name: Nakuru
    constituency_name: Bahati
    constituencies_wards: Bahati
 -
+   id: 873
    county_code: 32
    county_name: Nakuru
    constituency_name: Rongai
    constituencies_wards: Menengai West
 -
+   id: 874
    county_code: 32
    county_name: Nakuru
    constituency_name: Rongai
    constituencies_wards: Soin
 -
+   id: 875
    county_code: 32
    county_name: Nakuru
    constituency_name: Rongai
    constituencies_wards: Visoi
 -
+   id: 876
    county_code: 32
    county_name: Nakuru
    constituency_name: Rongai
    constituencies_wards: Mosop
 -
+   id: 877
    county_code: 32
    county_name: Nakuru
    constituency_name: Rongai
    constituencies_wards: Solai
 -
+   id: 878
    county_code: 32
    county_name: Nakuru
    constituency_name: Subukia
    constituencies_wards: Subukia
 -
+   id: 879
    county_code: 32
    county_name: Nakuru
    constituency_name: Subukia
    constituencies_wards: Waseges
 -
+   id: 880
    county_code: 32
    county_name: Nakuru
    constituency_name: Subukia
    constituencies_wards: Kabazi
 -
+   id: 881
    county_code: 33
    county_name: Narok
    constituency_name: Narok North
    constituencies_wards: Olpusimoru
 -
+   id: 882
    county_code: 33
    county_name: Narok
    constituency_name: Narok North
    constituencies_wards: Olokurto
 -
+   id: 883
    county_code: 33
    county_name: Narok
    constituency_name: Narok North
    constituencies_wards: Narok Town
 -
+   id: 884
    county_code: 33
    county_name: Narok
    constituency_name: Narok North
    constituencies_wards: Nkareta’Olorropil
 -
+   id: 885
    county_code: 33
    county_name: Narok
    constituency_name: Narok North
    constituencies_wards: Melili
 -
+   id: 886
    county_code: 33
    county_name: Narok
    constituency_name: Narok South
    constituencies_wards: Majimoto/Naroos
 -
+   id: 887
    county_code: 33
    county_name: Narok
    constituency_name: Narok South
    constituencies_wards: Uraololulung’a
 -
+   id: 888
    county_code: 33
    county_name: Narok
    constituency_name: Narok South
    constituencies_wards: Melelo
 -
+   id: 889
    county_code: 33
    county_name: Narok
    constituency_name: Narok South
    constituencies_wards: Loita
 -
+   id: 890
    county_code: 33
    county_name: Narok
    constituency_name: Narok South
    constituencies_wards: Sogoo
 -
+   id: 891
    county_code: 33
    county_name: Narok
    constituency_name: Narok South
    constituencies_wards: Sagamian
 -
+   id: 892
    county_code: 33
    county_name: Narok
    constituency_name: Narok East
    constituencies_wards: Mosiro
 -
+   id: 893
    county_code: 33
    county_name: Narok
    constituency_name: Narok East
    constituencies_wards: Ildamat
 -
+   id: 894
    county_code: 33
    county_name: Narok
    constituency_name: Narok East
    constituencies_wards: Keekonyokie
 -
+   id: 895
    county_code: 33
    county_name: Narok
    constituency_name: Narok East
    constituencies_wards: Suswa
 -
+   id: 896
    county_code: 33
    county_name: Narok
    constituency_name: Narok West
    constituencies_wards: Ilmotiok
 -
+   id: 897
    county_code: 33
    county_name: Narok
    constituency_name: Narok West
    constituencies_wards: Mara
 -
+   id: 898
    county_code: 33
    county_name: Narok
    constituency_name: Narok West
    constituencies_wards: Siana
 -
+   id: 899
    county_code: 33
    county_name: Narok
    constituency_name: Narok West
    constituencies_wards: Naikarra
 -
+   id: 900
    county_code: 33
    county_name: Narok
    constituency_name: Kilgoris
    constituencies_wards: Kilgoris Central
 -
+   id: 901
    county_code: 33
    county_name: Narok
    constituency_name: Kilgoris
    constituencies_wards: Keyian
 -
+   id: 902
    county_code: 33
    county_name: Narok
    constituency_name: Kilgoris
    constituencies_wards: Angata Barikoi
 -
+   id: 903
    county_code: 33
    county_name: Narok
    constituency_name: Kilgoris
    constituencies_wards: Shankoe
 -
+   id: 904
    county_code: 33
    county_name: Narok
    constituency_name: Kilgoris
    constituencies_wards: Kimintet
 -
+   id: 905
    county_code: 33
    county_name: Narok
    constituency_name: Kilgoris
    constituencies_wards: Lolgorian
 -
+   id: 906
    county_code: 33
    county_name: Narok
    constituency_name: Emurua Dikirr
    constituencies_wards: Ilkerin
 -
+   id: 907
    county_code: 33
    county_name: Narok
    constituency_name: Emurua Dikirr
    constituencies_wards: Ololmasani
 -
+   id: 908
    county_code: 33
    county_name: Narok
    constituency_name: Emurua Dikirr
    constituencies_wards: Mogondo
 -
+   id: 909
    county_code: 33
    county_name: Narok
    constituency_name: Emurua Dikirr
    constituencies_wards: Kapsasian
 -
+   id: 910
    county_code: 34
    county_name: Kajiado
    constituency_name: Kajiado Central
    constituencies_wards: Purko
 -
+   id: 911
    county_code: 34
    county_name: Kajiado
    constituency_name: Kajiado Central
    constituencies_wards: Ildamat
 -
+   id: 912
    county_code: 34
    county_name: Kajiado
    constituency_name: Kajiado Central
    constituencies_wards: Dalalekutuk
 -
+   id: 913
    county_code: 34
    county_name: Kajiado
    constituency_name: Kajiado Central
    constituencies_wards: Matapato North
 -
+   id: 914
    county_code: 34
    county_name: Kajiado
    constituency_name: Kajiado Central
    constituencies_wards: Matapato South
 -
+   id: 915
    county_code: 34
    county_name: Kajiado
    constituency_name: Kajiado East
    constituencies_wards: Kaputiei North
 -
+   id: 916
    county_code: 34
    county_name: Kajiado
    constituency_name: Kajiado East
    constituencies_wards: Kitengela
 -
+   id: 917
    county_code: 34
    county_name: Kajiado
    constituency_name: Kajiado East
    constituencies_wards: Oloosirkon/Sholinke
 -
+   id: 918
    county_code: 34
    county_name: Kajiado
    constituency_name: Kajiado East
    constituencies_wards: Kenyawa-Poka
 -
+   id: 919
    county_code: 34
    county_name: Kajiado
    constituency_name: Kajiado East
    constituencies_wards: Imaroro
 -
+   id: 920
    county_code: 34
    county_name: Kajiado
    constituency_name: Kajiado North
    constituencies_wards: Olkeri
 -
+   id: 921
    county_code: 34
    county_name: Kajiado
    constituency_name: Kajiado North
    constituencies_wards: Ongata Rongai
 -
+   id: 922
    county_code: 34
    county_name: Kajiado
    constituency_name: Kajiado North
    constituencies_wards: Nkaimurunya
 -
+   id: 923
    county_code: 34
    county_name: Kajiado
    constituency_name: Kajiado North
    constituencies_wards: Oloolua
 -
+   id: 924
    county_code: 34
    county_name: Kajiado
    constituency_name: Kajiado North
    constituencies_wards: Ngong
 -
+   id: 925
    county_code: 34
    county_name: Kajiado
    constituency_name: Kajiado West
    constituencies_wards: Keekonyokie
 -
+   id: 926
    county_code: 34
    county_name: Kajiado
    constituency_name: Kajiado West
    constituencies_wards: Iloodokilani
 -
+   id: 927
    county_code: 34
    county_name: Kajiado
    constituency_name: Kajiado West
    constituencies_wards: Magadi
 -
+   id: 928
    county_code: 34
    county_name: Kajiado
    constituency_name: Kajiado West
    constituencies_wards: Ewuaso Oonkidong’i
 -
+   id: 929
    county_code: 34
    county_name: Kajiado
    constituency_name: Kajiado West
    constituencies_wards: Mosiro
 -
+   id: 930
    county_code: 34
    county_name: Kajiado
    constituency_name: Kajiado South
    constituencies_wards: Entonet/Lenkisi
 -
+   id: 931
    county_code: 34
    county_name: Kajiado
    constituency_name: Kajiado South
    constituencies_wards: Mbirikani/Eselen
 -
+   id: 932
    county_code: 34
    county_name: Kajiado
    constituency_name: Kajiado South
    constituencies_wards: Keikuku
 -
+   id: 933
    county_code: 34
    county_name: Kajiado
    constituency_name: Kajiado South
    constituencies_wards: Rombo
 -
+   id: 934
    county_code: 34
    county_name: Kajiado
    constituency_name: Kajiado South
    constituencies_wards: Kimana
 -
+   id: 935
    county_code: 35
    county_name: Kericho
    constituency_name: Ainamoi
    constituencies_wards: Kapsoit
 -
+   id: 936
    county_code: 35
    county_name: Kericho
    constituency_name: Ainamoi
    constituencies_wards: Ainamoi
 -
+   id: 937
    county_code: 35
    county_name: Kericho
    constituency_name: Ainamoi
    constituencies_wards: Kipchebor
 -
+   id: 938
    county_code: 35
    county_name: Kericho
    constituency_name: Ainamoi
    constituencies_wards: Kapkugerwet
 -
+   id: 939
    county_code: 35
    county_name: Kericho
    constituency_name: Ainamoi
    constituencies_wards: Kipchimchim
 -
+   id: 940
    county_code: 35
    county_name: Kericho
    constituency_name: Ainamoi
    constituencies_wards: Kapsaos
 -
+   id: 941
    county_code: 35
    county_name: Kericho
    constituency_name: Belgut
    constituencies_wards: Waldai
 -
+   id: 942
    county_code: 35
    county_name: Kericho
    constituency_name: Belgut
    constituencies_wards: Kabianga
 -
+   id: 943
    county_code: 35
    county_name: Kericho
    constituency_name: Belgut
    constituencies_wards: Cheptororiet/Seretut
 -
+   id: 944
    county_code: 35
    county_name: Kericho
    constituency_name: Belgut
    constituencies_wards: Chaik
 -
+   id: 945
    county_code: 35
    county_name: Kericho
    constituency_name: Belgut
    constituencies_wards: Kapsuser
 -
+   id: 946
    county_code: 35
    county_name: Kericho
    constituency_name: Bureti
    constituencies_wards: Kisiara
 -
+   id: 947
    county_code: 35
    county_name: Kericho
    constituency_name: Bureti
    constituencies_wards: Tebesonik
 -
+   id: 948
    county_code: 35
    county_name: Kericho
    constituency_name: Bureti
    constituencies_wards: Cheboin
 -
+   id: 949
    county_code: 35
    county_name: Kericho
    constituency_name: Bureti
    constituencies_wards: Chemosot
 -
+   id: 950
    county_code: 35
    county_name: Kericho
    constituency_name: Bureti
    constituencies_wards: Litein
 -
+   id: 951
    county_code: 35
    county_name: Kericho
    constituency_name: Bureti
    constituencies_wards: Cheplanget
 -
+   id: 952
    county_code: 35
    county_name: Kericho
    constituency_name: Bureti
    constituencies_wards: Kapkatet
 -
+   id: 953
    county_code: 35
    county_name: Kericho
    constituency_name: Kipkelion East
    constituencies_wards: Londiani
 -
+   id: 954
    county_code: 35
    county_name: Kericho
    constituency_name: Kipkelion East
    constituencies_wards: Kedowa/Kimugul
 -
+   id: 955
    county_code: 35
    county_name: Kericho
    constituency_name: Kipkelion East
    constituencies_wards: Chepseon
 -
+   id: 956
    county_code: 35
    county_name: Kericho
    constituency_name: Kipkelion East
    constituencies_wards: Tendeno/Sorget
 -
+   id: 957
    county_code: 35
    county_name: Kericho
    constituency_name: Kipkelion West
    constituencies_wards: Kunyak
 -
+   id: 958
    county_code: 35
    county_name: Kericho
    constituency_name: Kipkelion West
    constituencies_wards: Kamasian
 -
+   id: 959
    county_code: 35
    county_name: Kericho
    constituency_name: Kipkelion West
    constituencies_wards: Kipkelion
 -
+   id: 960
    county_code: 35
    county_name: Kericho
    constituency_name: Kipkelion West
    constituencies_wards: Chilchila
 -
+   id: 961
    county_code: 35
    county_name: Kericho
    constituency_name: Soin Sigowet
    constituencies_wards: Sigowet
 -
+   id: 962
    county_code: 35
    county_name: Kericho
    constituency_name: Soin Sigowet
    constituencies_wards: Kaplelartet
 -
+   id: 963
    county_code: 35
    county_name: Kericho
    constituency_name: Soin Sigowet
    constituencies_wards: Soliat
 -
+   id: 964
    county_code: 35
    county_name: Kericho
    constituency_name: Soin Sigowet
    constituencies_wards: Soin
 -
+   id: 965
    county_code: 36
    county_name: Bomet
    constituency_name: Sotik
    constituencies_wards: Ndanai/Abosi
 -
+   id: 966
    county_code: 36
    county_name: Bomet
    constituency_name: Sotik
    constituencies_wards: Chemagel
 -
+   id: 967
    county_code: 36
    county_name: Bomet
    constituency_name: Sotik
    constituencies_wards: Kipsonoi
 -
+   id: 968
    county_code: 36
    county_name: Bomet
    constituency_name: Sotik
    constituencies_wards: Apletundo
 -
+   id: 969
    county_code: 36
    county_name: Bomet
    constituency_name: Sotik
    constituencies_wards: Rongena/Manare T
 -
+   id: 970
    county_code: 36
    county_name: Bomet
    constituency_name: Bomet Central
    constituencies_wards: Silibwet Township
 -
+   id: 971
    county_code: 36
    county_name: Bomet
    constituency_name: Bomet Central
    constituencies_wards: Ndaraweta
 -
+   id: 972
    county_code: 36
    county_name: Bomet
    constituency_name: Bomet Central
    constituencies_wards: Singorwet
 -
+   id: 973
    county_code: 36
    county_name: Bomet
    constituency_name: Bomet Central
    constituencies_wards: Chesoen
 -
+   id: 974
    county_code: 36
    county_name: Bomet
    constituency_name: Bomet Central
    constituencies_wards: Mutarakwa
 -
+   id: 975
    county_code: 36
    county_name: Bomet
    constituency_name: Bomet East
    constituencies_wards: Merigi
 -
+   id: 976
    county_code: 36
    county_name: Bomet
    constituency_name: Bomet East
    constituencies_wards: Kembu
 -
+   id: 977
    county_code: 36
    county_name: Bomet
    constituency_name: Bomet East
    constituencies_wards: Longisa
 -
+   id: 978
    county_code: 36
    county_name: Bomet
    constituency_name: Bomet East
    constituencies_wards: Kipreres
 -
+   id: 979
    county_code: 36
    county_name: Bomet
    constituency_name: Bomet East
    constituencies_wards: Chemaner
 -
+   id: 980
    county_code: 36
    county_name: Bomet
    constituency_name: Chepalungu
    constituencies_wards: Kong’asis
 -
+   id: 981
    county_code: 36
    county_name: Bomet
    constituency_name: Chepalungu
    constituencies_wards: Nyangores
 -
+   id: 982
    county_code: 36
    county_name: Bomet
    constituency_name: Chepalungu
    constituencies_wards: Sigor
 -
+   id: 983
    county_code: 36
    county_name: Bomet
    constituency_name: Chepalungu
    constituencies_wards: Chebunyo
 -
+   id: 984
    county_code: 36
    county_name: Bomet
    constituency_name: Chepalungu
    constituencies_wards: Siongiroi
 -
+   id: 985
    county_code: 36
    county_name: Bomet
    constituency_name: Konoin
    constituencies_wards: Chepchabas
 -
+   id: 986
    county_code: 36
    county_name: Bomet
    constituency_name: Konoin
    constituencies_wards: Kimulot
 -
+   id: 987
    county_code: 36
    county_name: Bomet
    constituency_name: Konoin
    constituencies_wards: Mogogosiek
 -
+   id: 988
    county_code: 36
    county_name: Bomet
    constituency_name: Konoin
    constituencies_wards: Boito
 -
+   id: 989
    county_code: 36
    county_name: Bomet
    constituency_name: Konoin
    constituencies_wards: Embomos
 -
+   id: 990
    county_code: 37
    county_name: Kakamega
    constituency_name: Butere
    constituencies_wards: Marama West
 -
+   id: 991
    county_code: 37
    county_name: Kakamega
    constituency_name: Butere
    constituencies_wards: Marama Central
 -
+   id: 992
    county_code: 37
    county_name: Kakamega
    constituency_name: Butere
    constituencies_wards: Marenyo-Shianda
 -
+   id: 993
    county_code: 37
    county_name: Kakamega
    constituency_name: Butere
    constituencies_wards: Maram North
 -
+   id: 994
    county_code: 37
    county_name: Kakamega
    constituency_name: Butere
    constituencies_wards: Marama South
 -
+   id: 995
    county_code: 37
    county_name: Kakamega
    constituency_name: Ikolomani
    constituencies_wards: Idakho South
 -
+   id: 996
    county_code: 37
    county_name: Kakamega
    constituency_name: Ikolomani
    constituencies_wards: Idakho East
 -
+   id: 997
    county_code: 37
    county_name: Kakamega
    constituency_name: Ikolomani
    constituencies_wards: Idakho North
 -
+   id: 998
    county_code: 37
    county_name: Kakamega
    constituency_name: Ikolomani
    constituencies_wards: Idakho Central
 -
+   id: 999
    county_code: 37
    county_name: Kakamega
    constituency_name: Khwisero
    constituencies_wards: Kisa North
 -
+   id: 1000
    county_code: 37
    county_name: Kakamega
    constituency_name: Khwisero
    constituencies_wards: Kisa East
 -
+   id: 1001
    county_code: 37
    county_name: Kakamega
    constituency_name: Khwisero
    constituencies_wards: Kisa West
 -
+   id: 1002
    county_code: 37
    county_name: Kakamega
    constituency_name: Khwisero
    constituencies_wards: Kisa Central
 -
+   id: 1003
    county_code: 37
    county_name: Kakamega
    constituency_name: Lurambi
    constituencies_wards: Butsotso East
 -
+   id: 1004
    county_code: 37
    county_name: Kakamega
    constituency_name: Lurambi
    constituencies_wards: Butsotso South
 -
+   id: 1005
    county_code: 37
    county_name: Kakamega
    constituency_name: Lurambi
    constituencies_wards: Butsotso Central
 -
+   id: 1006
    county_code: 37
    county_name: Kakamega
    constituency_name: Lurambi
    constituencies_wards: Sheywe
 -
+   id: 1007
    county_code: 37
    county_name: Kakamega
    constituency_name: Lurambi
    constituencies_wards: Mahiakalo
 -
+   id: 1008
    county_code: 37
    county_name: Kakamega
    constituency_name: Lurambi
    constituencies_wards: Shirere
 -
+   id: 1009
    county_code: 37
    county_name: Kakamega
    constituency_name: Likuyani
    constituencies_wards: Likuyani
 -
+   id: 1010
    county_code: 37
    county_name: Kakamega
    constituency_name: Likuyani
    constituencies_wards: Sango
 -
+   id: 1011
    county_code: 37
    county_name: Kakamega
    constituency_name: Likuyani
    constituencies_wards: Kongoni
 -
+   id: 1012
    county_code: 37
    county_name: Kakamega
    constituency_name: Likuyani
    constituencies_wards: Nzoia
 -
+   id: 1013
    county_code: 37
    county_name: Kakamega
    constituency_name: Likuyani
    constituencies_wards: Sinoko
 -
+   id: 1014
    county_code: 37
    county_name: Kakamega
    constituency_name: Malava
    constituencies_wards: West Kabras
 -
+   id: 1015
    county_code: 37
    county_name: Kakamega
    constituency_name: Malava
    constituencies_wards: Chemuche East
 -
+   id: 1016
    county_code: 37
    county_name: Kakamega
    constituency_name: Malava
    constituencies_wards: Kabras
 -
+   id: 1017
    county_code: 37
    county_name: Kakamega
    constituency_name: Malava
    constituencies_wards: Butali/Chegulo
 -
+   id: 1018
    county_code: 37
    county_name: Kakamega
    constituency_name: Malava
    constituencies_wards: Manda-Shivanga
 -
+   id: 1019
    county_code: 37
    county_name: Kakamega
    constituency_name: Malava
    constituencies_wards: Shirugu-Mugai
 -
+   id: 1020
    county_code: 37
    county_name: Kakamega
    constituency_name: Malava
    constituencies_wards: South Kabras
 -
+   id: 1021
    county_code: 37
    county_name: Kakamega
    constituency_name: Matungu
    constituencies_wards: Koyonzo
 -
+   id: 1022
    county_code: 37
    county_name: Kakamega
    constituency_name: Matungu
    constituencies_wards: Kholera
 -
+   id: 1023
    county_code: 37
    county_name: Kakamega
    constituency_name: Matungu
    constituencies_wards: Khalaba
 -
+   id: 1024
    county_code: 37
    county_name: Kakamega
    constituency_name: Matungu
    constituencies_wards: Mayoni
 -
+   id: 1025
    county_code: 37
    county_name: Kakamega
    constituency_name: Matungu
    constituencies_wards: Namamali
 -
+   id: 1026
    county_code: 37
    county_name: Kakamega
    constituency_name: Mumias East
    constituencies_wards: Lusheya/Lubinu
 -
+   id: 1027
    county_code: 37
    county_name: Kakamega
    constituency_name: Mumias East
    constituencies_wards: Malaha/Isongo/Makunga
 -
+   id: 1028
    county_code: 37
    county_name: Kakamega
    constituency_name: Mumias East
    constituencies_wards: East Wanga
 -
+   id: 1029
    county_code: 37
    county_name: Kakamega
    constituency_name: Mumias West
    constituencies_wards: Mumias Central
 -
+   id: 1030
    county_code: 37
    county_name: Kakamega
    constituency_name: Mumias West
    constituencies_wards: Mumias North
 -
+   id: 1031
    county_code: 37
    county_name: Kakamega
    constituency_name: Mumias West
    constituencies_wards: Etenje
 -
+   id: 1032
    county_code: 37
    county_name: Kakamega
    constituency_name: Mumias West
    constituencies_wards: Musanda
 -
+   id: 1033
    county_code: 37
    county_name: Kakamega
    constituency_name: Navakholo
    constituencies_wards: Ingostse-Mathia
 -
+   id: 1034
    county_code: 37
    county_name: Kakamega
    constituency_name: Navakholo
    constituencies_wards: Shinoyi-Shikomari
 -
+   id: 1035
    county_code: 37
    county_name: Kakamega
    constituency_name: Navakholo
    constituencies_wards: Esumeyia
 -
+   id: 1036
    county_code: 37
    county_name: Kakamega
    constituency_name: Navakholo
    constituencies_wards: Bunyala West
 -
+   id: 1037
    county_code: 37
    county_name: Kakamega
    constituency_name: Navakholo
    constituencies_wards: Bunyal East
 -
+   id: 1038
    county_code: 37
    county_name: Kakamega
    constituency_name: Navakholo
    constituencies_wards: Bunyala Central
 -
+   id: 1039
    county_code: 37
    county_name: Kakamega
    constituency_name: Lugari
    constituencies_wards: Mautuma
 -
+   id: 1040
    county_code: 37
    county_name: Kakamega
    constituency_name: Lugari
    constituencies_wards: Lugari
 -
+   id: 1041
    county_code: 37
    county_name: Kakamega
    constituency_name: Lugari
    constituencies_wards: Lumakanda
 -
+   id: 1042
    county_code: 37
    county_name: Kakamega
    constituency_name: Lugari
    constituencies_wards: Chekalini
 -
+   id: 1043
    county_code: 37
    county_name: Kakamega
    constituency_name: Lugari
    constituencies_wards: Chevaywa
 -
+   id: 1044
    county_code: 37
    county_name: Kakamega
    constituency_name: Lugari
    constituencies_wards: Lawandeti
 -
+   id: 1045
    county_code: 37
    county_name: Kakamega
    constituency_name: Shinyalu
    constituencies_wards: Mautuma
 -
+   id: 1046
    county_code: 37
    county_name: Kakamega
    constituency_name: Shinyalu
    constituencies_wards: Lugari
 -
+   id: 1047
    county_code: 37
    county_name: Kakamega
    constituency_name: Shinyalu
    constituencies_wards: Lumakanda
 -
+   id: 1048
    county_code: 37
    county_name: Kakamega
    constituency_name: Shinyalu
    constituencies_wards: Chekalini
 -
+   id: 1049
    county_code: 37
    county_name: Kakamega
    constituency_name: Shinyalu
    constituencies_wards: Chevaywa
 -
+   id: 1050
    county_code: 37
    county_name: Kakamega
    constituency_name: Shinyalu
    constituencies_wards: Lawandeti
 -
+   id: 1051
    county_code: 38
    county_name: Vihiga
    constituency_name: Emuhaya
    constituencies_wards: North East Bunyore
 -
+   id: 1052
    county_code: 38
    county_name: Vihiga
    constituency_name: Emuhaya
    constituencies_wards: Central Bunyore
 -
+   id: 1053
    county_code: 38
    county_name: Vihiga
    constituency_name: Emuhaya
    constituencies_wards: West Bunyore
 -
+   id: 1054
    county_code: 38
    county_name: Vihiga
    constituency_name: Hamisi
    constituencies_wards: Shiru
 -
+   id: 1055
    county_code: 38
    county_name: Vihiga
    constituency_name: Hamisi
    constituencies_wards: Gisambai
 -
+   id: 1056
    county_code: 38
    county_name: Vihiga
    constituency_name: Hamisi
    constituencies_wards: Shamakhokho
 -
+   id: 1057
    county_code: 38
    county_name: Vihiga
    constituency_name: Hamisi
    constituencies_wards: Banja
 -
+   id: 1058
    county_code: 38
    county_name: Vihiga
    constituency_name: Hamisi
    constituencies_wards: Muhudi
 -
+   id: 1059
    county_code: 38
    county_name: Vihiga
    constituency_name: Hamisi
    constituencies_wards: Tambaa
 -
+   id: 1060
    county_code: 38
    county_name: Vihiga
    constituency_name: Hamisi
    constituencies_wards: Jepkoyai
 -
+   id: 1061
    county_code: 38
    county_name: Vihiga
    constituency_name: Sabatia
    constituencies_wards: Lyaduywa/Izava
 -
+   id: 1062
    county_code: 38
    county_name: Vihiga
    constituency_name: Sabatia
    constituencies_wards: West Sabatia
 -
+   id: 1063
    county_code: 38
    county_name: Vihiga
    constituency_name: Sabatia
    constituencies_wards: Chavakali
 -
+   id: 1064
    county_code: 38
    county_name: Vihiga
    constituency_name: Sabatia
    constituencies_wards: North Maragoli
 -
+   id: 1065
    county_code: 38
    county_name: Vihiga
    constituency_name: Sabatia
    constituencies_wards: Wodanga
 -
+   id: 1066
    county_code: 38
    county_name: Vihiga
    constituency_name: Sabatia
    constituencies_wards: Busali
 -
+   id: 1067
    county_code: 38
    county_name: Vihiga
    constituency_name: Vihiga
    constituencies_wards: Lugaga-Wamuluma
 -
+   id: 1068
    county_code: 38
    county_name: Vihiga
    constituency_name: Vihiga
    constituencies_wards: South Maragoli
 -
+   id: 1069
    county_code: 38
    county_name: Vihiga
    constituency_name: Vihiga
    constituencies_wards: Central Maragoli
 -
+   id: 1070
    county_code: 38
    county_name: Vihiga
    constituency_name: Vihiga
    constituencies_wards: Mungoma
 -
+   id: 1071
    county_code: 38
    county_name: Vihiga
    constituency_name: Luanda
    constituencies_wards: Luanda Township
 -
+   id: 1072
    county_code: 38
    county_name: Vihiga
    constituency_name: Luanda
    constituencies_wards: Wemilabi
 -
+   id: 1073
    county_code: 38
    county_name: Vihiga
    constituency_name: Luanda
    constituencies_wards: Mwibona
 -
+   id: 1074
    county_code: 38
    county_name: Vihiga
    constituency_name: Luanda
    constituencies_wards: Luanda South
 -
+   id: 1075
    county_code: 38
    county_name: Vihiga
    constituency_name: Luanda
    constituencies_wards: Emabungo
 -
+   id: 1076
    county_code: 39
    county_name: Bungoma
    constituency_name: Bumula
    constituencies_wards: Bumula
 -
+   id: 1077
    county_code: 39
    county_name: Bungoma
    constituency_name: Bumula
    constituencies_wards: Khasoko
 -
+   id: 1078
    county_code: 39
    county_name: Bungoma
    constituency_name: Bumula
    constituencies_wards: Kabula
 -
+   id: 1079
    county_code: 39
    county_name: Bungoma
    constituency_name: Bumula
    constituencies_wards: Kimaeti
 -
+   id: 1080
    county_code: 39
    county_name: Bungoma
    constituency_name: Bumula
    constituencies_wards: South Bukusu
 -
+   id: 1081
    county_code: 39
    county_name: Bungoma
    constituency_name: Bumula
    constituencies_wards: Siboti
 -
+   id: 1082
    county_code: 39
    county_name: Bungoma
    constituency_name: Kanduyi
    constituencies_wards: Bukembe West
 -
+   id: 1083
    county_code: 39
    county_name: Bungoma
    constituency_name: Kanduyi
    constituencies_wards: Bukembe East
 -
+   id: 1084
    county_code: 39
    county_name: Bungoma
    constituency_name: Kanduyi
    constituencies_wards: Township
 -
+   id: 1085
    county_code: 39
    county_name: Bungoma
    constituency_name: Kanduyi
    constituencies_wards: Khalaba
 -
+   id: 1086
    county_code: 39
    county_name: Bungoma
    constituency_name: Kanduyi
    constituencies_wards: Musikoma
 -
+   id: 1087
    county_code: 39
    county_name: Bungoma
    constituency_name: Kanduyi
    constituencies_wards: East Snag’alo
 -
+   id: 1088
    county_code: 39
    county_name: Bungoma
    constituency_name: Kanduyi
    constituencies_wards: Marakatu
 -
+   id: 1089
    county_code: 39
    county_name: Bungoma
    constituency_name: Kanduyi
    constituencies_wards: Tuuti
 -
+   id: 1090
    county_code: 39
    county_name: Bungoma
    constituency_name: Kanduyi
    constituencies_wards: West Sang’alo
 -
+   id: 1091
    county_code: 39
    county_name: Bungoma
    constituency_name: Webuye East
    constituencies_wards: Mihuu
 -
+   id: 1092
    county_code: 39
    county_name: Bungoma
    constituency_name: Webuye East
    constituencies_wards: Ndivisi
 -
+   id: 1093
    county_code: 39
    county_name: Bungoma
    constituency_name: Webuye East
    constituencies_wards: Maraka
 -
+   id: 1094
    county_code: 39
    county_name: Bungoma
    constituency_name: Webuye West
    constituencies_wards: Sitikho
 -
+   id: 1095
    county_code: 39
    county_name: Bungoma
    constituency_name: Webuye West
    constituencies_wards: Matulo
 -
+   id: 1096
    county_code: 39
    county_name: Bungoma
    constituency_name: Webuye West
    constituencies_wards: Bokoli
 -
+   id: 1097
    county_code: 39
    county_name: Bungoma
    constituency_name: Mt. Elgon
    constituencies_wards: Cheptais
 -
+   id: 1098
    county_code: 39
    county_name: Bungoma
    constituency_name: Mt. Elgon
    constituencies_wards: Chesikaki
 -
+   id: 1099
    county_code: 39
    county_name: Bungoma
    constituency_name: Mt. Elgon
    constituencies_wards: Chepyuk
 -
+   id: 1100
    county_code: 39
    county_name: Bungoma
    constituency_name: Mt. Elgon
    constituencies_wards: Kapkateny
 -
+   id: 1101
    county_code: 39
    county_name: Bungoma
    constituency_name: Mt. Elgon
    constituencies_wards: Kaptama
 -
+   id: 1102
    county_code: 39
    county_name: Bungoma
    constituency_name: Mt. Elgon
    constituencies_wards: Elgon
 -
+   id: 1103
    county_code: 39
    county_name: Bungoma
    constituency_name: Sirisia
    constituencies_wards: Namwela
 -
+   id: 1104
    county_code: 39
    county_name: Bungoma
    constituency_name: Sirisia
    constituencies_wards: Malakisi/South Kulisiru
 -
+   id: 1105
    county_code: 39
    county_name: Bungoma
    constituency_name: Sirisia
    constituencies_wards: Lwandanyi
 -
+   id: 1106
    county_code: 39
    county_name: Bungoma
    constituency_name: Tongaren
    constituencies_wards: Mbakalo
 -
+   id: 1107
    county_code: 39
    county_name: Bungoma
    constituency_name: Tongaren
    constituencies_wards: Naitiri/Kabuyefwe
 -
+   id: 1108
    county_code: 39
    county_name: Bungoma
    constituency_name: Tongaren
    constituencies_wards: Milima
 -
+   id: 1109
    county_code: 39
    county_name: Bungoma
    constituency_name: Tongaren
    constituencies_wards: Ndalu/Tabani
 -
+   id: 1110
    county_code: 39
    county_name: Bungoma
    constituency_name: Tongaren
    constituencies_wards: Tongaren
 -
+   id: 1111
    county_code: 39
    county_name: Bungoma
    constituency_name: Tongaren
    constituencies_wards: Soysambu/Mitua
 -
+   id: 1112
    county_code: 39
    county_name: Bungoma
    constituency_name: Kabuchai
    constituencies_wards: Kabuchai/Chwele
 -
+   id: 1113
    county_code: 39
    county_name: Bungoma
    constituency_name: Kabuchai
    constituencies_wards: West Nalondo
 -
+   id: 1114
    county_code: 39
    county_name: Bungoma
    constituency_name: Kabuchai
    constituencies_wards: Bwake/Luuya
 -
+   id: 1115
    county_code: 39
    county_name: Bungoma
    constituency_name: Kabuchai
    constituencies_wards: Mukuyuni
 -
+   id: 1116
    county_code: 39
    county_name: Bungoma
    constituency_name: Kabuchai
    constituencies_wards: South Bukusu
 -
+   id: 1117
    county_code: 39
    county_name: Bungoma
    constituency_name: Kimilili
    constituencies_wards: Kibingei
 -
+   id: 1118
    county_code: 39
    county_name: Bungoma
    constituency_name: Kimilili
    constituencies_wards: Kimilili
 -
+   id: 1119
    county_code: 39
    county_name: Bungoma
    constituency_name: Kimilili
    constituencies_wards: Maeni
 -
+   id: 1120
    county_code: 39
    county_name: Bungoma
    constituency_name: Kimilili
    constituencies_wards: Kamukuywa
 -
+   id: 1121
    county_code: 40
    county_name: Busia
    constituency_name: Teso North
    constituencies_wards: MALABA CENTRAL
 -
+   id: 1122
    county_code: 40
    county_name: Busia
    constituency_name: Teso North
    constituencies_wards: MALABA NORTH
 -
+   id: 1123
    county_code: 40
    county_name: Busia
    constituency_name: Teso North
    constituencies_wards: ANG’URAI SOUTH
 -
+   id: 1124
    county_code: 40
    county_name: Busia
    constituency_name: Teso North
    constituencies_wards: MALABA SOUTH
 -
+   id: 1125
    county_code: 40
    county_name: Busia
    constituency_name: Teso North
    constituencies_wards: ANG’URAI NORTH
 -
+   id: 1126
    county_code: 40
    county_name: Busia
    constituency_name: Teso North
    constituencies_wards: ANG’URAI EAST
 -
+   id: 1127
    county_code: 40
    county_name: Busia
    constituency_name: Teso South
    constituencies_wards: ANG’OROM
 -
+   id: 1128
    county_code: 40
    county_name: Busia
    constituency_name: Teso South
    constituencies_wards: CHAKOI SOUTH
 -
+   id: 1129
    county_code: 40
    county_name: Busia
    constituency_name: Teso South
    constituencies_wards: AMUKURA CENTRAL
 -
+   id: 1130
    county_code: 40
    county_name: Busia
    constituency_name: Teso South
    constituencies_wards: CHAKOI NORTH
 -
+   id: 1131
    county_code: 40
    county_name: Busia
    constituency_name: Teso South
    constituencies_wards: AMUKURA EAST
 -
+   id: 1132
    county_code: 40
    county_name: Busia
    constituency_name: Teso South
    constituencies_wards: AMUKURA WEST
 -
+   id: 1133
    county_code: 40
    county_name: Busia
    constituency_name: Nambale
    constituencies_wards: NAMBALE TOWNSHIP
 -
+   id: 1134
    county_code: 40
    county_name: Busia
    constituency_name: Nambale
    constituencies_wards: BUKHAYO NORTH/WALTSI
 -
+   id: 1135
    county_code: 40
    county_name: Busia
    constituency_name: Nambale
    constituencies_wards: BUKHAYO EAST
 -
+   id: 1136
    county_code: 40
    county_name: Busia
    constituency_name: Nambale
    constituencies_wards: BUKHAYO CENTRAL
 -
+   id: 1137
    county_code: 40
    county_name: Busia
    constituency_name: Matayos
    constituencies_wards: BUKHAYO WEST
 -
+   id: 1138
    county_code: 40
    county_name: Busia
    constituency_name: Matayos
    constituencies_wards: MAYENJE
 -
+   id: 1139
    county_code: 40
    county_name: Busia
    constituency_name: Matayos
    constituencies_wards: MATAYOS SOUTHBUSIBWABO
 -
+   id: 1140
    county_code: 40
    county_name: Busia
    constituency_name: Matayos
    constituencies_wards: BURUMBA
 -
+   id: 1141
    county_code: 40
    county_name: Busia
    constituency_name: Butula
    constituencies_wards: MARACHI WESTKINGANDOLE
 -
+   id: 1142
    county_code: 40
    county_name: Busia
    constituency_name: Butula
    constituencies_wards: MARACHI CENTRAL
 -
+   id: 1143
    county_code: 40
    county_name: Busia
    constituency_name: Butula
    constituencies_wards: MARACHI EAST
 -
+   id: 1144
    county_code: 40
    county_name: Busia
    constituency_name: Butula
    constituencies_wards: MARACHI NORTH
 -
+   id: 1145
    county_code: 40
    county_name: Busia
    constituency_name: Butula
    constituencies_wards: ELUGULU
 -
+   id: 1146
    county_code: 40
    county_name: Busia
    constituency_name: Funyula
    constituencies_wards: NAMBOBOTO NAMBUKU
 -
+   id: 1147
    county_code: 40
    county_name: Busia
    constituency_name: Funyula
    constituencies_wards: NANGINA
 -
+   id: 1148
    county_code: 40
    county_name: Busia
    constituency_name: Funyula
    constituencies_wards: AGENG’A NANGUBA
 -
+   id: 1149
    county_code: 40
    county_name: Busia
    constituency_name: Funyula
    constituencies_wards: BWIRI
 -
+   id: 1150
    county_code: 41
    county_name: Siaya
    constituency_name: Alego Usonga
    constituencies_wards: Usonga
 -
+   id: 1151
    county_code: 41
    county_name: Siaya
    constituency_name: Alego Usonga
    constituencies_wards: West Alego
 -
+   id: 1152
    county_code: 41
    county_name: Siaya
    constituency_name: Alego Usonga
    constituencies_wards: Central Alego
 -
+   id: 1153
    county_code: 41
    county_name: Siaya
    constituency_name: Alego Usonga
    constituencies_wards: Siaya Township
 -
+   id: 1154
    county_code: 41
    county_name: Siaya
    constituency_name: Alego Usonga
    constituencies_wards: North Alego
 -
+   id: 1155
    county_code: 41
    county_name: Siaya
    constituency_name: Alego Usonga
    constituencies_wards: South East Alego
 -
+   id: 1156
    county_code: 41
    county_name: Siaya
    constituency_name: Gem
    constituencies_wards: North Gem
 -
+   id: 1157
    county_code: 41
    county_name: Siaya
    constituency_name: Gem
    constituencies_wards: West Gem
 -
+   id: 1158
    county_code: 41
    county_name: Siaya
    constituency_name: Gem
    constituencies_wards: Central Gem
 -
+   id: 1159
    county_code: 41
    county_name: Siaya
    constituency_name: Gem
    constituencies_wards: Yala Township
 -
+   id: 1160
    county_code: 41
    county_name: Siaya
    constituency_name: Gem
    constituencies_wards: East Gem
 -
+   id: 1161
    county_code: 41
    county_name: Siaya
    constituency_name: Gem
    constituencies_wards: South Gem
 -
+   id: 1162
    county_code: 41
    county_name: Siaya
    constituency_name: Bondo
    constituencies_wards: West Yimbo
 -
+   id: 1163
    county_code: 41
    county_name: Siaya
    constituency_name: Bondo
    constituencies_wards: Central Sakwa
 -
+   id: 1164
    county_code: 41
    county_name: Siaya
    constituency_name: Bondo
    constituencies_wards: South Sakwa
 -
+   id: 1165
    county_code: 41
    county_name: Siaya
    constituency_name: Bondo
    constituencies_wards: Yimbo East
 -
+   id: 1166
    county_code: 41
    county_name: Siaya
    constituency_name: Bondo
    constituencies_wards: West Sakwa
 -
+   id: 1167
    county_code: 41
    county_name: Siaya
    constituency_name: Bondo
    constituencies_wards: North Sakwa
 -
+   id: 1168
    county_code: 41
    county_name: Siaya
    constituency_name: Rarieda
    constituencies_wards: Gem Rae
 -
+   id: 1169
    county_code: 41
    county_name: Siaya
    constituency_name: Rarieda
    constituencies_wards: East Asembo
 -
+   id: 1170
    county_code: 41
    county_name: Siaya
    constituency_name: Rarieda
    constituencies_wards: West Asembo
 -
+   id: 1171
    county_code: 41
    county_name: Siaya
    constituency_name: Rarieda
    constituencies_wards: Central Asembo
 -
+   id: 1172
    county_code: 41
    county_name: Siaya
    constituency_name: Rarieda
    constituencies_wards: South West Asembo
 -
+   id: 1173
    county_code: 41
    county_name: Siaya
    constituency_name: Rarieda
    constituencies_wards: North West Asembo
 -
+   id: 1174
    county_code: 41
    county_name: Siaya
    constituency_name: Rarieda
    constituencies_wards: North East Asembo
 -
+   id: 1175
    county_code: 41
    county_name: Siaya
    constituency_name: Rarieda
    constituencies_wards: South East Asembo
 -
+   id: 1176
    county_code: 41
    county_name: Siaya
    constituency_name: Rarieda
    constituencies_wards: Nyang’oma Kogelo
 -
+   id: 1177
    county_code: 41
    county_name: Siaya
    constituency_name: Rarieda
    constituencies_wards: West Uyoma
 -
+   id: 1178
    county_code: 41
    county_name: Siaya
    constituency_name: Rarieda
    constituencies_wards: Central Uyoma
 -
+   id: 1179
    county_code: 41
    county_name: Siaya
    constituency_name: Rarieda
    constituencies_wards: North Uyoma
 -
+   id: 1180
    county_code: 41
    county_name: Siaya
    constituency_name: Ugenya
    constituencies_wards: East Asembo
 -
+   id: 1181
    county_code: 41
    county_name: Siaya
    constituency_name: Ugenya
    constituencies_wards: West Asembo
 -
+   id: 1182
    county_code: 41
    county_name: Siaya
    constituency_name: Ugenya
    constituencies_wards: North Uyoma
 -
+   id: 1183
    county_code: 41
    county_name: Siaya
    constituency_name: Ugenya
    constituencies_wards: South Uyoma
 -
+   id: 1184
    county_code: 41
    county_name: Siaya
    constituency_name: Ugenya
    constituencies_wards: West Uyoma
 -
+   id: 1185
    county_code: 41
    county_name: Siaya
    constituency_name: Ugunja
    constituencies_wards: Sidindi
 -
+   id: 1186
    county_code: 41
    county_name: Siaya
    constituency_name: Ugunja
    constituencies_wards: Sigomere
 -
+   id: 1187
    county_code: 41
    county_name: Siaya
    constituency_name: Ugunja
    constituencies_wards: Ugunja
 -
+   id: 1188
    county_code: 42
    county_name: Kisumu
    constituency_name: Kisumu Central
    constituencies_wards: Railways
 -
+   id: 1189
    county_code: 42
    county_name: Kisumu
    constituency_name: Kisumu Central
    constituencies_wards: Migosi
 -
+   id: 1190
    county_code: 42
    county_name: Kisumu
    constituency_name: Kisumu Central
    constituencies_wards: Shaurimoyo Kaloleni
 -
+   id: 1191
    county_code: 42
    county_name: Kisumu
    constituency_name: Kisumu Central
    constituencies_wards: Market Milimani
 -
+   id: 1192
    county_code: 42
    county_name: Kisumu
    constituency_name: Kisumu Central
    constituencies_wards: Kondele
 -
+   id: 1193
    county_code: 42
    county_name: Kisumu
    constituency_name: Kisumu Central
    constituencies_wards: Nyalenda B
 -
+   id: 1194
    county_code: 42
    county_name: Kisumu
    constituency_name: Kisumu East
    constituencies_wards: Kajulu
 -
+   id: 1195
    county_code: 42
    county_name: Kisumu
    constituency_name: Kisumu East
    constituencies_wards: Kolwa East
 -
+   id: 1196
    county_code: 42
    county_name: Kisumu
    constituency_name: Kisumu East
    constituencies_wards: Manyatta ’B
 -
+   id: 1197
    county_code: 42
    county_name: Kisumu
    constituency_name: Kisumu East
    constituencies_wards: Nyalenda ’A
 -
+   id: 1198
    county_code: 42
    county_name: Kisumu
    constituency_name: Kisumu East
    constituencies_wards: Kolwa Central
 -
+   id: 1199
    county_code: 42
    county_name: Kisumu
    constituency_name: Kisumu West
    constituencies_wards: South West Kisumu
 -
+   id: 1200
    county_code: 42
    county_name: Kisumu
    constituency_name: Kisumu West
    constituencies_wards: Cetral Kisumu
 -
+   id: 1201
    county_code: 42
    county_name: Kisumu
    constituency_name: Kisumu West
    constituencies_wards: Kisumu North
 -
+   id: 1202
    county_code: 42
    county_name: Kisumu
    constituency_name: Kisumu West
    constituencies_wards: West Kisumu
 -
+   id: 1203
    county_code: 42
    county_name: Kisumu
    constituency_name: Kisumu West
    constituencies_wards: North West Kisumu
 -
+   id: 1204
    county_code: 42
    county_name: Kisumu
    constituency_name: Seme
    constituencies_wards: West Seme
 -
+   id: 1205
    county_code: 42
    county_name: Kisumu
    constituency_name: Seme
    constituencies_wards: Central Seme
 -
+   id: 1206
    county_code: 42
    county_name: Kisumu
    constituency_name: Seme
    constituencies_wards: East Seme
 -
+   id: 1207
    county_code: 42
    county_name: Kisumu
    constituency_name: Seme
    constituencies_wards: North Seme
 -
+   id: 1208
    county_code: 42
    county_name: Kisumu
    constituency_name: Nyando
    constituencies_wards: East Kano/Waidhi
 -
+   id: 1209
    county_code: 42
    county_name: Kisumu
    constituency_name: Nyando
    constituencies_wards: Awasi/Onjiko
 -
+   id: 1210
    county_code: 42
    county_name: Kisumu
    constituency_name: Nyando
    constituencies_wards: Ahero
 -
+   id: 1211
    county_code: 42
    county_name: Kisumu
    constituency_name: Nyando
    constituencies_wards: Kabonyo/Kanyag Wal
 -
+   id: 1212
    county_code: 42
    county_name: Kisumu
    constituency_name: Nyando
    constituencies_wards: Kobura
 -
+   id: 1213
    county_code: 42
    county_name: Kisumu
    constituency_name: Muhoroni
    constituencies_wards: Miwani
 -
+   id: 1214
    county_code: 42
    county_name: Kisumu
    constituency_name: Muhoroni
    constituencies_wards: Ombeyi
 -
+   id: 1215
    county_code: 42
    county_name: Kisumu
    constituency_name: Muhoroni
    constituencies_wards: Masogo/Nyag’oma
 -
+   id: 1216
    county_code: 42
    county_name: Kisumu
    constituency_name: Muhoroni
    constituencies_wards: Chemeli/Muhoroni/Koru
 -
+   id: 1217
    county_code: 42
    county_name: Kisumu
    constituency_name: Nyakach
    constituencies_wards: South East Nyakach
 -
+   id: 1218
    county_code: 42
    county_name: Kisumu
    constituency_name: Nyakach
    constituencies_wards: West Nyakach
 -
+   id: 1219
    county_code: 42
    county_name: Kisumu
    constituency_name: Nyakach
    constituencies_wards: North Nyakach
 -
+   id: 1220
    county_code: 42
    county_name: Kisumu
    constituency_name: Nyakach
    constituencies_wards: Central Nyakach
 -
+   id: 1221
    county_code: 42
    county_name: Kisumu
    constituency_name: Nyakach
    constituencies_wards: South West Nyakach
 -
+   id: 1222
    county_code: 43
    county_name: Homa Bay
    constituency_name: Homa Bay Town
    constituencies_wards: Homa Bay Central
 -
+   id: 1223
    county_code: 43
    county_name: Homa Bay
    constituency_name: Homa Bay Town
    constituencies_wards: Homa Bay Arujo
 -
+   id: 1224
    county_code: 43
    county_name: Homa Bay
    constituency_name: Homa Bay Town
    constituencies_wards: Homa Bay West
 -
+   id: 1225
    county_code: 43
    county_name: Homa Bay
    constituency_name: Homa Bay Town
    constituencies_wards: Homa Bay East
 -
+   id: 1226
    county_code: 43
    county_name: Homa Bay
    constituency_name: Kabondo Kasipul
    constituencies_wards: Kabondo East
 -
+   id: 1227
    county_code: 43
    county_name: Homa Bay
    constituency_name: Kabondo Kasipul
    constituencies_wards: Kabondo West
 -
+   id: 1228
    county_code: 43
    county_name: Homa Bay
    constituency_name: Kabondo Kasipul
    constituencies_wards: Kokwanyo
 -
+   id: 1229
    county_code: 43
    county_name: Homa Bay
    constituency_name: Kabondo Kasipul
    constituencies_wards: Kakelo-Kojwach
 -
+   id: 1230
    county_code: 43
    county_name: Homa Bay
    constituency_name: Karachuonyo
    constituencies_wards: West Karachuonyo
 -
+   id: 1231
    county_code: 43
    county_name: Homa Bay
    constituency_name: Karachuonyo
    constituencies_wards: North Karachuonyo
 -
+   id: 1232
    county_code: 43
    county_name: Homa Bay
    constituency_name: Karachuonyo
    constituencies_wards: Central Kanyaluo
 -
+   id: 1233
    county_code: 43
    county_name: Homa Bay
    constituency_name: Karachuonyo
    constituencies_wards: Kibiri
 -
+   id: 1234
    county_code: 43
    county_name: Homa Bay
    constituency_name: Karachuonyo
    constituencies_wards: Wangchieng
 -
+   id: 1235
    county_code: 43
    county_name: Homa Bay
    constituency_name: Karachuonyo
    constituencies_wards: Kendu Bay Town
 -
+   id: 1236
    county_code: 43
    county_name: Homa Bay
    constituency_name: Kasipul
    constituencies_wards: West Kasipul
 -
+   id: 1237
    county_code: 43
    county_name: Homa Bay
    constituency_name: Kasipul
    constituencies_wards: South Kasipul
 -
+   id: 1238
    county_code: 43
    county_name: Homa Bay
    constituency_name: Kasipul
    constituencies_wards: Central Kasipul
 -
+   id: 1239
    county_code: 43
    county_name: Homa Bay
    constituency_name: Kasipul
    constituencies_wards: East Kamagak
 -
+   id: 1240
    county_code: 43
    county_name: Homa Bay
    constituency_name: Kasipul
    constituencies_wards: West Kamagak
 -
+   id: 1241
    county_code: 43
    county_name: Homa Bay
    constituency_name: Ndhiwa
    constituencies_wards: Kwabwai
 -
+   id: 1242
    county_code: 43
    county_name: Homa Bay
    constituency_name: Ndhiwa
    constituencies_wards: Kanyadoto
 -
+   id: 1243
    county_code: 43
    county_name: Homa Bay
    constituency_name: Ndhiwa
    constituencies_wards: Kanyikela
 -
+   id: 1244
    county_code: 43
    county_name: Homa Bay
    constituency_name: Ndhiwa
    constituencies_wards: Kabuoch North
 -
+   id: 1245
    county_code: 43
    county_name: Homa Bay
    constituency_name: Ndhiwa
    constituencies_wards: Kabuoch South/Pala
 -
+   id: 1246
    county_code: 43
    county_name: Homa Bay
    constituency_name: Ndhiwa
    constituencies_wards: Kanyamwa Kologi
 -
+   id: 1247
    county_code: 43
    county_name: Homa Bay
    constituency_name: Ndhiwa
    constituencies_wards: Kanyamwa Kosewe
 -
+   id: 1248
    county_code: 43
    county_name: Homa Bay
    constituency_name: Rangwe
    constituencies_wards: West Gem
 -
+   id: 1249
    county_code: 43
    county_name: Homa Bay
    constituency_name: Rangwe
    constituencies_wards: East Gem
 -
+   id: 1250
    county_code: 43
    county_name: Homa Bay
    constituency_name: Rangwe
    constituencies_wards: Kagan
 -
+   id: 1251
    county_code: 43
    county_name: Homa Bay
    constituency_name: Rangwe
    constituencies_wards: Kochia
 -
+   id: 1252
    county_code: 43
    county_name: Homa Bay
    constituency_name: Suba North
    constituencies_wards: Mfangano Island
 -
+   id: 1253
    county_code: 43
    county_name: Homa Bay
    constituency_name: Suba North
    constituencies_wards: Rusinga Island
 -
+   id: 1254
    county_code: 43
    county_name: Homa Bay
    constituency_name: Suba North
    constituencies_wards: Kasgunga
 -
+   id: 1255
    county_code: 43
    county_name: Homa Bay
    constituency_name: Suba North
    constituencies_wards: Gember
 -
+   id: 1256
    county_code: 43
    county_name: Homa Bay
    constituency_name: Suba North
    constituencies_wards: Lambwe
 -
+   id: 1257
    county_code: 43
    county_name: Homa Bay
    constituency_name: Suba South
    constituencies_wards: Gwassi South
 -
+   id: 1258
    county_code: 43
    county_name: Homa Bay
    constituency_name: Suba South
    constituencies_wards: Gwassi North
 -
+   id: 1259
    county_code: 43
    county_name: Homa Bay
    constituency_name: Suba South
    constituencies_wards: Kaksingri West
 -
+   id: 1260
    county_code: 43
    county_name: Homa Bay
    constituency_name: Suba South
    constituencies_wards: Ruma-Kakshingri
 -
+   id: 1261
    county_code: 44
    county_name: Migori
    constituency_name: Rongo
    constituencies_wards: North Kamagambo
 -
+   id: 1262
    county_code: 44
    county_name: Migori
    constituency_name: Rongo
    constituencies_wards: Central Kamagambo
 -
+   id: 1263
    county_code: 44
    county_name: Migori
    constituency_name: Rongo
    constituencies_wards: East Kamagambo
 -
+   id: 1264
    county_code: 44
    county_name: Migori
    constituency_name: Rongo
    constituencies_wards: South Kamagambo
 -
+   id: 1265
    county_code: 44
    county_name: Migori
    constituency_name: Awendo
    constituencies_wards: North East Sakwa
 -
+   id: 1266
    county_code: 44
    county_name: Migori
    constituency_name: Awendo
    constituencies_wards: South Sakwa
 -
+   id: 1267
    county_code: 44
    county_name: Migori
    constituency_name: Awendo
    constituencies_wards: West Sakwa
 -
+   id: 1268
    county_code: 44
    county_name: Migori
    constituency_name: Awendo
    constituencies_wards: Central Sakwa
 -
+   id: 1269
    county_code: 44
    county_name: Migori
    constituency_name: Suna East
    constituencies_wards: God Jope
 -
+   id: 1270
    county_code: 44
    county_name: Migori
    constituency_name: Suna East
    constituencies_wards: Suna Central
 -
+   id: 1271
    county_code: 44
    county_name: Migori
    constituency_name: Suna East
    constituencies_wards: Kakrao
 -
+   id: 1272
    county_code: 44
    county_name: Migori
    constituency_name: Suna East
    constituencies_wards: Kwa
 -
+   id: 1273
    county_code: 44
    county_name: Migori
    constituency_name: Suna West
    constituencies_wards: Wiga
 -
+   id: 1274
    county_code: 44
    county_name: Migori
    constituency_name: Suna West
    constituencies_wards: Wasweta II
 -
+   id: 1275
    county_code: 44
    county_name: Migori
    constituency_name: Suna West
    constituencies_wards: Ragan-Oruba
 -
+   id: 1276
    county_code: 44
    county_name: Migori
    constituency_name: Suna West
    constituencies_wards: Wasimbete
 -
+   id: 1277
    county_code: 44
    county_name: Migori
    constituency_name: Uriri
    constituencies_wards: West Kanyamkago
 -
+   id: 1278
    county_code: 44
    county_name: Migori
    constituency_name: Uriri
    constituencies_wards: North Kanyamkago
 -
+   id: 1279
    county_code: 44
    county_name: Migori
    constituency_name: Uriri
    constituencies_wards: Central Kanyam Kago
 -
+   id: 1280
    county_code: 44
    county_name: Migori
    constituency_name: Uriri
    constituencies_wards: South Kanyamkago
 -
+   id: 1281
    county_code: 44
    county_name: Migori
    constituency_name: Uriri
    constituencies_wards: East Kanyamkago
 -
+   id: 1282
    county_code: 44
    county_name: Migori
    constituency_name: Nyatike
    constituencies_wards: Kachien’g
 -
+   id: 1283
    county_code: 44
    county_name: Migori
    constituency_name: Nyatike
    constituencies_wards: Kanyasa
 -
+   id: 1284
    county_code: 44
    county_name: Migori
    constituency_name: Nyatike
    constituencies_wards: North Kadem
 -
+   id: 1285
    county_code: 44
    county_name: Migori
    constituency_name: Nyatike
    constituencies_wards: Macalder/ Kanyarwanda
 -
+   id: 1286
    county_code: 44
    county_name: Migori
    constituency_name: Nyatike
    constituencies_wards: Kaler
 -
+   id: 1287
    county_code: 44
    county_name: Migori
    constituency_name: Nyatike
    constituencies_wards: Got Kachola
 -
+   id: 1288
    county_code: 44
    county_name: Migori
    constituency_name: Nyatike
    constituencies_wards: Muhuru
 -
+   id: 1289
    county_code: 44
    county_name: Migori
    constituency_name: Kuria East
    constituencies_wards: Gokeharaka/Getamwega
 -
+   id: 1290
    county_code: 44
    county_name: Migori
    constituency_name: Kuria East
    constituencies_wards: Ntimaru West
 -
+   id: 1291
    county_code: 44
    county_name: Migori
    constituency_name: Kuria East
    constituencies_wards: Ntimaru East
 -
+   id: 1292
    county_code: 44
    county_name: Migori
    constituency_name: Kuria East
    constituencies_wards: Nyabasi East
 -
+   id: 1293
    county_code: 44
    county_name: Migori
    constituency_name: Kuria East
    constituencies_wards: Nyabasi West
 -
+   id: 1294
    county_code: 44
    county_name: Migori
    constituency_name: Kuria West
    constituencies_wards: Bukira East
 -
+   id: 1295
    county_code: 44
    county_name: Migori
    constituency_name: Kuria West
    constituencies_wards: Bukira Central/ Ikerege
 -
+   id: 1296
    county_code: 44
    county_name: Migori
    constituency_name: Kuria West
    constituencies_wards: Isibania
 -
+   id: 1297
    county_code: 44
    county_name: Migori
    constituency_name: Kuria West
    constituencies_wards: Makerero
 -
+   id: 1298
    county_code: 44
    county_name: Migori
    constituency_name: Kuria West
    constituencies_wards: Masaba
 -
+   id: 1299
    county_code: 44
    county_name: Migori
    constituency_name: Kuria West
    constituencies_wards: Tagare
 -
+   id: 1300
    county_code: 44
    county_name: Migori
    constituency_name: Kuria West
    constituencies_wards: Nyamosense/Ko Mosoko
 -
+   id: 1301
    county_code: 45
    county_name: Kisii
    constituency_name: Kitutu Chache North
    constituencies_wards: MONYERERO
 -
+   id: 1302
    county_code: 45
    county_name: Kisii
    constituency_name: Kitutu Chache North
    constituencies_wards: SENSI
 -
+   id: 1303
    county_code: 45
    county_name: Kisii
    constituency_name: Kitutu Chache North
    constituencies_wards: MARANI
 -
+   id: 1304
    county_code: 45
    county_name: Kisii
    constituency_name: Kitutu Chache North
    constituencies_wards: MWAMONARI
 -
+   id: 1305
    county_code: 45
    county_name: Kisii
    constituency_name: Kitutu Chache South
    constituencies_wards: BOGUSERO
 -
+   id: 1306
    county_code: 45
    county_name: Kisii
    constituency_name: Kitutu Chache South
    constituencies_wards: BOGEKA
 -
+   id: 1307
    county_code: 45
    county_name: Kisii
    constituency_name: Kitutu Chache South
    constituencies_wards: NYAKOE
 -
+   id: 1308
    county_code: 45
    county_name: Kisii
    constituency_name: Kitutu Chache South
    constituencies_wards: KITUTU CENTRAL
 -
+   id: 1309
    county_code: 45
    county_name: Kisii
    constituency_name: Kitutu Chache South
    constituencies_wards: NYATIEKO
 -
+   id: 1310
    county_code: 45
    county_name: Kisii
    constituency_name: Nyaribari Masaba
    constituencies_wards: ICHUNI
 -
+   id: 1311
    county_code: 45
    county_name: Kisii
    constituency_name: Nyaribari Masaba
    constituencies_wards: NYAMASIBI
 -
+   id: 1312
    county_code: 45
    county_name: Kisii
    constituency_name: Nyaribari Masaba
    constituencies_wards: MASIMBA
 -
+   id: 1313
    county_code: 45
    county_name: Kisii
    constituency_name: Nyaribari Masaba
    constituencies_wards: GESUSU
 -
+   id: 1314
    county_code: 45
    county_name: Kisii
    constituency_name: Nyaribari Masaba
    constituencies_wards: KIAMOKAMA
 -
+   id: 1315
    county_code: 45
    county_name: Kisii
    constituency_name: Nyaribari Chache
    constituencies_wards: BOBARACHO
 -
+   id: 1316
    county_code: 45
    county_name: Kisii
    constituency_name: Nyaribari Chache
    constituencies_wards: KISII CENTRAL
 -
+   id: 1317
    county_code: 45
    county_name: Kisii
    constituency_name: Nyaribari Chache
    constituencies_wards: KEUMBU
 -
+   id: 1318
    county_code: 45
    county_name: Kisii
    constituency_name: Nyaribari Chache
    constituencies_wards: KIOGORO
 -
+   id: 1319
    county_code: 45
    county_name: Kisii
    constituency_name: Nyaribari Chache
    constituencies_wards: BIRONGO
 -
+   id: 1320
    county_code: 45
    county_name: Kisii
    constituency_name: Nyaribari Chache
    constituencies_wards: IBENO
 -
+   id: 1321
    county_code: 45
    county_name: Kisii
    constituency_name: Bomachoge Borabu
    constituencies_wards: BORABU MASABA
 -
+   id: 1322
    county_code: 45
    county_name: Kisii
    constituency_name: Bomachoge Borabu
    constituencies_wards: BOOCHI BORABU
 -
+   id: 1323
    county_code: 45
    county_name: Kisii
    constituency_name: Bomachoge Borabu
    constituencies_wards: BOKIMONGE
 -
+   id: 1324
    county_code: 45
    county_name: Kisii
    constituency_name: Bomachoge Borabu
    constituencies_wards: MAGENCHE
 -
+   id: 1325
    county_code: 45
    county_name: Kisii
    constituency_name: Bomachoge Chache
    constituencies_wards: MAJOGE BASI
 -
+   id: 1326
    county_code: 45
    county_name: Kisii
    constituency_name: Bomachoge Chache
    constituencies_wards: BOOCHI/TENDERE
 -
+   id: 1327
    county_code: 45
    county_name: Kisii
    constituency_name: Bomachoge Chache
    constituencies_wards: BOSOTI/SENGERA
 -
+   id: 1328
    county_code: 45
    county_name: Kisii
    constituency_name: Bobasi
    constituencies_wards: MASIGE WEST
 -
+   id: 1329
    county_code: 45
    county_name: Kisii
    constituency_name: Bobasi
    constituencies_wards: MASIG EAST
 -
+   id: 1330
    county_code: 45
    county_name: Kisii
    constituency_name: Bobasi
    constituencies_wards: BASI CENTRAL
 -
+   id: 1331
    county_code: 45
    county_name: Kisii
    constituency_name: Bobasi
    constituencies_wards: NYACHEKI
 -
+   id: 1332
    county_code: 45
    county_name: Kisii
    constituency_name: Bobasi
    constituencies_wards: BASSI BOGETAORIO
 -
+   id: 1333
    county_code: 45
    county_name: Kisii
    constituency_name: Bobasi
    constituencies_wards: BOBASI CHACHE
 -
+   id: 1334
    county_code: 45
    county_name: Kisii
    constituency_name: Bobasi
    constituencies_wards: SAMETA/ MOKWERERO
 -
+   id: 1335
    county_code: 45
    county_name: Kisii
    constituency_name: Bobasi
    constituencies_wards: BOBASI/ BOITANGARE
 -
+   id: 1336
    county_code: 45
    county_name: Kisii
    constituency_name: South Mugirango
    constituencies_wards: BOGETENGA
 -
+   id: 1337
    county_code: 45
    county_name: Kisii
    constituency_name: South Mugirango
    constituencies_wards: BORABU/CHITAGO
 -
+   id: 1338
    county_code: 45
    county_name: Kisii
    constituency_name: South Mugirango
    constituencies_wards: MOTICHO
 -
+   id: 1339
    county_code: 45
    county_name: Kisii
    constituency_name: South Mugirango
    constituencies_wards: GETENGA
 -
+   id: 1340
    county_code: 45
    county_name: Kisii
    constituency_name: South Mugirango
    constituencies_wards: TABAKA
 -
+   id: 1341
    county_code: 45
    county_name: Kisii
    constituency_name: South Mugirango
    constituencies_wards: BOIKANGA
 -
+   id: 1342
    county_code: 45
    county_name: Kisii
    constituency_name: Bonchari
    constituencies_wards: BOMARIBA
 -
+   id: 1343
    county_code: 45
    county_name: Kisii
    constituency_name: Bonchari
    constituencies_wards: BOGIAKUMU
 -
+   id: 1344
    county_code: 45
    county_name: Kisii
    constituency_name: Bonchari
    constituencies_wards: BOKEIRA
 -
+   id: 1345
    county_code: 45
    county_name: Kisii
    constituency_name: Bonchari
    constituencies_wards: RIANA
 -
+   id: 1346
    county_code: 46
    county_name: Nyamira
    constituency_name: Borabu
    constituencies_wards: Mekenene
 -
+   id: 1347
    county_code: 46
    county_name: Nyamira
    constituency_name: Borabu
    constituencies_wards: Kiabonyoru
 -
+   id: 1348
    county_code: 46
    county_name: Nyamira
    constituency_name: Borabu
    constituencies_wards: Esise
 -
+   id: 1349
    county_code: 46
    county_name: Nyamira
    constituency_name: Borabu
    constituencies_wards: Nyansiongo
 -
+   id: 1350
    county_code: 46
    county_name: Nyamira
    constituency_name: Kitutu Masaba
    constituencies_wards: Rigoma
 -
+   id: 1351
    county_code: 46
    county_name: Nyamira
    constituency_name: Kitutu Masaba
    constituencies_wards: Gachuba
 -
+   id: 1352
    county_code: 46
    county_name: Nyamira
    constituency_name: Kitutu Masaba
    constituencies_wards: Kemera
 -
+   id: 1353
    county_code: 46
    county_name: Nyamira
    constituency_name: Kitutu Masaba
    constituencies_wards: Magombo
 -
+   id: 1354
    county_code: 46
    county_name: Nyamira
    constituency_name: Kitutu Masaba
    constituencies_wards: Manga
 -
+   id: 1355
    county_code: 46
    county_name: Nyamira
    constituency_name: Kitutu Masaba
    constituencies_wards: Gesima
 -
+   id: 1356
    county_code: 46
    county_name: Nyamira
    constituency_name: West Mugirango
    constituencies_wards: Nyamaiya
 -
+   id: 1357
    county_code: 46
    county_name: Nyamira
    constituency_name: West Mugirango
    constituencies_wards: Bogichora
 -
+   id: 1358
    county_code: 46
    county_name: Nyamira
    constituency_name: West Mugirango
    constituencies_wards: Bosamaro
 -
+   id: 1359
    county_code: 46
    county_name: Nyamira
    constituency_name: West Mugirango
    constituencies_wards: Bonyamatuta
 -
+   id: 1360
    county_code: 46
    county_name: Nyamira
    constituency_name: West Mugirango
    constituencies_wards: Township
 -
+   id: 1361
    county_code: 46
    county_name: Nyamira
    constituency_name: North Mugirango
    constituencies_wards: Itibo
 -
+   id: 1362
    county_code: 46
    county_name: Nyamira
    constituency_name: North Mugirango
    constituencies_wards: Bomwagamo
 -
+   id: 1363
    county_code: 46
    county_name: Nyamira
    constituency_name: North Mugirango
    constituencies_wards: Bokeira
 -
+   id: 1364
    county_code: 46
    county_name: Nyamira
    constituency_name: North Mugirango
    constituencies_wards: Magwagwa
 -
+   id: 1365
    county_code: 46
    county_name: Nyamira
    constituency_name: North Mugirango
    constituencies_wards: Ekerenyo
 -
+   id: 1366
    county_code: 47
    county_name: Nairobi
    constituency_name: Westlands
    constituencies_wards: Kitisuru
 -
+   id: 1367
    county_code: 47
    county_name: Nairobi
    constituency_name: Westlands
    constituencies_wards: Parklands/Highridge
 -
+   id: 1368
    county_code: 47
    county_name: Nairobi
    constituency_name: Westlands
    constituencies_wards: Karura
 -
+   id: 1369
    county_code: 47
    county_name: Nairobi
    constituency_name: Westlands
    constituencies_wards: Kangemi
 -
+   id: 1370
    county_code: 47
    county_name: Nairobi
    constituency_name: Westlands
    constituencies_wards: Mountain View
 -
+   id: 1371
    county_code: 47
    county_name: Nairobi
    constituency_name: Dagoretti North
    constituencies_wards: Kilimani
 -
+   id: 1372
    county_code: 47
    county_name: Nairobi
    constituency_name: Dagoretti North
    constituencies_wards: Kawangware
 -
+   id: 1373
    county_code: 47
    county_name: Nairobi
    constituency_name: Dagoretti North
    constituencies_wards: Gatina
 -
+   id: 1374
    county_code: 47
    county_name: Nairobi
    constituency_name: Dagoretti North
    constituencies_wards: Kileleshwa
 -
+   id: 1375
    county_code: 47
    county_name: Nairobi
    constituency_name: Dagoretti North
    constituencies_wards: Kabiro
 -
+   id: 1376
    county_code: 47
    county_name: Nairobi
    constituency_name: Dagoretti South
    constituencies_wards: Mutu-Ini
 -
+   id: 1377
    county_code: 47
    county_name: Nairobi
    constituency_name: Dagoretti South
    constituencies_wards: Ngando
 -
+   id: 1378
    county_code: 47
    county_name: Nairobi
    constituency_name: Dagoretti South
    constituencies_wards: Riruta
 -
+   id: 1379
    county_code: 47
    county_name: Nairobi
    constituency_name: Dagoretti South
    constituencies_wards: Uthiru/Ruthimitu
 -
+   id: 1380
    county_code: 47
    county_name: Nairobi
    constituency_name: Dagoretti South
    constituencies_wards: Waithaka
 -
+   id: 1381
    county_code: 47
    county_name: Nairobi
    constituency_name: Lang’ata
    constituencies_wards: Karen
 -
+   id: 1382
    county_code: 47
    county_name: Nairobi
    constituency_name: Lang’ata
    constituencies_wards: Nairobi West
 -
+   id: 1383
    county_code: 47
    county_name: Nairobi
    constituency_name: Lang’ata
    constituencies_wards: Mugumu-Ini
 -
+   id: 1384
    county_code: 47
    county_name: Nairobi
    constituency_name: Lang’ata
    constituencies_wards: South C
 -
+   id: 1385
    county_code: 47
    county_name: Nairobi
    constituency_name: Lang’ata
    constituencies_wards: Nyayo Highrise
 -
+   id: 1386
    county_code: 47
    county_name: Nairobi
    constituency_name: Kibra
    constituencies_wards: Woodley/Kenyatta Golf Course
 -
+   id: 1387
    county_code: 47
    county_name: Nairobi
    constituency_name: Kibra
    constituencies_wards: Sarang’ombe
 -
+   id: 1388
    county_code: 47
    county_name: Nairobi
    constituency_name: Kibra
    constituencies_wards: Makina
 -
+   id: 1389
    county_code: 47
    county_name: Nairobi
    constituency_name: Kibra
    constituencies_wards: Lindi
 -
+   id: 1390
    county_code: 47
    county_name: Nairobi
    constituency_name: Kibra
    constituencies_wards: Laini Saba
 -
+   id: 1391
    county_code: 47
    county_name: Nairobi
    constituency_name: Roysambu
    constituencies_wards: Kahawa West
 -
+   id: 1392
    county_code: 47
    county_name: Nairobi
    constituency_name: Roysambu
    constituencies_wards: Roysambu
 -
+   id: 1393
    county_code: 47
    county_name: Nairobi
    constituency_name: Roysambu
    constituencies_wards: Githurai
 -
+   id: 1394
    county_code: 47
    county_name: Nairobi
    constituency_name: Roysambu
    constituencies_wards: Kahawa
 -
+   id: 1395
    county_code: 47
    county_name: Nairobi
    constituency_name: Roysambu
    constituencies_wards: Zimmerman
 -
+   id: 1396
    county_code: 47
    county_name: Nairobi
    constituency_name: Kasarani
    constituencies_wards: Kasarani
 -
+   id: 1397
    county_code: 47
    county_name: Nairobi
    constituency_name: Kasarani
    constituencies_wards: Njiru
 -
+   id: 1398
    county_code: 47
    county_name: Nairobi
    constituency_name: Kasarani
    constituencies_wards: Clay City
 -
+   id: 1399
    county_code: 47
    county_name: Nairobi
    constituency_name: Kasarani
    constituencies_wards: Mwiki
 -
+   id: 1400
    county_code: 47
    county_name: Nairobi
    constituency_name: Kasarani
    constituencies_wards: Ruai
 -
+   id: 1401
    county_code: 47
    county_name: Nairobi
    constituency_name: Ruaraka
    constituencies_wards: Utalii
 -
+   id: 1402
    county_code: 47
    county_name: Nairobi
    constituency_name: Ruaraka
    constituencies_wards: Korogocho
 -
+   id: 1403
    county_code: 47
    county_name: Nairobi
    constituency_name: Ruaraka
    constituencies_wards: Lucky Summer
 -
+   id: 1404
    county_code: 47
    county_name: Nairobi
    constituency_name: Ruaraka
    constituencies_wards: Mathare North
 -
+   id: 1405
    county_code: 47
    county_name: Nairobi
    constituency_name: Ruaraka
    constituencies_wards: Baba Dogo
 -
+   id: 1406
    county_code: 47
    county_name: Nairobi
    constituency_name: Embakasi South
    constituencies_wards: Kwa Njenga
 -
+   id: 1407
    county_code: 47
    county_name: Nairobi
    constituency_name: Embakasi South
    constituencies_wards: Imara Daima
 -
+   id: 1408
    county_code: 47
    county_name: Nairobi
    constituency_name: Embakasi South
    constituencies_wards: Kware
 -
+   id: 1409
    county_code: 47
    county_name: Nairobi
    constituency_name: Embakasi South
    constituencies_wards: Kwa Reuben
 -
+   id: 1410
    county_code: 47
    county_name: Nairobi
    constituency_name: Embakasi South
    constituencies_wards: Pipeline
 -
+   id: 1411
    county_code: 47
    county_name: Nairobi
    constituency_name: Embakasi North
    constituencies_wards: Dandora Area I
 -
+   id: 1412
    county_code: 47
    county_name: Nairobi
    constituency_name: Embakasi North
    constituencies_wards: Dandora Area II
 -
+   id: 1413
    county_code: 47
    county_name: Nairobi
    constituency_name: Embakasi North
    constituencies_wards: Dandora Area III
 -
+   id: 1414
    county_code: 47
    county_name: Nairobi
    constituency_name: Embakasi North
    constituencies_wards: Dandora Area IV
 -
+   id: 1415
    county_code: 47
    county_name: Nairobi
    constituency_name: Embakasi North
    constituencies_wards: Kariobangi North
 -
+   id: 1416
    county_code: 47
    county_name: Nairobi
    constituency_name: Embakasi Central
    constituencies_wards: Kayole North
 -
+   id: 1417
    county_code: 47
    county_name: Nairobi
    constituency_name: Embakasi Central
    constituencies_wards: Kayole Central
 -
+   id: 1418
    county_code: 47
    county_name: Nairobi
    constituency_name: Embakasi Central
    constituencies_wards: Kariobangi South
 -
+   id: 1419
    county_code: 47
    county_name: Nairobi
    constituency_name: Embakasi Central
    constituencies_wards: Komarock
 -
+   id: 1420
    county_code: 47
    county_name: Nairobi
    constituency_name: Embakasi Central
    constituencies_wards: Matopeni / Spring Valley
 -
+   id: 1421
    county_code: 47
    county_name: Nairobi
    constituency_name: Embakasi East
    constituencies_wards: Utawala
 -
+   id: 1422
    county_code: 47
    county_name: Nairobi
    constituency_name: Embakasi East
    constituencies_wards: Upper Savanna
 -
+   id: 1423
    county_code: 47
    county_name: Nairobi
    constituency_name: Embakasi East
    constituencies_wards: Lower Savanna
 -
+   id: 1424
    county_code: 47
    county_name: Nairobi
    constituency_name: Embakasi East
    constituencies_wards: Embakasi
 -
+   id: 1425
    county_code: 47
    county_name: Nairobi
    constituency_name: Embakasi East
    constituencies_wards: Mihango
 -
+   id: 1426
    county_code: 47
    county_name: Nairobi
    constituency_name: Embakasi West
    constituencies_wards: Umoja 1
 -
+   id: 1427
    county_code: 47
    county_name: Nairobi
    constituency_name: Embakasi West
    constituencies_wards: Umoja 2
 -
+   id: 1428
    county_code: 47
    county_name: Nairobi
    constituency_name: Embakasi West
    constituencies_wards: Mowlem
 -
+   id: 1429
    county_code: 47
    county_name: Nairobi
    constituency_name: Embakasi West
    constituencies_wards: Kariobangi south
 -
+   id: 1430
    county_code: 47
    county_name: Nairobi
    constituency_name: Embakasi West
    constituencies_wards: Maringo/ Hamza
 -
+   id: 1431
    county_code: 47
    county_name: Nairobi
    constituency_name: Makadara
    constituencies_wards: Viwandani
 -
+   id: 1432
    county_code: 47
    county_name: Nairobi
    constituency_name: Makadara
    constituencies_wards: Harambee
 -
+   id: 1433
    county_code: 47
    county_name: Nairobi
    constituency_name: Makadara
    constituencies_wards: Makongeni
 -
+   id: 1434
    county_code: 47
    county_name: Nairobi
    constituency_name: Makadara
    constituencies_wards: Pumwani
 -
+   id: 1435
    county_code: 47
    county_name: Nairobi
    constituency_name: Makadara
    constituencies_wards: Eastleigh North
 -
+   id: 1436
    county_code: 47
    county_name: Nairobi
    constituency_name: Kamukunji
    constituencies_wards: Eastleigh South
 -
+   id: 1437
    county_code: 47
    county_name: Nairobi
    constituency_name: Kamukunji
    constituencies_wards: Nairobi Central
 -
+   id: 1438
    county_code: 47
    county_name: Nairobi
    constituency_name: Kamukunji
    constituencies_wards: Airbase
 -
+   id: 1439
    county_code: 47
    county_name: Nairobi
    constituency_name: Kamukunji
    constituencies_wards: California
 -
+   id: 1440
    county_code: 47
    county_name: Nairobi
    constituency_name: Kamukunji
    constituencies_wards: Mgara
 -
+   id: 1441
    county_code: 47
    county_name: Nairobi
    constituency_name: Starehe
    constituencies_wards: Nairobi South
 -
+   id: 1442
    county_code: 47
    county_name: Nairobi
    constituency_name: Starehe
    constituencies_wards: Hospital
 -
+   id: 1443
    county_code: 47
    county_name: Nairobi
    constituency_name: Starehe
    constituencies_wards: Ngara
 -
+   id: 1444
    county_code: 47
    county_name: Nairobi
    constituency_name: Starehe
    constituencies_wards: Pangani
 -
+   id: 1445
    county_code: 47
    county_name: Nairobi
    constituency_name: Starehe
    constituencies_wards: Landimawe
 -
+   id: 1446
    county_code: 47
    county_name: Nairobi
    constituency_name: Starehe
    constituencies_wards: Ziwani / Kariokor
 -
+   id: 1447
    county_code: 47
    county_name: Nairobi
    constituency_name: Mathare
    constituencies_wards: Mlango Kubwa
 -
+   id: 1448
    county_code: 47
    county_name: Nairobi
    constituency_name: Mathare
    constituencies_wards: Kiamaiko
 -
+   id: 1449
    county_code: 47
    county_name: Nairobi
    constituency_name: Mathare
    constituencies_wards: Ngei
 -
+   id: 1450
    county_code: 47
    county_name: Nairobi
    constituency_name: Mathare
    constituencies_wards: Huruma
 -
+   id: 1451
    county_code: 47
    county_name: Nairobi
    constituency_name: Mathare

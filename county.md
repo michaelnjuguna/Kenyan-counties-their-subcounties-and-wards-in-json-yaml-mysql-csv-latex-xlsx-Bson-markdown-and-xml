@@ -190,26 +190,36 @@
 | 8           | Wajir           | Eldas               | Della                        |
 | 8           | Wajir           | Eldas               | Lakoley South/Basir          |
 | 8           | Wajir           | Eldas               | Elnur/Tula Tula              |
-| 9           | Mandera         | Moyale              | Butiye                       |
-| 9           | Mandera         | Moyale              | Sololo                       |
-| 9           | Mandera         | Moyale              | Heillu/Manyatta              |
-| 9           | Mandera         | Moyale              | Golbo                        |
-| 9           | Mandera         | Moyale              | Moyale Township              |
-| 9           | Mandera         | Moyale              | Uran                         |
-| 9           | Mandera         | Moyale              | Obbu                         |
-| 9           | Mandera         | North Horr          | Dukana                       |
-| 9           | Mandera         | North Horr          | Maikona                      |
-| 9           | Mandera         | North Horr          | Turbi                        |
-| 9           | Mandera         | North Horr          | North Horr                   |
-| 9           | Mandera         | North Horr          | Illeret                      |
-| 9           | Mandera         | Laisamis            | Loiyangalani                 |
-| 9           | Mandera         | Laisamis            | Kargi/South Horr             |
-| 9           | Mandera         | Laisamis            | Korr/Ngurunit                |
-| 9           | Mandera         | Laisamis            | Logo Logo                    |
-| 9           | Mandera         | Laisamis            | Laisamis                     |
-| 9           | Mandera         | Saku                | Sagate/Jaldesa               |
-| 9           | Mandera         | Saku                | Karare                       |
-| 9           | Mandera         | Saku                | Marsabit Central             |
+| 9           | Mandera         | Mandera West        | Takaba South                 |
+| 9           | Mandera         | Mandera West        | Takaba                       |
+| 9           | Mandera         | Mandera West        | Lagsure                      |
+| 9           | Mandera         | Mandera West        | Dandu                        |
+| 9           | Mandera         | Mandera West        | Gither                       |
+| 9           | Mandera         | Banissa             | Banissa                      |
+| 9           | Mandera         | Banissa             | Derkhale                     |
+| 9           | Mandera         | Banissa             | Guba                         |
+| 9           | Mandera         | Banissa             | Malkamari                    |
+| 9           | Mandera         | Banissa             | Kiliwehiri                   |
+| 9           | Mandera         | Manderra North      | Ashabito                     |
+| 9           | Mandera         | Manderra North      | Guticha                      |
+| 9           | Mandera         | Manderra North      | Marothile                    |
+| 9           | Mandera         | Manderra North      | Rhamu                        |
+| 9           | Mandera         | Manderra North      | Rhamu Dimtu                  |
+| 9           | Mandera         | Manderra South      | Wargadud                     |
+| 9           | Mandera         | Manderra South      | Kutulo                       |
+| 9           | Mandera         | Manderra South      | Elwak South                  |
+| 9           | Mandera         | Manderra South      | Elwak North                  |
+| 9           | Mandera         | Manderra South      | Shimbir Fatuma               |
+| 9           | Mandera         | Manderra East       | Arabia                       |
+| 9           | Mandera         | Manderra East       | Libehia                      |
+| 9           | Mandera         | Manderra East       | Khalalio                     |
+| 9           | Mandera         | Manderra East       | Neboi                        |
+| 9           | Mandera         | Manderra East       | Township                     |
+| 9           | Mandera         | Lafey               | Sala                         |
+| 9           | Mandera         | Lafey               | Fino                         |
+| 9           | Mandera         | Lafey               | Lafey                        |
+| 9           | Mandera         | Lafey               | Warangara                    |
+| 9           | Mandera         | Lafey               | Alungo                       |
 | 10          | Marsabit        | Laisamis            | Loiyangalani                 |
 | 10          | Marsabit        | Laisamis            | Kargi/South Horr             |
 | 10          | Marsabit        | Laisamis            | Korr/Ngurunit                |
